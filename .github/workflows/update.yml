@@ -1,73 +1,58 @@
-name: update
+name: Generar guias EPG
+
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: "17 */3 * * *"
+
+permissions:
+  contents: write
+
 jobs:
-  main:
+  build:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v4
-      - uses: tibdex/github-app-token@v1.8.2
-        if: ${{ !env.ACT }}
-        id: create-app-token
+      - name: Checkout
+        uses: actions/checkout@v5
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
         with:
-          app_id: ${{ secrets.APP_ID }}
-          private_key: ${{ secrets.APP_PRIVATE_KEY }}
-      - uses: actions/checkout@v4
-        if: ${{ !env.ACT }}
-        with:
-          token: ${{ steps.create-app-token.outputs.token }}
-      - name: setup git
+          node-version: "20"
+          cache: "npm"
+
+      - name: Instalar dependencias
+        run: npm ci
+
+      - name: Generar guias mi.tv
         run: |
-          git config user.name "iptv-bot[bot]"
-          git config user.email "84861620+iptv-bot[bot]@users.noreply.github.com"
-      - uses: actions/setup-node@v4
-        with:
-          node-version: 22
-          cache: 'npm'
-      - name: install dependencies
-        run: npm install
-      - name: check *.channels.xml
-        run: npm run channels:lint
-      - name: update sites.md
-        run: npm run sites:update
-      - run: git status
-      - name: commit changes to sites.md
-        if: ${{ !env.ACT && github.ref == 'refs/heads/master' }}
+          mkdir -p guides/mi.tv
+
+          for code in ar br cl co sv gt hn mx py pe
+          do
+            echo "Generando mi.tv $code..."
+            npm run grab --- --channels=sites/mi.tv/mi.tv_${code}.channels.xml --output=guides/mi.tv/${code}.xml
+          done
+
+      - name: Generar guia tvinsider.com
         run: |
-          FILE=SITES.md
-          CHANGED=$(git diff ${FILE})
-          if [ -n "${CHANGED}" ]; then
-            git add ${FILE}
-            git commit -m "[Bot] Update ${FILE}" -m "Committed by [iptv-bot](https://github.com/apps/iptv-bot) via [update](https://github.com/iptv-org/epg/actions/runs/${{ github.run_id }}) workflow." --no-verify
-            git push
-          fi
-      - name: update guides.md
-        run: npm run guides:update
-      - run: git status
-      - name: commit changes to guides.md
-        if: ${{ !env.ACT && github.ref == 'refs/heads/master' }}
+          mkdir -p guides/tvinsider.com
+          echo "Generando tvinsider.com..."
+          npm run grab --- --site=tvinsider.com --output=guides/tvinsider.com/guide.xml
+
+      - name: Generar guia movistarplus.es
         run: |
-          FILE=GUIDES.md
-          CHANGED=$(git diff ${FILE})
-          if [ -n "${CHANGED}" ]; then
-            git add ${FILE}
-            git commit -m "[Bot] Update ${FILE}" -m "Committed by [iptv-bot](https://github.com/apps/iptv-bot) via [update](https://github.com/iptv-org/epg/actions/runs/${{ github.run_id }}) workflow." --no-verify
-            git push
-          fi
-      - name: generate .api/guides.json
-        run: npm run api:generate
-      - run: git status
-      - name: move .api/guides.json to iptv-org/api
-        uses: JamesIves/github-pages-deploy-action@4.1.1
-        if: ${{ !env.ACT && github.ref == 'refs/heads/master' }}
-        with:
-          repository-name: iptv-org/api
-          branch: gh-pages
-          folder: .api
-          token: ${{ steps.create-app-token.outputs.token }}
-          git-config-name: iptv-bot[bot]
-          git-config-email: 84861620+iptv-bot[bot]@users.noreply.github.com
-          commit-message: '[Bot] Deploy to iptv-org/api'
-          clean: false
+          mkdir -p guides/movistarplus.es
+          echo "Generando movistarplus.es..."
+          npm run grab --- --site=movistarplus.es --output=guides/movistarplus.es/guide.xml
+
+      - name: Commit si hubo cambios
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -f guides/mi.tv/*.xml
+          git add -f guides/tvinsider.com/*.xml
+          git add -f guides/movistarplus.es/*.xml
+          git diff --cached --quiet || git commit -m "Actualizar guias EPG"
+          git push
