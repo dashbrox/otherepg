@@ -72,12 +72,6 @@ jobs:
             npm run grab --- --channels=sites/mi.tv/mi.tv_${code}.channels.xml --output=guides/mi.tv/${code}.xml
           done
 
-      - name: Generar guia tvinsider.com
-        run: |
-          mkdir -p guides/tvinsider.com
-          echo "Generando tvinsider.com..."
-          npm run grab --- --site=tvinsider.com --output=guides/tvinsider.com/guide.xml
-
       - name: Generar guia movistarplus.es
         run: |
           mkdir -p guides/movistarplus.es
@@ -90,7 +84,6 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
           git add -f guides/mi.tv/*.xml
-          git add -f guides/tvinsider.com/*.xml
           git add -f guides/movistarplus.es/*.xml
           git add -f sites/tvpassport.com/*.xml
           git add -f reports/*.txt
