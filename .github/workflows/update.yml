@@ -8,6 +8,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: epg-master
+  cancel-in-progress: false
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -15,6 +19,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
 
       - name: Setup Node
         uses: actions/setup-node@v4
@@ -82,10 +88,23 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
           git add -f guides/mi.tv/*.xml
           git add -f guides/tvinsider.com/*.xml
           git add -f guides/movistarplus.es/*.xml
           git add -f sites/tvpassport.com/*.xml
           git add -f reports/*.txt
-          git diff --cached --quiet || git commit -m "Actualizar guias EPG"
-          git push
+
+          git diff --cached --quiet && exit 0
+
+          git commit -m "Actualizar guias EPG"
+
+      - name: Rebase y push
+        run: |
+          for i in 1 2 3; do
+            git fetch origin master
+            git pull --rebase origin master && git push origin master && exit 0
+            echo "Reintentando push ($i)..."
+            sleep 5
+          done
+          exit 1
