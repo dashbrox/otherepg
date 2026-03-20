@@ -1,4 +1,4 @@
-name: Generar guia Peru
+name: Generar guias mi.tv
 
 on:
   workflow_dispatch:
@@ -25,13 +25,20 @@ jobs:
       - name: Instalar dependencias
         run: npm ci
 
-      - name: Generar guia Peru
-        run: npm run grab --- --channels=sites/mi.tv/mi.tv_pe.channels.xml --output=guide.xml
+      - name: Generar guias mi.tv
+        run: |
+          mkdir -p guides/mi.tv
+
+          for code in ar br cl co sv gt hn mx py pe
+          do
+            echo "Generando $code..."
+            npm run grab --- --channels=sites/mi.tv/mi.tv_${code}.channels.xml --output=guides/mi.tv/${code}.xml
+          done
 
       - name: Commit si hubo cambios
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -f guide.xml
-          git diff --cached --quiet || git commit -m "Actualizar guia Peru"
+          git add -f guides/mi.tv/*.xml
+          git diff --cached --quiet || git commit -m "Actualizar guias mi.tv"
           git push
