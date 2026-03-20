@@ -1,4 +1,4 @@
-name: Generar guias EPG
+name: Generar guias mi.tv y gatotv
 
 on:
   workflow_dispatch:
@@ -9,8 +9,11 @@ permissions:
   contents: write
 
 concurrency:
-  group: epg-master
+  group: epg-mi-tv-gatotv
   cancel-in-progress: false
+
+env:
+  BRANCH_NAME: ${{ github.ref_name }}
 
 jobs:
   build:
@@ -21,6 +24,7 @@ jobs:
         uses: actions/checkout@v5
         with:
           fetch-depth: 0
+          ref: ${{ github.ref_name }}
 
       - name: Setup Node
         uses: actions/setup-node@v4
@@ -31,17 +35,11 @@ jobs:
       - name: Instalar dependencias
         run: npm ci
 
-      - name: Actualizar canales tvpassport.com
-        run: |
-          mkdir -p sites/tvpassport.com
-          echo "Actualizando canales tvpassport.com..."
-          npm run channels:parse --- --config=./sites/tvpassport.com/tvpassport.com.config.js --output=./sites/tvpassport.com/tvpassport.com.channels.xml
-
       - name: Actualizar canales gatotv.com
         run: |
           mkdir -p sites/gatotv.com
           echo "Actualizando canales gatotv.com..."
-          npm run channels:parse --- --config=./sites/gatotv.com/gatotv.com.config.js --output=./sites/gatotv.com/gatotv.com.channels.xml
+          npm run channels:parse -- --config=./sites/gatotv.com/gatotv.com.config.js --output=./sites/gatotv.com/gatotv.com.channels.xml
 
       - name: Extraer identificadores de canales
         run: |
@@ -75,49 +73,40 @@ jobs:
           for code in ar br cl co sv gt hn mx py pe
           do
             echo "Generando mi.tv $code..."
-            npm run grab --- --channels=sites/mi.tv/mi.tv_${code}.channels.xml --output=guides/mi.tv/${code}.xml
+            npm run grab -- --channels=sites/mi.tv/mi.tv_${code}.channels.xml --output=guides/mi.tv/${code}.xml
           done
-
-      - name: Generar guia tvpassport.com
-        run: |
-          mkdir -p guides/tvpassport.com
-          echo "Generando tvpassport.com..."
-          npm run grab --- --site=tvpassport.com --output=guides/tvpassport.com/guide.xml
-
-      - name: Generar guia movistarplus.es
-        run: |
-          mkdir -p guides/movistarplus.es
-          echo "Generando movistarplus.es..."
-          npm run grab --- --site=movistarplus.es --output=guides/movistarplus.es/guide.xml
 
       - name: Generar guia gatotv.com
         run: |
           mkdir -p guides/gatotv.com
           echo "Generando gatotv.com..."
-          npm run grab --- --site=gatotv.com --output=guides/gatotv.com/guide.xml
+          npm run grab -- --site=gatotv.com --output=guides/gatotv.com/guide.xml
 
       - name: Commit si hubo cambios
+        id: commit_changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
           git add -f guides/mi.tv/*.xml
-          git add -f guides/tvpassport.com/*.xml
-          git add -f guides/movistarplus.es/*.xml
           git add -f guides/gatotv.com/*.xml
-          git add -f sites/tvpassport.com/*.xml
           git add -f sites/gatotv.com/*.xml
           git add -f reports/*.txt
 
-          git diff --cached --quiet && exit 0
+          if git diff --cached --quiet; then
+            echo "has_changes=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
 
           git commit -m "Actualizar guias EPG"
+          echo "has_changes=true" >> "$GITHUB_OUTPUT"
 
       - name: Rebase y push
+        if: steps.commit_changes.outputs.has_changes == 'true'
         run: |
           for i in 1 2 3; do
-            git fetch origin master
-            git pull --rebase origin master && git push origin master && exit 0
+            git fetch origin "$BRANCH_NAME"
+            git pull --rebase origin "$BRANCH_NAME" && git push origin HEAD:"$BRANCH_NAME" && exit 0
             echo "Reintentando push ($i)..."
             sleep 5
           done
