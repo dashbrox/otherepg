@@ -37,6 +37,12 @@ jobs:
           echo "Actualizando canales tvpassport.com..."
           npm run channels:parse --- --config=./sites/tvpassport.com/tvpassport.com.config.js --output=./sites/tvpassport.com/tvpassport.com.channels.xml
 
+      - name: Actualizar canales gatotv.com
+        run: |
+          mkdir -p sites/gatotv.com
+          echo "Actualizando canales gatotv.com..."
+          npm run channels:parse --- --config=./sites/gatotv.com/gatotv.com.config.js --output=./sites/gatotv.com/gatotv.com.channels.xml
+
       - name: Extraer identificadores de canales
         run: |
           mkdir -p reports
@@ -72,11 +78,23 @@ jobs:
             npm run grab --- --channels=sites/mi.tv/mi.tv_${code}.channels.xml --output=guides/mi.tv/${code}.xml
           done
 
+      - name: Generar guia tvpassport.com
+        run: |
+          mkdir -p guides/tvpassport.com
+          echo "Generando tvpassport.com..."
+          npm run grab --- --site=tvpassport.com --output=guides/tvpassport.com/guide.xml
+
       - name: Generar guia movistarplus.es
         run: |
           mkdir -p guides/movistarplus.es
           echo "Generando movistarplus.es..."
           npm run grab --- --site=movistarplus.es --output=guides/movistarplus.es/guide.xml
+
+      - name: Generar guia gatotv.com
+        run: |
+          mkdir -p guides/gatotv.com
+          echo "Generando gatotv.com..."
+          npm run grab --- --site=gatotv.com --output=guides/gatotv.com/guide.xml
 
       - name: Commit si hubo cambios
         run: |
@@ -84,8 +102,11 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
           git add -f guides/mi.tv/*.xml
+          git add -f guides/tvpassport.com/*.xml
           git add -f guides/movistarplus.es/*.xml
+          git add -f guides/gatotv.com/*.xml
           git add -f sites/tvpassport.com/*.xml
+          git add -f sites/gatotv.com/*.xml
           git add -f reports/*.txt
 
           git diff --cached --quiet && exit 0
