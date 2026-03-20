@@ -31,6 +31,31 @@ jobs:
           echo "Actualizando canales tvpassport.com..."
           npm run channels:parse --- --config=./sites/tvpassport.com/tvpassport.com.config.js --output=./sites/tvpassport.com/tvpassport.com.channels.xml
 
+      - name: Extraer identificadores de canales
+        run: |
+          mkdir -p reports
+
+          echo "Extrayendo IDs unicos desde todas las listas .channels.xml..."
+
+          find sites -type f -name "*.channels.xml" -print0 \
+            | xargs -0 grep -hoE '<channel id="[^"]+"' \
+            | sed -E 's/<channel id="([^"]+)"/\1/' \
+            | sort -u > reports/channel_ids.txt
+
+          echo "Extrayendo IDs con archivo de origen..."
+
+          find sites -type f -name "*.channels.xml" | while read -r file; do
+            grep -oE '<channel id="[^"]+"' "$file" \
+              | sed -E 's/<channel id="([^"]+)"/\1/' \
+              | awk -v f="$file" '{ print $0 " | " f }'
+          done | sort -u > reports/channel_ids_with_source.txt
+
+          echo "Total IDs únicos:"
+          wc -l reports/channel_ids.txt
+
+          echo "Primeros 20 IDs:"
+          head -20 reports/channel_ids.txt
+
       - name: Generar guias mi.tv
         run: |
           mkdir -p guides/mi.tv
@@ -61,5 +86,6 @@ jobs:
           git add -f guides/tvinsider.com/*.xml
           git add -f guides/movistarplus.es/*.xml
           git add -f sites/tvpassport.com/*.xml
+          git add -f reports/*.txt
           git diff --cached --quiet || git commit -m "Actualizar guias EPG"
           git push
