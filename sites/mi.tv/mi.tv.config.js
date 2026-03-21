@@ -178,15 +178,14 @@ function parseItems(content) {
 }
 
 function parseSubtitleParts($item) {
-  const $ = $item
-  const node = $('a > div.content > span.sub-title').first()
+  const node = $item('span.sub-title').first()
   if (!node.length) return []
 
   const parts = []
 
   node.contents().each((_, el) => {
     if (el.name === 'br') return
-    const text = normalizeText(textFromNode($, el))
+    const text = normalizeText(textFromNode($item, el))
     if (text) parts.push(text)
   })
 
@@ -216,6 +215,8 @@ function parseProgramMeta($item, image) {
       episodeTitle = slugToTitle(seriesFromImage.episode_slug)
     }
 
+    episodeTitle = normalizeText(episodeTitle)
+
     return {
       type: 'series',
       title: titleEs,
@@ -223,12 +224,18 @@ function parseProgramMeta($item, image) {
       title_en: '',
       category: 'Serie',
       year: null,
+      date: null,
       rating: null,
       description: synopsis,
       synopsis,
       season,
       episode,
+
+      // Compatibilidad amplia:
       episode_title: episodeTitle,
+      sub_title: episodeTitle,
+      subtitle: episodeTitle,
+
       meta_line: subtitleJoined
     }
   }
@@ -242,12 +249,15 @@ function parseProgramMeta($item, image) {
     title_en: movieData.title_en,
     category: movieData.category,
     year: movieData.year,
+    date: movieData.year,
     rating: movieData.rating,
     description: synopsis,
     synopsis,
     season: null,
     episode: null,
     episode_title: '',
+    sub_title: '',
+    subtitle: '',
     meta_line: subtitleJoined
   }
 }
@@ -255,24 +265,33 @@ function parseProgramMeta($item, image) {
 function extractSeriesInfoFromText(text) {
   if (!text) return null
 
-  const m = text.match(
-    /Temporada\s*(\d+)\s*Episodio\s*(\d+)(?:\s*[-–—]\s*(.*))?/i
-  )
-  if (!m) return null
+  const patterns = [
+    /Temporada\s*(\d+)\s*Episodio\s*(\d+)(?:\s*[-–—:|]\s*(.*))?/i,
+    /Temp\.?\s*(\d+)\s*Ep\.?\s*(\d+)(?:\s*[-–—:|]\s*(.*))?/i,
+    /S\s*(\d{1,2})\s*E\s*(\d{1,2})(?:\s*[-–—:|]\s*(.*))?/i,
+    /S(\d{1,2})E(\d{1,2})(?:\s*[-–—:|]\s*(.*))?/i
+  ]
 
-  const season = Number(m[1])
-  const episode = Number(m[2])
-  let episodeTitle = normalizeText(m[3] || '')
+  for (const pattern of patterns) {
+    const m = text.match(pattern)
+    if (!m) continue
 
-  if (looksLikeScheduleNoise(episodeTitle)) {
-    episodeTitle = ''
+    const season = Number(m[1])
+    const episode = Number(m[2])
+    let episodeTitle = normalizeText(m[3] || '')
+
+    if (looksLikeScheduleNoise(episodeTitle)) {
+      episodeTitle = ''
+    }
+
+    return {
+      season,
+      episode,
+      episode_title: episodeTitle
+    }
   }
 
-  return {
-    season,
-    episode,
-    episode_title: episodeTitle
-  }
+  return null
 }
 
 function extractSeriesInfoFromImage(imageUrl) {
@@ -297,8 +316,17 @@ function looksLikeScheduleNoise(text) {
 
 function slugToTitle(slug) {
   if (!slug) return ''
-  const text = slug.replace(/-/g, ' ')
-  return normalizeText(text)
+
+  const text = normalizeText(slug.replace(/-/g, ' '))
+  if (!text) return ''
+
+  return text
+    .split(' ')
+    .map(word => {
+      if (!word) return word
+      return word.charAt(0).toUpperCase() + word.slice(1)
+    })
+    .join(' ')
 }
 
 function extractMovieInfo(parts, imageUrl) {
@@ -386,6 +414,7 @@ function splitCombinedMovieLine(line, imageUrl) {
 
 function extractYearFromImage(imageUrl) {
   if (!imageUrl) return null
+
   const m = imageUrl.match(/-(19\d{2}|20\d{2})(?:-\d+)?_/i)
   return m ? m[1] : null
 }
