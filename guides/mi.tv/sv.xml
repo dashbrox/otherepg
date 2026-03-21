@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20260321">
 <channel id="TVOCanal23.sv@SD"><display-name>TVO Canal 23</display-name><icon src="https://i.imgur.com/nsXXEUZ.png"/><url>https://mi.tv</url></channel>
-<channel id="sv#warner"><display-name>Warner Channel</display-name><url>https://mi.tv</url></channel>
-<channel id="VTVCanal35.sv@SD"><display-name>VTV</display-name><icon src="https://i.imgur.com/RSVzyzp.png"/><url>https://mi.tv</url></channel>
-<channel id="sv#vh1"><display-name>VH1</display-name><url>https://mi.tv</url></channel>
-<channel id="sv#ve-plus-tv"><display-name>Ve Plus TV</display-name><url>https://mi.tv</url></channel>
-<channel id="sv#universal-channel"><display-name>Universal TV</display-name><url>https://mi.tv</url></channel>
-<channel id="sv#tvn-chile"><display-name>TVN Chile</display-name><url>https://mi.tv</url></channel>
-<channel id="sv#tve"><display-name>TVE</display-name><url>https://mi.tv</url></channel>
-<channel id="sv#tnt-series"><display-name>TNT Series</display-name><url>https://mi.tv</url></channel>
-<channel id="sv#tnt"><display-name>TNT</display-name><url>https://mi.tv</url></channel>
-<channel id="sv#tlnovelas"><display-name>TLNovelas</display-name><url>https://mi.tv</url></channel>
-<channel id="sv#telesur"><display-name>teleSUR</display-name><url>https://mi.tv</url></channel>
-<channel id="sv#telemundo"><display-name>Telemundo</display-name><url>https://mi.tv</url></channel>
-<channel id="sv#tdn"><display-name>TDN</display-name><url>https://mi.tv</url></channel>
-<channel id="sv#tcm"><display-name>TCM</display-name><url>https://mi.tv</url></channel>
-<channel id="sv#tbs-veryfunny"><display-name>TBS</display-name><url>https://mi.tv</url></channel>
-<channel id="sv#tabernaculo-biblico-bautista"><display-name>Tabernaculo Biblico Bautista</display-name><url>https://mi.tv</url></channel>
-<channel id="sv#studio-universal"><display-name>Studio Universal</display-name><url>https://mi.tv</url></channel>
+<channel id="sv#a-e-mundo"><display-name>A&amp;E</display-name><url>https://mi.tv</url></channel>
+<channel id="sv#animal-planet"><display-name>Animal Planet</display-name><url>https://mi.tv</url></channel>
+<channel id="sv#bandamax"><display-name>Bandamax</display-name><url>https://mi.tv</url></channel>
+<channel id="MegavisionCanal19.sv@SD"><display-name>Canal 19</display-name><icon src="https://i.imgur.com/voyVP6X.png"/><url>https://mi.tv</url></channel>
+<channel id="Canal12.sv@SD"><display-name>Canal 12</display-name><icon src="https://i.imgur.com/WMv3yEf.png"/><url>https://mi.tv</url></channel>
+<channel id="sv#azteca-13"><display-name>Azteca 13</display-name><url>https://mi.tv</url></channel>
+<channel id="Canal10.sv@SD"><display-name>Canal 10</display-name><icon src="https://i.imgur.com/y2ppMnY.png"/><url>https://mi.tv</url></channel>
+<channel id="Canal6.sv@SD"><display-name>Canal 6</display-name><icon src="https://i.imgur.com/M4muPLK.png"/><url>https://mi.tv</url></channel>
+<channel id="sv#amc"><display-name>AMC</display-name><url>https://mi.tv</url></channel>
+<channel id="sv#az-corazon"><display-name>Az Corazón</display-name><url>https://mi.tv</url></channel>
+<channel id="Canal4.sv@SD"><display-name>Canal 4</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Canal_4_TCS.png/960px-Canal_4_TCS.png"/><url>https://mi.tv</url></channel>
+<channel id="Canal2.sv@SD"><display-name>Canal 2</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Canal_2_TCS.png/960px-Canal_2_TCS.png"/><url>https://mi.tv</url></channel>
+<channel id="sv#axn"><display-name>AXN</display-name><url>https://mi.tv</url></channel>
+<channel id="sv#boomerang-cartoon"><display-name>Cartoonito</display-name><url>https://mi.tv</url></channel>
+<channel id="sv#bbc-world"><display-name>BBC World</display-name><url>https://mi.tv</url></channel>
+<channel id="TVX.sv@SD"><display-name>TVX</display-name><icon src="https://i.imgur.com/JbxpB6M.png"/><url>https://mi.tv</url></channel>
+<channel id="MegavisionCanal21.sv@SD"><display-name>Canal 21</display-name><icon src="https://i.imgur.com/HbdYU9k.png"/><url>https://mi.tv</url></channel>
 <channel id="sv#space"><display-name>Space</display-name><url>https://mi.tv</url></channel>
 <channel id="sv#sony"><display-name>Sony</display-name><url>https://mi.tv</url></channel>
 <channel id="sv#ritmoson-latino"><display-name>RMS</display-name><url>https://mi.tv</url></channel>
@@ -70,23 +70,23 @@
 <channel id="sv#cartoon-network"><display-name>Cartoon Network</display-name><url>https://mi.tv</url></channel>
 <channel id="sv#canal-de-las-estrellas"><display-name>Las Estrellas</display-name><url>https://mi.tv</url></channel>
 <channel id="CanalClaro.cl@SD"><display-name>Canal Claro</display-name><icon src="https://i.imgur.com/Kgjfd3J.png"/><url>https://mi.tv</url></channel>
-<channel id="TVX.sv@SD"><display-name>TVX</display-name><icon src="https://i.imgur.com/JbxpB6M.png"/><url>https://mi.tv</url></channel>
-<channel id="MegavisionCanal21.sv@SD"><display-name>Canal 21</display-name><icon src="https://i.imgur.com/HbdYU9k.png"/><url>https://mi.tv</url></channel>
-<channel id="MegavisionCanal19.sv@SD"><display-name>Canal 19</display-name><icon src="https://i.imgur.com/voyVP6X.png"/><url>https://mi.tv</url></channel>
-<channel id="Canal12.sv@SD"><display-name>Canal 12</display-name><icon src="https://i.imgur.com/WMv3yEf.png"/><url>https://mi.tv</url></channel>
-<channel id="Canal10.sv@SD"><display-name>Canal 10</display-name><icon src="https://i.imgur.com/y2ppMnY.png"/><url>https://mi.tv</url></channel>
-<channel id="Canal6.sv@SD"><display-name>Canal 6</display-name><icon src="https://i.imgur.com/M4muPLK.png"/><url>https://mi.tv</url></channel>
-<channel id="Canal4.sv@SD"><display-name>Canal 4</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Canal_4_TCS.png/960px-Canal_4_TCS.png"/><url>https://mi.tv</url></channel>
-<channel id="Canal2.sv@SD"><display-name>Canal 2</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Canal_2_TCS.png/960px-Canal_2_TCS.png"/><url>https://mi.tv</url></channel>
-<channel id="sv#boomerang-cartoon"><display-name>Cartoonito</display-name><url>https://mi.tv</url></channel>
-<channel id="sv#bbc-world"><display-name>BBC World</display-name><url>https://mi.tv</url></channel>
-<channel id="sv#bandamax"><display-name>Bandamax</display-name><url>https://mi.tv</url></channel>
-<channel id="sv#azteca-13"><display-name>Azteca 13</display-name><url>https://mi.tv</url></channel>
-<channel id="sv#az-corazon"><display-name>Az Corazón</display-name><url>https://mi.tv</url></channel>
-<channel id="sv#axn"><display-name>AXN</display-name><url>https://mi.tv</url></channel>
-<channel id="sv#animal-planet"><display-name>Animal Planet</display-name><url>https://mi.tv</url></channel>
-<channel id="sv#amc"><display-name>AMC</display-name><url>https://mi.tv</url></channel>
-<channel id="sv#a-e-mundo"><display-name>A&amp;E</display-name><url>https://mi.tv</url></channel>
+<channel id="sv#tdn"><display-name>TDN</display-name><url>https://mi.tv</url></channel>
+<channel id="sv#tcm"><display-name>TCM</display-name><url>https://mi.tv</url></channel>
+<channel id="sv#tbs-veryfunny"><display-name>TBS</display-name><url>https://mi.tv</url></channel>
+<channel id="sv#warner"><display-name>Warner Channel</display-name><url>https://mi.tv</url></channel>
+<channel id="VTVCanal35.sv@SD"><display-name>VTV</display-name><icon src="https://i.imgur.com/RSVzyzp.png"/><url>https://mi.tv</url></channel>
+<channel id="sv#vh1"><display-name>VH1</display-name><url>https://mi.tv</url></channel>
+<channel id="sv#ve-plus-tv"><display-name>Ve Plus TV</display-name><url>https://mi.tv</url></channel>
+<channel id="sv#universal-channel"><display-name>Universal TV</display-name><url>https://mi.tv</url></channel>
+<channel id="sv#tvn-chile"><display-name>TVN Chile</display-name><url>https://mi.tv</url></channel>
+<channel id="sv#tnt-series"><display-name>TNT Series</display-name><url>https://mi.tv</url></channel>
+<channel id="sv#tnt"><display-name>TNT</display-name><url>https://mi.tv</url></channel>
+<channel id="sv#tlnovelas"><display-name>TLNovelas</display-name><url>https://mi.tv</url></channel>
+<channel id="sv#telemundo"><display-name>Telemundo</display-name><url>https://mi.tv</url></channel>
+<channel id="sv#tabernaculo-biblico-bautista"><display-name>Tabernaculo Biblico Bautista</display-name><url>https://mi.tv</url></channel>
+<channel id="sv#tve"><display-name>TVE</display-name><url>https://mi.tv</url></channel>
+<channel id="sv#telesur"><display-name>teleSUR</display-name><url>https://mi.tv</url></channel>
+<channel id="sv#studio-universal"><display-name>Studio Universal</display-name><url>https://mi.tv</url></channel>
 <programme start="20260321060000 +0000" stop="20260321070000 +0000" channel="Canal2.sv@SD"><title lang="es">Lo que la vida me robó</title><desc lang="es">Para salvar a su familia de la ruina, y obligada por su madre, Monserrat debe casarse con Alejandro, un hombre al que no ama y que es dueño de una gran fortuna. Sin embargo, Monserrat está enamorada de otro hombre.</desc><image>https://cdn.mitvstatic.com/programs/sv_lo-que-la-vida-me-robo_l_m.jpg</image></programme>
 <programme start="20260321070000 +0000" stop="20260322003000 +0000" channel="Canal2.sv@SD"><title lang="es">Cierre de transmisión</title><image>https://cdn.mitvstatic.com/programs/sv_cierre-de-transmision_l_m.jpg</image></programme>
 <programme start="20260322003000 +0000" stop="20260322050000 +0000" channel="Canal2.sv@SD"><title lang="es">Call Me Kat</title><desc lang="es">Kat pretende demostrarles a la sociedad y a su madre que es imposible tener todo lo que se desea y ser feliz. Por ello, gasta el dinero que sus padres le reservaron para que celebrara su boda en la apertura de un café.</desc><image>https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg</image></programme>
@@ -3955,8 +3955,8 @@
 <programme start="20260322010500 +0000" stop="20260322030500 +0000" channel="sv#tdn"><title lang="es">Monterrey vs. Guadalajara</title><desc lang="es">Vive las emociones de la 115º edición del campeonato de liga de la Primera División del fútbol mexicano. Se trata del 60º torneo corto con el que culmina la temporada 2025-2026.</desc><image>https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg</image></programme>
 <programme start="20260322030500 +0000" stop="20260322031000 +0000" channel="sv#tdn"><title lang="es">Pumas UNAM vs. América</title><desc lang="es">Vive la previa de los partidos de la 115º edición del campeonato de liga de la Primera División del fútbol mexicano. Se trata del 60º torneo corto con el que culmina la temporada 2025-2026.</desc><image>https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg</image></programme>
 <programme start="20260322031000 +0000" stop="20260322051000 +0000" channel="sv#tdn"><title lang="es">Pumas UNAM vs. América</title><desc lang="es">Vive las emociones de la 115º edición del campeonato de liga de la Primera División del fútbol mexicano. Se trata del 60º torneo corto con el que culmina la temporada 2025-2026.</desc><image>https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg</image></programme>
-<programme start="20260322051000 +0000" stop="20260322063000 +0000" channel="sv#tdn"><title lang="es">Gohan Rodríguez vs. Cristopher Rosales</title><desc lang="es">Disfrute de lo mejor del boxeo.</desc><image>https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg</image></programme>
 <programme start="20260322051000 +0000" stop="20260322061000 +0000" channel="sv#tdn"><title lang="es">Gohan Rodríguez vs. Cristopher Rosales</title><desc lang="es">Disfrute de lo mejor del boxeo.</desc><image>https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg</image></programme>
+<programme start="20260322051000 +0000" stop="20260322063000 +0000" channel="sv#tdn"><title lang="es">Gohan Rodríguez vs. Cristopher Rosales</title><desc lang="es">Disfrute de lo mejor del boxeo.</desc><image>https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg</image></programme>
 <programme start="20260322063000 +0000" stop="20260322073000 +0000" channel="sv#tdn"><title lang="es">Línea de cuatro</title><desc lang="es">Alejandro Berry, junto a periodistas deportivos especializados, realizan un análisis profundo sobre los eventos deportivos más importantes del día.</desc><image>https://cdn.mitvstatic.com/programs/sv_futbol-linea-de-cuatro_l_m.jpg</image></programme>
 <programme start="20260322073000 +0000" stop="20260322083000 +0000" channel="sv#tdn"><title lang="es">Contacto deportivo</title><desc lang="es">Un programa que da seguimiento a todos los equipos profesionales y deportistas poblanos. Un equipo especializado repasa los acontecimientos diarios más destacados a nivel nacional y regional.</desc><image>https://cdn.mitvstatic.com/programs/sv_deportivo-contacto-deportivo_l_m.jpg</image></programme>
 <programme start="20260322083000 +0000" stop="20260322090000 +0000" channel="sv#tdn"><title lang="es">América vs. Mazatlán</title><desc lang="es">En solo treinta minutos te invitamos a revivir los mejores momentos del partido más importante de la jornada, junto al análisis de los expertos quienes aclaran tus dudas y te muestran los goles con la mayor emoción.</desc><image>https://cdn.mitvstatic.com/programs/sv_futbol-america-vs-mazatlan-fecha-11-clausura-2026-liga-mx-1_l_m.jpg</image></programme>
@@ -4199,8 +4199,8 @@
 <programme start="20260322031700 +0000" stop="20260322040800 +0000" channel="sv#tnt-series"><title lang="es">CSI: Miami</title><sub-title lang="es">Cita asesina</sub-title><desc lang="es">Una mujer es asesinada en un bar que sirve algo más que bebidas. Mientras tanto, Horatio descubre que su hermano asesino es realmente un agente de la DEA oculto y que su hermano aún está vivo.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">2.19.0/1</episode-num><episode-num system="onscreen">S03E20</episode-num><image>https://cdn.mitvstatic.com/programs/sv_csi-miami-s03e20-killer-date_l_m.jpg</image></programme>
 <programme start="20260322040800 +0000" stop="20260322050000 +0000" channel="sv#tnt-series"><title lang="es">CSI: Miami</title><sub-title lang="es">Retroceso</sub-title><desc lang="es">En los tribunales, Cheri y Brad Manning mantienen un litigio por la custodia de su hija. Ryan y Calleigh están citados como testigos en el caso. En un momento determinado, Manning saca una pistola y se arma un revuelo en la sala.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">2.20.0/1</episode-num><episode-num system="onscreen">S03E21</episode-num><image>https://cdn.mitvstatic.com/programs/sv_csi-miami-s03e21-recoil_l_m.jpg</image></programme>
 <programme start="20260322050000 +0000" stop="20260322055100 +0000" channel="sv#tnt-series"><title lang="es">CSI: Miami</title><sub-title lang="es">Venganza</sub-title><desc lang="es">Un hombre que fue la estrella del equipo de fútbol del instituto es asesinado, diez años después, en una reunión de antiguos alumnos. Los CSI tendrán que encontrar al asesino.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">2.21.0/1</episode-num><episode-num system="onscreen">S03E22</episode-num><image>https://cdn.mitvstatic.com/programs/sv_csi-miami-s03e22-vengeance_l_m.jpg</image></programme>
-<programme start="20260322055100 +0000" stop="20260322063600 +0000" channel="sv#tnt-series"><title lang="es">El mentalista</title><sub-title lang="es">Sangre en exclusiva</sub-title><desc lang="es">El CBI investiga el asesinato de una periodista, mientras Jane insiste en su búsqueda de Lorelei.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">4.6.0/1</episode-num><episode-num system="onscreen">S05E07</episode-num><image>https://cdn.mitvstatic.com/programs/sv_el-mentalista-s05e07-sangre-en-exclusiva_l_m.jpg</image></programme>
 <programme start="20260322055100 +0000" stop="20260322065100 +0000" channel="sv#tnt-series"><title lang="es">El mentalista</title><sub-title lang="es">Sangre en exclusiva</sub-title><desc lang="es">El CBI investiga el asesinato de una periodista, mientras Jane insiste en su búsqueda de Lorelei.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">4.6.0/1</episode-num><episode-num system="onscreen">S05E07</episode-num><image>https://cdn.mitvstatic.com/programs/sv_el-mentalista-s05e07-sangre-en-exclusiva_l_m.jpg</image></programme>
+<programme start="20260322055100 +0000" stop="20260322063600 +0000" channel="sv#tnt-series"><title lang="es">El mentalista</title><sub-title lang="es">Sangre en exclusiva</sub-title><desc lang="es">El CBI investiga el asesinato de una periodista, mientras Jane insiste en su búsqueda de Lorelei.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">4.6.0/1</episode-num><episode-num system="onscreen">S05E07</episode-num><image>https://cdn.mitvstatic.com/programs/sv_el-mentalista-s05e07-sangre-en-exclusiva_l_m.jpg</image></programme>
 <programme start="20260322063600 +0000" stop="20260322072200 +0000" channel="sv#tnt-series"><title lang="es">El mentalista</title><sub-title lang="es">Velas rojas al atardecer</sub-title><desc lang="es">Patrick organiza el escape de Lorelei de la prisión y luego la secuestra para obtener respuestas sobre Red John. Mientras tanto, la madre de Lorelei comparte con el agente Lisboa un detalle impactante sobre su familia</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">4.7.0/1</episode-num><episode-num system="onscreen">S05E08</episode-num><image>https://cdn.mitvstatic.com/programs/sv_el-mentalista-s05e08-velas-rojas-al-atardecer_l_m.jpg</image></programme>
 <programme start="20260322072200 +0000" stop="20260322080400 +0000" channel="sv#tnt-series"><title lang="es">El mentalista</title><sub-title lang="es">Rojo cereza</sub-title><desc lang="es">El CBI investiga el asesinato de un agente de bienes raíces con vínculos con pandillas, mientras Jane busca pistas en su nueva conexión hacia Red John.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">4.8.0/1</episode-num><episode-num system="onscreen">S05E09</episode-num><image>https://cdn.mitvstatic.com/programs/sv_el-mentalista-s05e09-rojo-cereza_l_m.jpg</image></programme>
 <programme start="20260322080400 +0000" stop="20260322085000 +0000" channel="sv#tnt-series"><title lang="es">El mentalista</title><sub-title lang="es">Marihuana roja</sub-title><desc lang="es">Patrick descubre que un joven botánico que fue asesinado estaba trabajando en una nueva y valiosa variedad de marihuana, y Cho se encuentra con un viejo amigo con una gran sorpresa durante una crisis.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">4.9.0/1</episode-num><episode-num system="onscreen">S05E10</episode-num><image>https://cdn.mitvstatic.com/programs/sv_el-mentalista-s05e10-marihuana-roja_l_m.jpg</image></programme>

@@ -1,18 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20260321">
 <channel id="mx#a-e-mundo"><display-name>A&amp;E</display-name><url>https://mi.tv</url></channel>
-<channel id="mx#xh-gc-canal-5-hd"><display-name>Canal 5 HD</display-name><url>https://mi.tv</url></channel>
-<channel id="Canal5.mx@SD"><display-name>Canal 5</display-name><icon src="https://i.imgur.com/uZdVSoW.png"/><url>https://mi.tv</url></channel>
-<channel id="XEIPNTDT.mx@SD"><display-name>Canal Once</display-name><icon src="https://i.imgur.com/K0351vF.png"/><url>https://mi.tv</url></channel>
-<channel id="WOBI.ar@SD"><display-name>WOBI TV</display-name><icon src="https://i.imgur.com/uW4WIvC.png"/><url>https://mi.tv</url></channel>
-<channel id="WarnerChannel.us@Mexico"><display-name>Warner Channel</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Warner_TV_logo.svg/960px-Warner_TV_logo.svg.png"/><url>https://mi.tv</url></channel>
-<channel id="mx#vh1"><display-name>VH1</display-name><url>https://mi.tv</url></channel>
-<channel id="mx#univision"><display-name>Univision</display-name><url>https://mi.tv</url></channel>
-<channel id="UniversalTVLatinAmerica.us@Mexico"><display-name>Universal TV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/960px-Universal_TV_logo.svg.png"/><url>https://mi.tv</url></channel>
-<channel id="mx#tve"><display-name>TVE</display-name><url>https://mi.tv</url></channel>
-<channel id="mx#tvc-platino"><display-name>Platino</display-name><url>https://mi.tv</url></channel>
-<channel id="CineMexicano.mx@SD"><display-name>Cine Mexicano</display-name><icon src="https://i.imgur.com/qHtOVRO.png"/><url>https://mi.tv</url></channel>
-<channel id="mx#tv-unam"><display-name>TV UNAM</display-name><url>https://mi.tv</url></channel>
-<channel id="mx#tru-tv-hd"><display-name>truTV HD</display-name><url>https://mi.tv</url></channel>
+<channel id="mx#a-plus"><display-name>A+</display-name><url>https://mi.tv</url></channel>
+<channel id="mx#amc-hd"><display-name>AMC HD</display-name><url>https://mi.tv</url></channel>
+<channel id="Azteca7.mx@SD"><display-name>Azteca 7</display-name><icon src="https://i.imgur.com/UtFXjIn.png"/><url>https://mi.tv</url></channel>
+<channel id="Canal22MetropolitanayNacional.mx@SD"><display-name>Canal 22</display-name><icon src="https://i.imgur.com/j4FWfOT.png"/><url>https://mi.tv</url></channel>
+<channel id="mx#discovery-home-and-health"><display-name>Discovery Home &amp; Health</display-name><url>https://mi.tv</url></channel>
+<channel id="mx#fox-sports-3"><display-name>FOX Sports 3</display-name><url>https://mi.tv</url></channel>
+<channel id="mx#fox-sports-2"><display-name>FOX Sports 2</display-name><url>https://mi.tv</url></channel>
+<channel id="mx#discovery-hd-theater"><display-name>Discovery Theater</display-name><url>https://mi.tv</url></channel>
+<channel id="mx#fox-sports"><display-name>FOX Sports</display-name><url>https://mi.tv</url></channel>
+<channel id="mx#fox-oeste-hd"><display-name>Star Channel HD</display-name><url>https://mi.tv</url></channel>
+<channel id="mx#canal-5-galavision"><display-name>Canal 5 Galavision</display-name><url>https://mi.tv</url></channel>
+<channel id="mx#discovery-hd-mexico"><display-name>Discovery HD</display-name><url>https://mi.tv</url></channel>
+<channel id="mx#fox-movies-hd"><display-name>Star Hits HD</display-name><url>https://mi.tv</url></channel>
+<channel id="mx#fox-movies"><display-name>Star Hits</display-name><url>https://mi.tv</url></channel>
 <channel id="mx#tru-tv"><display-name>TruTV</display-name><url>https://mi.tv</url></channel>
 <channel id="mx#tooncast"><display-name>Tooncast</display-name><url>https://mi.tv</url></channel>
 <channel id="mx#tnt-hd"><display-name>TNT HD</display-name><url>https://mi.tv</url></channel>
@@ -57,21 +58,21 @@
 <channel id="mx#fx-movies"><display-name>FX Movies</display-name><url>https://mi.tv</url></channel>
 <channel id="mx#fx"><display-name>FX</display-name><url>https://mi.tv</url></channel>
 <channel id="mx#fox-sy-fy"><display-name>Syfy</display-name><url>https://mi.tv</url></channel>
-<channel id="mx#fox-sports-3"><display-name>FOX Sports 3</display-name><url>https://mi.tv</url></channel>
-<channel id="mx#fox-sports-2"><display-name>FOX Sports 2</display-name><url>https://mi.tv</url></channel>
-<channel id="mx#fox-sports"><display-name>FOX Sports</display-name><url>https://mi.tv</url></channel>
-<channel id="mx#fox-oeste-hd"><display-name>Star Channel HD</display-name><url>https://mi.tv</url></channel>
-<channel id="mx#fox-movies-hd"><display-name>Star Hits HD</display-name><url>https://mi.tv</url></channel>
-<channel id="mx#fox-movies"><display-name>Star Hits</display-name><url>https://mi.tv</url></channel>
+<channel id="DiscoveryChannelLatinAmerica.us@Mexico"><display-name>Discovery Channel</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png"/><url>https://mi.tv</url></channel>
 <channel id="StarLifeLatinAmerica.us@Mexico"><display-name>Star Life</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/960px-Star_Life_2021.svg.png"/><url>https://mi.tv</url></channel>
 <channel id="mx#fox-family-oeste"><display-name>Star Fun (Oeste)</display-name><url>https://mi.tv</url></channel>
+<channel id="mx#az-corazon"><display-name>Az Corazón</display-name><url>https://mi.tv</url></channel>
+<channel id="Foro.mx@SD"><display-name>FOROtv</display-name><icon src="https://i.imgur.com/dDFrONz.png"/><url>https://mi.tv</url></channel>
+<channel id="DePeliculaLatinAmerica.mx@SD"><display-name>De Película HD</display-name><icon src="https://i.imgur.com/aksM8pa.png"/><url>https://mi.tv</url></channel>
 <channel id="mx#fox-family-hd"><display-name>Star Fun HD</display-name><url>https://mi.tv</url></channel>
 <channel id="mx#fox-family"><display-name>Star Fun</display-name><url>https://mi.tv</url></channel>
+<channel id="mx#de-pelicula"><display-name>De Película</display-name><url>https://mi.tv</url></channel>
 <channel id="mx#fox-comedy-hd"><display-name>Star Comedy HD</display-name><url>https://mi.tv</url></channel>
 <channel id="mx#fox-action-hd"><display-name>Star Action HD</display-name><url>https://mi.tv</url></channel>
+<channel id="mx#canal-4"><display-name>Canal 4</display-name><url>https://mi.tv</url></channel>
+<channel id="mx#comedy-central"><display-name>Comedy Central</display-name><url>https://mi.tv</url></channel>
 <channel id="mx#fox-1-oeste"><display-name>Star Series (Oeste)</display-name><url>https://mi.tv</url></channel>
 <channel id="mx#fox-1-hd"><display-name>Star Series HD</display-name><url>https://mi.tv</url></channel>
-<channel id="StarChannel.mx@SD"><display-name>Star Channel</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png"/><url>https://mi.tv</url></channel>
 <channel id="mx#film-arts"><display-name>film&amp;arts</display-name><url>https://mi.tv</url></channel>
 <channel id="mx#europa-europa"><display-name>Europa Europa</display-name><url>https://mi.tv</url></channel>
 <channel id="mx#espn-plus-hd"><display-name>ESPN+ HD</display-name><url>https://mi.tv</url></channel>
@@ -89,37 +90,36 @@
 <channel id="mx#discovery-world-hd"><display-name>Discovery World</display-name><url>https://mi.tv</url></channel>
 <channel id="mx#discovery-kids"><display-name>Discovery Kids</display-name><url>https://mi.tv</url></channel>
 <channel id="mx#discovery-id"><display-name>Investigation Discovery</display-name><url>https://mi.tv</url></channel>
-<channel id="mx#discovery-home-and-health"><display-name>Discovery Home &amp; Health</display-name><url>https://mi.tv</url></channel>
-<channel id="mx#discovery-hd-theater"><display-name>Discovery Theater</display-name><url>https://mi.tv</url></channel>
-<channel id="mx#discovery-hd-mexico"><display-name>Discovery HD</display-name><url>https://mi.tv</url></channel>
-<channel id="DiscoveryChannelLatinAmerica.us@Mexico"><display-name>Discovery Channel</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png"/><url>https://mi.tv</url></channel>
-<channel id="DePeliculaLatinAmerica.mx@SD"><display-name>De Película HD</display-name><icon src="https://i.imgur.com/aksM8pa.png"/><url>https://mi.tv</url></channel>
-<channel id="mx#de-pelicula"><display-name>De Película</display-name><url>https://mi.tv</url></channel>
-<channel id="mx#comedy-central"><display-name>Comedy Central</display-name><url>https://mi.tv</url></channel>
 <channel id="mx#cnn-en-espanol"><display-name>CNN en Español</display-name><url>https://mi.tv</url></channel>
+<channel id="StarChannel.mx@SD"><display-name>Star Channel</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="AMCLatinAmerica.us@SD"><display-name>AMC</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="mx#axn"><display-name>AXN</display-name><url>https://mi.tv</url></channel>
+<channel id="mx#cadenatres"><display-name>Excelsior TV</display-name><url>https://mi.tv</url></channel>
 <channel id="mx#cnn"><display-name>CNN</display-name><url>https://mi.tv</url></channel>
 <channel id="mx#cinemax"><display-name>Cinemax</display-name><url>https://mi.tv</url></channel>
+<channel id="CartoonitoLatinAmerica.us@Mexico"><display-name>Cartoonito</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/960px-Cartoonito_-_Logo_2021.svg.png"/><url>https://mi.tv</url></channel>
 <channel id="mx#cinecanal-hd"><display-name>Cinecanal HD</display-name><url>https://mi.tv</url></channel>
 <channel id="mx#cinecanal"><display-name>Cinecanal</display-name><url>https://mi.tv</url></channel>
+<channel id="mx#animal-planet"><display-name>Animal Planet</display-name><url>https://mi.tv</url></channel>
+<channel id="mx#bandamax"><display-name>Bandamax</display-name><url>https://mi.tv</url></channel>
 <channel id="CartoonNetworkLatinAmerica.us@Mexico"><display-name>Cartoon Network</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png"/><url>https://mi.tv</url></channel>
 <channel id="NUMusic.mx@SD"><display-name>Canal NU</display-name><icon src="https://i.imgur.com/b9dqRur.png"/><url>https://mi.tv</url></channel>
-<channel id="LasEstrellas.mx@SD"><display-name>Las Estrellas</display-name><icon src="https://i.imgur.com/g5ShxZ7.png"/><url>https://mi.tv</url></channel>
 <channel id="mx#canal-44-udgtv"><display-name>Canal 44 - udgtv</display-name><url>https://mi.tv</url></channel>
-<channel id="Canal22MetropolitanayNacional.mx@SD"><display-name>Canal 22</display-name><icon src="https://i.imgur.com/j4FWfOT.png"/><url>https://mi.tv</url></channel>
-<channel id="mx#canal-5-galavision"><display-name>Canal 5 Galavision</display-name><url>https://mi.tv</url></channel>
-<channel id="Foro.mx@SD"><display-name>FOROtv</display-name><icon src="https://i.imgur.com/dDFrONz.png"/><url>https://mi.tv</url></channel>
-<channel id="mx#canal-4"><display-name>Canal 4</display-name><url>https://mi.tv</url></channel>
-<channel id="mx#cadenatres"><display-name>Excelsior TV</display-name><url>https://mi.tv</url></channel>
-<channel id="CartoonitoLatinAmerica.us@Mexico"><display-name>Cartoonito</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/960px-Cartoonito_-_Logo_2021.svg.png"/><url>https://mi.tv</url></channel>
-<channel id="mx#bandamax"><display-name>Bandamax</display-name><url>https://mi.tv</url></channel>
 <channel id="mx#azteca-13"><display-name>Azteca 13</display-name><url>https://mi.tv</url></channel>
-<channel id="Azteca7.mx@SD"><display-name>Azteca 7</display-name><icon src="https://i.imgur.com/UtFXjIn.png"/><url>https://mi.tv</url></channel>
-<channel id="mx#az-corazon"><display-name>Az Corazón</display-name><url>https://mi.tv</url></channel>
-<channel id="mx#axn"><display-name>AXN</display-name><url>https://mi.tv</url></channel>
-<channel id="mx#animal-planet"><display-name>Animal Planet</display-name><url>https://mi.tv</url></channel>
-<channel id="mx#amc-hd"><display-name>AMC HD</display-name><url>https://mi.tv</url></channel>
-<channel id="AMCLatinAmerica.us@SD"><display-name>AMC</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png"/><url>https://mi.tv</url></channel>
-<channel id="mx#a-plus"><display-name>A+</display-name><url>https://mi.tv</url></channel>
+<channel id="LasEstrellas.mx@SD"><display-name>Las Estrellas</display-name><icon src="https://i.imgur.com/g5ShxZ7.png"/><url>https://mi.tv</url></channel>
+<channel id="mx#tvc-platino"><display-name>Platino</display-name><url>https://mi.tv</url></channel>
+<channel id="UniversalTVLatinAmerica.us@Mexico"><display-name>Universal TV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/960px-Universal_TV_logo.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="WarnerChannel.us@Mexico"><display-name>Warner Channel</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Warner_TV_logo.svg/960px-Warner_TV_logo.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="XEIPNTDT.mx@SD"><display-name>Canal Once</display-name><icon src="https://i.imgur.com/K0351vF.png"/><url>https://mi.tv</url></channel>
+<channel id="mx#xh-gc-canal-5-hd"><display-name>Canal 5 HD</display-name><url>https://mi.tv</url></channel>
+<channel id="mx#tru-tv-hd"><display-name>truTV HD</display-name><url>https://mi.tv</url></channel>
+<channel id="mx#tv-unam"><display-name>TV UNAM</display-name><url>https://mi.tv</url></channel>
+<channel id="Canal5.mx@SD"><display-name>Canal 5</display-name><icon src="https://i.imgur.com/uZdVSoW.png"/><url>https://mi.tv</url></channel>
+<channel id="WOBI.ar@SD"><display-name>WOBI TV</display-name><icon src="https://i.imgur.com/uW4WIvC.png"/><url>https://mi.tv</url></channel>
+<channel id="mx#tve"><display-name>TVE</display-name><url>https://mi.tv</url></channel>
+<channel id="mx#vh1"><display-name>VH1</display-name><url>https://mi.tv</url></channel>
+<channel id="CineMexicano.mx@SD"><display-name>Cine Mexicano</display-name><icon src="https://i.imgur.com/qHtOVRO.png"/><url>https://mi.tv</url></channel>
+<channel id="mx#univision"><display-name>Univision</display-name><url>https://mi.tv</url></channel>
 <programme start="20260321055000 +0000" stop="20260321073500 +0000" channel="AMCLatinAmerica.us@SD"><title lang="es">Medianoche en Switchgrass</title><desc lang="es">Un agente del FBI y una oficial del estado de Florida se unen para investigar una serie de asesinatos sin resolver.</desc><image>https://cdn.mitvstatic.com/programs/fallback_movies_l_m.jpg</image></programme>
 <programme start="20260321073500 +0000" stop="20260321093500 +0000" channel="AMCLatinAmerica.us@SD"><title lang="es">El vengador del futuro</title><desc lang="es">El constructor Douglas Quaid descubre que la totalidad de sus recuerdos del pasado provienen de un circuito implantado en su cerebro y se entera que, en realidad, es un agente secreto que se ha convertido en una amenaza para el Gobierno.</desc><date>19900101</date><image>https://cdn.mitvstatic.com/programs/mx_el-vengador-del-futuro-1990_l_m.jpg</image></programme>
 <programme start="20260321093500 +0000" stop="20260321112000 +0000" channel="AMCLatinAmerica.us@SD"><title lang="es">Amenazados en la red</title><desc lang="es">Mike Regan comienza a ver cómo su vida se tambalea cuando un joven hacker de su empresa se siente ninguneado por él y empieza a hacerle la vida imposible a su familia, controlando sus aparatos electrónicos y de comunicación.</desc><image>https://cdn.mitvstatic.com/programs/fallback_movies_l_m.jpg</image></programme>
@@ -4979,8 +4979,8 @@
 <programme start="20260321234400 +0000" stop="20260322014400 +0000" channel="mx#tvc-platino"><title lang="es">Los señores de la mafia</title><desc lang="es">Un capo de la droga con un marcado estilo británico intenta vender su imperio a una dinastía de multimillonarios procedentes de Oklahoma.</desc><date>20190101</date><image>https://cdn.mitvstatic.com/programs/mx_los-senores-de-la-mafia-2019_l_m.jpg</image></programme>
 <programme start="20260322014400 +0000" stop="20260322033600 +0000" channel="mx#tvc-platino"><title lang="es">Air: la historia detrás del logo</title><desc lang="es">Sigue la historia del vendedor de calzado Sonny Vaccaro, y cómo él lideró la negociación de la marca Nike que buscaba patrocinar al mejor atleta en la historia del baloncesto: Michael Jordan.</desc><image>https://cdn.mitvstatic.com/programs/fallback_movies_l_m.jpg</image></programme>
 <programme start="20260322033600 +0000" stop="20260322053400 +0000" channel="mx#tvc-platino"><title lang="es">Despierta la furia</title><desc lang="es">H es un hombre frío y misterioso que trabaja en una empresa de camiones blindados responsable de mover cientos de millones de dólares por Los Ángeles cada semana.</desc><image>https://cdn.mitvstatic.com/programs/fallback_movies_l_m.jpg</image></programme>
-<programme start="20260322053400 +0000" stop="20260322073400 +0000" channel="mx#tvc-platino"><title lang="es">In/mortal</title><desc lang="es">A un millonario enfermo de cáncer le ofrecen la posibilidad de someterse a un procedimiento médico para transferir su conciencia al cuerpo de un hombre sano, pero todo se complica cuando descubre los detalles en torno a su nuevo cuerpo..</desc><date>20150101</date><image>https://cdn.mitvstatic.com/programs/mx_in-mortal-2015_l_m.jpg</image></programme>
 <programme start="20260322053400 +0000" stop="20260322063400 +0000" channel="mx#tvc-platino"><title lang="es">In/mortal</title><desc lang="es">A un millonario enfermo de cáncer le ofrecen la posibilidad de someterse a un procedimiento médico para transferir su conciencia al cuerpo de un hombre sano, pero todo se complica cuando descubre los detalles en torno a su nuevo cuerpo..</desc><date>20150101</date><image>https://cdn.mitvstatic.com/programs/mx_in-mortal-2015_l_m.jpg</image></programme>
+<programme start="20260322053400 +0000" stop="20260322073400 +0000" channel="mx#tvc-platino"><title lang="es">In/mortal</title><desc lang="es">A un millonario enfermo de cáncer le ofrecen la posibilidad de someterse a un procedimiento médico para transferir su conciencia al cuerpo de un hombre sano, pero todo se complica cuando descubre los detalles en torno a su nuevo cuerpo..</desc><date>20150101</date><image>https://cdn.mitvstatic.com/programs/mx_in-mortal-2015_l_m.jpg</image></programme>
 <programme start="20260322073400 +0000" stop="20260322093400 +0000" channel="mx#tvc-platino"><title lang="es">Dos buenos tipos</title><desc lang="es">Holland March es contratado para investigar la muerte de una estrella porno. Pero tendrá trabajar con Jackson Healey, y juntos deberán enfrentarse a un mundo lleno de matones excéntricos, strippers y conspiraciones del gobierno.</desc><date>20160101</date><image>https://cdn.mitvstatic.com/programs/mx_dos-buenos-tipos-2016_l_m.jpg</image></programme>
 <programme start="20260322093400 +0000" stop="20260322112700 +0000" channel="mx#tvc-platino"><title lang="es">Amor a la deriva</title><desc lang="es">Leonardo, un hombre rico, despide injustamente a Kate, una empleada que se encarga de limpiar su yate. Esa noche, él cae al mar y despierta con amnesia, por lo que se convierte en el objetivo de la venganza de Kate.</desc><date>20180101</date><image>https://cdn.mitvstatic.com/programs/mx_amor-a-la-deriva-2018_l_m.jpg</image></programme>
 <programme start="20260322112700 +0000" stop="20260322115800 +0000" channel="mx#tvc-platino"><title lang="es">Televenta</title><desc lang="es">Transmisión que pone a tu alcance una amplia gama de productos para el hogar, belleza, cuidado del cuerpo y salud ofreciéndote la satisfacción, exclusividad, calidad y servicio que mereces.</desc><image>https://cdn.mitvstatic.com/programs/mx_televenta_l_m.jpg</image></programme>
@@ -5361,8 +5361,8 @@
 <programme start="20260322030000 +0000" stop="20260322035000 +0000" channel="UniversalTVLatinAmerica.us@Mexico"><title lang="es">Policías de Chicago</title><sub-title lang="es">Válvula de descarga</sub-title><desc lang="es">Los mundos de Atwater hacen colisión cuando hay un tiroteo en el edificio de su departamento en Burnside, que deja un niño muerto. Atwater debe enfrentar la relación con su padre, Lew, cuando el caso brutal los obliga a estar en contacto.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">9.18.0/1</episode-num><episode-num system="onscreen">S10E19</episode-num><image>https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg</image></programme>
 <programme start="20260322035000 +0000" stop="20260322044000 +0000" channel="UniversalTVLatinAmerica.us@Mexico"><title lang="es">Policías de Chicago</title><sub-title lang="es">Pelea</sub-title><desc lang="es">Upton es atraída sin darse cuenta a una traición mortal y se encuentra luchando por su vida. Con ínfimas pistas, Voight y el equipo trabajan desesperadamente para encontrarla antes de que sea demasiado tarde.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">9.19.0/1</episode-num><episode-num system="onscreen">S10E20</episode-num><image>https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg</image></programme>
 <programme start="20260322044000 +0000" stop="20260322053000 +0000" channel="UniversalTVLatinAmerica.us@Mexico"><title lang="es">Policías de Chicago</title><sub-title lang="es">Nueva vida</sub-title><desc lang="es">Torres se encuentra en medio de un caso de homicidio que le toca de cerca y amenaza con poner al descubierto su turbulento pasado. Mientras él se esfuerza por reconciliar su vida anterior con la actual, Voight se mantiene alerta.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">9.20.0/1</episode-num><episode-num system="onscreen">S10E21</episode-num><image>https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg</image></programme>
-<programme start="20260322053000 +0000" stop="20260322062000 +0000" channel="UniversalTVLatinAmerica.us@Mexico"><title lang="es">Policías de Chicago</title><sub-title lang="es">Un lugar mejor</sub-title><desc lang="es">Mientras Richard Beck adelanta la fecha de un ataque mortífero y Samantha entra en pánico, Ruzek y el equipo se esfuerzan por anticiparse a un desastre sin precedentes.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">9.21.0/1</episode-num><episode-num system="onscreen">S10E22</episode-num><image>https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg</image></programme>
 <programme start="20260322053000 +0000" stop="20260322063000 +0000" channel="UniversalTVLatinAmerica.us@Mexico"><title lang="es">Policías de Chicago</title><sub-title lang="es">Un lugar mejor</sub-title><desc lang="es">Mientras Richard Beck adelanta la fecha de un ataque mortífero y Samantha entra en pánico, Ruzek y el equipo se esfuerzan por anticiparse a un desastre sin precedentes.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">9.21.0/1</episode-num><episode-num system="onscreen">S10E22</episode-num><image>https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg</image></programme>
+<programme start="20260322053000 +0000" stop="20260322062000 +0000" channel="UniversalTVLatinAmerica.us@Mexico"><title lang="es">Policías de Chicago</title><sub-title lang="es">Un lugar mejor</sub-title><desc lang="es">Mientras Richard Beck adelanta la fecha de un ataque mortífero y Samantha entra en pánico, Ruzek y el equipo se esfuerzan por anticiparse a un desastre sin precedentes.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">9.21.0/1</episode-num><episode-num system="onscreen">S10E22</episode-num><image>https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg</image></programme>
 <programme start="20260322062000 +0000" stop="20260322071000 +0000" channel="UniversalTVLatinAmerica.us@Mexico"><title lang="es">La ley y el orden</title><sub-title lang="es">En retrospectiva</sub-title><desc lang="es">Brady y Riley deben revisar una lista de rivales para identificar al sospechoso cuando un estudiante estrella de música es asesinado de camino a casa desde la escuela.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">24.1.0/1</episode-num><episode-num system="onscreen">S25E02</episode-num><image>https://cdn.mitvstatic.com/programs/mx_la-ley-y-el-orden-s25e02-en-retrospectiva_l_m.jpg</image></programme>
 <programme start="20260322071000 +0000" stop="20260322080000 +0000" channel="UniversalTVLatinAmerica.us@Mexico"><title lang="es">La ley y el orden: UVE</title><sub-title lang="es">Renuncia al consentimiento</sub-title><desc lang="es">Cuando un miembro de un club social de élite es atacado, Carisi debe convencer a otros miembros para que testifiquen a pesar de la estricta política de confidencialidad del club.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">26.1.0/1</episode-num><episode-num system="onscreen">S27E02</episode-num><image>https://cdn.mitvstatic.com/programs/mx_la-ley-y-el-orden-uve-s27e02-renuncia-al-consentimiento_l_m.jpg</image></programme>
 <programme start="20260322080000 +0000" stop="20260322085000 +0000" channel="UniversalTVLatinAmerica.us@Mexico"><title lang="es">La ley y el orden Toronto: intento criminal</title><sub-title lang="es">Callejón sin salida</sub-title><desc lang="es">Los vecinos de un respetado abogado defensor se convierten en los principales sospechosos de su asesinato.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">0.9.0/1</episode-num><episode-num system="onscreen">S01E10</episode-num><image>https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg</image></programme>
