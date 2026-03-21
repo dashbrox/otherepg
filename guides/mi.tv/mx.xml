@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20260321">
 <channel id="mx#a-e-mundo"><display-name>A&amp;E</display-name><url>https://mi.tv</url></channel>
-<channel id="mx#a-plus"><display-name>A+</display-name><url>https://mi.tv</url></channel>
+<channel id="mx#xh-gc-canal-5-hd"><display-name>Canal 5 HD</display-name><url>https://mi.tv</url></channel>
 <channel id="Canal5.mx@SD"><display-name>Canal 5</display-name><icon src="https://i.imgur.com/uZdVSoW.png"/><url>https://mi.tv</url></channel>
 <channel id="XEIPNTDT.mx@SD"><display-name>Canal Once</display-name><icon src="https://i.imgur.com/K0351vF.png"/><url>https://mi.tv</url></channel>
 <channel id="WOBI.ar@SD"><display-name>WOBI TV</display-name><icon src="https://i.imgur.com/uW4WIvC.png"/><url>https://mi.tv</url></channel>
@@ -119,7 +119,7 @@
 <channel id="mx#animal-planet"><display-name>Animal Planet</display-name><url>https://mi.tv</url></channel>
 <channel id="mx#amc-hd"><display-name>AMC HD</display-name><url>https://mi.tv</url></channel>
 <channel id="AMCLatinAmerica.us@SD"><display-name>AMC</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png"/><url>https://mi.tv</url></channel>
-<channel id="mx#xh-gc-canal-5-hd"><display-name>Canal 5 HD</display-name><url>https://mi.tv</url></channel>
+<channel id="mx#a-plus"><display-name>A+</display-name><url>https://mi.tv</url></channel>
 <programme start="20260321055000 +0000" stop="20260321073500 +0000" channel="AMCLatinAmerica.us@SD"><title lang="es">Medianoche en Switchgrass</title><desc lang="es">Un agente del FBI y una oficial del estado de Florida se unen para investigar una serie de asesinatos sin resolver.</desc><image>https://cdn.mitvstatic.com/programs/fallback_movies_l_m.jpg</image></programme>
 <programme start="20260321073500 +0000" stop="20260321093500 +0000" channel="AMCLatinAmerica.us@SD"><title lang="es">El vengador del futuro</title><desc lang="es">El constructor Douglas Quaid descubre que la totalidad de sus recuerdos del pasado provienen de un circuito implantado en su cerebro y se entera que, en realidad, es un agente secreto que se ha convertido en una amenaza para el Gobierno.</desc><image>https://cdn.mitvstatic.com/programs/mx_el-vengador-del-futuro-1990_l_m.jpg</image></programme>
 <programme start="20260321093500 +0000" stop="20260321112000 +0000" channel="AMCLatinAmerica.us@SD"><title lang="es">Amenazados en la red</title><desc lang="es">Mike Regan comienza a ver cómo su vida se tambalea cuando un joven hacker de su empresa se siente ninguneado por él y empieza a hacerle la vida imposible a su familia, controlando sus aparatos electrónicos y de comunicación.</desc><image>https://cdn.mitvstatic.com/programs/fallback_movies_l_m.jpg</image></programme>

@@ -1,63 +1,63 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20260321">
 <channel id="3ABNLatino.us@SD"><display-name>3ABN Latino</display-name><icon src="https://i.imgur.com/Ugb4AFo.png"/><url>https://mi.tv</url></channel>
-<channel id="hn#warner"><display-name>Warner Channel</display-name><url>https://mi.tv</url></channel>
-<channel id="VTV.hn@SD"><display-name>VTV</display-name><icon src="https://i.imgur.com/CsPkwD5.png"/><url>https://mi.tv</url></channel>
-<channel id="hn#vh1-classic-usa"><display-name>VH1 Classic USA</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#vh1"><display-name>VH1</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#venus"><display-name>Venus</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#ve-plus-tv"><display-name>Ve Plus TV</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#utv-universidad-autonoma"><display-name>UTV - Universidad Autónoma</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#univision"><display-name>Univision</display-name><url>https://mi.tv</url></channel>
-<channel id="UniversalTVLatinAmerica.us@Panregional"><display-name>Universal TV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/960px-Universal_TV_logo.svg.png"/><url>https://mi.tv</url></channel>
-<channel id="hn#tvh"><display-name>TVH</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#tve"><display-name>TVE</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#tru-tv"><display-name>TruTV</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#todo-deportes-tdtv"><display-name>Todo Deportes</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#tnt-series"><display-name>TNT Series</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#tnt-hd"><display-name>TNT HD</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#tnt"><display-name>TNT</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#tlnovelas"><display-name>TLNovelas</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#telesur"><display-name>teleSUR</display-name><url>https://mi.tv</url></channel>
-<channel id="Telesistema3y7.hn@SD"><display-name>Telesistema 3 y 7</display-name><icon src="https://i.imgur.com/5viHgRa.png"/><url>https://mi.tv</url></channel>
-<channel id="hn#telered-21"><display-name>Telered21</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#telemundo"><display-name>Telemundo</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#telehit"><display-name>Telehit</display-name><url>https://mi.tv</url></channel>
-<channel id="Teleceiba.hn@SD"><display-name>Teleceiba</display-name><icon src="https://i.imgur.com/oPSfsvy.png"/><url>https://mi.tv</url></channel>
-<channel id="Telecadena7y4.hn@SD"><display-name>Telecadena 7 y 4</display-name><icon src="https://i.imgur.com/3gzFNog.png"/><url>https://mi.tv</url></channel>
-<channel id="hn#tele-nostalgia"><display-name>Telenostalgia</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#tdn"><display-name>TDN</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#tcm"><display-name>TCM</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#syfy"><display-name>Syfy</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#suyapa-tv"><display-name>Suyapa TV</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#suyapa-educativa-tv"><display-name>Suyapa Educativa TV</display-name><url>https://mi.tv</url></channel>
-<channel id="StudioUniversalLatinAmerica.us@Panregional"><display-name>Studio Universal</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/960px-StudioUniversal2016.png"/><url>https://mi.tv</url></channel>
-<channel id="hn#space"><display-name>Space</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#sony"><display-name>Sony</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#si-tv"><display-name>SITV</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#sedena"><display-name>Sedena</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#ritmoson-latino"><display-name>RMS</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#rai"><display-name>Rai Italia</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#pasiones"><display-name>Pasiones</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#nickelodeon"><display-name>Nick</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#nick-jr"><display-name>Nick Jr.</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#national-geographic"><display-name>National Geographic</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#multipremier"><display-name>Multipremier</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#max-prime-mexico"><display-name>Max Prime México</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#max-prime"><display-name>HBO Xtreme</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#mas-chic"><display-name>Más Chic</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#m-tv"><display-name>MTV</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#lifetime"><display-name>Lifetime</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#la-cosecha-canal-39"><display-name>La Cosecha</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#kmusic"><display-name>K Music</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#htv"><display-name>HTV</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#history"><display-name>History</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#hispan-tv"><display-name>HispanTV</display-name><url>https://mi.tv</url></channel>
-<channel id="HCH.hn@SD"><display-name>Hable Como Habla</display-name><icon src="https://i.imgur.com/2CB5ezq.png"/><url>https://mi.tv</url></channel>
-<channel id="hn#hbo-plus"><display-name>HBO Plus México</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#hbo-family"><display-name>HBO Family</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#hbo"><display-name>HBO</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#guatevision"><display-name>Guatevisión</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#golden"><display-name>Golden</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#a-e-mundo"><display-name>A&amp;E</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#amc"><display-name>AMC</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#az-corazon"><display-name>Az Corazón</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#boomerang-cartoon"><display-name>Cartoonito</display-name><url>https://mi.tv</url></channel>
+<channel id="CubavisionInternacional.cu@SD"><display-name>Cubavisión</display-name><icon src="https://i.imgur.com/0ZHm9f6.png"/><url>https://mi.tv</url></channel>
+<channel id="hn#cnn-en-espanol"><display-name>CNN en Español</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#bloomberg"><display-name>Bloomberg</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#cnn"><display-name>CNN</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#fox-1-este"><display-name>Star Series</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#cinema"><display-name>Cinema+</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#fox"><display-name>Star Channel</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#ewtn"><display-name>EWTN</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#axn"><display-name>AXN</display-name><url>https://mi.tv</url></channel>
+<channel id="BethelTV.pe@SD"><display-name>Bethel</display-name><icon src="https://i.imgur.com/zCVh765.png"/><url>https://mi.tv</url></channel>
+<channel id="hn#cinecanal-hd"><display-name>Cinecanal HD</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#espn-hd"><display-name>ESPN+ HD</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#espn-4"><display-name>ESPN</display-name><url>https://mi.tv</url></channel>
+<channel id="Cinecanal.us@Pacific"><display-name>Cinecanal</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png"/><url>https://mi.tv</url></channel>
+<channel id="hn#espn-3"><display-name>ESPN 3</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#espn-2"><display-name>ESPN 2</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#beat-tv"><display-name>Beat TV</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#cine-latino"><display-name>Cinelatino</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#espn"><display-name>ESPN Extra</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#enlace-tbn"><display-name>Enlace</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#chocolate"><display-name>Chocolate</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#el-gourmet"><display-name>El Gourmet</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#e"><display-name>E!</display-name><url>https://mi.tv</url></channel>
+<channel id="AlfaOmegaVision.hn@SD"><display-name>Alfa &amp; Omega Vision</display-name><icon src="https://i.imgur.com/4BSKCQT.png"/><url>https://mi.tv</url></channel>
+<channel id="hn#antena3"><display-name>Antena 3</display-name><url>https://mi.tv</url></channel>
+<channel id="Bandamax.mx@SD"><display-name>Bandamax</display-name><icon src="https://i.imgur.com/4DfnOTA.png"/><url>https://mi.tv</url></channel>
+<channel id="CDMInternacional.pr@SD"><display-name>CDM - Cadena de Milagros</display-name><icon src="https://i.imgur.com/N7IneVk.png"/><url>https://mi.tv</url></channel>
+<channel id="hn#dtv-hd"><display-name>DTV HD</display-name><url>https://mi.tv</url></channel>
+<channel id="DTV.hn@SD"><display-name>DTV</display-name><icon src="https://i.imgur.com/UpsLEAV.png"/><url>https://mi.tv</url></channel>
+<channel id="CCIChannel.hn@SD"><display-name>CCI Channel</display-name><icon src="https://i.imgur.com/c6hm03f.png"/><url>https://mi.tv</url></channel>
+<channel id="hn#distrito-comedia"><display-name>Distrito Comedia</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#disney-xd"><display-name>Disney XD</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#azteca-honduras"><display-name>Azteca Honduras</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#cartoon-network"><display-name>Cartoon Network</display-name><url>https://mi.tv</url></channel>
+<channel id="DisneyChannelLatinAmerica.ar@Center"><display-name>Disney Channel</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg"/><url>https://mi.tv</url></channel>
+<channel id="hn#disney-jr"><display-name>Disney Junior</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#caracol-internacional"><display-name>Caracol Internacional</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#disney-hd"><display-name>Disney Channel HD</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#discovery-world-hd"><display-name>Discovery World</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#animal-planet"><display-name>Animal Planet</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#azteca-13"><display-name>Azteca 13</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#canal-de-las-estrellas"><display-name>Las Estrellas</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#discovery-tlc"><display-name>TLC</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#discovery-kids"><display-name>Discovery Kids</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#canal-11-sotel-hd"><display-name>Canal 11 HD</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#discovery-id"><display-name>Investigation Discovery</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#discovery-home-and-health"><display-name>Discovery Home &amp; Health</display-name><url>https://mi.tv</url></channel>
+<channel id="Azteca7.mx@SD"><display-name>Azteca 7</display-name><icon src="https://i.imgur.com/UtFXjIn.png"/><url>https://mi.tv</url></channel>
+<channel id="Canal11.hn@SD"><display-name>Canal 11</display-name><icon src="https://i.imgur.com/Sht2Rd4.png"/><url>https://mi.tv</url></channel>
+<channel id="hn#discovery-hd-theater"><display-name>Discovery Theater</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#discovery-channel"><display-name>Discovery Channel</display-name><url>https://mi.tv</url></channel>
+<channel id="Televicentro.hn@SD"><display-name>Canal 5</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#dhe"><display-name>DHE</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#de-pelicula"><display-name>De Película</display-name><url>https://mi.tv</url></channel>
 <channel id="GolTVLatinAmerica.us@SD"><display-name>Gol TV</display-name><icon src="https://i.imgur.com/pypul3s.png"/><url>https://mi.tv</url></channel>
 <channel id="hn#globo-tv"><display-name>Globo TV</display-name><url>https://mi.tv</url></channel>
 <channel id="hn#fx-movies"><display-name>FX Movies</display-name><url>https://mi.tv</url></channel>
@@ -72,64 +72,64 @@
 <channel id="hn#fox-action-oeste"><display-name>Star Action (Oeste)</display-name><url>https://mi.tv</url></channel>
 <channel id="hn#fox-1-oeste"><display-name>Star Series (Oeste)</display-name><url>https://mi.tv</url></channel>
 <channel id="hn#fox-1-hd"><display-name>Star Series HD</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#fox-1-este"><display-name>Star Series</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#fox"><display-name>Star Channel</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#ewtn"><display-name>EWTN</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#espn-hd"><display-name>ESPN+ HD</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#espn-4"><display-name>ESPN</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#espn-3"><display-name>ESPN 3</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#espn-2"><display-name>ESPN 2</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#espn"><display-name>ESPN Extra</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#enlace-tbn"><display-name>Enlace</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#el-gourmet"><display-name>El Gourmet</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#e"><display-name>E!</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#dtv-hd"><display-name>DTV HD</display-name><url>https://mi.tv</url></channel>
-<channel id="DTV.hn@SD"><display-name>DTV</display-name><icon src="https://i.imgur.com/UpsLEAV.png"/><url>https://mi.tv</url></channel>
-<channel id="hn#distrito-comedia"><display-name>Distrito Comedia</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#disney-xd"><display-name>Disney XD</display-name><url>https://mi.tv</url></channel>
-<channel id="DisneyChannelLatinAmerica.ar@Center"><display-name>Disney Channel</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg"/><url>https://mi.tv</url></channel>
-<channel id="hn#disney-jr"><display-name>Disney Junior</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#disney-hd"><display-name>Disney Channel HD</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#discovery-world-hd"><display-name>Discovery World</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#discovery-tlc"><display-name>TLC</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#discovery-kids"><display-name>Discovery Kids</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#discovery-id"><display-name>Investigation Discovery</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#discovery-home-and-health"><display-name>Discovery Home &amp; Health</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#discovery-hd-theater"><display-name>Discovery Theater</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#discovery-channel"><display-name>Discovery Channel</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#dhe"><display-name>DHE</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#de-pelicula"><display-name>De Película</display-name><url>https://mi.tv</url></channel>
-<channel id="CubavisionInternacional.cu@SD"><display-name>Cubavisión</display-name><icon src="https://i.imgur.com/0ZHm9f6.png"/><url>https://mi.tv</url></channel>
-<channel id="hn#cnn-en-espanol"><display-name>CNN en Español</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#cnn"><display-name>CNN</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#cinema"><display-name>Cinema+</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#cinecanal-hd"><display-name>Cinecanal HD</display-name><url>https://mi.tv</url></channel>
-<channel id="Cinecanal.us@Pacific"><display-name>Cinecanal</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png"/><url>https://mi.tv</url></channel>
-<channel id="hn#cine-latino"><display-name>Cinelatino</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#chocolate"><display-name>Chocolate</display-name><url>https://mi.tv</url></channel>
-<channel id="CDMInternacional.pr@SD"><display-name>CDM - Cadena de Milagros</display-name><icon src="https://i.imgur.com/N7IneVk.png"/><url>https://mi.tv</url></channel>
-<channel id="CCIChannel.hn@SD"><display-name>CCI Channel</display-name><icon src="https://i.imgur.com/c6hm03f.png"/><url>https://mi.tv</url></channel>
-<channel id="hn#cartoon-network"><display-name>Cartoon Network</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#caracol-internacional"><display-name>Caracol Internacional</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#canal-de-las-estrellas"><display-name>Las Estrellas</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#canal-11-sotel-hd"><display-name>Canal 11 HD</display-name><url>https://mi.tv</url></channel>
-<channel id="Canal11.hn@SD"><display-name>Canal 11</display-name><icon src="https://i.imgur.com/Sht2Rd4.png"/><url>https://mi.tv</url></channel>
-<channel id="Televicentro.hn@SD"><display-name>Canal 5</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#boomerang-cartoon"><display-name>Cartoonito</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#bloomberg"><display-name>Bloomberg</display-name><url>https://mi.tv</url></channel>
-<channel id="BethelTV.pe@SD"><display-name>Bethel</display-name><icon src="https://i.imgur.com/zCVh765.png"/><url>https://mi.tv</url></channel>
-<channel id="hn#beat-tv"><display-name>Beat TV</display-name><url>https://mi.tv</url></channel>
-<channel id="Bandamax.mx@SD"><display-name>Bandamax</display-name><icon src="https://i.imgur.com/4DfnOTA.png"/><url>https://mi.tv</url></channel>
-<channel id="hn#azteca-honduras"><display-name>Azteca Honduras</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#azteca-13"><display-name>Azteca 13</display-name><url>https://mi.tv</url></channel>
-<channel id="Azteca7.mx@SD"><display-name>Azteca 7</display-name><icon src="https://i.imgur.com/UtFXjIn.png"/><url>https://mi.tv</url></channel>
-<channel id="hn#az-corazon"><display-name>Az Corazón</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#axn"><display-name>AXN</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#antena3"><display-name>Antena 3</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#animal-planet"><display-name>Animal Planet</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#amc"><display-name>AMC</display-name><url>https://mi.tv</url></channel>
-<channel id="AlfaOmegaVision.hn@SD"><display-name>Alfa &amp; Omega Vision</display-name><icon src="https://i.imgur.com/4BSKCQT.png"/><url>https://mi.tv</url></channel>
-<channel id="hn#a-e-mundo"><display-name>A&amp;E</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#venus"><display-name>Venus</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#utv-universidad-autonoma"><display-name>UTV - Universidad Autónoma</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#univision"><display-name>Univision</display-name><url>https://mi.tv</url></channel>
+<channel id="UniversalTVLatinAmerica.us@Panregional"><display-name>Universal TV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/960px-Universal_TV_logo.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="hn#tve"><display-name>TVE</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#tru-tv"><display-name>TruTV</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#todo-deportes-tdtv"><display-name>Todo Deportes</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#tnt-hd"><display-name>TNT HD</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#tnt"><display-name>TNT</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#tlnovelas"><display-name>TLNovelas</display-name><url>https://mi.tv</url></channel>
+<channel id="Telesistema3y7.hn@SD"><display-name>Telesistema 3 y 7</display-name><icon src="https://i.imgur.com/5viHgRa.png"/><url>https://mi.tv</url></channel>
+<channel id="hn#telered-21"><display-name>Telered21</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#telemundo"><display-name>Telemundo</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#telehit"><display-name>Telehit</display-name><url>https://mi.tv</url></channel>
+<channel id="Teleceiba.hn@SD"><display-name>Teleceiba</display-name><icon src="https://i.imgur.com/oPSfsvy.png"/><url>https://mi.tv</url></channel>
+<channel id="Telecadena7y4.hn@SD"><display-name>Telecadena 7 y 4</display-name><icon src="https://i.imgur.com/3gzFNog.png"/><url>https://mi.tv</url></channel>
+<channel id="hn#tcm"><display-name>TCM</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#syfy"><display-name>Syfy</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#suyapa-tv"><display-name>Suyapa TV</display-name><url>https://mi.tv</url></channel>
+<channel id="StudioUniversalLatinAmerica.us@Panregional"><display-name>Studio Universal</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/960px-StudioUniversal2016.png"/><url>https://mi.tv</url></channel>
+<channel id="hn#space"><display-name>Space</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#sony"><display-name>Sony</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#sedena"><display-name>Sedena</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#ritmoson-latino"><display-name>RMS</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#rai"><display-name>Rai Italia</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#pasiones"><display-name>Pasiones</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#nickelodeon"><display-name>Nick</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#nick-jr"><display-name>Nick Jr.</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#max-prime-mexico"><display-name>Max Prime México</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#max-prime"><display-name>HBO Xtreme</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#mas-chic"><display-name>Más Chic</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#m-tv"><display-name>MTV</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#lifetime"><display-name>Lifetime</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#la-cosecha-canal-39"><display-name>La Cosecha</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#htv"><display-name>HTV</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#history"><display-name>History</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#hispan-tv"><display-name>HispanTV</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#hbo-plus"><display-name>HBO Plus México</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#hbo-family"><display-name>HBO Family</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#hbo"><display-name>HBO</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#warner"><display-name>Warner Channel</display-name><url>https://mi.tv</url></channel>
+<channel id="VTV.hn@SD"><display-name>VTV</display-name><icon src="https://i.imgur.com/CsPkwD5.png"/><url>https://mi.tv</url></channel>
+<channel id="hn#vh1-classic-usa"><display-name>VH1 Classic USA</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#vh1"><display-name>VH1</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#ve-plus-tv"><display-name>Ve Plus TV</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#tnt-series"><display-name>TNT Series</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#tele-nostalgia"><display-name>Telenostalgia</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#suyapa-educativa-tv"><display-name>Suyapa Educativa TV</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#national-geographic"><display-name>National Geographic</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#kmusic"><display-name>K Music</display-name><url>https://mi.tv</url></channel>
+<channel id="HCH.hn@SD"><display-name>Hable Como Habla</display-name><icon src="https://i.imgur.com/2CB5ezq.png"/><url>https://mi.tv</url></channel>
+<channel id="hn#tvh"><display-name>TVH</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#telesur"><display-name>teleSUR</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#si-tv"><display-name>SITV</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#guatevision"><display-name>Guatevisión</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#tdn"><display-name>TDN</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#multipremier"><display-name>Multipremier</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#golden"><display-name>Golden</display-name><url>https://mi.tv</url></channel>
 <programme start="20260321060000 +0000" stop="20260321070000 +0000" channel="3ABNLatino.us@SD"><title lang="es">3ABN Hoy</title><desc lang="es">Edición en la que podrás informarte sobre los acontecimientos, novedades y datos de interés relacionados con el accionar cristiano en el mundo actual, con entrevistas, informes, boletines, comentarios y algo más.</desc><image>https://cdn.mitvstatic.com/programs/hn_3abn-hoy_l_m.jpg</image></programme>
 <programme start="20260321070000 +0000" stop="20260321080000 +0000" channel="3ABNLatino.us@SD"><title lang="es">Los mensajes de los tres ángeles</title><desc lang="es">Esta campaña consiste de 24 sermones que explicarán y aclararán estos mensajes relevantes y oportunos que se encuentran en Apocalipsis 14:6-13.</desc><image>https://cdn.mitvstatic.com/programs/hn_los-mensajes-de-los-tres-angeles-si-alguno-adora-a-la-bestia_l_m.jpg</image></programme>
 <programme start="20260321080000 +0000" stop="20260321090000 +0000" channel="3ABNLatino.us@SD"><title lang="es">Solo con su espíritu</title><desc lang="es">¿Quien es responsible por Su muerte? Andrés Portes</desc><image>https://cdn.mitvstatic.com/programs/hn_solo-con-su-espiritu-quien-es-responsible-por-su-muerte-andres-portes_l_m.jpg</image></programme>
@@ -3372,8 +3372,8 @@
 <programme start="20260321232300 +0000" stop="20260322010000 +0000" channel="hn#hbo-family"><title lang="es">Kung Fu Panda 3</title><desc lang="es">Cuando Po se reencuentra con su padre perdido, ambos emprenden un viaje a un paraíso secreto. Sin embargo, Po tiene una nueva misión: el villano Kai ha empezado a atacar a los maestros Kung Fu para quedarse con sus poderes.</desc><category lang="es">7.2</category><image>https://cdn.mitvstatic.com/programs/hn_kung-fu-panda-3-2016_l_m.jpg</image></programme>
 <programme start="20260322010000 +0000" stop="20260322023700 +0000" channel="hn#hbo-family"><title lang="es">Gru 4: Mi villano favorito</title><desc lang="es">Gru, Lucy, Margo, Edith y Agnes dan la bienvenida a un nuevo miembro de la familia, Gru Jr., que se empeña en atormentar a su padre. Gru se enfrenta a su nueva némesis Maxime Le Mal y su novia Valentina, y la familia se ve obligada a huir.</desc><image>https://cdn.mitvstatic.com/programs/fallback_movies_l_m.jpg</image></programme>
 <programme start="20260322023700 +0000" stop="20260322050400 +0000" channel="hn#hbo-family"><title lang="es">Flash</title><desc lang="es">Barry altera el futuro cuando utiliza sus poderes para cambiar los acontecimientos del pasado. Ahora, ha quedado atrapado en una realidad en la que el General Zod ha regresado y no hay superhéroes a los que llamar para detenerlo.</desc><image>https://cdn.mitvstatic.com/programs/fallback_movies_l_m.jpg</image></programme>
-<programme start="20260322050400 +0000" stop="20260322064900 +0000" channel="hn#hbo-family"><title lang="es">Son como niños</title><desc lang="es">Cinco amigos y ex-compañeros de baloncesto se reencuentran después de treinta años. Deciden pasar el fin de semana en una casa en el lago, lo que les servirá para darse cuenta de que, a pesar de tener más edad, realmente no han crecido.</desc><image>https://cdn.mitvstatic.com/programs/hn_son-como-ninos-2010_l_m.jpg</image></programme>
 <programme start="20260322050400 +0000" stop="20260322060400 +0000" channel="hn#hbo-family"><title lang="es">Son como niños</title><desc lang="es">Cinco amigos y ex-compañeros de baloncesto se reencuentran después de treinta años. Deciden pasar el fin de semana en una casa en el lago, lo que les servirá para darse cuenta de que, a pesar de tener más edad, realmente no han crecido.</desc><image>https://cdn.mitvstatic.com/programs/hn_son-como-ninos-2010_l_m.jpg</image></programme>
+<programme start="20260322050400 +0000" stop="20260322064900 +0000" channel="hn#hbo-family"><title lang="es">Son como niños</title><desc lang="es">Cinco amigos y ex-compañeros de baloncesto se reencuentran después de treinta años. Deciden pasar el fin de semana en una casa en el lago, lo que les servirá para darse cuenta de que, a pesar de tener más edad, realmente no han crecido.</desc><image>https://cdn.mitvstatic.com/programs/hn_son-como-ninos-2010_l_m.jpg</image></programme>
 <programme start="20260322064900 +0000" stop="20260322085700 +0000" channel="hn#hbo-family"><title lang="es">Blancanieves y el cazador</title><desc lang="es">El Cazador, contratado para matar a Blancanieves, se rehúsa y, en un interesante giro, la entrena para derrotar a la Reina Malvada. Descubre esta intensa aventura que lleva al tradicional cuento de hadas a una atmósfera épica.</desc><image>https://cdn.mitvstatic.com/programs/hn_blancanieves-y-el-cazador-2012_l_m.jpg</image></programme>
 <programme start="20260322085700 +0000" stop="20260322102500 +0000" channel="hn#hbo-family"><title lang="es">El Grinch</title><desc lang="es">Cuando el Grinch decide robar la Navidad, haciéndose pasar por Santa Claus, una dulce niña planea atrapar al legendario personaje para darle las gracias. Las buenas intenciones de la pequeña amenazan con chocar con las del Grinch.</desc><image>https://cdn.mitvstatic.com/programs/hn_el-grinch-2018_l_m.jpg</image></programme>
 <programme start="20260322102500 +0000" stop="20260322120000 +0000" channel="hn#hbo-family"><title lang="es">Kung Fu Panda</title><desc lang="es">Po es un loco del kung-fu. Cuando el destino quiere que sea el escogido para cumplir con una antigua profecía, se presenta la oportunidad de sus sueños. Entrará en el mundo de tal arte marcial para estudiar con sus ídolos.</desc><category lang="es">7.6</category><image>https://cdn.mitvstatic.com/programs/hn_kung-fu-panda-2008_l_m.jpg</image></programme>
@@ -3580,8 +3580,8 @@
 <programme start="20260321040000 +0000" stop="20260321120000 +0000" channel="hn#htv"><title lang="es">HTV</title><desc lang="es">Desde su nacimiento en 1995 HTV ha sido la señal vanguardia, por excelencia, del estilo de vida &quot;latino&quot;. Un vehículo de la cultura latina con los videoclips de ayer y hoy de los ritmos musicales más contagiosos de Latinoámerica.</desc><image>https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg</image></programme>
 <programme start="20260321120000 +0000" stop="20260321170000 +0000" channel="hn#htv"><title lang="es">HTV</title><desc lang="es">Desde su nacimiento en 1995 HTV ha sido la señal vanguardia, por excelencia, del estilo de vida &quot;latino&quot;. Un vehículo de la cultura latina con los videoclips de ayer y hoy de los ritmos musicales más contagiosos de Latinoámerica.</desc><image>https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg</image></programme>
 <programme start="20260321170000 +0000" stop="20260322040000 +0000" channel="hn#htv"><title lang="es">HTV</title><desc lang="es">Desde su nacimiento en 1995 HTV ha sido la señal vanguardia, por excelencia, del estilo de vida &quot;latino&quot;. Un vehículo de la cultura latina con los videoclips de ayer y hoy de los ritmos musicales más contagiosos de Latinoámerica.</desc><image>https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg</image></programme>
-<programme start="20260322040000 +0000" stop="20260322120000 +0000" channel="hn#htv"><title lang="es">HTV</title><desc lang="es">Desde su nacimiento en 1995 HTV ha sido la señal vanguardia, por excelencia, del estilo de vida &quot;latino&quot;. Un vehículo de la cultura latina con los videoclips de ayer y hoy de los ritmos musicales más contagiosos de Latinoámerica.</desc><image>https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg</image></programme>
 <programme start="20260322040000 +0000" stop="20260322050000 +0000" channel="hn#htv"><title lang="es">HTV</title><desc lang="es">Desde su nacimiento en 1995 HTV ha sido la señal vanguardia, por excelencia, del estilo de vida &quot;latino&quot;. Un vehículo de la cultura latina con los videoclips de ayer y hoy de los ritmos musicales más contagiosos de Latinoámerica.</desc><image>https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg</image></programme>
+<programme start="20260322040000 +0000" stop="20260322120000 +0000" channel="hn#htv"><title lang="es">HTV</title><desc lang="es">Desde su nacimiento en 1995 HTV ha sido la señal vanguardia, por excelencia, del estilo de vida &quot;latino&quot;. Un vehículo de la cultura latina con los videoclips de ayer y hoy de los ritmos musicales más contagiosos de Latinoámerica.</desc><image>https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg</image></programme>
 <programme start="20260322120000 +0000" stop="20260322170000 +0000" channel="hn#htv"><title lang="es">HTV</title><desc lang="es">Desde su nacimiento en 1995 HTV ha sido la señal vanguardia, por excelencia, del estilo de vida &quot;latino&quot;. Un vehículo de la cultura latina con los videoclips de ayer y hoy de los ritmos musicales más contagiosos de Latinoámerica.</desc><image>https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg</image></programme>
 <programme start="20260322170000 +0000" stop="20260323040000 +0000" channel="hn#htv"><title lang="es">HTV</title><desc lang="es">Desde su nacimiento en 1995 HTV ha sido la señal vanguardia, por excelencia, del estilo de vida &quot;latino&quot;. Un vehículo de la cultura latina con los videoclips de ayer y hoy de los ritmos musicales más contagiosos de Latinoámerica.</desc><image>https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg</image></programme>
 <programme start="20260323040000 +0000" stop="20260323050000 +0000" channel="hn#htv"><title lang="es">HTV</title><desc lang="es">Desde su nacimiento en 1995 HTV ha sido la señal vanguardia, por excelencia, del estilo de vida &quot;latino&quot;. Un vehículo de la cultura latina con los videoclips de ayer y hoy de los ritmos musicales más contagiosos de Latinoámerica.</desc><image>https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg</image></programme>
@@ -3698,8 +3698,8 @@
 <programme start="20260322042000 +0000" stop="20260322044000 +0000" channel="hn#m-tv"><title lang="es">Ridiculousness</title><desc lang="es">Rob, Steelo y Lolo Wood hacen ciclismo todoterreno en CRASHING OFF-PATH y hacen el ridículo en la cancha de baloncesto en SLOPPY TRICK SHOTS.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">42.31.0/1</episode-num><episode-num system="onscreen">S43E32</episode-num><image>https://cdn.mitvstatic.com/programs/hn_ridiculousness-s43e32-sterling-and-lolo-wood-xcvi_l_m.jpg</image></programme>
 <programme start="20260322044000 +0000" stop="20260322050500 +0000" channel="hn#m-tv"><title lang="es">Ridiculousness</title><desc lang="es">Rob, Steelo y Lolo Wood se topan con inodoros peligrosos, gastan bromas a sus gatos y se suben a algunos paseos mojados.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">42.32.0/1</episode-num><episode-num system="onscreen">S43E33</episode-num><image>https://cdn.mitvstatic.com/programs/hn_ridiculousness-s43e33-sterling-and-lolo-wood-xcvii_l_m.jpg</image></programme>
 <programme start="20260322050500 +0000" stop="20260322055000 +0000" channel="hn#m-tv"><title lang="es">Geordie Shore</title><desc lang="es">Abbie aclara las cosas con Dee después de su altercado anterior, mientras que Sophie se siente excluida. Los chicos compiten por la atención de Abbie, pero ella está menos que impresionada por los esfuerzos de Nick.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">16.1.0/1</episode-num><episode-num system="onscreen">S17E02</episode-num><image>https://cdn.mitvstatic.com/programs/hn_geordie-shore-s17e02_l_m.jpg</image></programme>
-<programme start="20260322055000 +0000" stop="20260322064000 +0000" channel="hn#m-tv"><title lang="es">Geordie Shore</title><desc lang="es">El grupo está disfrutando conocer a los nuevos. Además, el trabajo toma un giro inesperado cuando Anna manda al equipo a disculparse en nombre de un animal de fiestas.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">20.1.0/1</episode-num><episode-num system="onscreen">S21E02</episode-num><image>https://cdn.mitvstatic.com/programs/hn_geordie-shore-s21e02-friccion-familiar_l_m.jpg</image></programme>
 <programme start="20260322055000 +0000" stop="20260322065000 +0000" channel="hn#m-tv"><title lang="es">Geordie Shore</title><desc lang="es">El grupo está disfrutando conocer a los nuevos. Además, el trabajo toma un giro inesperado cuando Anna manda al equipo a disculparse en nombre de un animal de fiestas.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">20.1.0/1</episode-num><episode-num system="onscreen">S21E02</episode-num><image>https://cdn.mitvstatic.com/programs/hn_geordie-shore-s21e02-friccion-familiar_l_m.jpg</image></programme>
+<programme start="20260322055000 +0000" stop="20260322064000 +0000" channel="hn#m-tv"><title lang="es">Geordie Shore</title><desc lang="es">El grupo está disfrutando conocer a los nuevos. Además, el trabajo toma un giro inesperado cuando Anna manda al equipo a disculparse en nombre de un animal de fiestas.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">20.1.0/1</episode-num><episode-num system="onscreen">S21E02</episode-num><image>https://cdn.mitvstatic.com/programs/hn_geordie-shore-s21e02-friccion-familiar_l_m.jpg</image></programme>
 <programme start="20260322064000 +0000" stop="20260322072000 +0000" channel="hn#m-tv"><title lang="es">Geordie Shore</title><desc lang="es">Para celebrar los más de 10 años de Geordie Shore, Charlotte, Holly y Sophie de OG organizan un baby shower para Marine, donde planean una fiesta de reunión para el elenco.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">22.0.0/1</episode-num><episode-num system="onscreen">S23E01</episode-num><image>https://cdn.mitvstatic.com/programs/hn_geordie-shore-s23e01-vamos-nos-reunir_l_m.jpg</image></programme>
 <programme start="20260322072000 +0000" stop="20260322080500 +0000" channel="hn#m-tv"><title lang="es">Jersey Shore: vacaciones en familia</title><desc lang="es">Los Dirty Stay Outs se hacen cargo del club de baile; Deena hace una nueva amiga; Ronnie se dirige a Orlando para hacer las paces.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">5.28.0/1</episode-num><episode-num system="onscreen">S06E29</episode-num><image>https://cdn.mitvstatic.com/programs/hn_jersey-shore-vacaciones-en-familia-s06e29-deena-hace-una-amiga_l_m.jpg</image></programme>
 <programme start="20260322080500 +0000" stop="20260322085000 +0000" channel="hn#m-tv"><title lang="es">Jersey Shore: vacaciones en familia</title><desc lang="es">Ronnie se disculpa y los chicos dan sus opiniones. Mientras tanto, el drama entre Angelina y Jenni estresa a Snooki.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">5.29.0/1</episode-num><episode-num system="onscreen">S06E30</episode-num><image>https://cdn.mitvstatic.com/programs/hn_jersey-shore-vacaciones-en-familia-s06e30_l_m.jpg</image></programme>
@@ -3830,8 +3830,8 @@
 <programme start="20260321223600 +0000" stop="20260322012000 +0000" channel="hn#max-prime"><title lang="es">Una batalla tras otra</title><desc lang="es">Cuando su malvado enemigo resurge después de 16 años, una banda de exrevolucionarios se reúne para rescatar a la hija de uno de los suyos.</desc><image>https://cdn.mitvstatic.com/programs/fallback_movies_l_m.jpg</image></programme>
 <programme start="20260322012000 +0000" stop="20260322030300 +0000" channel="hn#max-prime"><title lang="es">CHIPS: patrulla motorizada recargada</title><desc lang="es">Baker es un desgastado motociclista, mientras que Ponch un agente federal que está investigando un robo de millones de dólares. El inexperto principiante y el endurecido experto deberán unirse para investigar, si no se vuelven locos antes.</desc><image>https://cdn.mitvstatic.com/programs/hn_chips-patrulla-motorizada-recargada-2017-1_l_m.jpg</image></programme>
 <programme start="20260322030300 +0000" stop="20260322045200 +0000" channel="hn#max-prime"><title lang="es">Bala perdida</title><desc lang="es">El exjugador de béisbol Hank Thompson se ve envuelto en una peligrosa lucha por la supervivencia en medio del submundo criminal de la ciudad de Nueva York de los 90, obligado a navegar por un traicionero inframundo que nunca imaginó.</desc><image>https://cdn.mitvstatic.com/programs/fallback_movies_l_m.jpg</image></programme>
-<programme start="20260322045200 +0000" stop="20260322064800 +0000" channel="hn#max-prime"><title lang="es">Amigos de armas</title><desc lang="es">Dos amigos deciden tener contratos con el ejército durante la Guerra de Iraq. A medida que mejora su estatus, ambos terminan con un contrato multimillonario para armar al ejército afgano.</desc><image>https://cdn.mitvstatic.com/programs/hn_amigos-de-armas-2016_l_m.jpg</image></programme>
 <programme start="20260322045200 +0000" stop="20260322055200 +0000" channel="hn#max-prime"><title lang="es">Amigos de armas</title><desc lang="es">Dos amigos deciden tener contratos con el ejército durante la Guerra de Iraq. A medida que mejora su estatus, ambos terminan con un contrato multimillonario para armar al ejército afgano.</desc><image>https://cdn.mitvstatic.com/programs/hn_amigos-de-armas-2016_l_m.jpg</image></programme>
+<programme start="20260322045200 +0000" stop="20260322064800 +0000" channel="hn#max-prime"><title lang="es">Amigos de armas</title><desc lang="es">Dos amigos deciden tener contratos con el ejército durante la Guerra de Iraq. A medida que mejora su estatus, ambos terminan con un contrato multimillonario para armar al ejército afgano.</desc><image>https://cdn.mitvstatic.com/programs/hn_amigos-de-armas-2016_l_m.jpg</image></programme>
 <programme start="20260322064800 +0000" stop="20260322090000 +0000" channel="hn#max-prime"><title lang="es">La leyenda del Zorro</title><desc lang="es">El Zorro está obligado a cumplir la promesa que le hizo a su mujer: llevar adelante una vida normal, abandonando su identidad secreta. Sin embargo, la aparición de nuevos villanos pondrán en jaque el acatamiento de su juramento.</desc><image>https://cdn.mitvstatic.com/programs/hn_la-leyenda-del-zorro-2005_l_m.jpg</image></programme>
 <programme start="20260322090000 +0000" stop="20260322111000 +0000" channel="hn#max-prime"><title lang="es">xXx - Triple X</title><desc lang="es">Tras perder a otro de sus hombres en manos de un grupo terrorista, el agente Gibbons considera que el indicado para infiltrarse en una red criminal rusa es el delincuente del bajo mundo conocido como Xander.</desc><image>https://cdn.mitvstatic.com/programs/fallback_movies_l_m.jpg</image></programme>
 <programme start="20260322111000 +0000" stop="20260322125400 +0000" channel="hn#max-prime"><title lang="es">El amanecer de los muertos</title><desc lang="es">Una enfermera, un policía, una joven pareja, un vendedor y otros sobrevivientes de una plaga que produjo zombis devoradores de carne humana, se refugian en un centro comercial y se preparan para una última y desesperada batalla.</desc><image>https://cdn.mitvstatic.com/programs/hn_el-amanecer-de-los-muertos-2004_l_m.jpg</image></programme>
@@ -4631,8 +4631,8 @@
 <programme start="20260322010000 +0000" stop="20260322015300 +0000" channel="hn#tcm"><title lang="es">Otros pecados</title><desc lang="es">Nicolás es una persona que tiene todo milimétricamente pensado. Le aterra la idea de perder el control sobre su vida. Santiago, su terapeuta, lo invita a dejarse llevar y sorprender, ya que el destino no está prefijado.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">0.6.0/1</episode-num><episode-num system="onscreen">S01E07</episode-num><image>https://cdn.mitvstatic.com/programs/hn_otros-pecados-s01e07-el-control_l_m.jpg</image></programme>
 <programme start="20260322015300 +0000" stop="20260322024100 +0000" channel="hn#tcm"><title lang="es">Otros pecados</title><desc lang="es">Sandra y Walter celebran el Bar Mitzvah de su hijo Ariel con una gran fiesta, pero cuando el abuelo Saúl muere repentinamente en pleno evento, Sandra intentará que esta &quot;tragedia familiar&quot; no afecte la continuidad del festejo.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">0.7.0/1</episode-num><episode-num system="onscreen">S01E08</episode-num><image>https://cdn.mitvstatic.com/programs/hn_otros-pecados-s01e08-kadish-para-un-bar-mitzvah_l_m.jpg</image></programme>
 <programme start="20260322024100 +0000" stop="20260322043500 +0000" channel="hn#tcm"><title lang="es">Top Gun, reto a la gloria</title><desc lang="es">Pete Mitchell, un impetuoso y temerario piloto naval, es aceptado en la escuela de élite Fighter School de Miramar, también conocida como Top Gun. Allí, competirá con sus compañeros por quedarse con el prestigioso Top Gun Trophy.</desc><image>https://cdn.mitvstatic.com/programs/hn_top-gun-reto-a-la-gloria-1986_l_m.jpg</image></programme>
-<programme start="20260322043500 +0000" stop="20260322062200 +0000" channel="hn#tcm"><title lang="es">La furia</title><desc lang="es">Una peligrosa red de narcotráfico que involucra a oficiales de la ley, jueces y altos funcionarios nacionales, secuestra a Marcos Lombardi, el hijo de un importante juez federal, con el objetivo de que este &quot;afloje&quot; y deje de investigarlos.</desc><image>https://cdn.mitvstatic.com/programs/hn_la-furia-1997_l_m.jpg</image></programme>
 <programme start="20260322043500 +0000" stop="20260322053500 +0000" channel="hn#tcm"><title lang="es">La furia</title><desc lang="es">Una peligrosa red de narcotráfico que involucra a oficiales de la ley, jueces y altos funcionarios nacionales, secuestra a Marcos Lombardi, el hijo de un importante juez federal, con el objetivo de que este &quot;afloje&quot; y deje de investigarlos.</desc><image>https://cdn.mitvstatic.com/programs/hn_la-furia-1997_l_m.jpg</image></programme>
+<programme start="20260322043500 +0000" stop="20260322062200 +0000" channel="hn#tcm"><title lang="es">La furia</title><desc lang="es">Una peligrosa red de narcotráfico que involucra a oficiales de la ley, jueces y altos funcionarios nacionales, secuestra a Marcos Lombardi, el hijo de un importante juez federal, con el objetivo de que este &quot;afloje&quot; y deje de investigarlos.</desc><image>https://cdn.mitvstatic.com/programs/hn_la-furia-1997_l_m.jpg</image></programme>
 <programme start="20260322062200 +0000" stop="20260322080300 +0000" channel="hn#tcm"><title lang="es">Plus One</title><desc lang="es">Forzados a atravesar una temporada repleta de bodas que no hace más que recordarles que están solos, Alice y Ben deciden que es más soportable atravesar esos eventos de a dos.</desc><image>https://cdn.mitvstatic.com/programs/hn_plus-one-2018_l_m.jpg</image></programme>
 <programme start="20260322080300 +0000" stop="20260322083900 +0000" channel="hn#tcm"><title lang="es">Hollywood One on One</title><desc lang="es">Disfruta de las mejores entrevistas con las personalidades de Hollywood y conoce todos los detalles de sus nuevos proyectos.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">0.34.0/1</episode-num><episode-num system="onscreen">S01E35</episode-num><image>https://cdn.mitvstatic.com/programs/hn_hollywood-one-on-one-s00e35_l_m.jpg</image></programme>
 <programme start="20260322083900 +0000" stop="20260322084900 +0000" channel="hn#tcm"><title lang="es">Hollywood One on One</title><desc lang="es">Disfruta de las mejores entrevistas con las personalidades de Hollywood y conoce todos los detalles de sus nuevos proyectos.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">0.97.0/1</episode-num><episode-num system="onscreen">S01E98</episode-num><image>https://cdn.mitvstatic.com/programs/hn_hollywood-one-on-one-s00e98_l_m.jpg</image></programme>
@@ -4798,8 +4798,8 @@
 <programme start="20260322010000 +0000" stop="20260322020000 +0000" channel="hn#telered-21"><title lang="es">Ok Pop</title><desc lang="es">Pop, hip hop, EDM, rock, R&amp;B, todos los géneros del K Pop reunidos en un sólo programa para ti.</desc><image>https://cdn.mitvstatic.com/programs/hn_ok-pop_l_m.jpg</image></programme>
 <programme start="20260322020000 +0000" stop="20260322030000 +0000" channel="hn#telered-21"><title lang="es">La calle me lo pidio</title><image>https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg</image></programme>
 <programme start="20260322030000 +0000" stop="20260322050000 +0000" channel="hn#telered-21"><title lang="es">Hit</title><desc lang="es">Un espacio de contenido musical para escuchar tus canciones preferidas.</desc><image>https://cdn.mitvstatic.com/programs/hn_hit_l_m.jpg</image></programme>
-<programme start="20260322050000 +0000" stop="20260322070000 +0000" channel="hn#telered-21"><title lang="es">Zona mix</title><desc lang="es">Programa musical con mezclas de DJ&apos;s.</desc><image>https://cdn.mitvstatic.com/programs/hn_zona-mix_l_m.jpg</image></programme>
 <programme start="20260322050000 +0000" stop="20260322060000 +0000" channel="hn#telered-21"><title lang="es">Zona mix</title><desc lang="es">Programa musical con mezclas de DJ&apos;s.</desc><image>https://cdn.mitvstatic.com/programs/hn_zona-mix_l_m.jpg</image></programme>
+<programme start="20260322050000 +0000" stop="20260322070000 +0000" channel="hn#telered-21"><title lang="es">Zona mix</title><desc lang="es">Programa musical con mezclas de DJ&apos;s.</desc><image>https://cdn.mitvstatic.com/programs/hn_zona-mix_l_m.jpg</image></programme>
 <programme start="20260322070000 +0000" stop="20260322120000 +0000" channel="hn#telered-21"><title lang="es">Fin de transmisión</title><desc lang="es">Fin de transmisión.</desc><image>https://cdn.mitvstatic.com/programs/hn_fin-de-transmision_l_m.jpg</image></programme>
 <programme start="20260322120000 +0000" stop="20260322140000 +0000" channel="hn#telered-21"><title lang="es">Levantate</title><image>https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg</image></programme>
 <programme start="20260322140000 +0000" stop="20260322150000 +0000" channel="hn#telered-21"><title lang="es">Concierto</title><desc lang="es">Los mejores conciertos y festivales cristianos de talla internacional.</desc><image>https://cdn.mitvstatic.com/programs/hn_concierto_l_m.jpg</image></programme>
@@ -4982,8 +4982,8 @@
 <programme start="20260322003300 +0000" stop="20260322022300 +0000" channel="hn#tnt"><title lang="es">Hoy 13, mañana 30</title><desc lang="es">Una adolescente de trece años anhela convertirse en una atractiva y exitosa mujer de treinta. Con la ayuda de un polvo mágico, su sueño se vuelve realidad, pero ya adulta deberá luchar por recuperar a su amor verdadero.</desc><image>https://cdn.mitvstatic.com/programs/hn_hoy-13-manana-30-2004-1_l_m.jpg</image></programme>
 <programme start="20260322022300 +0000" stop="20260322040600 +0000" channel="hn#tnt"><title lang="es">Son como niños</title><desc lang="es">Cinco amigos y ex-compañeros de baloncesto se reencuentran después de treinta años. Deciden pasar el fin de semana en una casa en el lago, lo que les servirá para darse cuenta de que, a pesar de tener más edad, realmente no han crecido.</desc><image>https://cdn.mitvstatic.com/programs/hn_son-como-ninos-2010_l_m.jpg</image></programme>
 <programme start="20260322040600 +0000" stop="20260322054500 +0000" channel="hn#tnt"><title lang="es">Destino final 2</title><desc lang="es">Una joven tiene una visión sobre un accidente en la autopista. Después, se encuentra atrapada entre los autos que vio convertidos en chatarra. Cuando su premonición cobre vida ante sus ojos, la chica intentará evadir su destino.</desc><image>https://cdn.mitvstatic.com/programs/hn_destino-final-2-2003_l_m.jpg</image></programme>
-<programme start="20260322054500 +0000" stop="20260322071600 +0000" channel="hn#tnt"><title lang="es">Destino final 3</title><desc lang="es">La premonición de una estudiante acerca de un accidente mortal en una montaña rusa le salva la vida a ella y a unos pocos amigos. Sin embargo, no la resguardará de la Muerte, que perseguirá a aquellos que escaparon de su destino.</desc><image>https://cdn.mitvstatic.com/programs/hn_destino-final-3-2006_l_m.jpg</image></programme>
 <programme start="20260322054500 +0000" stop="20260322064500 +0000" channel="hn#tnt"><title lang="es">Destino final 3</title><desc lang="es">La premonición de una estudiante acerca de un accidente mortal en una montaña rusa le salva la vida a ella y a unos pocos amigos. Sin embargo, no la resguardará de la Muerte, que perseguirá a aquellos que escaparon de su destino.</desc><image>https://cdn.mitvstatic.com/programs/hn_destino-final-3-2006_l_m.jpg</image></programme>
+<programme start="20260322054500 +0000" stop="20260322071600 +0000" channel="hn#tnt"><title lang="es">Destino final 3</title><desc lang="es">La premonición de una estudiante acerca de un accidente mortal en una montaña rusa le salva la vida a ella y a unos pocos amigos. Sin embargo, no la resguardará de la Muerte, que perseguirá a aquellos que escaparon de su destino.</desc><image>https://cdn.mitvstatic.com/programs/hn_destino-final-3-2006_l_m.jpg</image></programme>
 <programme start="20260322071600 +0000" stop="20260322085600 +0000" channel="hn#tnt"><title lang="es">Quiero matar a mi jefe</title><desc lang="es">Tres amigos tienen un problema en común, todos odian a sus abusivos jefes. Por ello, idean un plan: ya que no pueden renunciar debido a los problemas económicos que atraviesa el país, contratan a un asesor para asesinarlos.</desc><image>https://cdn.mitvstatic.com/programs/hn_quiero-matar-a-mi-jefe-2011_l_m.jpg</image></programme>
 <programme start="20260322085600 +0000" stop="20260322102900 +0000" channel="hn#tnt"><title lang="es">Vuela como el águila</title><desc lang="es">Cuando la madre separada de Leif, Honey, muere, le deja una herencia con condiciones. Él tiene que completar su elaborada lista de cosas por hacer antes de conseguir su cabaña en Yosemite.</desc><image>https://cdn.mitvstatic.com/programs/fallback_movies_l_m.jpg</image></programme>
 <programme start="20260322102900 +0000" stop="20260322110400 +0000" channel="hn#tnt"><title lang="es">Hollywood One on One</title><desc lang="es">Disfruta de las mejores entrevistas con las personalidades de Hollywood y conoce todos los detalles de sus nuevos proyectos.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">0.34.0/1</episode-num><episode-num system="onscreen">S01E35</episode-num><image>https://cdn.mitvstatic.com/programs/hn_hollywood-one-on-one-s00e35_l_m.jpg</image></programme>
@@ -5173,8 +5173,8 @@
 <programme start="20260322024500 +0000" stop="20260322034000 +0000" channel="hn#tve"><title lang="es">Historia de nuestro cine</title><desc lang="es">Un repaso por lo mejor del cine español desde los años treinta hasta nuestros días, presentado por Elena S. Sánchez, coordinado por el historiador cinematográfico Luis E. Parés y dirigido por Francisco Quintanar.</desc><image>https://cdn.mitvstatic.com/programs/hn_historia-de-nuestro-cine-s00e862-gonzalo-suarez_l_m.jpg</image></programme>
 <programme start="20260322034000 +0000" stop="20260322044000 +0000" channel="hn#tve"><title lang="es">Días de cine</title><desc lang="es">Un programa de información y crítica, en el que se repasan los estrenos cinematográficos más importantes de la semana.</desc><image>https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg</image></programme>
 <programme start="20260322044000 +0000" stop="20260322051000 +0000" channel="hn#tve"><title lang="es">Atención obras</title><desc lang="es">Cada semana, el programa refleja la actualidad y aporta recomendaciones en el ámbito de la escena (teatro, danza, ópera), la música, las artes plásticas y el patrimonio cultural.</desc><image>https://cdn.mitvstatic.com/programs/hn_atencion-obras-s00e346-valeria-castro_l_m.jpg</image></programme>
-<programme start="20260322051000 +0000" stop="20260322063000 +0000" channel="hn#tve"><title lang="es">Cachitos de hierro y cromo</title><desc lang="es">Programa cargado de sorpresas que ofrece insólitas playlist con música rescatada del histórico archivo de RTVE.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">0.98.0/1</episode-num><episode-num system="onscreen">S01E99</episode-num><image>https://cdn.mitvstatic.com/programs/hn_cachitos-de-hierro-y-cromo-s00e99-solo-dance_l_m.jpg</image></programme>
 <programme start="20260322051000 +0000" stop="20260322061000 +0000" channel="hn#tve"><title lang="es">Cachitos de hierro y cromo</title><desc lang="es">Programa cargado de sorpresas que ofrece insólitas playlist con música rescatada del histórico archivo de RTVE.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">0.98.0/1</episode-num><episode-num system="onscreen">S01E99</episode-num><image>https://cdn.mitvstatic.com/programs/hn_cachitos-de-hierro-y-cromo-s00e99-solo-dance_l_m.jpg</image></programme>
+<programme start="20260322051000 +0000" stop="20260322063000 +0000" channel="hn#tve"><title lang="es">Cachitos de hierro y cromo</title><desc lang="es">Programa cargado de sorpresas que ofrece insólitas playlist con música rescatada del histórico archivo de RTVE.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">0.98.0/1</episode-num><episode-num system="onscreen">S01E99</episode-num><image>https://cdn.mitvstatic.com/programs/hn_cachitos-de-hierro-y-cromo-s00e99-solo-dance_l_m.jpg</image></programme>
 <programme start="20260322063000 +0000" stop="20260322073000 +0000" channel="hn#tve"><title lang="es">Tendido cero</title><desc lang="es">Programa semanal que trata de conjugar todos los aspectos relacionados con la tauromaquia incluida la cultural. Habrá un acercamiento especial a las grandes ferias y se dará voz a los aficionados.</desc><image>https://cdn.mitvstatic.com/programs/hn_tendido-cero-s00e402_l_m.jpg</image></programme>
 <programme start="20260322073000 +0000" stop="20260322110000 +0000" channel="hn#tve"><title lang="es">Noticias 24 h</title><desc lang="es">Información continua 24 horas nacional e internacional, 366 dias al año</desc><image>https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg</image></programme>
 <programme start="20260322110000 +0000" stop="20260322111500 +0000" channel="hn#tve"><title lang="es">Medina en TVE</title><desc lang="es">Disfruta de un magazine dedicado exclusivamente a la comunidad islámica con temas de interés general y la recuperación de su legado histórico hispano.</desc><image>https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg</image></programme>
