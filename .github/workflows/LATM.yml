@@ -70,7 +70,7 @@ jobs:
         run: |
           mkdir -p guides/mi.tv
 
-          for code in ar br cl co sv gt hn mx py pe
+          for code in ar cl co sv gt hn mx py pe
           do
             echo "Generando mi.tv $code..."
             npm run grab -- --channels=sites/mi.tv/mi.tv_${code}.channels.xml --output=guides/mi.tv/${code}.xml
