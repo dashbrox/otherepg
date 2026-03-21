@@ -50,9 +50,7 @@ module.exports = {
   request: { headers },
 
   url({ date, channel }) {
-    const parts = channel.site_id.split('.')
-    const country = parts.pop()
-    const id = parts.join('.')
+    const [country, id] = channel.site_id.split('#')
     return `https://mi.tv/${country}/async/channel/${id}/${date.format('YYYY-MM-DD')}/0`
   },
 
@@ -112,7 +110,7 @@ module.exports = {
         channels.push({
           lang,
           name,
-          site_id: `${channelId}.${country}`
+          site_id: `${country}#${channelId}`
         })
       }
     )
