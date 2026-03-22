@@ -2,34 +2,33 @@
 <channel id="pe#a-e-mundo"><display-name>A&amp;E</display-name><url>https://mi.tv</url></channel>
 <channel id="pe#amc"><display-name>AMC</display-name><url>https://mi.tv</url></channel>
 <channel id="pe#america-television"><display-name>América Televisión</display-name><url>https://mi.tv</url></channel>
+<channel id="ATVSur.pe@SD"><display-name>ATV Sur</display-name><icon src="https://i.imgur.com/LnyVa5H.png"/><url>https://mi.tv</url></channel>
+<channel id="pe#cablenoticias"><display-name>Cablenoticias</display-name><url>https://mi.tv</url></channel>
+<channel id="BYUTV.us@SD"><display-name>BYUtv</display-name><icon src="https://i.imgur.com/mruGyuu.png"/><url>https://mi.tv</url></channel>
+<channel id="pe#destinos-tv"><display-name>Destinos TV</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#de-pelicula"><display-name>De Película</display-name><url>https://mi.tv</url></channel>
 <channel id="ATVPlus.pe@SD"><display-name>ATV +</display-name><icon src="https://i.imgur.com/fY9256H.png"/><url>https://mi.tv</url></channel>
+<channel id="pe#boomerang-cartoon"><display-name>Cartoonito</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#cnn-en-espanol"><display-name>CNN en Español</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#cnn-domestico"><display-name>CNN (EE.UU.)</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#bethel"><display-name>Bethel</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#cnn"><display-name>CNN</display-name><url>https://mi.tv</url></channel>
+<channel id="CitytvBogota.co@SD"><display-name>Citytv</display-name><icon src="https://i.imgur.com/h7K9EW9.png"/><url>https://mi.tv</url></channel>
 <channel id="pe#america-sports"><display-name>América Sports</display-name><url>https://mi.tv</url></channel>
 <channel id="ATV.pe@SD"><display-name>ATV</display-name><icon src="https://i.imgur.com/eUzYZfg.png"/><url>https://mi.tv</url></channel>
+<channel id="pe#bbc-world"><display-name>BBC World</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#cinemax"><display-name>Cinemax</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#cinema"><display-name>Cinema+</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#azteca-13"><display-name>Azteca 13</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#cinecanal"><display-name>Cinecanal</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#cine-latino"><display-name>Cinelatino</display-name><url>https://mi.tv</url></channel>
 <channel id="pe#animal-planet"><display-name>Animal Planet</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#tyc-sports"><display-name>TyC Sports</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#tvn-chile"><display-name>TVN Chile</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#tve"><display-name>TVE</display-name><url>https://mi.tv</url></channel>
-<channel id="TVPeru.pe@SD"><display-name>TV Perú</display-name><icon src="https://i.imgur.com/6io0IrX.png"/><url>https://mi.tv</url></channel>
-<channel id="pe#tv-agro"><display-name>Tv Agro</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#tru-tv"><display-name>TruTV</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#tnt-series"><display-name>TNT Series</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#tnt"><display-name>TNT</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#tlnovelas"><display-name>TLNovelas</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#televen"><display-name>Televen</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#telesur"><display-name>Telesur</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#telenostalgia"><display-name>Telenostalgia</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#telemundo"><display-name>Telemundo</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#telehit"><display-name>Telehit</display-name><url>https://mi.tv</url></channel>
-<channel id="Telefuturo.py@SD"><display-name>Telefuturo</display-name><icon src="https://i.imgur.com/xuk3HbB.png"/><url>https://mi.tv</url></channel>
-<channel id="pe#tcm"><display-name>TCM</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#tbs-veryfunny-pan"><display-name>TBS</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#syfy"><display-name>Syfy</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#space"><display-name>Space</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#sony"><display-name>Sony</display-name><url>https://mi.tv</url></channel>
-<channel id="RumbaTV.co@SD"><display-name>Rumba TV</display-name><icon src="https://i.imgur.com/WtVpWwI.png"/><url>https://mi.tv</url></channel>
-<channel id="pe#rt-tv-russia-today"><display-name>Russia Today</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#ritmoson-latino"><display-name>RMS</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#rbc"><display-name>RBC</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#az-corazon"><display-name>Az Corazón</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#chilevision"><display-name>Chilevisión</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#cctv-4"><display-name>CCTV 4</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#axn"><display-name>AXN</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#cartoon-network"><display-name>Cartoon Network</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#canal-7"><display-name>Canal 7</display-name><url>https://mi.tv</url></channel>
 <channel id="pe#pfc"><display-name>PFC</display-name><url>https://mi.tv</url></channel>
 <channel id="pe#pat"><display-name>PAT</display-name><url>https://mi.tv</url></channel>
 <channel id="pe#paramount-channel"><display-name>Paramount Network</display-name><url>https://mi.tv</url></channel>
@@ -86,34 +85,35 @@
 <channel id="pe#discovery-home-and-health"><display-name>Discovery Home &amp; Health</display-name><url>https://mi.tv</url></channel>
 <channel id="pe#discovery-channel"><display-name>Discovery Channel</display-name><url>https://mi.tv</url></channel>
 <channel id="DW.de@DeutschPlus"><display-name>DW (Español)</display-name><icon src="https://i.imgur.com/8MRNFb9.png"/><url>https://mi.tv</url></channel>
-<channel id="pe#destinos-tv"><display-name>Destinos TV</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#de-pelicula"><display-name>De Película</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#cnn-en-espanol"><display-name>CNN en Español</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#cnn-domestico"><display-name>CNN (EE.UU.)</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#cnn"><display-name>CNN</display-name><url>https://mi.tv</url></channel>
-<channel id="CitytvBogota.co@SD"><display-name>Citytv</display-name><icon src="https://i.imgur.com/h7K9EW9.png"/><url>https://mi.tv</url></channel>
-<channel id="pe#cinemax"><display-name>Cinemax</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#cinema"><display-name>Cinema+</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#cinecanal"><display-name>Cinecanal</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#cine-latino"><display-name>Cinelatino</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#chilevision"><display-name>Chilevisión</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#cctv-4"><display-name>CCTV 4</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#cartoon-network"><display-name>Cartoon Network</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#canal-7"><display-name>Canal 7</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#cablenoticias"><display-name>Cablenoticias</display-name><url>https://mi.tv</url></channel>
-<channel id="BYUTV.us@SD"><display-name>BYUtv</display-name><icon src="https://i.imgur.com/mruGyuu.png"/><url>https://mi.tv</url></channel>
-<channel id="pe#boomerang-cartoon"><display-name>Cartoonito</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#bethel"><display-name>Bethel</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#bbc-world"><display-name>BBC World</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#azteca-13"><display-name>Azteca 13</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#az-corazon"><display-name>Az Corazón</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#axn"><display-name>AXN</display-name><url>https://mi.tv</url></channel>
-<channel id="ATVSur.pe@SD"><display-name>ATV Sur</display-name><icon src="https://i.imgur.com/LnyVa5H.png"/><url>https://mi.tv</url></channel>
-<channel id="WillaxTV.pe@SD"><display-name>Willax</display-name><icon src="https://i.imgur.com/bZnDDPH.png"/><url>https://mi.tv</url></channel>
+<channel id="pe#warner"><display-name>Warner Channel</display-name><url>https://mi.tv</url></channel>
 <channel id="pe#ve-plus-tv"><display-name>Ve Plus TV</display-name><url>https://mi.tv</url></channel>
 <channel id="pe#universal-channel"><display-name>Universal TV</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#tyc-sports"><display-name>TyC Sports</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#tvn-chile"><display-name>TVN Chile</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#tve"><display-name>TVE</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#tv-agro"><display-name>Tv Agro</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#tru-tv"><display-name>TruTV</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#tnt-series"><display-name>TNT Series</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#tlnovelas"><display-name>TLNovelas</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#televen"><display-name>Televen</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#telesur"><display-name>Telesur</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#telemundo"><display-name>Telemundo</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#telehit"><display-name>Telehit</display-name><url>https://mi.tv</url></channel>
+<channel id="Telefuturo.py@SD"><display-name>Telefuturo</display-name><icon src="https://i.imgur.com/xuk3HbB.png"/><url>https://mi.tv</url></channel>
+<channel id="pe#tbs-veryfunny-pan"><display-name>TBS</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#syfy"><display-name>Syfy</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#space"><display-name>Space</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#sony"><display-name>Sony</display-name><url>https://mi.tv</url></channel>
+<channel id="RumbaTV.co@SD"><display-name>Rumba TV</display-name><icon src="https://i.imgur.com/WtVpWwI.png"/><url>https://mi.tv</url></channel>
+<channel id="pe#rt-tv-russia-today"><display-name>Russia Today</display-name><url>https://mi.tv</url></channel>
+<channel id="WillaxTV.pe@SD"><display-name>Willax</display-name><icon src="https://i.imgur.com/bZnDDPH.png"/><url>https://mi.tv</url></channel>
 <channel id="UnitelSantaCruz.bo@SD"><display-name>Unitel</display-name><icon src="https://i.imgur.com/B9wg1zj.png"/><url>https://mi.tv</url></channel>
-<channel id="pe#warner"><display-name>Warner Channel</display-name><url>https://mi.tv</url></channel>
+<channel id="TVPeru.pe@SD"><display-name>TV Perú</display-name><icon src="https://i.imgur.com/6io0IrX.png"/><url>https://mi.tv</url></channel>
+<channel id="pe#telenostalgia"><display-name>Telenostalgia</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#ritmoson-latino"><display-name>RMS</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#tnt"><display-name>TNT</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#tcm"><display-name>TCM</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#rbc"><display-name>RBC</display-name><url>https://mi.tv</url></channel>
 <programme start="20260322060000 +0000" stop="20260322110000 +0000" channel="ATV.pe@SD"><title lang="es">Los hombres de Paco</title><desc lang="es">La historia de la familia del inspector Paco Miranda, que es trasladado a la comisaría de San Antonio, junto a los subinspectores y amigos, Lucas y Mariano.</desc><image>https://cdn.mitvstatic.com/programs/pe_los-hombres-de-paco_l_m.jpg</image></programme>
 <programme start="20260322110000 +0000" stop="20260322113000 +0000" channel="ATV.pe@SD"><title lang="es">En otra cancha</title><desc lang="es">Un programa que combina entrevistas, invitados especiales y análisis de actualidad deportiva. Paco Bazán conduce este late night show que informa y entretiene al público con diversas secciones y charlas.</desc><image>https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg</image></programme>
 <programme start="20260322113000 +0000" stop="20260322135500 +0000" channel="ATV.pe@SD"><title lang="es">Canto andino</title><desc lang="es">Un emblemático ciclo que nos muestra a las estrellas del folclore peruano y que se convirtió en el referente televisivo de la tradición del Perú profundo.</desc><image>https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg</image></programme>
@@ -4828,8 +4828,8 @@
 <programme start="20260322231500 +0000" stop="20260323011500 +0000" channel="pe#sony"><title lang="es">El perfecto asesino</title><desc lang="es">Luego de la muerte de su familia, Mathilda se refugia en la casa de su solitario y misterioso vecino, que resulta ser un criminal. Ella se encargará de las tareas domésticas y éste, a cambio, le enseñará a disparar, para luego vengarse.</desc><date>19940101</date><image>https://cdn.mitvstatic.com/programs/pe_el-perfecto-asesino-1994_l_m.jpg</image></programme>
 <programme start="20260323011500 +0000" stop="20260323032000 +0000" channel="pe#sony"><title lang="es">El demoledor</title><desc lang="es">En 1996, John Spartan, uno de los más eficaces y drásticos policías de Los Ángeles, conocido como Demoliton Man, trata de capturar a Simon Phoenix, un psicópata asesino que está sembrando el terror.</desc><date>19930101</date><image>https://cdn.mitvstatic.com/programs/pe_el-demoledor-1993_l_m.jpg</image></programme>
 <programme start="20260323032000 +0000" stop="20260323055000 +0000" channel="pe#sony"><title lang="es">Creed: Corazón de campeón</title><desc lang="es">Adonis Johnson, hijo de Apollo Creed, busca a Rocky y le pide que sea su entrenador. Rocky ve en Adonis la fuerza y determinación que tenía su rival, y que lo terminó por convertir en su mejor amigo.</desc><date>20150101</date><image>https://cdn.mitvstatic.com/programs/pe_creed-corazon-de-campeon-2015_l_m.jpg</image></programme>
-<programme start="20260323055000 +0000" stop="20260323083000 +0000" channel="pe#sony"><title lang="es">El código Da Vinci</title><desc lang="es">El afamado simbologista Robert Langdon se ve obligado a acudir una noche al Museo del Louvre, cuando el crimen de un restaurador deja tras de sí un misterioso rastro de símbolos y pistas que podrían conectarse con una misteriosa sociedad.</desc><date>20060101</date><image>https://cdn.mitvstatic.com/programs/pe_el-codigo-da-vinci-2006_l_m.jpg</image></programme>
 <programme start="20260323055000 +0000" stop="20260323065000 +0000" channel="pe#sony"><title lang="es">El código Da Vinci</title><desc lang="es">El afamado simbologista Robert Langdon se ve obligado a acudir una noche al Museo del Louvre, cuando el crimen de un restaurador deja tras de sí un misterioso rastro de símbolos y pistas que podrían conectarse con una misteriosa sociedad.</desc><date>20060101</date><image>https://cdn.mitvstatic.com/programs/pe_el-codigo-da-vinci-2006_l_m.jpg</image></programme>
+<programme start="20260323055000 +0000" stop="20260323083000 +0000" channel="pe#sony"><title lang="es">El código Da Vinci</title><desc lang="es">El afamado simbologista Robert Langdon se ve obligado a acudir una noche al Museo del Louvre, cuando el crimen de un restaurador deja tras de sí un misterioso rastro de símbolos y pistas que podrían conectarse con una misteriosa sociedad.</desc><date>20060101</date><image>https://cdn.mitvstatic.com/programs/pe_el-codigo-da-vinci-2006_l_m.jpg</image></programme>
 <programme start="20260323083000 +0000" stop="20260323090000 +0000" channel="pe#sony"><title lang="es">Chicas con clase</title><sub-title lang="es">The Engagement</sub-title><desc lang="es">Charlene anuncia su inminente compromiso con Bill. Por otro lado, Mary Jo y J.D. eligen caminos separados.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">2.16.0/1</episode-num><episode-num system="onscreen">S03E17</episode-num><image>https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg</image></programme>
 <programme start="20260323090000 +0000" stop="20260323100000 +0000" channel="pe#sony"><title lang="es">Bettys Diagnose</title><sub-title lang="es">Quarantäne</sub-title><desc lang="es">Debido a un paciente sospechoso de tener SARS, la estación de admisiones está en cuarentena. Cuando el profesor Wehmann se derrumba, el Dr. Behring tiene una infección y trata a su jefe.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">1.8.0/1</episode-num><episode-num system="onscreen">S02E09</episode-num><image>https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg</image></programme>
 <programme start="20260323100000 +0000" stop="20260323110000 +0000" channel="pe#sony"><title lang="es">The Town Doctor</title><desc lang="es">El pánico y la desesperación se apoderan tanto de las personas aisladas como del personal médico, mientras tanto, el Ministerio de Salud pone en cuarentena a todo el hospital.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">0.32.0/1</episode-num><episode-num system="onscreen">S01E33</episode-num><image>https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg</image></programme>
@@ -5557,8 +5557,8 @@
 <programme start="20260323025000 +0000" stop="20260323034000 +0000" channel="pe#universal-channel"><title lang="es">La ley y el orden: UVE</title><sub-title lang="es">Rompeolas</sub-title><desc lang="es">Un joven le pide ayuda a la UVE cuando sospecha que su jefe está acosando a su hermana.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">23.4.0/1</episode-num><episode-num system="onscreen">S24E05</episode-num><image>https://cdn.mitvstatic.com/programs/pe_la-ley-y-el-orden-uve-s24e05-rompeolas_l_m.jpg</image></programme>
 <programme start="20260323034000 +0000" stop="20260323043000 +0000" channel="pe#universal-channel"><title lang="es">La ley y el orden: UVE</title><sub-title lang="es">Quema controlada</sub-title><desc lang="es">La sobrina de Carisi ayuda a una amiga a denunciar un ataque sexual.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">23.5.0/1</episode-num><episode-num system="onscreen">S24E06</episode-num><image>https://cdn.mitvstatic.com/programs/pe_la-ley-y-el-orden-uve-s24e06-quema-controlada_l_m.jpg</image></programme>
 <programme start="20260323043000 +0000" stop="20260323052000 +0000" channel="pe#universal-channel"><title lang="es">La ley y el orden: UVE</title><sub-title lang="es">Pelota muerta</sub-title><desc lang="es">Cuando el caso contra una popular estrella del deporte no prospera, Benson investiga el pasado del sospechoso en busca de víctimas adicionales.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">23.6.0/1</episode-num><episode-num system="onscreen">S24E07</episode-num><image>https://cdn.mitvstatic.com/programs/pe_la-ley-y-el-orden-uve-s24e07-pelota-muerta_l_m.jpg</image></programme>
-<programme start="20260323052000 +0000" stop="20260323062000 +0000" channel="pe#universal-channel"><title lang="es">Chicago Fire</title><sub-title lang="es">Un hombre poseído</sub-title><desc lang="es">Tras un incendio provocado que afecta a alguien cercano al Parque de Bomberos 51, Severide busca al culpable. Mientras tanto, Mouch y Pascal buscan soluciones innovadoras para afrontar los inminentes recortes.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">13.7.0/1</episode-num><episode-num system="onscreen">S14E08</episode-num><image>https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg</image></programme>
 <programme start="20260323052000 +0000" stop="20260323061000 +0000" channel="pe#universal-channel"><title lang="es">Chicago Fire</title><sub-title lang="es">Un hombre poseído</sub-title><desc lang="es">Tras un incendio provocado que afecta a alguien cercano al Parque de Bomberos 51, Severide busca al culpable. Mientras tanto, Mouch y Pascal buscan soluciones innovadoras para afrontar los inminentes recortes.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">13.7.0/1</episode-num><episode-num system="onscreen">S14E08</episode-num><image>https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg</image></programme>
+<programme start="20260323052000 +0000" stop="20260323062000 +0000" channel="pe#universal-channel"><title lang="es">Chicago Fire</title><sub-title lang="es">Un hombre poseído</sub-title><desc lang="es">Tras un incendio provocado que afecta a alguien cercano al Parque de Bomberos 51, Severide busca al culpable. Mientras tanto, Mouch y Pascal buscan soluciones innovadoras para afrontar los inminentes recortes.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">13.7.0/1</episode-num><episode-num system="onscreen">S14E08</episode-num><image>https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg</image></programme>
 <programme start="20260323061000 +0000" stop="20260323070000 +0000" channel="pe#universal-channel"><title lang="es">Policías de Chicago</title><sub-title lang="es">Nacido gritando</sub-title><desc lang="es">Voight y el equipo corren para resolver el caso Bell y evitar más muertes.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">12.7.0/1</episode-num><episode-num system="onscreen">S13E08</episode-num><image>https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg</image></programme>
 <programme start="20260323070000 +0000" stop="20260323075000 +0000" channel="pe#universal-channel"><title lang="es">Chicago Med</title><sub-title lang="es">Triple amenaza</sub-title><desc lang="es">Los médicos afrontan las consecuencias profesionales y personales de las decisiones que tomaron durante un apagón en toda la ciudad.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">10.7.0/1</episode-num><episode-num system="onscreen">S11E08</episode-num><image>https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg</image></programme>
 <programme start="20260323075000 +0000" stop="20260323084000 +0000" channel="pe#universal-channel"><title lang="es">La ley y el orden: UVE</title><sub-title lang="es">La negociación</sub-title><desc lang="es">La vida de la detective Benson está en peligro, después de que la detective Rollin realiza un arresto común y corriente de un exhibicionista y la situación se dispara fuera de control.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">13.23.0/1</episode-num><episode-num system="onscreen">S14E24</episode-num><image>https://cdn.mitvstatic.com/programs/pe_la-ley-y-el-orden-uve-s14e24-la-negociacion_l_m.jpg</image></programme>
@@ -5669,8 +5669,8 @@
 <programme start="20260322201300 +0000" stop="20260322232000 +0000" channel="pe#warner"><title lang="es">El señor de los anillos: Las dos torres</title><desc lang="es">Los miembros de la Comunidad del Anillo han tomado caminos distintos. Frodo y Sam continúan hacia las tierras de Mordor, mientras que sus antiguos compañeros logran nuevas alianzas para frenar el ascenso de las tropas de Saruman.</desc><date>20020101</date><image>https://cdn.mitvstatic.com/programs/pe_el-senor-de-los-anillos-las-dos-torres-2002_l_m.jpg</image></programme>
 <programme start="20260322232000 +0000" stop="20260323030000 +0000" channel="pe#warner"><title lang="es">El señor de los anillos: El retorno del rey</title><desc lang="es">La paranoia y la sospecha aumentan entre Frodo, Sam y Golum a medida que continúan su oscuro viaje hacia el Monte del Destino, el lugar donde se debe destruir el Anillo Único de una vez por todas.</desc><date>20030101</date><image>https://cdn.mitvstatic.com/programs/pe_el-senor-de-los-anillos-el-retorno-del-rey-2003-1_l_m.jpg</image></programme>
 <programme start="20260323030000 +0000" stop="20260323045700 +0000" channel="pe#warner"><title lang="es">Inmortales</title><desc lang="es">Enloquecido por el poder, el rey Hiperión quema Grecia mientras busca el arco Epiro, arma con la que podrá liberar a los Titanes y dominar la Tierra. Pero la esperanza renace cuando Zeus encomienda a Teseo la misión de acabar con el rey.</desc><date>20110101</date><image>https://cdn.mitvstatic.com/programs/pe_inmortales-2011_l_m.jpg</image></programme>
-<programme start="20260323045700 +0000" stop="20260323074500 +0000" channel="pe#warner"><title lang="es">Watchmen: los vigilantes</title><desc lang="es">En los Estados Unidos, la Guerra Fría está en su apogeo, y los superhéroes, que antes habían sido admirados, ahora son perseguidos por la ley. Un día aparece muerto uno de ellos, &quot;El Comediante&quot;, que trabajaba para la CIA.</desc><date>20090101</date><image>https://cdn.mitvstatic.com/programs/pe_watchmen-los-vigilantes-2009_l_m.jpg</image></programme>
 <programme start="20260323045700 +0000" stop="20260323055700 +0000" channel="pe#warner"><title lang="es">Watchmen: los vigilantes</title><desc lang="es">En los Estados Unidos, la Guerra Fría está en su apogeo, y los superhéroes, que antes habían sido admirados, ahora son perseguidos por la ley. Un día aparece muerto uno de ellos, &quot;El Comediante&quot;, que trabajaba para la CIA.</desc><date>20090101</date><image>https://cdn.mitvstatic.com/programs/pe_watchmen-los-vigilantes-2009_l_m.jpg</image></programme>
+<programme start="20260323045700 +0000" stop="20260323074500 +0000" channel="pe#warner"><title lang="es">Watchmen: los vigilantes</title><desc lang="es">En los Estados Unidos, la Guerra Fría está en su apogeo, y los superhéroes, que antes habían sido admirados, ahora son perseguidos por la ley. Un día aparece muerto uno de ellos, &quot;El Comediante&quot;, que trabajaba para la CIA.</desc><date>20090101</date><image>https://cdn.mitvstatic.com/programs/pe_watchmen-los-vigilantes-2009_l_m.jpg</image></programme>
 <programme start="20260323074500 +0000" stop="20260323080800 +0000" channel="pe#warner"><title lang="es">The Big Bang Theory</title><sub-title lang="es">La interrupción de la locomoción</sub-title><desc lang="es">Leonard y Amy viajan hacia Arizona para recoger a Sheldon mientras Penny acude a una entrevista de trabajo para la empresa de Bernadette y Howard sufre una mala experiencia por la relación entre Stuart y la Sra. Wolowitz.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">7.0.0/1</episode-num><episode-num system="onscreen">S08E01</episode-num><image>https://cdn.mitvstatic.com/programs/pe_the-big-bang-theory-s08e01-the-locomotion-interruption_l_m.jpg</image></programme>
 <programme start="20260323080800 +0000" stop="20260323083000 +0000" channel="pe#warner"><title lang="es">The Big Bang Theory</title><sub-title lang="es">La solución del profesor adjunto</sub-title><desc lang="es">Sheldon se ve obligado a enseñar una clase como profesor junior. Mientras tanto, Amy juega ambos lados cuando surge la tensión entre Penny y Bernadette.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">7.1.0/1</episode-num><episode-num system="onscreen">S08E02</episode-num><image>https://cdn.mitvstatic.com/programs/pe_the-big-bang-theory-s08e02-the-junior-professor-solution_l_m.jpg</image></programme>
 <programme start="20260323083000 +0000" stop="20260323085100 +0000" channel="pe#warner"><title lang="es">The Big Bang Theory</title><sub-title lang="es">La insuficiencia del primer lanzamiento</sub-title><desc lang="es">Sheldon y Amy se enfrentan a Penny y Leonard en una discusión por ver quién es la pareja con la mejor relación. Howard es invitado para el primer lanzamiento en un partido de baseball de los Ángeles.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">7.2.0/1</episode-num><episode-num system="onscreen">S08E03</episode-num><image>https://cdn.mitvstatic.com/programs/pe_the-big-bang-theory-s08e03-the-first-pitch-insufficiency_l_m.jpg</image></programme>
