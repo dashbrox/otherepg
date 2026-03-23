@@ -1,53 +1,51 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20260323">
 <channel id="TVOCanal23.sv@SD"><display-name>TVO Canal 23</display-name><icon src="https://i.imgur.com/nsXXEUZ.png"/><url>https://mi.tv</url></channel>
-<channel id="sv#a-e-mundo"><display-name>A&amp;E</display-name><url>https://mi.tv</url></channel>
-<channel id="sv#animal-planet"><display-name>Animal Planet</display-name><url>https://mi.tv</url></channel>
-<channel id="sv#bandamax"><display-name>Bandamax</display-name><url>https://mi.tv</url></channel>
-<channel id="MegavisionCanal19.sv@SD"><display-name>Canal 19</display-name><icon src="https://i.imgur.com/voyVP6X.png"/><url>https://mi.tv</url></channel>
-<channel id="sv#discovery-home-and-health"><display-name>Discovery Home &amp; Health</display-name><url>https://mi.tv</url></channel>
-<channel id="sv#max"><display-name>HBO Mundi</display-name><url>https://mi.tv</url></channel>
-<channel id="sv#mas-chic"><display-name>Más Chic</display-name><url>https://mi.tv</url></channel>
-<channel id="sv#discovery-channel-1"><display-name>DISCOVERY CHANNEL</display-name><url>https://mi.tv</url></channel>
-<channel id="sv#m-tv"><display-name>MTV</display-name><url>https://mi.tv</url></channel>
-<channel id="sv#lifetime"><display-name>Lifetime</display-name><url>https://mi.tv</url></channel>
-<channel id="Canal12.sv@SD"><display-name>Canal 12</display-name><icon src="https://i.imgur.com/WMv3yEf.png"/><url>https://mi.tv</url></channel>
-<channel id="sv#discovery-channel"><display-name>Discovery Channel</display-name><url>https://mi.tv</url></channel>
-<channel id="sv#htv"><display-name>HTV</display-name><url>https://mi.tv</url></channel>
-<channel id="sv#history"><display-name>History</display-name><url>https://mi.tv</url></channel>
-<channel id="sv#de-pelicula"><display-name>De Película</display-name><url>https://mi.tv</url></channel>
-<channel id="sv#hbo-2"><display-name>HBO 2</display-name><url>https://mi.tv</url></channel>
-<channel id="sv#hbo"><display-name>HBO</display-name><url>https://mi.tv</url></channel>
-<channel id="sv#azteca-13"><display-name>Azteca 13</display-name><url>https://mi.tv</url></channel>
-<channel id="Canal10.sv@SD"><display-name>Canal 10</display-name><icon src="https://i.imgur.com/y2ppMnY.png"/><url>https://mi.tv</url></channel>
-<channel id="sv#concert-channel"><display-name>Concert Channel</display-name><url>https://mi.tv</url></channel>
-<channel id="sv#h2"><display-name>History 2</display-name><url>https://mi.tv</url></channel>
-<channel id="sv#golden"><display-name>Golden</display-name><url>https://mi.tv</url></channel>
+<channel id="sv#warner"><display-name>Warner Channel</display-name><url>https://mi.tv</url></channel>
+<channel id="VTVCanal35.sv@SD"><display-name>VTV</display-name><icon src="https://i.imgur.com/RSVzyzp.png"/><url>https://mi.tv</url></channel>
+<channel id="sv#vh1"><display-name>VH1</display-name><url>https://mi.tv</url></channel>
+<channel id="sv#ve-plus-tv"><display-name>Ve Plus TV</display-name><url>https://mi.tv</url></channel>
+<channel id="sv#universal-channel"><display-name>Universal TV</display-name><url>https://mi.tv</url></channel>
+<channel id="sv#tvn-chile"><display-name>TVN Chile</display-name><url>https://mi.tv</url></channel>
+<channel id="sv#tve"><display-name>TVE</display-name><url>https://mi.tv</url></channel>
+<channel id="sv#tnt-series"><display-name>TNT Series</display-name><url>https://mi.tv</url></channel>
+<channel id="sv#tnt"><display-name>TNT</display-name><url>https://mi.tv</url></channel>
+<channel id="sv#tlnovelas"><display-name>TLNovelas</display-name><url>https://mi.tv</url></channel>
+<channel id="sv#telesur"><display-name>teleSUR</display-name><url>https://mi.tv</url></channel>
+<channel id="sv#telemundo"><display-name>Telemundo</display-name><url>https://mi.tv</url></channel>
+<channel id="sv#tdn"><display-name>TDN</display-name><url>https://mi.tv</url></channel>
+<channel id="sv#tcm"><display-name>TCM</display-name><url>https://mi.tv</url></channel>
+<channel id="sv#tbs-veryfunny"><display-name>TBS</display-name><url>https://mi.tv</url></channel>
+<channel id="sv#tabernaculo-biblico-bautista"><display-name>Tabernaculo Biblico Bautista</display-name><url>https://mi.tv</url></channel>
+<channel id="sv#studio-universal"><display-name>Studio Universal</display-name><url>https://mi.tv</url></channel>
+<channel id="sv#space"><display-name>Space</display-name><url>https://mi.tv</url></channel>
+<channel id="sv#sony"><display-name>Sony</display-name><url>https://mi.tv</url></channel>
+<channel id="sv#ritmoson-latino"><display-name>RMS</display-name><url>https://mi.tv</url></channel>
 <channel id="sv#rai"><display-name>Rai Italia</display-name><url>https://mi.tv</url></channel>
 <channel id="sv#nickelodeon"><display-name>Nick</display-name><url>https://mi.tv</url></channel>
 <channel id="sv#national-geographic"><display-name>National Geographic</display-name><url>https://mi.tv</url></channel>
 <channel id="sv#multipremier"><display-name>Multipremier</display-name><url>https://mi.tv</url></channel>
-<channel id="sv#cnn-en-espanol"><display-name>CNN en Español</display-name><url>https://mi.tv</url></channel>
+<channel id="sv#max"><display-name>HBO Mundi</display-name><url>https://mi.tv</url></channel>
+<channel id="sv#mas-chic"><display-name>Más Chic</display-name><url>https://mi.tv</url></channel>
+<channel id="sv#m-tv"><display-name>MTV</display-name><url>https://mi.tv</url></channel>
+<channel id="sv#lifetime"><display-name>Lifetime</display-name><url>https://mi.tv</url></channel>
+<channel id="sv#htv"><display-name>HTV</display-name><url>https://mi.tv</url></channel>
+<channel id="sv#history"><display-name>History</display-name><url>https://mi.tv</url></channel>
+<channel id="sv#hbo-2"><display-name>HBO 2</display-name><url>https://mi.tv</url></channel>
+<channel id="sv#hbo"><display-name>HBO</display-name><url>https://mi.tv</url></channel>
+<channel id="sv#h2"><display-name>History 2</display-name><url>https://mi.tv</url></channel>
+<channel id="sv#golden"><display-name>Golden</display-name><url>https://mi.tv</url></channel>
 <channel id="Genteve.sv@SD"><display-name>Gentevé</display-name><icon src="https://i.imgur.com/SjNj3N5.png"/><url>https://mi.tv</url></channel>
 <channel id="sv#fx-movies"><display-name>FX Movies</display-name><url>https://mi.tv</url></channel>
-<channel id="Canal6.sv@SD"><display-name>Canal 6</display-name><icon src="https://i.imgur.com/M4muPLK.png"/><url>https://mi.tv</url></channel>
-<channel id="sv#cnn"><display-name>CNN</display-name><url>https://mi.tv</url></channel>
 <channel id="sv#fx"><display-name>FX</display-name><url>https://mi.tv</url></channel>
 <channel id="sv#fox-sports-3"><display-name>FOX Sports 3</display-name><url>https://mi.tv</url></channel>
-<channel id="sv#cinemax"><display-name>Cinemax</display-name><url>https://mi.tv</url></channel>
 <channel id="sv#fox-sports-2"><display-name>FOX Sports 2</display-name><url>https://mi.tv</url></channel>
 <channel id="sv#fox-sports"><display-name>FOX Sports</display-name><url>https://mi.tv</url></channel>
-<channel id="sv#amc"><display-name>AMC</display-name><url>https://mi.tv</url></channel>
-<channel id="sv#az-corazon"><display-name>Az Corazón</display-name><url>https://mi.tv</url></channel>
-<channel id="Canal4.sv@SD"><display-name>Canal 4</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Canal_4_TCS.png/960px-Canal_4_TCS.png"/><url>https://mi.tv</url></channel>
-<channel id="sv#cinecanal-hd"><display-name>Cinecanal HD</display-name><url>https://mi.tv</url></channel>
 <channel id="sv#fox-life"><display-name>Star Life</display-name><url>https://mi.tv</url></channel>
 <channel id="sv#fox"><display-name>Star Channel</display-name><url>https://mi.tv</url></channel>
-<channel id="sv#cinecanal"><display-name>Cinecanal</display-name><url>https://mi.tv</url></channel>
 <channel id="sv#ewtn"><display-name>EWTN</display-name><url>https://mi.tv</url></channel>
 <channel id="sv#espn-hd"><display-name>ESPN+ HD</display-name><url>https://mi.tv</url></channel>
-<channel id="Canal2.sv@SD"><display-name>Canal 2</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Canal_2_TCS.png/960px-Canal_2_TCS.png"/><url>https://mi.tv</url></channel>
-<channel id="sv#cine-latino"><display-name>Cinelatino</display-name><url>https://mi.tv</url></channel>
 <channel id="sv#espn-2"><display-name>ESPN 2</display-name><url>https://mi.tv</url></channel>
+<channel id="sv#espn"><display-name>ESPN</display-name><url>https://mi.tv</url></channel>
 <channel id="sv#entertainment"><display-name>E!</display-name><url>https://mi.tv</url></channel>
 <channel id="sv#enlace-tbn"><display-name>Enlace</display-name><url>https://mi.tv</url></channel>
 <channel id="sv#el-gourmet"><display-name>El Gourmet</display-name><url>https://mi.tv</url></channel>
@@ -58,35 +56,37 @@
 <channel id="sv#discovery-tlc"><display-name>TLC</display-name><url>https://mi.tv</url></channel>
 <channel id="sv#discovery-kids"><display-name>Discovery Kids</display-name><url>https://mi.tv</url></channel>
 <channel id="sv#discovery-id"><display-name>Investigation Discovery</display-name><url>https://mi.tv</url></channel>
-<channel id="sv#espn"><display-name>ESPN</display-name><url>https://mi.tv</url></channel>
+<channel id="sv#discovery-home-and-health"><display-name>Discovery Home &amp; Health</display-name><url>https://mi.tv</url></channel>
+<channel id="sv#discovery-channel-1"><display-name>DISCOVERY CHANNEL</display-name><url>https://mi.tv</url></channel>
+<channel id="sv#discovery-channel"><display-name>Discovery Channel</display-name><url>https://mi.tv</url></channel>
+<channel id="sv#de-pelicula"><display-name>De Película</display-name><url>https://mi.tv</url></channel>
+<channel id="sv#concert-channel"><display-name>Concert Channel</display-name><url>https://mi.tv</url></channel>
+<channel id="sv#cnn-en-espanol"><display-name>CNN en Español</display-name><url>https://mi.tv</url></channel>
+<channel id="sv#cnn"><display-name>CNN</display-name><url>https://mi.tv</url></channel>
+<channel id="sv#cinemax"><display-name>Cinemax</display-name><url>https://mi.tv</url></channel>
+<channel id="sv#cinecanal-hd"><display-name>Cinecanal HD</display-name><url>https://mi.tv</url></channel>
+<channel id="sv#cinecanal"><display-name>Cinecanal</display-name><url>https://mi.tv</url></channel>
+<channel id="sv#cine-latino"><display-name>Cinelatino</display-name><url>https://mi.tv</url></channel>
 <channel id="sv#cartoon-network"><display-name>Cartoon Network</display-name><url>https://mi.tv</url></channel>
-<channel id="sv#axn"><display-name>AXN</display-name><url>https://mi.tv</url></channel>
-<channel id="sv#boomerang-cartoon"><display-name>Cartoonito</display-name><url>https://mi.tv</url></channel>
 <channel id="sv#canal-de-las-estrellas"><display-name>Las Estrellas</display-name><url>https://mi.tv</url></channel>
 <channel id="CanalClaro.cl@SD"><display-name>Canal Claro</display-name><icon src="https://i.imgur.com/Kgjfd3J.png"/><url>https://mi.tv</url></channel>
-<channel id="sv#bbc-world"><display-name>BBC World</display-name><url>https://mi.tv</url></channel>
 <channel id="TVX.sv@SD"><display-name>TVX</display-name><icon src="https://i.imgur.com/JbxpB6M.png"/><url>https://mi.tv</url></channel>
 <channel id="MegavisionCanal21.sv@SD"><display-name>Canal 21</display-name><icon src="https://i.imgur.com/HbdYU9k.png"/><url>https://mi.tv</url></channel>
-<channel id="sv#tcm"><display-name>TCM</display-name><url>https://mi.tv</url></channel>
-<channel id="VTVCanal35.sv@SD"><display-name>VTV</display-name><icon src="https://i.imgur.com/RSVzyzp.png"/><url>https://mi.tv</url></channel>
-<channel id="sv#vh1"><display-name>VH1</display-name><url>https://mi.tv</url></channel>
-<channel id="sv#telesur"><display-name>teleSUR</display-name><url>https://mi.tv</url></channel>
-<channel id="sv#tdn"><display-name>TDN</display-name><url>https://mi.tv</url></channel>
-<channel id="sv#studio-universal"><display-name>Studio Universal</display-name><url>https://mi.tv</url></channel>
-<channel id="sv#sony"><display-name>Sony</display-name><url>https://mi.tv</url></channel>
-<channel id="sv#tvn-chile"><display-name>TVN Chile</display-name><url>https://mi.tv</url></channel>
-<channel id="sv#tlnovelas"><display-name>TLNovelas</display-name><url>https://mi.tv</url></channel>
-<channel id="sv#universal-channel"><display-name>Universal TV</display-name><url>https://mi.tv</url></channel>
-<channel id="sv#ve-plus-tv"><display-name>Ve Plus TV</display-name><url>https://mi.tv</url></channel>
-<channel id="sv#tve"><display-name>TVE</display-name><url>https://mi.tv</url></channel>
-<channel id="sv#tbs-veryfunny"><display-name>TBS</display-name><url>https://mi.tv</url></channel>
-<channel id="sv#space"><display-name>Space</display-name><url>https://mi.tv</url></channel>
-<channel id="sv#telemundo"><display-name>Telemundo</display-name><url>https://mi.tv</url></channel>
-<channel id="sv#tnt-series"><display-name>TNT Series</display-name><url>https://mi.tv</url></channel>
-<channel id="sv#warner"><display-name>Warner Channel</display-name><url>https://mi.tv</url></channel>
-<channel id="sv#tnt"><display-name>TNT</display-name><url>https://mi.tv</url></channel>
-<channel id="sv#tabernaculo-biblico-bautista"><display-name>Tabernaculo Biblico Bautista</display-name><url>https://mi.tv</url></channel>
-<channel id="sv#ritmoson-latino"><display-name>RMS</display-name><url>https://mi.tv</url></channel>
+<channel id="MegavisionCanal19.sv@SD"><display-name>Canal 19</display-name><icon src="https://i.imgur.com/voyVP6X.png"/><url>https://mi.tv</url></channel>
+<channel id="Canal12.sv@SD"><display-name>Canal 12</display-name><icon src="https://i.imgur.com/WMv3yEf.png"/><url>https://mi.tv</url></channel>
+<channel id="Canal10.sv@SD"><display-name>Canal 10</display-name><icon src="https://i.imgur.com/y2ppMnY.png"/><url>https://mi.tv</url></channel>
+<channel id="Canal6.sv@SD"><display-name>Canal 6</display-name><icon src="https://i.imgur.com/M4muPLK.png"/><url>https://mi.tv</url></channel>
+<channel id="Canal4.sv@SD"><display-name>Canal 4</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Canal_4_TCS.png/960px-Canal_4_TCS.png"/><url>https://mi.tv</url></channel>
+<channel id="Canal2.sv@SD"><display-name>Canal 2</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Canal_2_TCS.png/960px-Canal_2_TCS.png"/><url>https://mi.tv</url></channel>
+<channel id="sv#boomerang-cartoon"><display-name>Cartoonito</display-name><url>https://mi.tv</url></channel>
+<channel id="sv#bbc-world"><display-name>BBC World</display-name><url>https://mi.tv</url></channel>
+<channel id="sv#bandamax"><display-name>Bandamax</display-name><url>https://mi.tv</url></channel>
+<channel id="sv#azteca-13"><display-name>Azteca 13</display-name><url>https://mi.tv</url></channel>
+<channel id="sv#az-corazon"><display-name>Az Corazón</display-name><url>https://mi.tv</url></channel>
+<channel id="sv#axn"><display-name>AXN</display-name><url>https://mi.tv</url></channel>
+<channel id="sv#animal-planet"><display-name>Animal Planet</display-name><url>https://mi.tv</url></channel>
+<channel id="sv#amc"><display-name>AMC</display-name><url>https://mi.tv</url></channel>
+<channel id="sv#a-e-mundo"><display-name>A&amp;E</display-name><url>https://mi.tv</url></channel>
 <programme start="20260323050000 +0000" stop="20260323070000 +0000" channel="Canal2.sv@SD"><title lang="es">Pequeños detalles</title><desc lang="es">El alguacil Joe Deacon es enviado a Los Ángeles para lo que debería haber sido una tarea rápida de recopilación de pruebas. En cambio, se ve envuelto en la búsqueda de un asesino en serie que aterroriza a la ciudad.</desc><image>https://cdn.mitvstatic.com/programs/fallback_movies_l_m.jpg</image></programme>
 <programme start="20260323070000 +0000" stop="20260323112500 +0000" channel="Canal2.sv@SD"><title lang="es">Cierre de transmisión</title><image>https://cdn.mitvstatic.com/programs/sv_cierre-de-transmision_l_m.jpg</image></programme>
 <programme start="20260323112500 +0000" stop="20260323113000 +0000" channel="Canal2.sv@SD"><title lang="es">El minuto de María</title><desc lang="es">Le dedicamos un pequeño momento a la Virgen María, madre de todos los feligreses de Dios. Comparte con nosotros este pequeño espacio de oración y reflexión.</desc><image>https://cdn.mitvstatic.com/programs/sv_el-minuto-de-maria_l_m.jpg</image></programme>
@@ -4046,8 +4046,8 @@
 <programme start="20260323212000 +0000" stop="20260323233000 +0000" channel="sv#studio-universal"><title lang="es">Black Adam</title><desc lang="es">Black Adam es liberado de su tumba casi cinco mil años después de haber sido encarcelado y recibir sus poderes de los antiguos dioses. Ahora está listo para desatar su forma única de justicia en el mundo.</desc><category lang="es">6.4</category><image>https://cdn.mitvstatic.com/programs/fallback_movies_l_m.jpg</image></programme>
 <programme start="20260323233000 +0000" stop="20260324020000 +0000" channel="sv#studio-universal"><title lang="es">Los siete magníficos</title><desc lang="es">Siete forajidos son contratados por los habitantes de Rose Creek para defenderse de la constante amenaza del industrial Bartholomew Bogue. Sin embargo, pronto descubrirán que estos hombres luchan por algo más que el dinero.</desc><date>20160101</date><image>https://cdn.mitvstatic.com/programs/sv_los-siete-magnificos-2016_l_m.jpg</image></programme>
 <programme start="20260324020000 +0000" stop="20260324041500 +0000" channel="sv#studio-universal"><title lang="es">Tirador</title><desc lang="es">Bob Lee Swagger es un francotirador que deja su profesión después de ser testigo de una terrible traición, y se recluye en un refugio en las montañas. Un ex oficial consigue encontrarlo y convencerlo de que su país lo necesita.</desc><date>20070101</date><image>https://cdn.mitvstatic.com/programs/sv_tirador-2007_l_m.jpg</image></programme>
-<programme start="20260324041500 +0000" stop="20260324051500 +0000" channel="sv#studio-universal"><title lang="es">Sangre, sudor y gloria</title><desc lang="es">Daniel y Adrian entrenan muy duro en el gimnasio cada día. Deciden pasar a la acción y dar un gran golpe. Los dos, junto a Paul, un ex presidiario temeroso de Dios, forman un grupo para extorsionar y secuestrar a un empresario adinerado.</desc><date>20130101</date><image>https://cdn.mitvstatic.com/programs/sv_sangre-sudor-y-gloria-2013_l_m.jpg</image></programme>
 <programme start="20260324041500 +0000" stop="20260324064000 +0000" channel="sv#studio-universal"><title lang="es">Sangre, sudor y gloria</title><desc lang="es">Daniel y Adrian entrenan muy duro en el gimnasio cada día. Deciden pasar a la acción y dar un gran golpe. Los dos, junto a Paul, un ex presidiario temeroso de Dios, forman un grupo para extorsionar y secuestrar a un empresario adinerado.</desc><date>20130101</date><image>https://cdn.mitvstatic.com/programs/sv_sangre-sudor-y-gloria-2013_l_m.jpg</image></programme>
+<programme start="20260324041500 +0000" stop="20260324051500 +0000" channel="sv#studio-universal"><title lang="es">Sangre, sudor y gloria</title><desc lang="es">Daniel y Adrian entrenan muy duro en el gimnasio cada día. Deciden pasar a la acción y dar un gran golpe. Los dos, junto a Paul, un ex presidiario temeroso de Dios, forman un grupo para extorsionar y secuestrar a un empresario adinerado.</desc><date>20130101</date><image>https://cdn.mitvstatic.com/programs/sv_sangre-sudor-y-gloria-2013_l_m.jpg</image></programme>
 <programme start="20260324064000 +0000" stop="20260324084500 +0000" channel="sv#studio-universal"><title lang="es">Amigos por siempre</title><desc lang="es">Un desempleado con antecedentes criminales es contratado como asistente personal de un millonario tetrapléjico y pronto surge una inesperada amistad entre ellos.</desc><image>https://cdn.mitvstatic.com/programs/fallback_movies_l_m.jpg</image></programme>
 <programme start="20260324084500 +0000" stop="20260324102000 +0000" channel="sv#studio-universal"><title lang="es">Con canas y a lo loco</title><desc lang="es">Una escritora de 30 años pasa un fin de semana salvaje en Palm Springs y se despierta para descubrir que se ha transformado mágicamente en su yo de 70 años.</desc><image>https://cdn.mitvstatic.com/programs/fallback_movies_l_m.jpg</image></programme>
 <programme start="20260324102000 +0000" stop="20260324120000 +0000" channel="sv#studio-universal"><title lang="es">#Navidad</title><desc lang="es">Cuando Jen tiene la oportunidad de participar en una competición de diseños de marca, se hace pasar por una influencer familiar, y para ello cuenta con la ayuda de su mejor amigo, Max, y la de su sobrino bebé.</desc><image>https://cdn.mitvstatic.com/programs/fallback_movies_l_m.jpg</image></programme>
@@ -4358,8 +4358,8 @@
 <programme start="20260324024000 +0000" stop="20260324033000 +0000" channel="sv#tnt-series"><title lang="es">CSI: Miami</title><sub-title lang="es">Rollo de una noche</sub-title><desc lang="es">Todd, uno de los botones del hotel Agromonte, entrega 4 maletas en una habitación. El huésped, desde la ducha, le indica que deje las maletas junto a la cama. La curiosidad llevará a Todd a toparse con un increíble hallazgo.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">2.13.0/1</episode-num><episode-num system="onscreen">S03E14</episode-num><image>https://cdn.mitvstatic.com/programs/sv_csi-miami-s03e14-one-night-stand_l_m.jpg</image></programme>
 <programme start="20260324033000 +0000" stop="20260324043900 +0000" channel="sv#tnt-series"><title lang="es">CSI</title><sub-title lang="es">Espuma en la guarida de los cazadores</sub-title><desc lang="es">Grissom y Brass vuelven a visitar a Lady Heather cuando uno de sus empleados aparece muerto en un club local. Mientras tanto, Catherine tiene que salvar a su hija Lindsey de un coche inundado.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">2.14.0/1</episode-num><episode-num system="onscreen">S03E15</episode-num><image>https://cdn.mitvstatic.com/programs/sv_csi-s03e15-lady-heather-s-box_l_m.jpg</image></programme>
 <programme start="20260324043900 +0000" stop="20260324052600 +0000" channel="sv#tnt-series"><title lang="es">CSI</title><sub-title lang="es">Golpe de suerte</sub-title><desc lang="es">Tras una persecución de automovilística, el conductor del vehículo perseguido sale del auto con una estaca clavada en el cráneo. Ademas, El hijo de un importante jugador de baloncesto es secuestrado.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">2.15.0/1</episode-num><episode-num system="onscreen">S03E16</episode-num><image>https://cdn.mitvstatic.com/programs/sv_csi-s03e16-lucky-strike_l_m.jpg</image></programme>
-<programme start="20260324052600 +0000" stop="20260324062600 +0000" channel="sv#tnt-series"><title lang="es">El mentalista</title><sub-title lang="es">De color de rosa</sub-title><desc lang="es">El CBI investiga el asesinato de una joven pareja que fue atacada cuando se dirigía a la fiesta de reencuentro de secundaria.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">1.10.0/1</episode-num><episode-num system="onscreen">S02E11</episode-num><image>https://cdn.mitvstatic.com/programs/sv_el-mentalista-s02e11-rose-colored-glasses_l_m.jpg</image></programme>
 <programme start="20260324052600 +0000" stop="20260324061200 +0000" channel="sv#tnt-series"><title lang="es">El mentalista</title><sub-title lang="es">De color de rosa</sub-title><desc lang="es">El CBI investiga el asesinato de una joven pareja que fue atacada cuando se dirigía a la fiesta de reencuentro de secundaria.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">1.10.0/1</episode-num><episode-num system="onscreen">S02E11</episode-num><image>https://cdn.mitvstatic.com/programs/sv_el-mentalista-s02e11-rose-colored-glasses_l_m.jpg</image></programme>
+<programme start="20260324052600 +0000" stop="20260324062600 +0000" channel="sv#tnt-series"><title lang="es">El mentalista</title><sub-title lang="es">De color de rosa</sub-title><desc lang="es">El CBI investiga el asesinato de una joven pareja que fue atacada cuando se dirigía a la fiesta de reencuentro de secundaria.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">1.10.0/1</episode-num><episode-num system="onscreen">S02E11</episode-num><image>https://cdn.mitvstatic.com/programs/sv_el-mentalista-s02e11-rose-colored-glasses_l_m.jpg</image></programme>
 <programme start="20260324061200 +0000" stop="20260324065800 +0000" channel="sv#tnt-series"><title lang="es">El mentalista</title><sub-title lang="es">Corazón sangrante</sub-title><desc lang="es">Lisbon y su equipo serán asignados a investigar un asesinato de una persona cercana al Alcalde. Más adelante dos de los miembros del equipo se encargarán de sorprender a sus compañeros.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">1.11.0/1</episode-num><episode-num system="onscreen">S02E12</episode-num><image>https://cdn.mitvstatic.com/programs/sv_el-mentalista-s02e12-bleeding-heart_l_m.jpg</image></programme>
 <programme start="20260324065800 +0000" stop="20260324074300 +0000" channel="sv#tnt-series"><title lang="es">CSI</title><sub-title lang="es">Perforado</sub-title><desc lang="es">Armas de asalto militar aparecen en la calles de Las Vegas a raíz del asesinato de un ranchero que, en realidad, resulta ser un experto en balística. Dos agentes del F.B.I., junto al C.S.I., trabajan en el esclarecimiento del homicidio.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">11.8.0/1</episode-num><episode-num system="onscreen">S12E09</episode-num><image>https://cdn.mitvstatic.com/programs/sv_csi-s12e09-perforado_l_m.jpg</image></programme>
 <programme start="20260324074300 +0000" stop="20260324082900 +0000" channel="sv#tnt-series"><title lang="es">CSI</title><sub-title lang="es">Desorden genético</sub-title><desc lang="es">Cuando se encuentra muerto a un genealogista en la cama del Dr. Robbins, el equipo trabaja en la teoría de que su esposa puede haber estado engañando a pesar de que ella mantiene su inocencia.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">11.9.0/1</episode-num><episode-num system="onscreen">S12E10</episode-num><image>https://cdn.mitvstatic.com/programs/sv_csi-s12e10-desorden-genetico_l_m.jpg</image></programme>
@@ -4421,8 +4421,8 @@
 <programme start="20260324010000 +0000" stop="20260324013000 +0000" channel="sv#tve"><title lang="es">TD Internacional 24 Horas</title><desc lang="es">Telediario en el que se cuentan noticias de temas nacionales con especial peso en los temas internacionales.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">0.81.0/1</episode-num><episode-num system="onscreen">S01E82</episode-num><image>https://cdn.mitvstatic.com/programs/sv_td-internacional-24-horas-s00e82_l_m.jpg</image></programme>
 <programme start="20260324013000 +0000" stop="20260324024500 +0000" channel="sv#tve"><title lang="es">La revuelta</title><desc lang="es">Nueva temporada de este programa en el que un grupo de cómicos acompañan a David Broncano a entrevistar a diversos invitados famosos en un teatro del centro de Madrid para que al final el protagonista sea alguien perteneciente al público.</desc><image>https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg</image></programme>
 <programme start="20260324024500 +0000" stop="20260324054500 +0000" channel="sv#tve"><title lang="es">Deco Masters</title><desc lang="es">Decoradores aficionados y aficionados al bricolaje de toda Bélgica compiten con brochas y rodillos para empapelar bajo la mirada experta de Valérie Damidot. Hay dos cosas en juego: el título de Maestros Deco y un cheque de 2000 euros.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">0.8.0/1</episode-num><episode-num system="onscreen">S01E09</episode-num><image>https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg</image></programme>
-<programme start="20260324054500 +0000" stop="20260324064500 +0000" channel="sv#tve"><title lang="es">Al cielo con ella</title><desc lang="es">Henar se despide de La2 con el funeral más surrealista de la televisión para celebrar el salto a La1. Lidia San José recuerda sus inicios y muestra su faceta como historiadora.</desc><image>https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg</image></programme>
 <programme start="20260324054500 +0000" stop="20260324065000 +0000" channel="sv#tve"><title lang="es">Al cielo con ella</title><desc lang="es">Henar se despide de La2 con el funeral más surrealista de la televisión para celebrar el salto a La1. Lidia San José recuerda sus inicios y muestra su faceta como historiadora.</desc><image>https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg</image></programme>
+<programme start="20260324054500 +0000" stop="20260324064500 +0000" channel="sv#tve"><title lang="es">Al cielo con ella</title><desc lang="es">Henar se despide de La2 con el funeral más surrealista de la televisión para celebrar el salto a La1. Lidia San José recuerda sus inicios y muestra su faceta como historiadora.</desc><image>https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg</image></programme>
 <programme start="20260324065000 +0000" stop="20260324093500 +0000" channel="sv#tve"><title lang="es">La hora de la 1</title><desc lang="es">Espacio con reportajes y entrevistas dedicados a analizar en profundidad el mundo de la política y la actualidad. El público podrá informarse de la forma más completa respecto del acontecer diario.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">0.56.0/1</episode-num><episode-num system="onscreen">S01E57</episode-num><image>https://cdn.mitvstatic.com/programs/sv_la-hora-de-la-1-s00e57_l_m.jpg</image></programme>
 <programme start="20260324093500 +0000" stop="20260324132000 +0000" channel="sv#tve"><title lang="es">#Mañaneros</title><desc lang="es">Te esperamos todas las mañanas con toda la información que necesitás para empezar el día.</desc><image>https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg</image></programme>
 <programme start="20260324132000 +0000" stop="20260324135500 +0000" channel="sv#tve"><title lang="es">#Mañaneros</title><desc lang="es">Te esperamos todas las mañanas con toda la información que necesitás para empezar el día.</desc><image>https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg</image></programme>
