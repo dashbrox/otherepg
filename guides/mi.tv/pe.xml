@@ -1,38 +1,39 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20260323">
 <channel id="pe#a-e-mundo"><display-name>A&amp;E</display-name><url>https://mi.tv</url></channel>
-<channel id="WillaxTV.pe@SD"><display-name>Willax</display-name><icon src="https://i.imgur.com/bZnDDPH.png"/><url>https://mi.tv</url></channel>
-<channel id="pe#warner"><display-name>Warner Channel</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#ve-plus-tv"><display-name>Ve Plus TV</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#universal-channel"><display-name>Universal TV</display-name><url>https://mi.tv</url></channel>
-<channel id="UnitelSantaCruz.bo@SD"><display-name>Unitel</display-name><icon src="https://i.imgur.com/B9wg1zj.png"/><url>https://mi.tv</url></channel>
-<channel id="pe#tyc-sports"><display-name>TyC Sports</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#tvn-chile"><display-name>TVN Chile</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#tve"><display-name>TVE</display-name><url>https://mi.tv</url></channel>
-<channel id="TVPeru.pe@SD"><display-name>TV Perú</display-name><icon src="https://i.imgur.com/6io0IrX.png"/><url>https://mi.tv</url></channel>
-<channel id="pe#tv-agro"><display-name>Tv Agro</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#tru-tv"><display-name>TruTV</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#tnt-series"><display-name>TNT Series</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#tnt"><display-name>TNT</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#tlnovelas"><display-name>TLNovelas</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#televen"><display-name>Televen</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#telesur"><display-name>Telesur</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#telenostalgia"><display-name>Telenostalgia</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#telemundo"><display-name>Telemundo</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#telehit"><display-name>Telehit</display-name><url>https://mi.tv</url></channel>
-<channel id="Telefuturo.py@SD"><display-name>Telefuturo</display-name><icon src="https://i.imgur.com/6lVrFvb.png"/><url>https://mi.tv</url></channel>
-<channel id="pe#tcm"><display-name>TCM</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#tbs-veryfunny-pan"><display-name>TBS</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#syfy"><display-name>Syfy</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#space"><display-name>Space</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#sony"><display-name>Sony</display-name><url>https://mi.tv</url></channel>
-<channel id="RumbaTV.co@SD"><display-name>Rumba TV</display-name><icon src="https://i.imgur.com/WtVpWwI.png"/><url>https://mi.tv</url></channel>
-<channel id="pe#rt-tv-russia-today"><display-name>Russia Today</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#ritmoson-latino"><display-name>RMS</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#rbc"><display-name>RBC</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#pfc"><display-name>PFC</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#pat"><display-name>PAT</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#paramount-channel"><display-name>Paramount Network</display-name><url>https://mi.tv</url></channel>
-<channel id="PanamericanaTV.pe@SD"><display-name>Panamericana TV</display-name><icon src="https://i.imgur.com/uQhEDES.png"/><url>https://mi.tv</url></channel>
+<channel id="pe#amc"><display-name>AMC</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#america-television"><display-name>América Televisión</display-name><url>https://mi.tv</url></channel>
+<channel id="ATVSur.pe@SD"><display-name>ATV Sur</display-name><icon src="https://i.imgur.com/LnyVa5H.png"/><url>https://mi.tv</url></channel>
+<channel id="pe#cablenoticias"><display-name>Cablenoticias</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#discovery-channel"><display-name>Discovery Channel</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#h2"><display-name>History 2</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#golden-edge"><display-name>Golden Edge</display-name><url>https://mi.tv</url></channel>
+<channel id="DW.de@DeutschPlus"><display-name>DW (Español)</display-name><icon src="https://i.imgur.com/8MRNFb9.png"/><url>https://mi.tv</url></channel>
+<channel id="pe#golden"><display-name>Golden</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#gol-tv"><display-name>GOL TV</display-name><url>https://mi.tv</url></channel>
+<channel id="BYUTV.us@SD"><display-name>BYUtv</display-name><icon src="https://i.imgur.com/mruGyuu.png"/><url>https://mi.tv</url></channel>
+<channel id="pe#destinos-tv"><display-name>Destinos TV</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#glitz"><display-name>Glitz</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#fx"><display-name>FX</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#de-pelicula"><display-name>De Película</display-name><url>https://mi.tv</url></channel>
+<channel id="Latina.pe@SD"><display-name>Latina</display-name><icon src="https://i.imgur.com/MOsWriY.png"/><url>https://mi.tv</url></channel>
+<channel id="pe#fox-sports-3"><display-name>FOX Sports 3</display-name><url>https://mi.tv</url></channel>
+<channel id="ATVPlus.pe@SD"><display-name>ATV +</display-name><icon src="https://i.imgur.com/fY9256H.png"/><url>https://mi.tv</url></channel>
+<channel id="pe#boomerang-cartoon"><display-name>Cartoonito</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#cnn-en-espanol"><display-name>CNN en Español</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#fox-sports-2"><display-name>FOX Sports 2</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#fox-sports"><display-name>FOX Sports</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#cnn-domestico"><display-name>CNN (EE.UU.)</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#fox-life"><display-name>Star Life</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#fox"><display-name>Star Channel</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#bethel"><display-name>Bethel</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#cnn"><display-name>CNN</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#film-zone"><display-name>Film Zone</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#film-arts"><display-name>film&amp;arts</display-name><url>https://mi.tv</url></channel>
+<channel id="CitytvBogota.co@SD"><display-name>Citytv</display-name><icon src="https://i.imgur.com/h7K9EW9.png"/><url>https://mi.tv</url></channel>
+<channel id="pe#ewtn"><display-name>EWTN</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#europa-europa"><display-name>Europa Europa</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#america-sports"><display-name>América Sports</display-name><url>https://mi.tv</url></channel>
+<channel id="ATV.pe@SD"><display-name>ATV</display-name><icon src="https://i.imgur.com/eUzYZfg.png"/><url>https://mi.tv</url></channel>
 <channel id="NickelodeonLatinAmerica.us@Panregional"><display-name>Nick</display-name><icon src="https://i.imgur.com/E84jnP8.png"/><url>https://mi.tv</url></channel>
 <channel id="pe#nick-jr"><display-name>Nick Jr.</display-name><url>https://mi.tv</url></channel>
 <channel id="GlobalTV.pe@SD"><display-name>NexTV</display-name><icon src="https://i.imgur.com/yuEou9C.png"/><url>https://mi.tv</url></channel>
@@ -51,69 +52,68 @@
 <channel id="pe#htv"><display-name>HTV</display-name><url>https://mi.tv</url></channel>
 <channel id="pe#history"><display-name>History</display-name><url>https://mi.tv</url></channel>
 <channel id="pe#hbo"><display-name>HBO</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#h2"><display-name>History 2</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#golden-edge"><display-name>Golden Edge</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#golden"><display-name>Golden</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#gol-tv"><display-name>GOL TV</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#glitz"><display-name>Glitz</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#fx"><display-name>FX</display-name><url>https://mi.tv</url></channel>
-<channel id="Latina.pe@SD"><display-name>Latina</display-name><icon src="https://i.imgur.com/MOsWriY.png"/><url>https://mi.tv</url></channel>
-<channel id="pe#fox-sports-3"><display-name>FOX Sports 3</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#fox-sports-2"><display-name>FOX Sports 2</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#fox-sports"><display-name>FOX Sports</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#fox-life"><display-name>Star Life</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#fox"><display-name>Star Channel</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#film-zone"><display-name>Film Zone</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#film-arts"><display-name>film&amp;arts</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#ewtn"><display-name>EWTN</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#europa-europa"><display-name>Europa Europa</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#bbc-world"><display-name>BBC World</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#cinemax"><display-name>Cinemax</display-name><url>https://mi.tv</url></channel>
 <channel id="pe#euronews"><display-name>Euronews</display-name><url>https://mi.tv</url></channel>
 <channel id="pe#eurochannel"><display-name>Eurochannel</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#cinema"><display-name>Cinema+</display-name><url>https://mi.tv</url></channel>
 <channel id="pe#espn-3"><display-name>ESPN 3</display-name><url>https://mi.tv</url></channel>
 <channel id="pe#espn-2"><display-name>ESPN 2</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#azteca-13"><display-name>Azteca 13</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#cinecanal"><display-name>Cinecanal</display-name><url>https://mi.tv</url></channel>
 <channel id="pe#espn"><display-name>ESPN</display-name><url>https://mi.tv</url></channel>
 <channel id="pe#enlace-tbn"><display-name>Enlace TBN</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#cine-latino"><display-name>Cinelatino</display-name><url>https://mi.tv</url></channel>
 <channel id="pe#el-gourmet"><display-name>El Gourmet</display-name><url>https://mi.tv</url></channel>
 <channel id="pe#e"><display-name>E!</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#animal-planet"><display-name>Animal Planet</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#az-corazon"><display-name>Az Corazón</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#chilevision"><display-name>Chilevisión</display-name><url>https://mi.tv</url></channel>
 <channel id="pe#distrito-comedia"><display-name>Distrito Comedia</display-name><url>https://mi.tv</url></channel>
 <channel id="pe#disney-xd-multicountry"><display-name>Disney XD</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#cctv-4"><display-name>CCTV 4</display-name><url>https://mi.tv</url></channel>
 <channel id="pe#disney-multicountry"><display-name>Disney Channel</display-name><url>https://mi.tv</url></channel>
 <channel id="pe#disney-jr"><display-name>Disney Junior</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#axn"><display-name>AXN</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#cartoon-network"><display-name>Cartoon Network</display-name><url>https://mi.tv</url></channel>
 <channel id="pe#discovery-tlc"><display-name>TLC</display-name><url>https://mi.tv</url></channel>
 <channel id="pe#discovery-kids"><display-name>Discovery Kids</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#canal-7"><display-name>Canal 7</display-name><url>https://mi.tv</url></channel>
 <channel id="pe#discovery-id"><display-name>Investigation Discovery</display-name><url>https://mi.tv</url></channel>
 <channel id="pe#discovery-home-and-health"><display-name>Discovery Home &amp; Health</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#discovery-channel"><display-name>Discovery Channel</display-name><url>https://mi.tv</url></channel>
-<channel id="DW.de@DeutschPlus"><display-name>DW (Español)</display-name><icon src="https://i.imgur.com/8MRNFb9.png"/><url>https://mi.tv</url></channel>
-<channel id="pe#destinos-tv"><display-name>Destinos TV</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#de-pelicula"><display-name>De Película</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#cnn-en-espanol"><display-name>CNN en Español</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#cnn-domestico"><display-name>CNN (EE.UU.)</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#cnn"><display-name>CNN</display-name><url>https://mi.tv</url></channel>
-<channel id="CitytvBogota.co@SD"><display-name>Citytv</display-name><icon src="https://i.imgur.com/h7K9EW9.png"/><url>https://mi.tv</url></channel>
-<channel id="pe#cinemax"><display-name>Cinemax</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#cinema"><display-name>Cinema+</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#cinecanal"><display-name>Cinecanal</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#cine-latino"><display-name>Cinelatino</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#chilevision"><display-name>Chilevisión</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#cctv-4"><display-name>CCTV 4</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#cartoon-network"><display-name>Cartoon Network</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#canal-7"><display-name>Canal 7</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#cablenoticias"><display-name>Cablenoticias</display-name><url>https://mi.tv</url></channel>
-<channel id="BYUTV.us@SD"><display-name>BYUtv</display-name><icon src="https://i.imgur.com/mruGyuu.png"/><url>https://mi.tv</url></channel>
-<channel id="pe#boomerang-cartoon"><display-name>Cartoonito</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#bethel"><display-name>Bethel</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#bbc-world"><display-name>BBC World</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#azteca-13"><display-name>Azteca 13</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#az-corazon"><display-name>Az Corazón</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#axn"><display-name>AXN</display-name><url>https://mi.tv</url></channel>
-<channel id="ATVSur.pe@SD"><display-name>ATV Sur</display-name><icon src="https://i.imgur.com/LnyVa5H.png"/><url>https://mi.tv</url></channel>
-<channel id="ATVPlus.pe@SD"><display-name>ATV +</display-name><icon src="https://i.imgur.com/fY9256H.png"/><url>https://mi.tv</url></channel>
-<channel id="ATV.pe@SD"><display-name>ATV</display-name><icon src="https://i.imgur.com/eUzYZfg.png"/><url>https://mi.tv</url></channel>
-<channel id="pe#animal-planet"><display-name>Animal Planet</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#america-television"><display-name>América Televisión</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#america-sports"><display-name>América Sports</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#amc"><display-name>AMC</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#rbc"><display-name>RBC</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#paramount-channel"><display-name>Paramount Network</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#universal-channel"><display-name>Universal TV</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#tyc-sports"><display-name>TyC Sports</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#warner"><display-name>Warner Channel</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#ve-plus-tv"><display-name>Ve Plus TV</display-name><url>https://mi.tv</url></channel>
+<channel id="UnitelSantaCruz.bo@SD"><display-name>Unitel</display-name><icon src="https://i.imgur.com/B9wg1zj.png"/><url>https://mi.tv</url></channel>
+<channel id="pe#tvn-chile"><display-name>TVN Chile</display-name><url>https://mi.tv</url></channel>
+<channel id="TVPeru.pe@SD"><display-name>TV Perú</display-name><icon src="https://i.imgur.com/6io0IrX.png"/><url>https://mi.tv</url></channel>
+<channel id="pe#tru-tv"><display-name>TruTV</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#tnt"><display-name>TNT</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#tlnovelas"><display-name>TLNovelas</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#telenostalgia"><display-name>Telenostalgia</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#telehit"><display-name>Telehit</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#tcm"><display-name>TCM</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#tbs-veryfunny-pan"><display-name>TBS</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#sony"><display-name>Sony</display-name><url>https://mi.tv</url></channel>
+<channel id="RumbaTV.co@SD"><display-name>Rumba TV</display-name><icon src="https://i.imgur.com/WtVpWwI.png"/><url>https://mi.tv</url></channel>
+<channel id="pe#ritmoson-latino"><display-name>RMS</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#pfc"><display-name>PFC</display-name><url>https://mi.tv</url></channel>
+<channel id="PanamericanaTV.pe@SD"><display-name>Panamericana TV</display-name><icon src="https://i.imgur.com/uQhEDES.png"/><url>https://mi.tv</url></channel>
+<channel id="Telefuturo.py@SD"><display-name>Telefuturo</display-name><icon src="https://i.imgur.com/6lVrFvb.png"/><url>https://mi.tv</url></channel>
+<channel id="pe#space"><display-name>Space</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#tnt-series"><display-name>TNT Series</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#rt-tv-russia-today"><display-name>Russia Today</display-name><url>https://mi.tv</url></channel>
+<channel id="WillaxTV.pe@SD"><display-name>Willax</display-name><icon src="https://i.imgur.com/bZnDDPH.png"/><url>https://mi.tv</url></channel>
+<channel id="pe#tve"><display-name>TVE</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#televen"><display-name>Televen</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#syfy"><display-name>Syfy</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#tv-agro"><display-name>Tv Agro</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#telemundo"><display-name>Telemundo</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#telesur"><display-name>Telesur</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#pat"><display-name>PAT</display-name><url>https://mi.tv</url></channel>
 <programme start="20260323060000 +0000" stop="20260323103000 +0000" channel="ATV.pe@SD"><title lang="es">Los hombres de Paco</title><desc lang="es">La historia de la familia del inspector Paco Miranda, que es trasladado a la comisaría de San Antonio, junto a los subinspectores y amigos, Lucas y Mariano.</desc><image>https://cdn.mitvstatic.com/programs/pe_los-hombres-de-paco_l_m.jpg</image></programme>
 <programme start="20260323103000 +0000" stop="20260323113000 +0000" channel="ATV.pe@SD"><title lang="es">ATV Noticias - Edición matinal</title><desc lang="es">Disfrute de la mejor cobertura de las noticias locales e internacionales de la actualidad para mantenerse actualizado en todo momento.</desc><image>https://cdn.mitvstatic.com/programs/pe_atv-noticias-edicion-matinal-2_l_m.jpg</image></programme>
 <programme start="20260323113000 +0000" stop="20260323153000 +0000" channel="ATV.pe@SD"><title lang="es">ATV Noticias - Edición matinal</title><desc lang="es">Disfrute de la mejor cobertura de las noticias locales e internacionales de la actualidad para mantenerse actualizado en todo momento.</desc><image>https://cdn.mitvstatic.com/programs/pe_atv-noticias-edicion-matinal-2_l_m.jpg</image></programme>
@@ -744,8 +744,8 @@
 <programme start="20260324020000 +0000" stop="20260324033000 +0000" channel="PanamericanaTV.pe@SD"><title lang="es">La granja VIP</title><desc lang="es">Este nuevo reality show buscará romper con la zona de confort de los famosos.</desc><image>https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg</image></programme>
 <programme start="20260324033000 +0000" stop="20260324043000 +0000" channel="PanamericanaTV.pe@SD"><title lang="es">Combutters</title><desc lang="es">Desde un sótano, simulando un centro de control y laboratorio, Phillips Butters maquinará todas sus ideas y recibirá a sus invitados. No dudamos que nos traerá más de una sorpresa con sus irreverentes comentarios.</desc><image>https://cdn.mitvstatic.com/programs/pe_combutters_l_m.jpg</image></programme>
 <programme start="20260324043000 +0000" stop="20260324053000 +0000" channel="PanamericanaTV.pe@SD"><title lang="es">Infieles</title><desc lang="es">Sigue la historia de Ozan, quien llega a un pintoresco pueblo turístico con su familia para pasar el verano en la lujosa villa de su suegro, y de Asli, una joven casada que vive en el mismo pueblo y lucha por mantener su restaurante.</desc><image>https://cdn.mitvstatic.com/programs/pe_infieles_l_m.jpg</image></programme>
-<programme start="20260324053000 +0000" stop="20260324100000 +0000" channel="PanamericanaTV.pe@SD"><title lang="es">Geoherbal</title><desc lang="es">Espacio publicitario de Geoherbal.</desc><image>https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg</image></programme>
 <programme start="20260324053000 +0000" stop="20260324063000 +0000" channel="PanamericanaTV.pe@SD"><title lang="es">Geoherbal</title><desc lang="es">Espacio publicitario de Geoherbal.</desc><image>https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg</image></programme>
+<programme start="20260324053000 +0000" stop="20260324100000 +0000" channel="PanamericanaTV.pe@SD"><title lang="es">Geoherbal</title><desc lang="es">Espacio publicitario de Geoherbal.</desc><image>https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg</image></programme>
 <programme start="20260324100000 +0000" stop="20260324103000 +0000" channel="PanamericanaTV.pe@SD"><title lang="es">Panorama</title><desc lang="es">Espacio pionero de la investigación periodística en Perú, con las primicias que dan que hablar y la información más completa, recabada y narrada por un equipo de profesionales serios y comprometidos con la colectividad.</desc><image>https://cdn.mitvstatic.com/programs/pe_panorama_l_m.jpg</image></programme>
 <programme start="20260324103000 +0000" stop="20260324113000 +0000" channel="PanamericanaTV.pe@SD"><title lang="es">Buenos días, Perú - Primera edición</title><desc lang="es">La mejor información para empezar el día, los sucesos más impactantes de la jornada diaria, acompañados de entrevistas, enlaces en vivo y los mejores informes especiales en este espacio.</desc><image>https://cdn.mitvstatic.com/programs/pe_buenos-dias-peru-primera-edicion-1_l_m.jpg</image></programme>
 <programme start="20260324113000 +0000" stop="20260324143000 +0000" channel="PanamericanaTV.pe@SD"><title lang="es">Buenos días, Perú - Segunda edición</title><desc lang="es">La mejor información para empezar el día, los sucesos más impactantes de la jornada diaria, acompañados de entrevistas, enlaces en vivo y los mejores informes especiales en este espacio.</desc><image>https://cdn.mitvstatic.com/programs/pe_buenos-dias-peru-segunda-edicion-1_l_m.jpg</image></programme>
@@ -4640,8 +4640,8 @@
 <programme start="20260323170000 +0000" stop="20260323210000 +0000" channel="pe#rbc"><title lang="es">Canal 11</title><image>https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg</image></programme>
 <programme start="20260323210000 +0000" stop="20260324010000 +0000" channel="pe#rbc"><title lang="es">Canal 11</title><image>https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg</image></programme>
 <programme start="20260324010000 +0000" stop="20260324050000 +0000" channel="pe#rbc"><title lang="es">Canal 11</title><image>https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg</image></programme>
-<programme start="20260324050000 +0000" stop="20260324090000 +0000" channel="pe#rbc"><title lang="es">Canal 11</title><image>https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg</image></programme>
 <programme start="20260324050000 +0000" stop="20260324060000 +0000" channel="pe#rbc"><title lang="es">Canal 11</title><image>https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg</image></programme>
+<programme start="20260324050000 +0000" stop="20260324090000 +0000" channel="pe#rbc"><title lang="es">Canal 11</title><image>https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg</image></programme>
 <programme start="20260324090000 +0000" stop="20260324130000 +0000" channel="pe#rbc"><title lang="es">Canal 11</title><image>https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg</image></programme>
 <programme start="20260324130000 +0000" stop="20260324170000 +0000" channel="pe#rbc"><title lang="es">Canal 11</title><image>https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg</image></programme>
 <programme start="20260324170000 +0000" stop="20260324210000 +0000" channel="pe#rbc"><title lang="es">Canal 11</title><image>https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg</image></programme>
@@ -4985,8 +4985,8 @@
 <programme start="20260323230000 +0000" stop="20260324000000 +0000" channel="pe#telenostalgia"><title lang="es">El mano a mano</title><desc lang="es">Dos artistas se enfrentarán con sus más grandes éxitos musicales. Lo más importante es que el público será el encargado de elegir el artista ganador, a través de votaciones Online.</desc><image>https://cdn.mitvstatic.com/programs/pe_el-mano-a-mano_l_m.jpg</image></programme>
 <programme start="20260324000000 +0000" stop="20260324010000 +0000" channel="pe#telenostalgia"><title lang="es">Con sentimiento popular</title><desc lang="es">Espacio dedicado a emitir lo mejor de la música popular colombiana y regional mexicana.</desc><image>https://cdn.mitvstatic.com/programs/pe_con-sentimiento-popular_l_m.jpg</image></programme>
 <programme start="20260324010000 +0000" stop="20260324020000 +0000" channel="pe#telenostalgia"><title lang="es">La hora del amor</title><desc lang="es">Aquí los protagonistas son los televidentes quienes, a través de Facebook, solicitan y dedican una canción que luego podrán disfrutar durante la transmisión del programa.</desc><image>https://cdn.mitvstatic.com/programs/pe_la-hora-del-amor_l_m.jpg</image></programme>
-<programme start="20260324020000 +0000" stop="20260324083000 +0000" channel="pe#telenostalgia"><title lang="es">Programación videos</title><desc lang="es">Disfruta de los artistas y canciones favoritas de todos los tiempos con sus videos musicales, en este espacio que te lleva a recordar momentos especiales con hermosas y vibrantes melodías.</desc><image>https://cdn.mitvstatic.com/programs/pe_programacion-videos_l_m.jpg</image></programme>
 <programme start="20260324020000 +0000" stop="20260324030000 +0000" channel="pe#telenostalgia"><title lang="es">Programación videos</title><desc lang="es">Disfruta de los artistas y canciones favoritas de todos los tiempos con sus videos musicales, en este espacio que te lleva a recordar momentos especiales con hermosas y vibrantes melodías.</desc><image>https://cdn.mitvstatic.com/programs/pe_programacion-videos_l_m.jpg</image></programme>
+<programme start="20260324020000 +0000" stop="20260324083000 +0000" channel="pe#telenostalgia"><title lang="es">Programación videos</title><desc lang="es">Disfruta de los artistas y canciones favoritas de todos los tiempos con sus videos musicales, en este espacio que te lleva a recordar momentos especiales con hermosas y vibrantes melodías.</desc><image>https://cdn.mitvstatic.com/programs/pe_programacion-videos_l_m.jpg</image></programme>
 <programme start="20260324083000 +0000" stop="20260324150000 +0000" channel="pe#telenostalgia"><title lang="es">Programación videos</title><desc lang="es">Disfruta de los artistas y canciones favoritas de todos los tiempos con sus videos musicales, en este espacio que te lleva a recordar momentos especiales con hermosas y vibrantes melodías.</desc><image>https://cdn.mitvstatic.com/programs/pe_programacion-videos_l_m.jpg</image></programme>
 <programme start="20260324150000 +0000" stop="20260324160000 +0000" channel="pe#telenostalgia"><title lang="es">Estudio abierto</title><desc lang="es">Espacio dedicado a la música popular, donde son directamente los artistas los encargados de contarnos lo que acontece en su carrera profesional.</desc><image>https://cdn.mitvstatic.com/programs/pe_estudio-abierto_l_m.jpg</image></programme>
 <programme start="20260324160000 +0000" stop="20260324170000 +0000" channel="pe#telenostalgia"><title lang="es">Programación videos</title><desc lang="es">Disfruta de los artistas y canciones favoritas de todos los tiempos con sus videos musicales, en este espacio que te lleva a recordar momentos especiales con hermosas y vibrantes melodías.</desc><image>https://cdn.mitvstatic.com/programs/pe_programacion-videos_l_m.jpg</image></programme>
@@ -5411,8 +5411,8 @@
 <programme start="20260324010000 +0000" stop="20260324013000 +0000" channel="pe#tve"><title lang="es">TD Internacional 24 Horas</title><desc lang="es">Telediario en el que se cuentan noticias de temas nacionales con especial peso en los temas internacionales.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">0.81.0/1</episode-num><episode-num system="onscreen">S01E82</episode-num><image>https://cdn.mitvstatic.com/programs/pe_td-internacional-24-horas-s00e82_l_m.jpg</image></programme>
 <programme start="20260324013000 +0000" stop="20260324024500 +0000" channel="pe#tve"><title lang="es">La revuelta</title><desc lang="es">Nueva temporada de este programa en el que un grupo de cómicos acompañan a David Broncano a entrevistar a diversos invitados famosos en un teatro del centro de Madrid para que al final el protagonista sea alguien perteneciente al público.</desc><image>https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg</image></programme>
 <programme start="20260324024500 +0000" stop="20260324054500 +0000" channel="pe#tve"><title lang="es">Deco Masters</title><desc lang="es">Decoradores aficionados y aficionados al bricolaje de toda Bélgica compiten con brochas y rodillos para empapelar bajo la mirada experta de Valérie Damidot. Hay dos cosas en juego: el título de Maestros Deco y un cheque de 2000 euros.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">0.8.0/1</episode-num><episode-num system="onscreen">S01E09</episode-num><image>https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg</image></programme>
-<programme start="20260324054500 +0000" stop="20260324065000 +0000" channel="pe#tve"><title lang="es">Al cielo con ella</title><desc lang="es">Henar se despide de La2 con el funeral más surrealista de la televisión para celebrar el salto a La1. Lidia San José recuerda sus inicios y muestra su faceta como historiadora.</desc><image>https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg</image></programme>
 <programme start="20260324054500 +0000" stop="20260324064500 +0000" channel="pe#tve"><title lang="es">Al cielo con ella</title><desc lang="es">Henar se despide de La2 con el funeral más surrealista de la televisión para celebrar el salto a La1. Lidia San José recuerda sus inicios y muestra su faceta como historiadora.</desc><image>https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg</image></programme>
+<programme start="20260324054500 +0000" stop="20260324065000 +0000" channel="pe#tve"><title lang="es">Al cielo con ella</title><desc lang="es">Henar se despide de La2 con el funeral más surrealista de la televisión para celebrar el salto a La1. Lidia San José recuerda sus inicios y muestra su faceta como historiadora.</desc><image>https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg</image></programme>
 <programme start="20260324065000 +0000" stop="20260324093500 +0000" channel="pe#tve"><title lang="es">La hora de la 1</title><desc lang="es">Espacio con reportajes y entrevistas dedicados a analizar en profundidad el mundo de la política y la actualidad. El público podrá informarse de la forma más completa respecto del acontecer diario.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">0.56.0/1</episode-num><episode-num system="onscreen">S01E57</episode-num><image>https://cdn.mitvstatic.com/programs/pe_la-hora-de-la-1-s00e57_l_m.jpg</image></programme>
 <programme start="20260324093500 +0000" stop="20260324132000 +0000" channel="pe#tve"><title lang="es">#Mañaneros</title><desc lang="es">Te esperamos todas las mañanas con toda la información que necesitás para empezar el día.</desc><image>https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg</image></programme>
 <programme start="20260324132000 +0000" stop="20260324135500 +0000" channel="pe#tve"><title lang="es">#Mañaneros</title><desc lang="es">Te esperamos todas las mañanas con toda la información que necesitás para empezar el día.</desc><image>https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg</image></programme>
@@ -5490,8 +5490,8 @@
 <programme start="20260324021000 +0000" stop="20260324031000 +0000" channel="pe#tyc-sports"><title lang="es">Escuderia carburando</title><desc lang="es">La actualidad del automovilismo nacional e internacional con el análisis de las carreras, invitados, entrevistas, las polémicas, imágenes exclusivas y toda la pasión y la adrenalina de los fierros.</desc><image>https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg</image></programme>
 <programme start="20260324031000 +0000" stop="20260324044000 +0000" channel="pe#tyc-sports"><title lang="es">El análisis de la fecha de la Liga Profesional</title><desc lang="es">Pablo Lamédica conduce el programa que baja el telón de la jornada con el análisis y el post de los partidos nocturnos del fútbol argentino y las copas internacionales.</desc><image>https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg</image></programme>
 <programme start="20260324044000 +0000" stop="20260324054000 +0000" channel="pe#tyc-sports"><title lang="es">Sportia</title><desc lang="es">El noticiero deportivo más completo con móviles en vivo, análisis, el día a día de los clubes argentinos, la previa de la actividad nocturna, entrevistas y especialistas en cada disciplina.</desc><image>https://cdn.mitvstatic.com/programs/pe_noticiero-sportia_l_m.jpg</image></programme>
-<programme start="20260324054000 +0000" stop="20260324074000 +0000" channel="pe#tyc-sports"><title lang="es">Independiente vs. Talleres (Cba.)</title><desc lang="es">Vive los partidos del primer torneo de la 97º edición de la Primera División del fútbol argentino. Serán 30 equipos divididos en 2 zonas. Los mejores 8 de cada una accederán a la instancia final de playoffs.</desc><image>https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg</image></programme>
 <programme start="20260324054000 +0000" stop="20260324064000 +0000" channel="pe#tyc-sports"><title lang="es">Independiente vs. Talleres (Cba.)</title><desc lang="es">Vive los partidos del primer torneo de la 97º edición de la Primera División del fútbol argentino. Serán 30 equipos divididos en 2 zonas. Los mejores 8 de cada una accederán a la instancia final de playoffs.</desc><image>https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg</image></programme>
+<programme start="20260324054000 +0000" stop="20260324074000 +0000" channel="pe#tyc-sports"><title lang="es">Independiente vs. Talleres (Cba.)</title><desc lang="es">Vive los partidos del primer torneo de la 97º edición de la Primera División del fútbol argentino. Serán 30 equipos divididos en 2 zonas. Los mejores 8 de cada una accederán a la instancia final de playoffs.</desc><image>https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg</image></programme>
 <programme start="20260324074000 +0000" stop="20260324094000 +0000" channel="pe#tyc-sports"><title lang="es">Vélez Sarsfield vs. Lanús</title><desc lang="es">Vive los partidos del primer torneo de la 97º edición de la Primera División del fútbol argentino. Serán 30 equipos divididos en 2 zonas. Los mejores 8 de cada una accederán a la instancia final de playoffs.</desc><image>https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg</image></programme>
 <programme start="20260324094000 +0000" stop="20260324110000 +0000" channel="pe#tyc-sports"><title lang="es">La noche de TyC Sports</title><desc lang="es">Pablo Lamédica conduce el programa que baja el telón de la jornada con el análisis y el post de los partidos nocturnos del fútbol argentino y las copas internacionales.</desc><image>https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg</image></programme>
 <programme start="20260324110000 +0000" stop="20260324130000 +0000" channel="pe#tyc-sports"><title lang="es">Huracán vs. Barracas Central</title><desc lang="es">Vive los partidos del primer torneo de la 97º edición de la Primera División del fútbol argentino. Serán 30 equipos divididos en 2 zonas. Los mejores 8 de cada una accederán a la instancia final de playoffs.</desc><image>https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg</image></programme>
@@ -5535,8 +5535,8 @@
 <programme start="20260324025000 +0000" stop="20260324034000 +0000" channel="pe#universal-channel"><title lang="es">Chicago Fire</title><sub-title lang="es">Crimen pasional</sub-title><desc lang="es">Un miembro de la familia de Firehouse 51 continúa en peligro; Cruz ayuda a Severide en la investigación en curso.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">13.8.0/1</episode-num><episode-num system="onscreen">S14E09</episode-num><image>https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg</image></programme>
 <programme start="20260324034000 +0000" stop="20260324043000 +0000" channel="pe#universal-channel"><title lang="es">Policías de Chicago</title><sub-title lang="es">Héroes</sub-title><desc lang="es">Platt enfrenta problemas después de que un favor básico para un ex recluta se convierte en una situación catastrófica.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">12.8.0/1</episode-num><episode-num system="onscreen">S13E09</episode-num><image>https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg</image></programme>
 <programme start="20260324043000 +0000" stop="20260324052000 +0000" channel="pe#universal-channel"><title lang="es">Policías de Chicago</title><sub-title lang="es">Revelaciones</sub-title><desc lang="es">Cuando le asignan acompañar a un equipo de prevención de crisis, Upton encuentra que la manera en la que encara su trabajo policial choca con el enfoque del médico de salud mental del equipo.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">10.0.0/1</episode-num><episode-num system="onscreen">S11E01</episode-num><image>https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg</image></programme>
-<programme start="20260324052000 +0000" stop="20260324061000 +0000" channel="pe#universal-channel"><title lang="es">Chicago Fire</title><sub-title lang="es">¿A quién debo temer?</sub-title><desc lang="es">Gallo choca con el nuevo teniente que reemplaza temporalmente a Casey.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">9.6.0/1</episode-num><episode-num system="onscreen">S10E07</episode-num><image>https://cdn.mitvstatic.com/programs/pe_chicago-fire-s10e07-a-quien-debo-temer_l_m.jpg</image></programme>
 <programme start="20260324052000 +0000" stop="20260324062000 +0000" channel="pe#universal-channel"><title lang="es">Chicago Fire</title><sub-title lang="es">¿A quién debo temer?</sub-title><desc lang="es">Gallo choca con el nuevo teniente que reemplaza temporalmente a Casey.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">9.6.0/1</episode-num><episode-num system="onscreen">S10E07</episode-num><image>https://cdn.mitvstatic.com/programs/pe_chicago-fire-s10e07-a-quien-debo-temer_l_m.jpg</image></programme>
+<programme start="20260324052000 +0000" stop="20260324061000 +0000" channel="pe#universal-channel"><title lang="es">Chicago Fire</title><sub-title lang="es">¿A quién debo temer?</sub-title><desc lang="es">Gallo choca con el nuevo teniente que reemplaza temporalmente a Casey.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">9.6.0/1</episode-num><episode-num system="onscreen">S10E07</episode-num><image>https://cdn.mitvstatic.com/programs/pe_chicago-fire-s10e07-a-quien-debo-temer_l_m.jpg</image></programme>
 <programme start="20260324061000 +0000" stop="20260324070000 +0000" channel="pe#universal-channel"><title lang="es">Chicago Fire</title><sub-title lang="es">¿Qué pasó en Whiskey Point?</sub-title><desc lang="es">Severide y Herrmann se enfrentan por el espacio de oficina. Boden investiga el pasado de Pelham mientras contempla dejarlo como trabajador permanente.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">9.7.0/1</episode-num><episode-num system="onscreen">S10E08</episode-num><image>https://cdn.mitvstatic.com/programs/pe_chicago-fire-s10e08-que-paso-en-whiskey-point_l_m.jpg</image></programme>
 <programme start="20260324070000 +0000" stop="20260324075000 +0000" channel="pe#universal-channel"><title lang="es">Chicago Fire</title><sub-title lang="es">Fiesta de invierno</sub-title><desc lang="es">Gallo, Violet y Ritter hacen su debut con su cerveza artesanal en Winterfest. Brett se prepara para presentar su programa de paramedicina ante un panel de supervisión.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">9.8.0/1</episode-num><episode-num system="onscreen">S10E09</episode-num><image>https://cdn.mitvstatic.com/programs/pe_chicago-fire-s10e09-winterfest_l_m.jpg</image></programme>
 <programme start="20260324075000 +0000" stop="20260324084000 +0000" channel="pe#universal-channel"><title lang="es">Policías de Chicago</title><sub-title lang="es">En teoría</sub-title><desc lang="es">Upton trae al detective Petrovic de la SVU para que lo ayude en un secuestro a un menor de edad.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">10.7.0/1</episode-num><episode-num system="onscreen">S11E08</episode-num><image>https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg</image></programme>
@@ -5740,8 +5740,8 @@
 <programme start="20260324000000 +0000" stop="20260324005000 +0000" channel="Telefuturo.py@SD"><title lang="es">El chico de oro</title><desc lang="es">Ferit es obligado a casarse con una joven. Pero él, además de ser rico, vive una vida sin restricciones ni obligaciones. ¿La vida matrimonial cambiará sus hábitos? ¿Y cómo será aceptado un hombre así por una esposa de buen corazón?</desc><image>https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg</image></programme>
 <programme start="20260324005000 +0000" stop="20260324020000 +0000" channel="Telefuturo.py@SD"><title lang="es">Destino roto</title><desc lang="es">El destino une a Fidan y Toprak cuando ella descubre que él se parece a su difunto esposo, aunque él no la reconoce. A medida que pasan tiempo juntos, ambos comienzan a sentir una conexión especial.</desc><image>https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg</image></programme>
 <programme start="20260324020000 +0000" stop="20260324030000 +0000" channel="Telefuturo.py@SD"><title lang="es">Leyendas urbanas</title><desc lang="es">Luis Bareiro, Santiago González y Fito Cabral llegan llenarte de risas, humor, ironía y diversión.</desc><image>https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg</image></programme>
-<programme start="20260324030000 +0000" stop="20260324082000 +0000" channel="Telefuturo.py@SD"><title lang="es">Fin de transmisión</title><desc lang="es">Fin de transmisión.</desc><image>https://cdn.mitvstatic.com/programs/pe_fin-de-transmision_l_m.jpg</image></programme>
 <programme start="20260324030000 +0000" stop="20260324040000 +0000" channel="Telefuturo.py@SD"><title lang="es">Fin de transmisión</title><desc lang="es">Fin de transmisión.</desc><image>https://cdn.mitvstatic.com/programs/pe_fin-de-transmision_l_m.jpg</image></programme>
+<programme start="20260324030000 +0000" stop="20260324082000 +0000" channel="Telefuturo.py@SD"><title lang="es">Fin de transmisión</title><desc lang="es">Fin de transmisión.</desc><image>https://cdn.mitvstatic.com/programs/pe_fin-de-transmision_l_m.jpg</image></programme>
 <programme start="20260324082000 +0000" stop="20260324120000 +0000" channel="Telefuturo.py@SD"><title lang="es">Día a día</title><desc lang="es">Un espacio periodístico que presenta un resumen de las noticias más importantes del día, una proyección de los temas que serán noticia en la jornada que se inicia.</desc><image>https://cdn.mitvstatic.com/programs/pe_dia-a-dia_l_m.jpg</image></programme>
 <programme start="20260324120000 +0000" stop="20260324143000 +0000" channel="Telefuturo.py@SD"><title lang="es">Vive la vida</title><desc lang="es">Disfruta un programa de revisita con lo más relevante del día.</desc><image>https://cdn.mitvstatic.com/programs/pe_vive-la-vida_l_m.jpg</image></programme>
 <programme start="20260324143000 +0000" stop="20260324163000 +0000" channel="Telefuturo.py@SD"><title lang="es">Meridiano informativo</title><desc lang="es">Noticiero ideado para ser visto en medio de las actividades cotidianas con un perfil de magazine. El televidente también podrá conocer algo de misceláneas y noticias insólitas que se registran en el país y el mundo.</desc><image>https://cdn.mitvstatic.com/programs/pe_meridiano-informativo_l_m.jpg</image></programme>
@@ -5809,8 +5809,8 @@
 <programme start="20260324024500 +0000" stop="20260324040000 +0000" channel="UnitelSantaCruz.bo@SD"><title lang="es">El señor de los cielos</title><desc lang="es">Conoce los pasos de Aurelio Casillas en su odisea por convertirse en el narcotraficante más grande en México. Para lograrlo, deberá sortear toda suerte de obstáculos, en un torbellino de emociones, acciones, pasiones desenfrenadas.</desc><image>https://cdn.mitvstatic.com/programs/pe_el-senor-de-los-cielos_l_m.jpg</image></programme>
 <programme start="20260324040000 +0000" stop="20260324041500 +0000" channel="UnitelSantaCruz.bo@SD"><title lang="es">Telepaís media noche</title><desc lang="es">El servicio informativo de Unitel.</desc><image>https://cdn.mitvstatic.com/programs/pe_telepais-media-noche_l_m.jpg</image></programme>
 <programme start="20260324041500 +0000" stop="20260324044500 +0000" channel="UnitelSantaCruz.bo@SD"><title lang="es">Caso cerrado</title><desc lang="es">La abogada Ana María Polo está lista para enfrentarse a cualquier situación y resolver de una vez por todas cualquier polémica.</desc><image>https://cdn.mitvstatic.com/programs/pe_caso-cerrado_l_m.jpg</image></programme>
-<programme start="20260324044500 +0000" stop="20260324100000 +0000" channel="UnitelSantaCruz.bo@SD"><title lang="es">Pare de sufrir</title><desc lang="es">Segmento conducido por pastores brasileños y argentinos que muestran testimonios de los adherentes a la Iglesia Universal del Reino de Dios.</desc><image>https://cdn.mitvstatic.com/programs/pe_pare-de-sufrir_l_m.jpg</image></programme>
 <programme start="20260324044500 +0000" stop="20260324054500 +0000" channel="UnitelSantaCruz.bo@SD"><title lang="es">Pare de sufrir</title><desc lang="es">Segmento conducido por pastores brasileños y argentinos que muestran testimonios de los adherentes a la Iglesia Universal del Reino de Dios.</desc><image>https://cdn.mitvstatic.com/programs/pe_pare-de-sufrir_l_m.jpg</image></programme>
+<programme start="20260324044500 +0000" stop="20260324100000 +0000" channel="UnitelSantaCruz.bo@SD"><title lang="es">Pare de sufrir</title><desc lang="es">Segmento conducido por pastores brasileños y argentinos que muestran testimonios de los adherentes a la Iglesia Universal del Reino de Dios.</desc><image>https://cdn.mitvstatic.com/programs/pe_pare-de-sufrir_l_m.jpg</image></programme>
 <programme start="20260324100000 +0000" stop="20260324130000 +0000" channel="UnitelSantaCruz.bo@SD"><title lang="es">La revista</title><desc lang="es">Infórmese con nuestro resumen de noticias.</desc><image>https://cdn.mitvstatic.com/programs/pe_la-revista_l_m.jpg</image></programme>
 <programme start="20260324130000 +0000" stop="20260324143000 +0000" channel="UnitelSantaCruz.bo@SD"><title lang="es">La batidora</title><desc lang="es">El programa más divertido de la televisión boliviana.</desc><image>https://cdn.mitvstatic.com/programs/pe_la-batidora_l_m.jpg</image></programme>
 <programme start="20260324143000 +0000" stop="20260324163000 +0000" channel="UnitelSantaCruz.bo@SD"><title lang="es">Los Simpson</title><desc lang="es">Narra las vivencias de una peculiar familia norteamericana conformada por Homero, Marge, Bart, Lisa y Maggie Simpson, junto a otros divertidos personajes de la localidad de Springfield.</desc><image>https://cdn.mitvstatic.com/programs/pe_los-simpson_l_m.jpg</image></programme>
