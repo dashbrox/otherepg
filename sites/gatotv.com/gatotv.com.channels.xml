@@ -91,7 +91,6 @@
   <channel site="gatotv.com" site_id="hollywood_espana" lang="es" xmltv_id="">Hollywood España</channel>
   <channel site="gatotv.com" site_id="la_red_chile" lang="es" xmltv_id="">La Red Chile</channel>
   <channel site="gatotv.com" site_id="mtv_centro" lang="es" xmltv_id="">MTV Centro</channel>
-  <channel site="gatotv.com" site_id="mtv_mexico" lang="es" xmltv_id="">MTV México</channel>
   <channel site="gatotv.com" site_id="national_geographic_centro" lang="es" xmltv_id="">National Geographic Centro</channel>
   <channel site="gatotv.com" site_id="nick_junior_latinoamerica" lang="es" xmltv_id="">Nick Jr. Latinoamérica</channel>
   <channel site="gatotv.com" site_id="nickelodeon_centro" lang="es" xmltv_id="">Nickelodeon Centro</channel>
@@ -438,7 +437,6 @@
   <channel site="gatotv.com" site_id="tv5monde" lang="es" xmltv_id="TV5MondeLatinAmerica.fr@SD">TV5Monde</channel>
   <channel site="gatotv.com" site_id="tvc_deportes" lang="es" xmltv_id="TVCDeportes.mx@SD">TVC Deportes</channel>
   <channel site="gatotv.com" site_id="tv_chile" lang="es" xmltv_id="TVChile.cl@SD">TV Chile</channel>
-  <channel site="gatotv.com" site_id="tve" lang="es" xmltv_id="TVEInternacionalAmerica.es@SD">TVE Internacional</channel>
   <channel site="gatotv.com" site_id="tv_globo_internacional" lang="es" xmltv_id="TVGloboInternacionalAmericas.br@SD">TV Globo Internacional</channel>
   <channel site="gatotv.com" site_id="tvmax" lang="es" xmltv_id="TVMax.pa@SD">9 de Panamá</channel>
   <channel site="gatotv.com" site_id="tvn_chile" lang="es" xmltv_id="TVN.cl@SD">TVN Chile</channel>
