@@ -46,7 +46,7 @@ const MOVIE_GENRES = [
 
 module.exports = {
   site: 'mi.tv',
-  days: 2,
+  days: 3,
   request: { headers },
 
   url({ date, channel }) {
