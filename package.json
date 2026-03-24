@@ -82,7 +82,7 @@
   "curl-generator": "^0.5.0",
   "cwait": "^1.1.2",
   "dayjs": "^1.11.13",
-  "epg-grabber": "git+https://github.com/dashbrox/epg-grabber.git#master",
+  "epg-grabber": "https://codeload.github.com/dashbrox/epg-grabber/tar.gz/refs/heads/master",
   "epg-parser": "^0.5.0",
   "eslint": "^9.32.0",
   "eslint-config-prettier": "^10.1.8",
