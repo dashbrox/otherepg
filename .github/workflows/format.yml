@@ -17,18 +17,6 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: tibdex/github-app-token@v1.8.2
-        if: ${{ !env.ACT }}
-        id: create-app-token
-        with:
-          app_id: ${{ secrets.APP_ID }}
-          private_key: ${{ secrets.APP_PRIVATE_KEY }}
-
-      - uses: actions/checkout@v4
-        if: ${{ !env.ACT }}
-        with:
-          token: ${{ steps.create-app-token.outputs.token }}
-
       - uses: actions/setup-node@v4
         with:
           node-version: 22
@@ -74,16 +62,16 @@ jobs:
 
       - name: Setup git
         run: |
-          git config user.name "iptv-bot[bot]"
-          git config user.email "84861620+iptv-bot[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
       - name: Commit changes
         if: steps.files.outputs.any_changed == 'true'
         run: |
           git add sites package.json package-lock.json
           git status
-          git commit -m "[Bot] Format channels and update lockfile" -m "Committed by [iptv-bot](https://github.com/apps/iptv-bot) via [format](https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}) workflow." --no-verify
+          git commit -m "[Bot] Format channels and update lockfile" -m "Committed by github-actions via format workflow." --no-verify
 
       - name: Push all changes to the repository
-        if: ${{ !env.ACT && github.ref == 'refs/heads/master' && steps.files.outputs.any_changed == 'true' }}
+        if: ${{ github.ref == 'refs/heads/master' && steps.files.outputs.any_changed == 'true' }}
         run: git push
