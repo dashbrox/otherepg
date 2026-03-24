@@ -5,6 +5,7 @@ on:
   push:
     paths:
       - package.json
+      - package-lock.json
 
 permissions:
   contents: write
@@ -30,9 +31,10 @@ jobs:
 
       - name: Detect changes
         id: files
+        shell: bash
         run: |
           CHANNELS_ANY_CHANGED=false
-          CHANNELS_ALL_CHANGED_FILES=$(git diff --diff-filter=ACMRT --name-only -- 'sites/**/*.channels.xml' | tr '\n' ' ')
+          CHANNELS_ALL_CHANGED_FILES=$(git diff --diff-filter=ACMRT --name-only -- ':(glob)sites/**/*.channels.xml' | tr '\n' ' ')
           if [ -n "${CHANNELS_ALL_CHANGED_FILES}" ]; then
             CHANNELS_ANY_CHANGED=true
           fi
