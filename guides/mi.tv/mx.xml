@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20260324">
 <channel id="mx#a-e-mundo"><display-name>A&amp;E</display-name><url>https://mi.tv</url></channel>
-<channel id="mx#a-plus"><display-name>A+</display-name><url>https://mi.tv</url></channel>
-<channel id="mx#amc-hd"><display-name>AMC HD</display-name><url>https://mi.tv</url></channel>
-<channel id="AMCLatinAmerica.us@SD"><display-name>AMC</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png"/><url>https://mi.tv</url></channel>
-<channel id="mx#animal-planet"><display-name>Animal Planet</display-name><url>https://mi.tv</url></channel>
+<channel id="mx#xh-gc-canal-5-hd"><display-name>Canal 5 HD</display-name><url>https://mi.tv</url></channel>
+<channel id="Canal5.mx@SD"><display-name>Canal 5</display-name><icon src="https://i.imgur.com/uZdVSoW.png"/><url>https://mi.tv</url></channel>
+<channel id="XEIPNTDT.mx@SD"><display-name>Canal Once</display-name><icon src="https://i.imgur.com/K0351vF.png"/><url>https://mi.tv</url></channel>
+<channel id="WOBI.ar@SD"><display-name>WOBI TV</display-name><icon src="https://i.imgur.com/uW4WIvC.png"/><url>https://mi.tv</url></channel>
 <channel id="WarnerChannel.us@Mexico"><display-name>Warner Channel</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Warner_TV_logo.svg/960px-Warner_TV_logo.svg.png"/><url>https://mi.tv</url></channel>
 <channel id="mx#vh1"><display-name>VH1</display-name><url>https://mi.tv</url></channel>
 <channel id="mx#univision"><display-name>Univision</display-name><url>https://mi.tv</url></channel>
@@ -116,10 +116,10 @@
 <channel id="Azteca7.mx@SD"><display-name>Azteca 7</display-name><icon src="https://i.imgur.com/UtFXjIn.png"/><url>https://mi.tv</url></channel>
 <channel id="mx#az-corazon"><display-name>Az Corazón</display-name><url>https://mi.tv</url></channel>
 <channel id="mx#axn"><display-name>AXN</display-name><url>https://mi.tv</url></channel>
-<channel id="XEIPNTDT.mx@SD"><display-name>Canal Once</display-name><icon src="https://i.imgur.com/K0351vF.png"/><url>https://mi.tv</url></channel>
-<channel id="mx#xh-gc-canal-5-hd"><display-name>Canal 5 HD</display-name><url>https://mi.tv</url></channel>
-<channel id="Canal5.mx@SD"><display-name>Canal 5</display-name><icon src="https://i.imgur.com/uZdVSoW.png"/><url>https://mi.tv</url></channel>
-<channel id="WOBI.ar@SD"><display-name>WOBI TV</display-name><icon src="https://i.imgur.com/uW4WIvC.png"/><url>https://mi.tv</url></channel>
+<channel id="mx#animal-planet"><display-name>Animal Planet</display-name><url>https://mi.tv</url></channel>
+<channel id="mx#amc-hd"><display-name>AMC HD</display-name><url>https://mi.tv</url></channel>
+<channel id="AMCLatinAmerica.us@SD"><display-name>AMC</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="mx#a-plus"><display-name>A+</display-name><url>https://mi.tv</url></channel>
 <programme start="20260324051000 +0000" stop="20260324070000 +0000" channel="AMCLatinAmerica.us@SD"><title lang="es">John Wick</title><desc lang="es">John es un antiguo asesino a sueldo que observa como un ladrón roba su coche y mata al perro que su mujer le regaló antes de morir. Tras el hecho, Jon persigue al delincuente y descubre una red mafiosa que le ha puesto un valor a su cabeza.</desc><date>20140101</date><category lang="es">7.3</category><image>https://cdn.mitvstatic.com/programs/mx_john-wick-2014_l_m.jpg</image></programme>
 <programme start="20260324070000 +0000" stop="20260324085500 +0000" channel="AMCLatinAmerica.us@SD"><title lang="es">Ejecutor</title><desc lang="es">Retirado por la fuerza del FBI por brutalidad excesiva, el ex agente Kaminski es ahora el sheriff de un pequeño pueblo. Hasta que un viejo amigo de la oficina recurre a él para vengarse de Patrovina, un capo mafia que asesinó a su hijo.</desc><date>19860101</date><image>https://cdn.mitvstatic.com/programs/mx_ejecutor-1986_l_m.jpg</image></programme>
 <programme start="20260324085500 +0000" stop="20260324110000 +0000" channel="AMCLatinAmerica.us@SD"><title lang="es">El vengador del futuro</title><desc lang="es">El constructor Douglas Quaid descubre que la totalidad de sus recuerdos del pasado provienen de un circuito implantado en su cerebro y se entera que, en realidad, es un agente secreto que se ha convertido en una amenaza para el Gobierno.</desc><date>19900101</date><image>https://cdn.mitvstatic.com/programs/mx_el-vengador-del-futuro-1990_l_m.jpg</image></programme>
