@@ -123,6 +123,12 @@ function normalizeText(text = '') {
   return text.replace(/\u00a0/g, ' ').replace(/\s+/g, ' ').trim()
 }
 
+function normalizeYear(year) {
+  if (!year) return null
+  const match = String(year).match(/(19\d{2}|20\d{2})/)
+  return match ? match[1] : null
+}
+
 function parseStart($item, date) {
   const timeString = $item('a > div.content > span.time').text()
   if (!timeString) return null
@@ -298,8 +304,8 @@ function parseProgramMeta($item, image) {
       title_es: titleEs,
       title_en: movieData.title_en,
       category: movieData.category,
-      year: movieData.year,
-      date: movieData.year,
+      year: normalizeYear(movieData.year),
+      date: null,
       rating: movieData.rating,
       description: synopsis,
       synopsis,
@@ -441,7 +447,7 @@ function extractMovieInfo(parts, imageUrl) {
     return {
       title_en: '',
       category: '',
-      year: extractYearFromImage(imageUrl),
+      year: normalizeYear(extractYearFromImage(imageUrl)),
       rating: null
     }
   }
@@ -453,7 +459,7 @@ function extractMovieInfo(parts, imageUrl) {
     return {
       title_en: titleEn,
       category: meta.category,
-      year: meta.year || extractYearFromImage(imageUrl),
+      year: normalizeYear(meta.year || extractYearFromImage(imageUrl)),
       rating: meta.rating
     }
   }
@@ -477,7 +483,7 @@ function parseMovieMetaLine(line) {
 
   return {
     category: normalizeText(m[1]),
-    year: m[2],
+    year: normalizeYear(m[2]),
     rating: m[3] || null
   }
 }
@@ -488,7 +494,7 @@ function splitCombinedMovieLine(line, imageUrl) {
   const yearMatch = text.match(
     /\/\s*(19\d{2}|20\d{2})(?:\s*\/\s*(?:★?\s*([0-9]+(?:\.[0-9]+)?))?)?$/i
   )
-  const year = yearMatch ? yearMatch[1] : extractYearFromImage(imageUrl)
+  const year = yearMatch ? normalizeYear(yearMatch[1]) : normalizeYear(extractYearFromImage(imageUrl))
   const rating = yearMatch?.[2] || null
 
   let left = text
