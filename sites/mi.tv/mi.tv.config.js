@@ -129,6 +129,20 @@ function normalizeYear(year) {
   return match ? match[1] : null
 }
 
+function buildTitles(titleEs, titleEn = '') {
+  const titles = []
+
+  if (titleEs) {
+    titles.push({ value: normalizeText(titleEs), lang: 'es' })
+  }
+
+  if (titleEn) {
+    titles.push({ value: normalizeText(titleEn), lang: 'en' })
+  }
+
+  return titles
+}
+
 function parseStart($item, date) {
   const timeString = $item('a > div.content > span.time').text()
   if (!timeString) return null
@@ -276,6 +290,7 @@ function parseProgramMeta($item, image) {
     return {
       type: 'series',
       title: titleEs,
+      titles: buildTitles(titleEs),
       title_es: titleEs,
       title_en: '',
       category: 'Serie',
@@ -301,6 +316,7 @@ function parseProgramMeta($item, image) {
     return {
       type: 'movie',
       title: titleEs,
+      titles: buildTitles(titleEs, movieData.title_en),
       title_es: titleEs,
       title_en: movieData.title_en,
       category: movieData.category,
@@ -321,6 +337,7 @@ function parseProgramMeta($item, image) {
   return {
     type: 'show',
     title: titleEs,
+    titles: buildTitles(titleEs),
     title_es: titleEs,
     title_en: '',
     category: subtitleParts[0] || '',
@@ -494,7 +511,9 @@ function splitCombinedMovieLine(line, imageUrl) {
   const yearMatch = text.match(
     /\/\s*(19\d{2}|20\d{2})(?:\s*\/\s*(?:★?\s*([0-9]+(?:\.[0-9]+)?))?)?$/i
   )
-  const year = yearMatch ? normalizeYear(yearMatch[1]) : normalizeYear(extractYearFromImage(imageUrl))
+  const year = yearMatch
+    ? normalizeYear(yearMatch[1])
+    : normalizeYear(extractYearFromImage(imageUrl))
   const rating = yearMatch?.[2] || null
 
   let left = text
