@@ -1,198 +1,197 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20260330">
 <channel id="5_mexico"><display-name>5 de México</display-name><url>https://gatotv.com</url></channel>
-<channel id="9_de_honduras_vica"><display-name>9 de Honduras</display-name><url>https://gatotv.com</url></channel>
-<channel id="13_de_costa_rica"><display-name>13 de Costa Rica</display-name><url>https://gatotv.com</url></channel>
-<channel id="amc_colombia"><display-name>AMC Colombia</display-name><url>https://gatotv.com</url></channel>
-<channel id="amc_series_nicaragua"><display-name>AMC Series Nicaragua</display-name><url>https://gatotv.com</url></channel>
-<channel id="cartoonito_sur"><display-name>Cartoonito Sur</display-name><url>https://gatotv.com</url></channel>
-<channel id="espn_7_chile"><display-name>ESPN 7 Chile</display-name><url>https://gatotv.com</url></channel>
-<channel id="ultra_kidz"><display-name>Ultra Kidz</display-name><url>https://gatotv.com</url></channel>
-<channel id="DistritoComedia.mx@SD"><display-name>Distrito Comedia</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/960px-DistritoComediaLOGO2018.png"/><url>https://gatotv.com</url></channel>
-<channel id="DisneyJunior.es@SD"><display-name>Disney Junior España</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/3/36/2019_Disney_Junior_logo.svg"/><url>https://gatotv.com</url></channel>
-<channel id="ultra_film"><display-name>Ultra Film</display-name><url>https://gatotv.com</url></channel>
-<channel id="DisneyJrLatinAmerica.ar@South"><display-name>Disney Junior Sur</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg"/><url>https://gatotv.com</url></channel>
-<channel id="DisneyJrLatinAmerica.ar@North"><display-name>Disney Junior Norte</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg"/><url>https://gatotv.com</url></channel>
-<channel id="espn_7_bolivia"><display-name>ESPN 7 Bolivia</display-name><url>https://gatotv.com</url></channel>
-<channel id="ultra_fiesta"><display-name>Ultra Fiesta</display-name><url>https://gatotv.com</url></channel>
-<channel id="DisneyChannelLatinAmerica.ar@South"><display-name>Disney Channel Sur</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg"/><url>https://gatotv.com</url></channel>
-<channel id="DisneyChannelLatinAmerica.ar@North"><display-name>Disney Channel México</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg"/><url>https://gatotv.com</url></channel>
-<channel id="ultra_docu"><display-name>Ultra Docu</display-name><url>https://gatotv.com</url></channel>
-<channel id="DisneyChannelLatinAmerica.ar@Center"><display-name>Disney Channel Centro</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg"/><url>https://gatotv.com</url></channel>
-<channel id="DiscoveryWorld.us@LatinAmerica"><display-name>Discovery World Lat.</display-name><icon src="https://i.imgur.com/yNFmUkE.png"/><url>https://gatotv.com</url></channel>
-<channel id="cartoonito_panregional"><display-name>Cartoonito Panregional</display-name><url>https://gatotv.com</url></channel>
-<channel id="espn_6_sudamerica"><display-name>ESPN 6 Sur</display-name><url>https://gatotv.com</url></channel>
-<channel id="ultra_cine"><display-name>Ultra Cine</display-name><url>https://gatotv.com</url></channel>
-<channel id="DiscoveryTheaterLatinAmerica.us@SD"><display-name>Discovery Theater LATAM.</display-name><icon src="https://i.imgur.com/AqR0Jkn.png"/><url>https://gatotv.com</url></channel>
-<channel id="DiscoveryScienceLatinAmerica.us@SD"><display-name>Discovery Science LATAM</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Discovery_science_new_logo_2017.png/960px-Discovery_science_new_logo_2017.png"/><url>https://gatotv.com</url></channel>
-<channel id="tve"><display-name>TVE Internacional</display-name><url>https://gatotv.com</url></channel>
-<channel id="DiscoveryKidsLatinAmerica.us@Mexico"><display-name>Discovery Kids MX</display-name><url>https://gatotv.com</url></channel>
-<channel id="DiscoveryKidsLatinAmerica.us@Chile"><display-name>Discovery Kids Chile</display-name><url>https://gatotv.com</url></channel>
-<channel id="espn_6_centroamerica_y_republica_dominicana"><display-name>ESPN 6 C. A. y R. D.</display-name><url>https://gatotv.com</url></channel>
-<channel id="tv_agro_centroamerica"><display-name>TV Agro C. A.</display-name><url>https://gatotv.com</url></channel>
-<channel id="DiscoveryHomeHealthLatinAmerica.mx@Mexico"><display-name>Discovery H&amp;H MX</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Discovery_H%26H_Logo_2022.webp/960px-Discovery_H%26H_Logo_2022.webp.png"/><url>https://gatotv.com</url></channel>
-<channel id="DiscoveryFamilia.us@SD"><display-name>Discovery Familia</display-name><icon src="https://i.imgur.com/jTx9s7F.png"/><url>https://gatotv.com</url></channel>
-<channel id="tudn_centroamerica"><display-name>TUDN Centroamérica</display-name><url>https://gatotv.com</url></channel>
-<channel id="DiscoveryenEspanol.us@SD"><display-name>Discovery en Español</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png"/><url>https://gatotv.com</url></channel>
-<channel id="DiscoveryChannelLatinAmerica.us@Mexico"><display-name>Discovery Channel México</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png"/><url>https://gatotv.com</url></channel>
-<channel id="amc_series_mexico"><display-name>AMC Series México</display-name><url>https://gatotv.com</url></channel>
-<channel id="capital_colombia"><display-name>Capital Colombia</display-name><url>https://gatotv.com</url></channel>
-<channel id="espn_5_sudamerica"><display-name>ESPN 5 Sur</display-name><url>https://gatotv.com</url></channel>
-<channel id="tr3s"><display-name>Tr3s</display-name><url>https://gatotv.com</url></channel>
-<channel id="DiscoveryChannelLatinAmerica.us@Chile"><display-name>Discovery Channel Chile</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png"/><url>https://gatotv.com</url></channel>
-<channel id="DiscoveryChannel.es@SD"><display-name>Discovery Channel España</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png"/><url>https://gatotv.com</url></channel>
-<channel id="tnt_series"><display-name>TNT Series Lat.</display-name><url>https://gatotv.com</url></channel>
-<channel id="Digital15.do@SD"><display-name>15 de República Dominicana</display-name><icon src="https://i.imgur.com/v3mkmZa.png"/><url>https://gatotv.com</url></channel>
-<channel id="DHE.us@SD"><display-name>DHE</display-name><icon src="https://i.imgur.com/nsttoEa.png"/><url>https://gatotv.com</url></channel>
-<channel id="espn_5_centroamerica_y_republica_dominicana"><display-name>ESPN 5 C. A. y R. D.</display-name><url>https://gatotv.com</url></channel>
-<channel id="tnt_novelas_latinoamerica"><display-name>TNT Novelas LATAM</display-name><url>https://gatotv.com</url></channel>
-<channel id="DePeliculaLatinAmerica.mx@SD"><display-name>De Película</display-name><icon src="https://i.imgur.com/aksM8pa.png"/><url>https://gatotv.com</url></channel>
-<channel id="DePeliculaClasico.mx@SD"><display-name>De Película Clásico</display-name><icon src="https://i.imgur.com/L6J0kDU.png"/><url>https://gatotv.com</url></channel>
-<channel id="tnt_novelas_guatemala"><display-name>TNT Novelas GT</display-name><url>https://gatotv.com</url></channel>
-<channel id="Cuatro.es@SD"><display-name>Cuatro de España</display-name><icon src="https://i.imgur.com/NYLnABb.png"/><url>https://gatotv.com</url></channel>
-<channel id="COSMO.es@SD"><display-name>Cosmopolitan España</display-name><icon src="https://i.imgur.com/L2KKKuB.png"/><url>https://gatotv.com</url></channel>
-<channel id="bloomberg"><display-name>Bloomberg</display-name><url>https://gatotv.com</url></channel>
-<channel id="espn_4_sur"><display-name>ESPN 4 Sur</display-name><url>https://gatotv.com</url></channel>
-<channel id="tnt_centroamerica_y_caribe"><display-name>TNT Centroamérica y Caribe</display-name><url>https://gatotv.com</url></channel>
-<channel id="ConcertChannel.us@SD"><display-name>Concert Channel</display-name><icon src="https://i.imgur.com/u2irADf.png"/><url>https://gatotv.com</url></channel>
-<channel id="ComedyCentral.es@SD"><display-name>Comedy Central España</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png"/><url>https://gatotv.com</url></channel>
-<channel id="tn23"><display-name>TN23</display-name><url>https://gatotv.com</url></channel>
-<channel id="ComediaporMovistarPlusPlus.es@SD"><display-name>M+ Comedia</display-name><url>https://gatotv.com</url></channel>
-<channel id="ColorVision.do@SD"><display-name>9 de República Dominicana</display-name><icon src="https://i.imgur.com/rkgWToA.jpg"/><url>https://gatotv.com</url></channel>
-<channel id="espn_4_mexico"><display-name>ESPN 4 México</display-name><url>https://gatotv.com</url></channel>
-<channel id="telemundo_puerto_rico"><display-name>Telemundo Puerto Rico</display-name><url>https://gatotv.com</url></channel>
-<channel id="CNNInternational.us@LatinAmerica"><display-name>CNN Internacional</display-name><icon src="https://dtil.tmsimg.com/assets/s157679_ld_h15_aa.png?lock=720x540"/><url>https://gatotv.com</url></channel>
-<channel id="CNNenEspanol.us@SD"><display-name>CNN en Español</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/960px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png"/><url>https://gatotv.com</url></channel>
-<channel id="telemundo_panregional"><display-name>Telemundo PAN</display-name><url>https://gatotv.com</url></channel>
-<channel id="CNNChile.cl@SD"><display-name>CNN Chile</display-name><icon src="https://i.imgur.com/t4EXijz.png"/><url>https://gatotv.com</url></channel>
-<channel id="CMMTV.es@SD"><display-name>Castilla-La Mancha Media</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/CMMedia.svg/960px-CMMedia.svg.png"/><url>https://gatotv.com</url></channel>
-<channel id="adn_noticias"><display-name>ADN Noticias</display-name><url>https://gatotv.com</url></channel>
-<channel id="amc_series_honduras"><display-name>AMC Series Honduras</display-name><url>https://gatotv.com</url></channel>
-<channel id="barca_tv"><display-name>Barça TV</display-name><url>https://gatotv.com</url></channel>
-<channel id="espn_4_centroamerica_y_caribe"><display-name>ESPN 4 C. A. y R. D.</display-name><url>https://gatotv.com</url></channel>
-<channel id="telehit_musica_plus"><display-name>Telehit Música Plus</display-name><url>https://gatotv.com</url></channel>
-<channel id="Clan.es@SD"><display-name>Clan TVE</display-name><icon src="https://i.ibb.co/vv3FC2Nv/clan.png"/><url>https://gatotv.com</url></channel>
-<channel id="CineSony.us@SD"><display-name>Cine Sony</display-name><icon src="https://i.imgur.com/bZWoDTg.png"/><url>https://gatotv.com</url></channel>
-<channel id="tc_television"><display-name>TC Televisión</display-name><url>https://gatotv.com</url></channel>
-<channel id="CineNostalgia.us@SD"><display-name>Cine Nostalgia</display-name><icon src="https://i.imgur.com/LLwppwB.png"/><url>https://gatotv.com</url></channel>
-<channel id="CineMexicano.mx@SD"><display-name>Cine Mexicano</display-name><icon src="https://i.imgur.com/qHtOVRO.png"/><url>https://gatotv.com</url></channel>
-<channel id="espn_3_norte"><display-name>ESPN 3 Norte</display-name><url>https://gatotv.com</url></channel>
-<channel id="sun_channel"><display-name>Sun Channel</display-name><url>https://gatotv.com</url></channel>
-<channel id="CinemaxLatinAmerica.us@SD"><display-name>Cinemax Panregional</display-name><icon src="https://i.imgur.com/cZWoJWD.png"/><url>https://gatotv.com</url></channel>
-<channel id="starz_encore_espanol"><display-name>Starz Encore Español</display-name><url>https://gatotv.com</url></channel>
-<channel id="CinemaPlus.co@SD"><display-name>Cinema +</display-name><icon src="https://i.imgur.com/ExZeBRf.png"/><url>https://gatotv.com</url></channel>
-<channel id="baby_tv_latinoamerica"><display-name>Baby TV Latam.</display-name><url>https://gatotv.com</url></channel>
-<channel id="espn_2_venezuela"><display-name>ESPN 2 Venezuela</display-name><url>https://gatotv.com</url></channel>
-<channel id="star_tve"><display-name>Star TVE</display-name><url>https://gatotv.com</url></channel>
-<channel id="CinemaPlatino.mx@SD"><display-name>Cinema Platino</display-name><icon src="https://i.imgur.com/YMhzH6g.png"/><url>https://gatotv.com</url></channel>
-<channel id="CineLatino.mx@SD"><display-name>Cinelatino</display-name><icon src="https://i.imgur.com/2V0R0xT.png"/><url>https://gatotv.com</url></channel>
-<channel id="star_channel_centro"><display-name>Star Channel Centro</display-name><url>https://gatotv.com</url></channel>
-<channel id="CineEstelar.us@SD"><display-name>Cine Estelar</display-name><icon src="https://i.imgur.com/yySH37j.png"/><url>https://gatotv.com</url></channel>
-<channel id="CineClick.us@SD"><display-name>CineClick</display-name><icon src="https://i.imgur.com/I8ugRWi.png"/><url>https://gatotv.com</url></channel>
-<channel id="espn_2_sur"><display-name>ESPN 2 Sur</display-name><url>https://gatotv.com</url></channel>
-<channel id="star_channel_argentina"><display-name>Star Channel Argentina</display-name><url>https://gatotv.com</url></channel>
-<channel id="Cinecanal.us@South"><display-name>Cinecanal Sur</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png"/><url>https://gatotv.com</url></channel>
-<channel id="Cinecanal.us@Pacific"><display-name>Cinecanal Pacífico</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png"/><url>https://gatotv.com</url></channel>
-<channel id="space_chile"><display-name>Space Chile</display-name><url>https://gatotv.com</url></channel>
-<channel id="Cinecanal.us@Mexico"><display-name>Cinecanal México</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png"/><url>https://gatotv.com</url></channel>
-<channel id="ChileVision.cl@SD"><display-name>Chilevisión (CHV)</display-name><icon src="https://i.imgur.com/PRijvR0.png"/><url>https://gatotv.com</url></channel>
-<channel id="amc_series_guatemala"><display-name>AMC Series Guatemala</display-name><url>https://gatotv.com</url></channel>
-<channel id="azteca_uno_2h"><display-name>Azteca Uno -2 h</display-name><url>https://gatotv.com</url></channel>
-<channel id="enlace"><display-name>TBN</display-name><url>https://gatotv.com</url></channel>
-<channel id="sony_movies_latinoamerica"><display-name>Sony Movies LATAM</display-name><url>https://gatotv.com</url></channel>
-<channel id="CDNDeportes.do@SD"><display-name>CDN Deportes</display-name><icon src="https://i.imgur.com/yU5LqTL.png"/><url>https://gatotv.com</url></channel>
-<channel id="CDN.do@SD"><display-name>37 de República Dominicana</display-name><icon src="https://i.imgur.com/eQyjIgf.png"/><url>https://gatotv.com</url></channel>
-<channel id="sony_chile"><display-name>Sony Chile</display-name><url>https://gatotv.com</url></channel>
-<channel id="CartoonNetworkLatinAmerica.us@SouthAtlantic"><display-name>Cartoon Network Atlántico Sur</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png"/><url>https://gatotv.com</url></channel>
-<channel id="CartoonNetworkLatinAmerica.us@NorthAtlantic"><display-name>Cartoon Network Atlántico Norte</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png"/><url>https://gatotv.com</url></channel>
-<channel id="elgourmet"><display-name>Elgourmet</display-name><url>https://gatotv.com</url></channel>
-<channel id="sony_centro"><display-name>Sony Centro</display-name><url>https://gatotv.com</url></channel>
-<channel id="CartoonNetworkLatinAmerica.us@Mexico"><display-name>Cartoon Network México</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png"/><url>https://gatotv.com</url></channel>
-<channel id="CartoonNetwork.us@West"><display-name>Cartoon Network Pacífico</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png"/><url>https://gatotv.com</url></channel>
-<channel id="region_mas"><display-name>Región+</display-name><url>https://gatotv.com</url></channel>
-<channel id="CartoonitoLatinAmerica.us@Mexico"><display-name>Cartoonito México</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/960px-Cartoonito_-_Logo_2021.svg.png"/><url>https://gatotv.com</url></channel>
-<channel id="CaracolTV.co@SD"><display-name>Caracol Colombia</display-name><icon src="https://i.imgur.com/WbfdJbk.png"/><url>https://gatotv.com</url></channel>
-<channel id="azteca_uno_1h"><display-name>Azteca Uno -1 h</display-name><url>https://gatotv.com</url></channel>
-<channel id="el_heraldo_tv_mexico"><display-name>El Heraldo TV</display-name><url>https://gatotv.com</url></channel>
-<channel id="rcn_nuestra_tele_internacional"><display-name>RCN Internacional</display-name><url>https://gatotv.com</url></channel>
-<channel id="CaracolInternacional.co@SD"><display-name>Caracol Internacional</display-name><icon src="https://i.imgur.com/h7LWbt5.png"/><url>https://gatotv.com</url></channel>
-<channel id="CanalTRO.co@SD"><display-name>Tro</display-name><icon src="https://i.imgur.com/bdBduvj.png"/><url>https://gatotv.com</url></channel>
-<channel id="rcn_colombia"><display-name>RCN Colombia</display-name><url>https://gatotv.com</url></channel>
-<channel id="CanalSurAndalucia.es@SD"><display-name>Sur Andalucía</display-name><icon src="https://i.imgur.com/lznnA4v.png"/><url>https://gatotv.com</url></channel>
-<channel id="CanalSUR.us@SD"><display-name>Sur</display-name><icon src="https://i.imgur.com/Cy1vlNE.png"/><url>https://gatotv.com</url></channel>
-<channel id="el_financiero_tv"><display-name>El Financiero TV</display-name><url>https://gatotv.com</url></channel>
-<channel id="rai_international"><display-name>RAI International</display-name><url>https://gatotv.com</url></channel>
-<channel id="CanalInstitucional.co@SD"><display-name>Institucional Colombia</display-name><icon src="https://i.imgur.com/CKnf3Ua.png"/><url>https://gatotv.com</url></channel>
-<channel id="CanalCongreso.co@SD"><display-name>Canal Congreso Colombia</display-name><icon src="https://i.imgur.com/3VnL8dp.png"/><url>https://gatotv.com</url></channel>
-<channel id="nickelodeon_mexico"><display-name>Nickelodeon México</display-name><url>https://gatotv.com</url></channel>
-<channel id="CanalCocina.es@SD"><display-name>Cocina</display-name><icon src="https://i.imgur.com/OYB7lJ0.png"/><url>https://gatotv.com</url></channel>
-<channel id="CanalAntigua.gt@SD"><display-name>Canal Antigua</display-name><icon src="https://i.imgur.com/edZjzbS.png"/><url>https://gatotv.com</url></channel>
-<channel id="9_de_mexico"><display-name>9 de México</display-name><url>https://gatotv.com</url></channel>
-<channel id="14_de_mexico"><display-name>14 de México</display-name><url>https://gatotv.com</url></channel>
-<channel id="amc_series_el_salvador"><display-name>AMC Series El Salvador</display-name><url>https://gatotv.com</url></channel>
-<channel id="axn_venezuela"><display-name>AXN Venezuela</display-name><url>https://gatotv.com</url></channel>
-<channel id="e_entertainment_television_panregional"><display-name>E! Entertainment Television Panregional</display-name><url>https://gatotv.com</url></channel>
-<channel id="nickelodeon_centro"><display-name>Nickelodeon Centro</display-name><url>https://gatotv.com</url></channel>
-<channel id="Canal13.cl@SD"><display-name>13 de Chile</display-name><icon src="https://static.wikia.nocookie.net/logopedia/images/0/01/Canal_13_2018.png/revision/latest/scale-to-width-down/512/"/><url>https://gatotv.com</url></channel>
-<channel id="Canal12.sv@SD"><display-name>12 de El Salvador</display-name><icon src="https://i.imgur.com/WMv3yEf.png"/><url>https://gatotv.com</url></channel>
-<channel id="nick_junior_latinoamerica"><display-name>Nick Jr. Latinoamérica</display-name><url>https://gatotv.com</url></channel>
-<channel id="Canal11.cr@SD"><display-name>11 de Costa Rica</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/960px-Repretel_11_logo.png"/><url>https://gatotv.com</url></channel>
-<channel id="Canal8.cr@SD"><display-name>Multimedios Costa Rica</display-name><icon src="https://i.imgur.com/nefPi2Y.png"/><url>https://gatotv.com</url></channel>
-<channel id="e_entertainment_television_chile"><display-name>E! Entertainment Television Chile</display-name><url>https://gatotv.com</url></channel>
-<channel id="national_geographic_centro"><display-name>National Geographic Centro</display-name><url>https://gatotv.com</url></channel>
-<channel id="Canal6.sv@SD"><display-name>6 de El Salvador</display-name><icon src="https://i.imgur.com/M4muPLK.png"/><url>https://gatotv.com</url></channel>
-<channel id="Canal6.cr@SD"><display-name>6 de Costa Rica</display-name><icon src="https://i.imgur.com/nfKJftW.png"/><url>https://gatotv.com</url></channel>
-<channel id="mtv_mexico"><display-name>MTV México</display-name><url>https://gatotv.com</url></channel>
-<channel id="Canal5ElLider.hn@SD"><display-name>5 de Honduras</display-name><icon src="https://i.imgur.com/4hEYFa9.png"/><url>https://gatotv.com</url></channel>
-<channel id="Canal4.sv@SD"><display-name>4 de El Salvador</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Canal_4_TCS.png/960px-Canal_4_TCS.png"/><url>https://gatotv.com</url></channel>
-<channel id="animal_planet_sur"><display-name>Animal Planet Sur</display-name><url>https://gatotv.com</url></channel>
-<channel id="dw_latinoamerica"><display-name>DW Latam.</display-name><url>https://gatotv.com</url></channel>
-<channel id="mtv_centro"><display-name>MTV Centro</display-name><url>https://gatotv.com</url></channel>
-<channel id="Canal4.cr@SD"><display-name>4 de Costa Rica</display-name><icon src="https://i.imgur.com/5arZEgO.png"/><url>https://gatotv.com</url></channel>
-<channel id="Canal3.gt@SD"><display-name>3 de Guatemala</display-name><icon src="https://i.imgur.com/yCykjIp.png"/><url>https://gatotv.com</url></channel>
-<channel id="meganoticias_mx"><display-name>Meganoticias MX</display-name><url>https://gatotv.com</url></channel>
-<channel id="Canal2.sv@SD"><display-name>2 de El Salvador</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Canal_2_TCS.png/960px-Canal_2_TCS.png"/><url>https://gatotv.com</url></channel>
-<channel id="Canal2.ni@SD"><display-name>2 de Nicaragua</display-name><icon src="https://i.imgur.com/NXfHKV7.png"/><url>https://gatotv.com</url></channel>
-<channel id="discovery_turbo_latinoamerica"><display-name>Discovery Turbo LATAM.</display-name><url>https://gatotv.com</url></channel>
-<channel id="la_red_chile"><display-name>La Red Chile</display-name><url>https://gatotv.com</url></channel>
-<channel id="Canal1.co@SD"><display-name>1 Colombia</display-name><icon src="https://i.imgur.com/MiYlN0t.png"/><url>https://gatotv.com</url></channel>
-<channel id="Calle13Universal.es@SD"><display-name>Calle 13</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Calle13_logo.svg"/><url>https://gatotv.com</url></channel>
-<channel id="hollywood_espana"><display-name>Hollywood España</display-name><url>https://gatotv.com</url></channel>
-<channel id="Cablenoticias.co@SD"><display-name>Cablenoticias</display-name><icon src="https://i.imgur.com/FfhOGR9.png"/><url>https://gatotv.com</url></channel>
-<channel id="C9N.py@SD"><display-name>9 Noticias Paraguay</display-name><icon src="https://i.imgur.com/Cp4zJ7O.png"/><url>https://gatotv.com</url></channel>
-<channel id="amc_series_costa_rica"><display-name>AMC Series Costa Rica</display-name><url>https://gatotv.com</url></channel>
-<channel id="animal_planet_panregional"><display-name>Animal Planet Panregional</display-name><url>https://gatotv.com</url></channel>
-<channel id="discovery_kids_latinoamerica"><display-name>Discovery Kids LATAM</display-name><url>https://gatotv.com</url></channel>
-<channel id="hbo_chile"><display-name>HBO Chile</display-name><url>https://gatotv.com</url></channel>
-<channel id="bitMe.mx@SD"><display-name>BitMe</display-name><icon src="https://i.imgur.com/79hrcx8.png"/><url>https://gatotv.com</url></channel>
-<channel id="BETJams.us@SD"><display-name>BET Jams</display-name><icon src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/BET_Jams_2021.png/960px-BET_Jams_2021.png"/><url>https://gatotv.com</url></channel>
-<channel id="golden_mpx"><display-name>Golden MPX</display-name><url>https://gatotv.com</url></channel>
-<channel id="BeMad.es@SD"><display-name>Be Mad</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/7/7d/BeMad_2022_Logo.svg"/><url>https://gatotv.com</url></channel>
-<channel id="beINSportsenEspanol.qa@SD"><display-name>beIN Sports en Español</display-name><icon src="https://i.imgur.com/J5aurrb.png"/><url>https://gatotv.com</url></channel>
-<channel id="discovery_home_and_health_colombia"><display-name>Discovery Home &amp; Health Colombia</display-name><url>https://gatotv.com</url></channel>
-<channel id="golden_mexico"><display-name>Golden México</display-name><url>https://gatotv.com</url></channel>
-<channel id="BBCNews.uk@LatinAmerica"><display-name>BBC World News</display-name><icon src="https://dtil.tmsimg.com/assets/s158142_ld_h15_aa.png?lock=720x540"/><url>https://gatotv.com</url></channel>
-<channel id="Bandamax.mx@SD"><display-name>Bandamax</display-name><icon src="https://i.imgur.com/4DfnOTA.png"/><url>https://gatotv.com</url></channel>
-<channel id="golden_edge"><display-name>Golden Edge</display-name><url>https://gatotv.com</url></channel>
-<channel id="BabyFirst.us@US"><display-name>BabyFirst TV</display-name><icon src="https://i.imgur.com/WxLHBwu.png"/><url>https://gatotv.com</url></channel>
-<channel id="AztecaUno.mx@SD"><display-name>Azteca Uno</display-name><icon src="https://i.imgur.com/rRxgBtI.png"/><url>https://gatotv.com</url></channel>
-<channel id="animal_planet_mexico"><display-name>Animal Planet México</display-name><url>https://gatotv.com</url></channel>
-<channel id="deutsche_welle"><display-name>DW</display-name><url>https://gatotv.com</url></channel>
-<channel id="gol_play_espana"><display-name>Gol Play España</display-name><url>https://gatotv.com</url></channel>
-<channel id="AztecaGuatemala.gt@SD"><display-name>Azteca Guate</display-name><icon src="https://i.imgur.com/UJhQoUK.png"/><url>https://gatotv.com</url></channel>
-<channel id="Azteca7.mx@SD"><display-name>Azteca 7</display-name><icon src="https://i.imgur.com/UtFXjIn.png"/><url>https://gatotv.com</url></channel>
-<channel id="galicia_tv"><display-name>Galicia TV</display-name><url>https://gatotv.com</url></channel>
-<channel id="AzMundo.mx@SD"><display-name>TV Azteca Mundo</display-name><icon src="https://i.imgur.com/a7Ejid0.png"/><url>https://gatotv.com</url></channel>
-<channel id="AzCorazon.mx@SD"><display-name>TV Azteca Corazón</display-name><icon src="https://i.imgur.com/KIpSdQC.png"/><url>https://gatotv.com</url></channel>
-<channel id="de_las_estrellas_-2h_mexico"><display-name>las Estrellas -2 Horas</display-name><url>https://gatotv.com</url></channel>
-<channel id="fx_centro"><display-name>FX Centro</display-name><url>https://gatotv.com</url></channel>
-<channel id="AyMSports.mx@SD"><display-name>AYM Sports</display-name><icon src="https://i.imgur.com/yu3Bpbd.png"/><url>https://gatotv.com</url></channel>
-<channel id="AXNLatinAmerica.us@South"><display-name>AXN Sur</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png"/><url>https://gatotv.com</url></channel>
-<channel id="fox_sports_cono_sur"><display-name>Fox Sports Cono Sur</display-name><url>https://gatotv.com</url></channel>
-<channel id="AXNLatinAmerica.us@Mexico"><display-name>AXN México</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png"/><url>https://gatotv.com</url></channel>
-<channel id="AXNLatinAmerica.us@Andes"><display-name>AXN Andes</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png"/><url>https://gatotv.com</url></channel>
-<channel id="13_de_guatemala"><display-name>13 de Guatemala</display-name><url>https://gatotv.com</url></channel>
-<channel id="amc_series_argentina"><display-name>AMC Series Argentina</display-name><url>https://gatotv.com</url></channel>
-<channel id="amc_series_uruguay"><display-name>AMC Series Uruguay</display-name><url>https://gatotv.com</url></channel>
+<channel id="Zoom.co@SD"><display-name>ZOOM Colombia</display-name><icon src="https://i.imgur.com/euy5zp6.png"/><url>https://gatotv.com</url></channel>
+<channel id="ZonaLatina.cl@SD"><display-name>Zona Latina</display-name><icon src="https://i.imgur.com/lMyZZtk.png"/><url>https://gatotv.com</url></channel>
+<channel id="XEIPNTDT.mx@SD"><display-name>11 de México</display-name><icon src="https://i.imgur.com/K0351vF.png"/><url>https://gatotv.com</url></channel>
+<channel id="XEIMTTDT2.mx@SD"><display-name>22 de México</display-name><icon src="https://i.imgur.com/MeIfhXp.png"/><url>https://gatotv.com</url></channel>
+<channel id="XEFBTDT.mx@SD"><display-name>4 de Monterrey</display-name><icon src="https://i.imgur.com/21AF8UI.png"/><url>https://gatotv.com</url></channel>
+<channel id="WORODT1.pr@SD"><display-name>13 de Puerto Rico</display-name><icon src="https://i.imgur.com/uhQPWqp.png"/><url>https://gatotv.com</url></channel>
+<channel id="WOBI.ar@SD"><display-name>WOBI</display-name><icon src="https://i.imgur.com/uW4WIvC.png"/><url>https://gatotv.com</url></channel>
+<channel id="WKAQDT2.pr@SD"><display-name>Punto 2</display-name><icon src="https://i.imgur.com/TL6xy4y.png"/><url>https://gatotv.com</url></channel>
+<channel id="WIPRDT1.pr@SD"><display-name>WIPR</display-name><icon src="https://i.imgur.com/MGJaxFO.png"/><url>https://gatotv.com</url></channel>
+<channel id="WillaxTV.pe@SD"><display-name>Willax TV</display-name><icon src="https://i.imgur.com/bZnDDPH.png"/><url>https://gatotv.com</url></channel>
+<channel id="WarnerChannel.us@Panregional"><display-name>Warner TV Panregional</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Warner_TV_logo.svg/960px-Warner_TV_logo.svg.png"/><url>https://gatotv.com</url></channel>
+<channel id="WAPADT2.pr@SD"><display-name>WAPA 2 Deportes</display-name><icon src="https://i.imgur.com/5WNBFmp.png"/><url>https://gatotv.com</url></channel>
+<channel id="WAPADT1.pr@SD"><display-name>WAPA-TV</display-name><icon src="https://i.imgur.com/kqq7tD9.png"/><url>https://gatotv.com</url></channel>
+<channel id="VTV.hn@SD"><display-name>VTV Honduras</display-name><icon src="https://i.imgur.com/CsPkwD5.png"/><url>https://gatotv.com</url></channel>
+<channel id="VivaNicaraguaCanal13.ni@SD"><display-name>13 de Nicaragua</display-name><icon src="https://i.imgur.com/9q7Ajz4.png"/><url>https://gatotv.com</url></channel>
+<channel id="ViendoMovies.us@SD"><display-name>ViendoMovies</display-name><icon src="https://i.imgur.com/wb0rv7g.png"/><url>https://gatotv.com</url></channel>
+<channel id="VideoRola.mx@SD"><display-name>Video Rola</display-name><icon src="https://i.imgur.com/qGoxWCA.png"/><url>https://gatotv.com</url></channel>
+<channel id="VibraTV.mx@SD"><display-name>Vibra TV</display-name><icon src="https://i.imgur.com/B1BhYod.png"/><url>https://gatotv.com</url></channel>
+<channel id="ViaX.cl@SD"><display-name>Vía X</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/d/d3/VIAX-oficial.png"/><url>https://gatotv.com</url></channel>
+<channel id="VePlus.ve@US"><display-name>Ve Plus Estados Unidos</display-name><icon src="https://i.imgur.com/uc3zqcP.png"/><url>https://gatotv.com</url></channel>
+<channel id="VamosporMovistarPlusPlus.es@SD"><display-name>M+ #Vamos</display-name><url>https://gatotv.com</url></channel>
+<channel id="UnivisionTlnovelas.us@SD"><display-name>Univision TLNovelas</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Univision_tlnovelas_%282019%29.svg/960px-Univision_tlnovelas_%282019%29.svg.png"/><url>https://gatotv.com</url></channel>
+<channel id="UniversalTVLatinAmerica.us@Panregional"><display-name>Universal TV Panregional</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/960px-Universal_TV_logo.svg.png"/><url>https://gatotv.com</url></channel>
+<channel id="UniversalTVLatinAmerica.us@Mexico"><display-name>Universal TV México</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/960px-Universal_TV_logo.svg.png"/><url>https://gatotv.com</url></channel>
+<channel id="UniversalReality.us@SD"><display-name>Universal Reality</display-name><icon src="https://i.imgur.com/mqfUD1R.png"/><url>https://gatotv.com</url></channel>
+<channel id="UniversalPremiere.us@East"><display-name>Universal Premiere</display-name><icon src="https://i.imgur.com/KdFk80C.png"/><url>https://gatotv.com</url></channel>
+<channel id="UniversalCrime.us@East"><display-name>Universal Crime</display-name><icon src="https://i.imgur.com/OwSlGMu.png"/><url>https://gatotv.com</url></channel>
+<channel id="UniversalComedy.us@SD"><display-name>Universal Comedy</display-name><icon src="https://i.imgur.com/avBL8pQ.png"/><url>https://gatotv.com</url></channel>
+<channel id="UniversalCinema.us@SD"><display-name>Universal Cinema</display-name><icon src="https://i.imgur.com/XxfET68.png"/><url>https://gatotv.com</url></channel>
+<channel id="Unicanal.py@SD"><display-name>Unicanal</display-name><icon src="https://i.imgur.com/cgTD2TW.png"/><url>https://gatotv.com</url></channel>
+<channel id="Unicable.mx@SD"><display-name>Unicable MX</display-name><icon src="https://i.imgur.com/MnH8XKh.png"/><url>https://gatotv.com</url></channel>
+<channel id="TyCSports.ar@SD"><display-name>TyC Sports</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png"/><url>https://gatotv.com</url></channel>
+<channel id="TVUNAM.mx@SD"><display-name>TVUNAM</display-name><icon src="https://i.imgur.com/ayg5kRM.png"/><url>https://gatotv.com</url></channel>
+<channel id="TVPublica.ar@SD"><display-name>Televisión Pública Argentina</display-name><icon src="https://i.imgur.com/XGrkzN3.png"/><url>https://gatotv.com</url></channel>
+<channel id="TVN.pa@SD"><display-name>2 de Panamá</display-name><icon src="https://i.imgur.com/tGeHwxd.png"/><url>https://gatotv.com</url></channel>
+<channel id="TVN.cl@SD"><display-name>TVN Chile</display-name><icon src="https://i.imgur.com/3FKZHL4.png"/><url>https://gatotv.com</url></channel>
+<channel id="TVMax.pa@SD"><display-name>9 de Panamá</display-name><icon src="https://i.imgur.com/XcrkfGh.png"/><url>https://gatotv.com</url></channel>
+<channel id="TVGloboInternacionalAmericas.br@SD"><display-name>TV Globo Internacional</display-name><url>https://gatotv.com</url></channel>
+<channel id="TVChile.cl@SD"><display-name>TV Chile</display-name><icon src="https://i.imgur.com/oYFto0V.png"/><url>https://gatotv.com</url></channel>
+<channel id="TVCDeportes.mx@SD"><display-name>TVC Deportes</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/e/e8/TVCDeportes.png"/><url>https://gatotv.com</url></channel>
+<channel id="TV5MondeLatinAmerica.fr@SD"><display-name>TV5Monde</display-name><icon src="https://i.imgur.com/x8rjGhp.png"/><url>https://gatotv.com</url></channel>
+<channel id="TUDN.us@SD"><display-name>TUDN USA</display-name><icon src="https://i.imgur.com/oT5CAvd.png"/><url>https://gatotv.com</url></channel>
+<channel id="TUDN.mx@SD"><display-name>TUDN México</display-name><icon src="https://i.imgur.com/oT5CAvd.png"/><url>https://gatotv.com</url></channel>
+<channel id="TSi.hn@SD"><display-name>Telesistema Informativo (TSI)</display-name><icon src="https://i.imgur.com/GEyxDnf.png"/><url>https://gatotv.com</url></channel>
+<channel id="Trece.py@SD"><display-name>13 de Paraguay</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Logotrececanal.png/960px-Logotrececanal.png"/><url>https://gatotv.com</url></channel>
+<channel id="Trece.co@SD"><display-name>13 de Colombia</display-name><icon src="https://i.imgur.com/jsuXXIg.png"/><url>https://gatotv.com</url></channel>
+<channel id="Tooncast.us@SD"><display-name>Tooncast</display-name><icon src="https://i.imgur.com/3yXRbQy.png"/><url>https://gatotv.com</url></channel>
+<channel id="TNTLatinAmerica.us@South"><display-name>TNT Sur</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png"/><url>https://gatotv.com</url></channel>
+<channel id="TNTLatinAmerica.us@Mexico"><display-name>TNT México</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png"/><url>https://gatotv.com</url></channel>
+<channel id="TNT.us@West"><display-name>TNT Pacífico</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png"/><url>https://gatotv.com</url></channel>
+<channel id="TlnovelasMexico.mx@SD"><display-name>TLNovelas México</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png"/><url>https://gatotv.com</url></channel>
+<channel id="TlnovelasLatinAmerica.mx@SD"><display-name>TLNovelas LATAM</display-name><icon src="https://i.imgur.com/Rvm38Mu.png"/><url>https://gatotv.com</url></channel>
+<channel id="TLCLatinAmerica.us@Panregional"><display-name>TLC Panregional</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png"/><url>https://gatotv.com</url></channel>
+<channel id="TLCLatinAmerica.us@Mexico"><display-name>TLC MX</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png"/><url>https://gatotv.com</url></channel>
+<channel id="TigoSports.sv@SD"><display-name>Tigo Sports El Salvador</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png"/><url>https://gatotv.com</url></channel>
+<channel id="TigoSports.gt@SD"><display-name>Tigo Sports Guatemala</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png"/><url>https://gatotv.com</url></channel>
+<channel id="TigoSports.cr@SD"><display-name>Tigo Sports Costa Rica</display-name><icon src="https://i.imgur.com/UrsLSRs.png"/><url>https://gatotv.com</url></channel>
+<channel id="TelevisionDominicana.us@SD"><display-name>Television Dominicana</display-name><icon src="https://i.imgur.com/SQyEKCD.png"/><url>https://gatotv.com</url></channel>
+<channel id="TelevisionCanaria.es@SD"><display-name>TV Canaria</display-name><icon src="https://rtvc.es/archivos/2020/03/logo-mobilretina.png"/><url>https://gatotv.com</url></channel>
+<channel id="Televisiete.gt@SD"><display-name>7 de Guatemala</display-name><icon src="https://i.imgur.com/yVhUkot.png"/><url>https://gatotv.com</url></channel>
+<channel id="TelevisaGuadalajara.mx@SD"><display-name>4 de Guadalajara</display-name><icon src="https://i.imgur.com/Ow0vROp.png"/><url>https://gatotv.com</url></channel>
+<channel id="Teleuniverso.do@SD"><display-name>29 de República Dominicana</display-name><icon src="https://i.imgur.com/gQev8ST.png"/><url>https://gatotv.com</url></channel>
+<channel id="Teleunion.do@SD"><display-name>Teleunion</display-name><icon src="https://i.imgur.com/vTfxkjW.png"/><url>https://gatotv.com</url></channel>
+<channel id="Teletica7.cr@SD"><display-name>7 de Costa Rica</display-name><icon src="https://i.imgur.com/ctnvE3c.png"/><url>https://gatotv.com</url></channel>
+<channel id="Telesistema11.do@SD"><display-name>11 de República Dominicana</display-name><icon src="https://i.imgur.com/ZzeZKCu.png"/><url>https://gatotv.com</url></channel>
+<channel id="Telepacifico.co@SD"><display-name>Telepacífico</display-name><icon src="https://i.imgur.com/39hy97J.png"/><url>https://gatotv.com</url></channel>
+<channel id="TeleOnce.gt@SD"><display-name>11 de Guatemala</display-name><icon src="https://i.imgur.com/N4DM2YO.png"/><url>https://gatotv.com</url></channel>
+<channel id="TeleNostalgia.co@SD"><display-name>Telenostalgia</display-name><icon src="https://i.imgur.com/WZeMZNy.png"/><url>https://gatotv.com</url></channel>
+<channel id="TelemundoInternacional.us@South"><display-name>Telemundo México</display-name><icon src="https://i.imgur.com/j2O4ndp.png"/><url>https://gatotv.com</url></channel>
+<channel id="Telemicro.do@SD"><display-name>Telemicro</display-name><icon src="https://i.imgur.com/WhgySAk.png"/><url>https://gatotv.com</url></channel>
+<channel id="Telemadrid.es@SD"><display-name>TeleMadrid</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/TeleMadrid.svg/960px-TeleMadrid.svg.png"/><url>https://gatotv.com</url></channel>
+<channel id="Teleislas.co@SD"><display-name>Teleislas</display-name><icon src="https://i.imgur.com/aKHGRyk.png"/><url>https://gatotv.com</url></channel>
+<channel id="TelehitMusica.mx@SD"><display-name>Telehit Música</display-name><icon src="https://i.imgur.com/CofYjWh.png"/><url>https://gatotv.com</url></channel>
+<channel id="TeleHit.mx@SD"><display-name>Telehit</display-name><icon src="https://i.imgur.com/NVxHxJn.png"/><url>https://gatotv.com</url></channel>
+<channel id="Telefuturo.py@SD"><display-name>Telefuturo</display-name><icon src="https://i.imgur.com/6lVrFvb.png"/><url>https://gatotv.com</url></channel>
+<channel id="TeleFormula.mx@SD"><display-name>Telefórmula</display-name><icon src="https://i.imgur.com/y0a0xwY.png"/><url>https://gatotv.com</url></channel>
+<channel id="TelefeInternacional.ar@SD"><display-name>Telefe Internacional</display-name><icon src="https://i.imgur.com/HNcCX3h.png"/><url>https://gatotv.com</url></channel>
+<channel id="Telefe.ar@SD"><display-name>Telefé (Argentina)</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png"/><url>https://gatotv.com</url></channel>
+<channel id="Teledeporte.es@SD"><display-name>Teledeporte</display-name><icon src="https://i.ibb.co/0jxLdjnY/TDP.png"/><url>https://gatotv.com</url></channel>
+<channel id="Telecinco.es@SD"><display-name>Telecinco</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/1/13/Telecinco_2024_Logo.svg"/><url>https://gatotv.com</url></channel>
+<channel id="TeleCentro.us@SD"><display-name>Telecentro TV</display-name><icon src="https://i.imgur.com/5k1WQyn.png"/><url>https://gatotv.com</url></channel>
+<channel id="Telecentro.do@SD"><display-name>13 de República Dominicana</display-name><icon src="https://i.imgur.com/F17zNXh.png"/><url>https://gatotv.com</url></channel>
+<channel id="Telecaribe.co@SD"><display-name>Telecaribe</display-name><icon src="https://i.imgur.com/E35cXHt.png"/><url>https://gatotv.com</url></channel>
+<channel id="Telecafe.co@SD"><display-name>Telecafé</display-name><icon src="https://i.imgur.com/z18LRqM.png"/><url>https://gatotv.com</url></channel>
+<channel id="Teleantioquia.co@SD"><display-name>Teleantioquia</display-name><icon src="https://i.imgur.com/6WMV2Az.png"/><url>https://gatotv.com</url></channel>
+<channel id="TeleAntillas.do@SD"><display-name>2 de República Dominicana</display-name><icon src="https://i.imgur.com/G1pJZkC.png"/><url>https://gatotv.com</url></channel>
+<channel id="Teleamazonas.ec@SD"><display-name>Teleamazonas</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/960px-Teleamazonas_Logo.png"/><url>https://gatotv.com</url></channel>
+<channel id="TCMLatinAmerica.us@Panregional"><display-name>TCM Panregional</display-name><icon src="https://i.imgur.com/QpDkrmT.png"/><url>https://gatotv.com</url></channel>
+<channel id="TCM.es@SD"><display-name>TCM España</display-name><icon src="https://i.imgur.com/juCNJxd.png"/><url>https://gatotv.com</url></channel>
+<channel id="Syfy.es@SD"><display-name>Syfy España</display-name><icon src="https://i.imgur.com/4fMWhUE.png"/><url>https://gatotv.com</url></channel>
+<channel id="SURTVItapua.py@SD"><display-name>Sur TV Itapúa Paraguay</display-name><icon src="https://i.imgur.com/ltJQvZd.png"/><url>https://gatotv.com</url></channel>
+<channel id="SundanceTV.es@SD"><display-name>Sundance TV España</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SundanceTV_2014.svg/960px-SundanceTV_2014.svg.png"/><url>https://gatotv.com</url></channel>
+<channel id="StudioUniversalLatinAmerica.us@Panregional"><display-name>Studio Universal Panregional</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/960px-StudioUniversal2016.png"/><url>https://gatotv.com</url></channel>
+<channel id="StudioUniversalLatinAmerica.us@Mexico"><display-name>Studio Universal México</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/960px-StudioUniversal2016.png"/><url>https://gatotv.com</url></channel>
+<channel id="StarChannel.mx@SD"><display-name>Star Channel México</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png"/><url>https://gatotv.com</url></channel>
+<channel id="Space.ar@South"><display-name>Space Sur</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/960px-SpaceLogo.svg.png"/><url>https://gatotv.com</url></channel>
+<channel id="Space.ar@Panregional"><display-name>Space Panregional</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/960px-SpaceLogo.svg.png"/><url>https://gatotv.com</url></channel>
+<channel id="Space.ar@Mexico"><display-name>Space México</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/960px-SpaceLogo.svg.png"/><url>https://gatotv.com</url></channel>
+<channel id="Sorpresa.us@SD"><display-name>Sorpresa</display-name><icon src="https://i.imgur.com/EmfEHFM.png"/><url>https://gatotv.com</url></channel>
+<channel id="SonyChannel.mx@SD"><display-name>Sony México</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/960px-Sony_Channel_Logo.png"/><url>https://gatotv.com</url></channel>
+<channel id="SNT.py@SD"><display-name>SNT</display-name><icon src="https://i.imgur.com/HNlWRiF.png"/><url>https://gatotv.com</url></channel>
+<channel id="SkySports24.mx@SD"><display-name>Sky Sports 24</display-name><icon src="https://www.lyngsat.com/logo/tv/ss/sky_mx_sports.png"/><url>https://gatotv.com</url></channel>
+<channel id="SkySports16.mx@SD"><display-name>Sky Sports 16</display-name><icon src="https://i.imgur.com/SuTOqKi.png"/><url>https://gatotv.com</url></channel>
+<channel id="SkySports1.mx@SD"><display-name>Sky Sports 1 México</display-name><icon src="https://i.imgur.com/9onSfMi.png"/><url>https://gatotv.com</url></channel>
+<channel id="SenalColombia.co@SD"><display-name>Señal Colombia</display-name><icon src="https://i.imgur.com/Y9x16vl.png"/><url>https://gatotv.com</url></channel>
+<channel id="SemillitasTV.us@SD"><display-name>Semillitas</display-name><icon src="https://i.imgur.com/u3yujUd.png"/><url>https://gatotv.com</url></channel>
+<channel id="RTS.ec@SD"><display-name>RTS</display-name><icon src="https://i.imgur.com/PML8cJA.png"/><url>https://gatotv.com</url></channel>
+<channel id="RealMadridTV.es@SD"><display-name>Real Madrid TV</display-name><icon src="https://i.imgur.com/5pMo7dL.png"/><url>https://gatotv.com</url></channel>
+<channel id="RCNNovelas.co@SD"><display-name>RCN Novelas</display-name><icon src="https://i.imgur.com/9wxdWNQ.png"/><url>https://gatotv.com</url></channel>
+<channel id="PXSports.mx@SD"><display-name>PX Sports</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/PX_Sports_-_Logo.png/960px-PX_Sports_-_Logo.png"/><url>https://gatotv.com</url></channel>
+<channel id="PeruMagico.pe@SD"><display-name>Perú Mágico</display-name><icon src="https://i.imgur.com/Z4ELxRP.png"/><url>https://gatotv.com</url></channel>
+<channel id="PasionesLatinAmerica.us@SD"><display-name>Pasiones Latinoamérica</display-name><icon src="https://i.imgur.com/VGnbWjO.png"/><url>https://gatotv.com</url></channel>
+<channel id="Pasiones.us@SD"><display-name>Pasiones Estados Unidos</display-name><icon src="https://i.imgur.com/BCWbGf9.png"/><url>https://gatotv.com</url></channel>
+<channel id="Paravision.py@SD"><display-name>Paravisión</display-name><icon src="https://i.imgur.com/yd9Dw2G.png"/><url>https://gatotv.com</url></channel>
+<channel id="ParaguayTV.py@SD"><display-name>Paraguay TV</display-name><icon src="https://i.imgur.com/fkK7i8g.png"/><url>https://gatotv.com</url></channel>
+<channel id="Panico.mx@SD"><display-name>Pánico</display-name><icon src="https://i.imgur.com/XOJzlfS.png"/><url>https://gatotv.com</url></channel>
+<channel id="PanamericanaTV.pe@SD"><display-name>Panamericana Televisión</display-name><icon src="https://i.imgur.com/uQhEDES.png"/><url>https://gatotv.com</url></channel>
+<channel id="Pakapaka.ar@SD"><display-name>Pakapaka</display-name><icon src="https://i.imgur.com/GJbRWwH.png"/><url>https://gatotv.com</url></channel>
+<channel id="Odisea.es@SD"><display-name>Odisea</display-name><icon src="https://i.imgur.com/hrximGi.png"/><url>https://gatotv.com</url></channel>
+<channel id="NTN24.co@SD"><display-name>NTN24</display-name><icon src="https://i.imgur.com/UoKmSAP.png"/><url>https://gatotv.com</url></channel>
+<channel id="NPY.py@SD"><display-name>Noticias PY</display-name><icon src="https://i.imgur.com/pUEkaiW.png"/><url>https://gatotv.com</url></channel>
+<channel id="Nova.es@SD"><display-name>Nova</display-name><icon src="https://i.imgur.com/Vx1F4o5.png"/><url>https://gatotv.com</url></channel>
+<channel id="NickMusic.us@SD"><display-name>NickMusic</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/NickMusic.svg/960px-NickMusic.svg.png"/><url>https://gatotv.com</url></channel>
+<channel id="NickJr.es@SD"><display-name>Nick Jr. España</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png"/><url>https://gatotv.com</url></channel>
+<channel id="Nickelodeon.es@SD"><display-name>Nickelodeon España</display-name><icon src="https://i.imgur.com/E84jnP8.png"/><url>https://gatotv.com</url></channel>
+<channel id="NHKWorldJapan.jp@SD"><display-name>NHK World</display-name><icon src="https://jiotvimages.cdn.jio.com/dare_images/images/NHK_World_Japan.png"/><url>https://gatotv.com</url></channel>
+<channel id="NFLNetwork.us@SD"><display-name>NFL Network</display-name><icon src="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/960px-NFL_Network_logo.svg.png"/><url>https://gatotv.com</url></channel>
+<channel id="Neox.es@SD"><display-name>Neox</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Neox_2023_logo.svg/500px-Neox_2023_logo.svg.png"/><url>https://gatotv.com</url></channel>
+<channel id="NBCUniverso.us@East"><display-name>Universo</display-name><icon src="https://i.imgur.com/RZ8pIKe.png"/><url>https://gatotv.com</url></channel>
+<channel id="NationalGeographic.mx@SD"><display-name>National Geographic México</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png"/><url>https://gatotv.com</url></channel>
+<channel id="NationalGeographic.es@SD"><display-name>National Geographic España</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png"/><url>https://gatotv.com</url></channel>
+<channel id="MultimediosPlus.mx@SD"><display-name>Multimedios Plus</display-name><icon src="https://i.imgur.com/iLxfYiq.png"/><url>https://gatotv.com</url></channel>
+<channel id="MTVLatinAmerica.us@Panregional"><display-name>MTV Sur</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png"/><url>https://gatotv.com</url></channel>
+<channel id="MTV.es@SD"><display-name>MTV España</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png"/><url>https://gatotv.com</url></channel>
+<channel id="MilenioTelevision.mx@SD"><display-name>Milenio</display-name><icon src="https://i.imgur.com/TG1T5Oh.png"/><url>https://gatotv.com</url></channel>
+<channel id="MexiquenseTV.mx@SD"><display-name>Mexiquense TV</display-name><icon src="https://i.imgur.com/iVfzakA.png"/><url>https://gatotv.com</url></channel>
+<channel id="MegavisionCanal21.sv@SD"><display-name>12 de El Salvador</display-name><icon src="https://i.imgur.com/HbdYU9k.png"/><url>https://gatotv.com</url></channel>
+<channel id="Mega.es@SD"><display-name>Mega España</display-name><icon src="https://i.imgur.com/Udrt2eK.png"/><url>https://gatotv.com</url></channel>
+<channel id="Mega.cl@SD"><display-name>Mega Chile</display-name><icon src="https://i.imgur.com/RlZfR84.png"/><url>https://gatotv.com</url></channel>
+<channel id="MC.mx@SD"><display-name>MC</display-name><icon src="https://i.imgur.com/TAjbaml.png"/><url>https://gatotv.com</url></channel>
+<channel id="MariaVision.mx@SD"><display-name>María Visión</display-name><icon src="https://i.imgur.com/GylOPxE.png"/><url>https://gatotv.com</url></channel>
+<channel id="LifetimeLatinAmerica.us@Panregional"><display-name>Lifetime PAN</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png"/><url>https://gatotv.com</url></channel>
+<channel id="LifetimeLatinAmerica.us@Mexico"><display-name>Lifetime México</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png"/><url>https://gatotv.com</url></channel>
+<channel id="Latina.pe@SD"><display-name>Frecuencia Latina</display-name><icon src="https://i.imgur.com/MOsWriY.png"/><url>https://gatotv.com</url></channel>
+<channel id="Latele.py@SD"><display-name>La Tele Paraguay</display-name><icon src="https://i.imgur.com/Qcf6Qev.png"/><url>https://gatotv.com</url></channel>
+<channel id="LaSexta.es@SD"><display-name>La Sexta</display-name><icon src="https://i.imgur.com/aKV5voq.png"/><url>https://gatotv.com</url></channel>
+<channel id="LasEstrellasLatinAmerica.mx@SD"><display-name>Las Estrellas LATAM</display-name><icon src="https://i.imgur.com/g5ShxZ7.png"/><url>https://gatotv.com</url></channel>
+<channel id="LasEstrellas.mx@SD"><display-name>2 de México</display-name><icon src="https://i.imgur.com/g5ShxZ7.png"/><url>https://gatotv.com</url></channel>
+<channel id="LaRedTV.gt@SD"><display-name>La Red TV Guatemala</display-name><icon src="https://i.imgur.com/chc8x4a.png"/><url>https://gatotv.com</url></channel>
+<channel id="LaOtra.es@SD"><display-name>laOtra</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/La_Otra_logo_%282017%29.svg/960px-La_Otra_logo_%282017%29.svg.png"/><url>https://gatotv.com</url></channel>
+<channel id="LaLigaTVporMovistarPlusPlus.es@SD"><display-name>M+ LaLiga</display-name><url>https://gatotv.com</url></channel>
+<channel id="La2.es@SD"><display-name>La 2</display-name><icon src="https://i.ibb.co/rfsr9PSh/La-2.png"/><url>https://gatotv.com</url></channel>
+<channel id="La1.es@SD"><display-name>La 1</display-name><icon src="https://i.ibb.co/MxJNPHsn/La-1.png"/><url>https://gatotv.com</url></channel>
+<channel id="InvestigationDiscoveryLatinAmerica.us@Panregional"><display-name>ID Panregional</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png"/><url>https://gatotv.com</url></channel>
+<channel id="InvestigationDiscoveryLatinAmerica.us@Mexico"><display-name>ID México</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png"/><url>https://gatotv.com</url></channel>
+<channel id="IntiTV.ec@SD"><display-name>Inti Network</display-name><icon src="https://i.imgur.com/2WirGqb.png"/><url>https://gatotv.com</url></channel>
+<channel id="IngenioTV.mx@SD"><display-name>Ingenio TV México</display-name><icon src="https://i.imgur.com/pAppH1M.png"/><url>https://gatotv.com</url></channel>
+<channel id="IberaliaTV.es@SD"><display-name>Iberalia TV</display-name><url>https://gatotv.com</url></channel>
+<channel id="HTV.us@SD"><display-name>HTV</display-name><icon src="https://i.imgur.com/NlKFNHS.png"/><url>https://gatotv.com</url></channel>
+<channel id="HolaTV.us@SD"><display-name>¡Hola! TV</display-name><icon src="https://i.imgur.com/zfVbp7d.png"/><url>https://gatotv.com</url></channel>
+<channel id="HLN.us@SD"><display-name>HLN</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/HLN_%28TV_network%29_2017_logo.svg/960px-HLN_%28TV_network%29_2017_logo.svg.png"/><url>https://gatotv.com</url></channel>
+<channel id="HITN.us@SD"><display-name>HITN</display-name><icon src="https://i.imgur.com/bgaKLKh.png"/><url>https://gatotv.com</url></channel>
+<channel id="HistoryLatinAmerica.us@Panregional"><display-name>History Panregional</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png"/><url>https://gatotv.com</url></channel>
+<channel id="HistoryenEspanol.us@SD"><display-name>History en Español</display-name><icon src="https://i.imgur.com/KP4e1kk.png"/><url>https://gatotv.com</url></channel>
+<channel id="History.mx@SD"><display-name>History MX</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png"/><url>https://gatotv.com</url></channel>
+<channel id="History.cl@SD"><display-name>History Chile</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png"/><url>https://gatotv.com</url></channel>
+<channel id="History2LatinAmerica.us@Panregional"><display-name>History 2 Panregional</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png"/><url>https://gatotv.com</url></channel>
+<channel id="History2LatinAmerica.us@Mexico"><display-name>History 2 México</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png"/><url>https://gatotv.com</url></channel>
+<channel id="Historia.es@SD"><display-name>Historia España</display-name><icon src="https://i.imgur.com/VUy8xIG.png"/><url>https://gatotv.com</url></channel>
+<channel id="HBOXtremeLatinAmerica.us@SD"><display-name>HBO Xtreme</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/960px-HBO_Xtreme.svg.png"/><url>https://gatotv.com</url></channel>
+<channel id="HBOSignatureLatinAmerica.us@SD"><display-name>HBO Signature LATAM</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/960px-HBO_Signature.svg.png"/><url>https://gatotv.com</url></channel>
+<channel id="HBOPopLatinAmerica.us@SD"><display-name>HBO Pop</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/960px-HBO_Pop.svg.png"/><url>https://gatotv.com</url></channel>
+<channel id="HBOPlusLatinAmerica.us@SD"><display-name>HBO Plus</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/960px-Logohboplus2019.svg.png"/><url>https://gatotv.com</url></channel>
+<channel id="HBOMundiLatinAmerica.us@SD"><display-name>HBO Mundi</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/960px-HBO_Mundi.svg.png"/><url>https://gatotv.com</url></channel>
+<channel id="HBOLatino.us@East"><display-name>HBO Latino Este</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/HBO_Latino_%282014%29.svg/960px-HBO_Latino_%282014%29.svg.png"/><url>https://gatotv.com</url></channel>
+<channel id="HBOLatinAmerica.us@SD"><display-name>HBO Latinoamérica</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png"/><url>https://gatotv.com</url></channel>
+<channel id="HBOFamilyLatinAmerica.us@SD"><display-name>HBO Family LATAM</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/960px-HBO_Family.svg.png"/><url>https://gatotv.com</url></channel>
+<channel id="HBO2LatinAmerica.us@SD"><display-name>HBO 2 LATAM</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/960px-HBO2_logo.svg.png"/><url>https://gatotv.com</url></channel>
+<channel id="Guatevision.gt@SD"><display-name>Guatevisión</display-name><icon src="https://i.imgur.com/mbmHPnO.png"/><url>https://gatotv.com</url></channel>
+<channel id="GolTVUSA.us@SD"><display-name>Gol TV USA</display-name><icon src="https://i.imgur.com/pypul3s.png"/><url>https://gatotv.com</url></channel>
+<channel id="GolfChannelLatinAmerica.us@SD"><display-name>Golf Channel Latinoamérica</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Golf_Channel_Logo_2018.png/960px-Golf_Channel_Logo_2018.png"/><url>https://gatotv.com</url></channel>
+<channel id="GoldenPremier.mx@SD"><display-name>Golden Premier</display-name><icon src="https://i.imgur.com/JMa7jws.png"/><url>https://gatotv.com</url></channel>
+<channel id="GoldenPremier2.mx@SD"><display-name>Golden Premier 2</display-name><icon src="https://i.imgur.com/GBlvQBI.png"/><url>https://gatotv.com</url></channel>
+<channel id="GoldenPlus.mx@SD"><display-name>Golden Plus</display-name><icon src="https://i.imgur.com/OOEkyM2.png"/><url>https://gatotv.com</url></channel>
+<channel id="Golden.mx@Panregional"><display-name>Golden Panregional</display-name><icon src="https://i.imgur.com/NNd1lYl.png"/><url>https://gatotv.com</url></channel>
+<channel id="Gamavision.ec@SD"><display-name>Gamavisión</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png"/><url>https://gatotv.com</url></channel>
+<channel id="FX.mx@SD"><display-name>FX México</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png"/><url>https://gatotv.com</url></channel>
+<channel id="FX.cl@SD"><display-name>FX Chile</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png"/><url>https://gatotv.com</url></channel>
+<channel id="FUTV.cr@SD"><display-name>FUTV</display-name><icon src="https://premium.futvcr.com/assets/img/logo-premium.png"/><url>https://gatotv.com</url></channel>
+<channel id="FoxNewsChannel.us@SD"><display-name>Fox News</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png"/><url>https://gatotv.com</url></channel>
+<channel id="FoxDeportes.us@SD"><display-name>Fox Deportes</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/960px-FOX_Deportes_logo.png"/><url>https://gatotv.com</url></channel>
+<channel id="Foro.mx@SD"><display-name>Foro TV</display-name><icon src="https://i.imgur.com/dDFrONz.png"/><url>https://gatotv.com</url></channel>
 <channel id="ExtraTV42.cr@SD"><display-name>42 de Costa Rica</display-name><icon src="https://i.imgur.com/jjTodXj.png"/><url>https://gatotv.com</url></channel>
 <channel id="ExcelsiorTV.mx@SD"><display-name>Excelsior TV</display-name><icon src="https://i.imgur.com/bJpjfpt.png"/><url>https://gatotv.com</url></channel>
 <channel id="Eurosport2.fr@Spain"><display-name>Eurosport 2 España</display-name><icon src="https://i.imgur.com/f56dHgR.png"/><url>https://gatotv.com</url></channel>
@@ -218,258 +217,259 @@
 <channel id="Ecuavisa.ec@SD"><display-name>Ecuavisa Ecuador</display-name><icon src="https://i.imgur.com/Hl5wowk.png"/><url>https://gatotv.com</url></channel>
 <channel id="EcuadorTV.ec@SD"><display-name>Ecuador TV</display-name><icon src="https://i.imgur.com/hj6EYwe.png"/><url>https://gatotv.com</url></channel>
 <channel id="Divinity.es@SD"><display-name>Divinity</display-name><icon src="https://i.imgur.com/o7fvEr6.png"/><url>https://gatotv.com</url></channel>
-<channel id="de_las_estrellas_-1h_mexico"><display-name>las Estrellas - 1 Hora</display-name><url>https://gatotv.com</url></channel>
-<channel id="fox_sports_cono_norte"><display-name>Fox Sports Cono Norte</display-name><url>https://gatotv.com</url></channel>
+<channel id="DistritoComedia.mx@SD"><display-name>Distrito Comedia</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/960px-DistritoComediaLOGO2018.png"/><url>https://gatotv.com</url></channel>
+<channel id="DisneyJunior.es@SD"><display-name>Disney Junior España</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/3/36/2019_Disney_Junior_logo.svg"/><url>https://gatotv.com</url></channel>
+<channel id="DisneyJrLatinAmerica.ar@South"><display-name>Disney Junior Sur</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg"/><url>https://gatotv.com</url></channel>
+<channel id="DisneyJrLatinAmerica.ar@North"><display-name>Disney Junior Norte</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg"/><url>https://gatotv.com</url></channel>
+<channel id="DisneyChannelLatinAmerica.ar@South"><display-name>Disney Channel Sur</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg"/><url>https://gatotv.com</url></channel>
+<channel id="DisneyChannelLatinAmerica.ar@North"><display-name>Disney Channel México</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg"/><url>https://gatotv.com</url></channel>
+<channel id="DisneyChannelLatinAmerica.ar@Center"><display-name>Disney Channel Centro</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg"/><url>https://gatotv.com</url></channel>
+<channel id="DiscoveryWorld.us@LatinAmerica"><display-name>Discovery World Lat.</display-name><icon src="https://i.imgur.com/yNFmUkE.png"/><url>https://gatotv.com</url></channel>
+<channel id="DiscoveryTheaterLatinAmerica.us@SD"><display-name>Discovery Theater LATAM.</display-name><icon src="https://i.imgur.com/AqR0Jkn.png"/><url>https://gatotv.com</url></channel>
+<channel id="DiscoveryScienceLatinAmerica.us@SD"><display-name>Discovery Science LATAM</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Discovery_science_new_logo_2017.png/960px-Discovery_science_new_logo_2017.png"/><url>https://gatotv.com</url></channel>
+<channel id="DiscoveryKidsLatinAmerica.us@Mexico"><display-name>Discovery Kids MX</display-name><url>https://gatotv.com</url></channel>
+<channel id="DiscoveryKidsLatinAmerica.us@Chile"><display-name>Discovery Kids Chile</display-name><url>https://gatotv.com</url></channel>
+<channel id="DiscoveryHomeHealthLatinAmerica.mx@Mexico"><display-name>Discovery H&amp;H MX</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Discovery_H%26H_Logo_2022.webp/960px-Discovery_H%26H_Logo_2022.webp.png"/><url>https://gatotv.com</url></channel>
+<channel id="DiscoveryFamilia.us@SD"><display-name>Discovery Familia</display-name><icon src="https://i.imgur.com/jTx9s7F.png"/><url>https://gatotv.com</url></channel>
+<channel id="DiscoveryenEspanol.us@SD"><display-name>Discovery en Español</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png"/><url>https://gatotv.com</url></channel>
+<channel id="DiscoveryChannelLatinAmerica.us@Mexico"><display-name>Discovery Channel México</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png"/><url>https://gatotv.com</url></channel>
+<channel id="DiscoveryChannelLatinAmerica.us@Chile"><display-name>Discovery Channel Chile</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png"/><url>https://gatotv.com</url></channel>
+<channel id="DiscoveryChannel.es@SD"><display-name>Discovery Channel España</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png"/><url>https://gatotv.com</url></channel>
+<channel id="Digital15.do@SD"><display-name>15 de República Dominicana</display-name><icon src="https://i.imgur.com/v3mkmZa.png"/><url>https://gatotv.com</url></channel>
+<channel id="DHE.us@SD"><display-name>DHE</display-name><icon src="https://i.imgur.com/nsttoEa.png"/><url>https://gatotv.com</url></channel>
+<channel id="DePeliculaLatinAmerica.mx@SD"><display-name>De Película</display-name><icon src="https://i.imgur.com/aksM8pa.png"/><url>https://gatotv.com</url></channel>
+<channel id="DePeliculaClasico.mx@SD"><display-name>De Película Clásico</display-name><icon src="https://i.imgur.com/L6J0kDU.png"/><url>https://gatotv.com</url></channel>
+<channel id="Cuatro.es@SD"><display-name>Cuatro de España</display-name><icon src="https://i.imgur.com/NYLnABb.png"/><url>https://gatotv.com</url></channel>
+<channel id="COSMO.es@SD"><display-name>Cosmopolitan España</display-name><icon src="https://i.imgur.com/L2KKKuB.png"/><url>https://gatotv.com</url></channel>
+<channel id="ConcertChannel.us@SD"><display-name>Concert Channel</display-name><icon src="https://i.imgur.com/u2irADf.png"/><url>https://gatotv.com</url></channel>
+<channel id="ComedyCentral.es@SD"><display-name>Comedy Central España</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png"/><url>https://gatotv.com</url></channel>
+<channel id="ComediaporMovistarPlusPlus.es@SD"><display-name>M+ Comedia</display-name><url>https://gatotv.com</url></channel>
+<channel id="ColorVision.do@SD"><display-name>9 de República Dominicana</display-name><icon src="https://i.imgur.com/rkgWToA.jpg"/><url>https://gatotv.com</url></channel>
+<channel id="CNNInternational.us@LatinAmerica"><display-name>CNN Internacional</display-name><icon src="https://dtil.tmsimg.com/assets/s157679_ld_h15_aa.png?lock=720x540"/><url>https://gatotv.com</url></channel>
+<channel id="CNNenEspanol.us@SD"><display-name>CNN en Español</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/960px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png"/><url>https://gatotv.com</url></channel>
+<channel id="CNNChile.cl@SD"><display-name>CNN Chile</display-name><icon src="https://i.imgur.com/t4EXijz.png"/><url>https://gatotv.com</url></channel>
+<channel id="CMMTV.es@SD"><display-name>Castilla-La Mancha Media</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/CMMedia.svg/960px-CMMedia.svg.png"/><url>https://gatotv.com</url></channel>
+<channel id="Clan.es@SD"><display-name>Clan TVE</display-name><icon src="https://i.ibb.co/vv3FC2Nv/clan.png"/><url>https://gatotv.com</url></channel>
+<channel id="CineSony.us@SD"><display-name>Cine Sony</display-name><icon src="https://i.imgur.com/bZWoDTg.png"/><url>https://gatotv.com</url></channel>
+<channel id="CineNostalgia.us@SD"><display-name>Cine Nostalgia</display-name><icon src="https://i.imgur.com/LLwppwB.png"/><url>https://gatotv.com</url></channel>
+<channel id="CineMexicano.mx@SD"><display-name>Cine Mexicano</display-name><icon src="https://i.imgur.com/qHtOVRO.png"/><url>https://gatotv.com</url></channel>
+<channel id="CinemaxLatinAmerica.us@SD"><display-name>Cinemax Panregional</display-name><icon src="https://i.imgur.com/cZWoJWD.png"/><url>https://gatotv.com</url></channel>
+<channel id="CinemaPlus.co@SD"><display-name>Cinema +</display-name><icon src="https://i.imgur.com/ExZeBRf.png"/><url>https://gatotv.com</url></channel>
+<channel id="CinemaPlatino.mx@SD"><display-name>Cinema Platino</display-name><icon src="https://i.imgur.com/YMhzH6g.png"/><url>https://gatotv.com</url></channel>
+<channel id="CineLatino.mx@SD"><display-name>Cinelatino</display-name><icon src="https://i.imgur.com/2V0R0xT.png"/><url>https://gatotv.com</url></channel>
+<channel id="CineEstelar.us@SD"><display-name>Cine Estelar</display-name><icon src="https://i.imgur.com/yySH37j.png"/><url>https://gatotv.com</url></channel>
+<channel id="CineClick.us@SD"><display-name>CineClick</display-name><icon src="https://i.imgur.com/I8ugRWi.png"/><url>https://gatotv.com</url></channel>
+<channel id="Cinecanal.us@South"><display-name>Cinecanal Sur</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png"/><url>https://gatotv.com</url></channel>
+<channel id="Cinecanal.us@Pacific"><display-name>Cinecanal Pacífico</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png"/><url>https://gatotv.com</url></channel>
+<channel id="Cinecanal.us@Mexico"><display-name>Cinecanal México</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png"/><url>https://gatotv.com</url></channel>
+<channel id="ChileVision.cl@SD"><display-name>Chilevisión (CHV)</display-name><icon src="https://i.imgur.com/PRijvR0.png"/><url>https://gatotv.com</url></channel>
+<channel id="CDNDeportes.do@SD"><display-name>CDN Deportes</display-name><icon src="https://i.imgur.com/yU5LqTL.png"/><url>https://gatotv.com</url></channel>
+<channel id="CDN.do@SD"><display-name>37 de República Dominicana</display-name><icon src="https://i.imgur.com/eQyjIgf.png"/><url>https://gatotv.com</url></channel>
+<channel id="CartoonNetworkLatinAmerica.us@SouthAtlantic"><display-name>Cartoon Network Atlántico Sur</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png"/><url>https://gatotv.com</url></channel>
+<channel id="CartoonNetworkLatinAmerica.us@NorthAtlantic"><display-name>Cartoon Network Atlántico Norte</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png"/><url>https://gatotv.com</url></channel>
+<channel id="CartoonNetworkLatinAmerica.us@Mexico"><display-name>Cartoon Network México</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png"/><url>https://gatotv.com</url></channel>
+<channel id="CartoonNetwork.us@West"><display-name>Cartoon Network Pacífico</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png"/><url>https://gatotv.com</url></channel>
+<channel id="CartoonitoLatinAmerica.us@Mexico"><display-name>Cartoonito México</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/960px-Cartoonito_-_Logo_2021.svg.png"/><url>https://gatotv.com</url></channel>
+<channel id="CaracolTV.co@SD"><display-name>Caracol Colombia</display-name><icon src="https://i.imgur.com/WbfdJbk.png"/><url>https://gatotv.com</url></channel>
+<channel id="CaracolInternacional.co@SD"><display-name>Caracol Internacional</display-name><icon src="https://i.imgur.com/h7LWbt5.png"/><url>https://gatotv.com</url></channel>
+<channel id="CanalTRO.co@SD"><display-name>Tro</display-name><icon src="https://i.imgur.com/bdBduvj.png"/><url>https://gatotv.com</url></channel>
+<channel id="CanalSurAndalucia.es@SD"><display-name>Sur Andalucía</display-name><icon src="https://i.imgur.com/lznnA4v.png"/><url>https://gatotv.com</url></channel>
+<channel id="CanalSUR.us@SD"><display-name>Sur</display-name><icon src="https://i.imgur.com/Cy1vlNE.png"/><url>https://gatotv.com</url></channel>
+<channel id="CanalInstitucional.co@SD"><display-name>Institucional Colombia</display-name><icon src="https://i.imgur.com/CKnf3Ua.png"/><url>https://gatotv.com</url></channel>
+<channel id="CanalCongreso.co@SD"><display-name>Canal Congreso Colombia</display-name><icon src="https://i.imgur.com/3VnL8dp.png"/><url>https://gatotv.com</url></channel>
+<channel id="CanalCocina.es@SD"><display-name>Cocina</display-name><icon src="https://i.imgur.com/OYB7lJ0.png"/><url>https://gatotv.com</url></channel>
+<channel id="CanalAntigua.gt@SD"><display-name>Canal Antigua</display-name><icon src="https://i.imgur.com/edZjzbS.png"/><url>https://gatotv.com</url></channel>
+<channel id="Canal13.cl@SD"><display-name>13 de Chile</display-name><icon src="https://static.wikia.nocookie.net/logopedia/images/0/01/Canal_13_2018.png/revision/latest/scale-to-width-down/512/"/><url>https://gatotv.com</url></channel>
+<channel id="Canal12.sv@SD"><display-name>12 de El Salvador</display-name><icon src="https://i.imgur.com/WMv3yEf.png"/><url>https://gatotv.com</url></channel>
+<channel id="Canal11.cr@SD"><display-name>11 de Costa Rica</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/960px-Repretel_11_logo.png"/><url>https://gatotv.com</url></channel>
+<channel id="Canal8.cr@SD"><display-name>Multimedios Costa Rica</display-name><icon src="https://i.imgur.com/nefPi2Y.png"/><url>https://gatotv.com</url></channel>
+<channel id="Canal6.sv@SD"><display-name>6 de El Salvador</display-name><icon src="https://i.imgur.com/M4muPLK.png"/><url>https://gatotv.com</url></channel>
+<channel id="Canal6.cr@SD"><display-name>6 de Costa Rica</display-name><icon src="https://i.imgur.com/nfKJftW.png"/><url>https://gatotv.com</url></channel>
+<channel id="Canal5ElLider.hn@SD"><display-name>5 de Honduras</display-name><icon src="https://i.imgur.com/4hEYFa9.png"/><url>https://gatotv.com</url></channel>
+<channel id="Canal4.sv@SD"><display-name>4 de El Salvador</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Canal_4_TCS.png/960px-Canal_4_TCS.png"/><url>https://gatotv.com</url></channel>
+<channel id="Canal4.cr@SD"><display-name>4 de Costa Rica</display-name><icon src="https://i.imgur.com/5arZEgO.png"/><url>https://gatotv.com</url></channel>
+<channel id="Canal3.gt@SD"><display-name>3 de Guatemala</display-name><icon src="https://i.imgur.com/yCykjIp.png"/><url>https://gatotv.com</url></channel>
+<channel id="Canal2.sv@SD"><display-name>2 de El Salvador</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Canal_2_TCS.png/960px-Canal_2_TCS.png"/><url>https://gatotv.com</url></channel>
+<channel id="Canal2.ni@SD"><display-name>2 de Nicaragua</display-name><icon src="https://i.imgur.com/NXfHKV7.png"/><url>https://gatotv.com</url></channel>
+<channel id="Canal1.co@SD"><display-name>1 Colombia</display-name><icon src="https://i.imgur.com/MiYlN0t.png"/><url>https://gatotv.com</url></channel>
+<channel id="Calle13Universal.es@SD"><display-name>Calle 13</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Calle13_logo.svg"/><url>https://gatotv.com</url></channel>
+<channel id="Cablenoticias.co@SD"><display-name>Cablenoticias</display-name><icon src="https://i.imgur.com/FfhOGR9.png"/><url>https://gatotv.com</url></channel>
+<channel id="C9N.py@SD"><display-name>9 Noticias Paraguay</display-name><icon src="https://i.imgur.com/Cp4zJ7O.png"/><url>https://gatotv.com</url></channel>
+<channel id="bitMe.mx@SD"><display-name>BitMe</display-name><icon src="https://i.imgur.com/79hrcx8.png"/><url>https://gatotv.com</url></channel>
+<channel id="BETJams.us@SD"><display-name>BET Jams</display-name><icon src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/BET_Jams_2021.png/960px-BET_Jams_2021.png"/><url>https://gatotv.com</url></channel>
+<channel id="BeMad.es@SD"><display-name>Be Mad</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/7/7d/BeMad_2022_Logo.svg"/><url>https://gatotv.com</url></channel>
+<channel id="beINSportsenEspanol.qa@SD"><display-name>beIN Sports en Español</display-name><icon src="https://i.imgur.com/J5aurrb.png"/><url>https://gatotv.com</url></channel>
+<channel id="BBCNews.uk@LatinAmerica"><display-name>BBC World News</display-name><icon src="https://dtil.tmsimg.com/assets/s158142_ld_h15_aa.png?lock=720x540"/><url>https://gatotv.com</url></channel>
+<channel id="Bandamax.mx@SD"><display-name>Bandamax</display-name><icon src="https://i.imgur.com/4DfnOTA.png"/><url>https://gatotv.com</url></channel>
+<channel id="BabyFirst.us@US"><display-name>BabyFirst TV</display-name><icon src="https://i.imgur.com/WxLHBwu.png"/><url>https://gatotv.com</url></channel>
+<channel id="AztecaUno.mx@SD"><display-name>Azteca Uno</display-name><icon src="https://i.imgur.com/rRxgBtI.png"/><url>https://gatotv.com</url></channel>
+<channel id="AztecaGuatemala.gt@SD"><display-name>Azteca Guate</display-name><icon src="https://i.imgur.com/UJhQoUK.png"/><url>https://gatotv.com</url></channel>
+<channel id="Azteca7.mx@SD"><display-name>Azteca 7</display-name><icon src="https://i.imgur.com/UtFXjIn.png"/><url>https://gatotv.com</url></channel>
+<channel id="AzMundo.mx@SD"><display-name>TV Azteca Mundo</display-name><icon src="https://i.imgur.com/a7Ejid0.png"/><url>https://gatotv.com</url></channel>
+<channel id="AzCorazon.mx@SD"><display-name>TV Azteca Corazón</display-name><icon src="https://i.imgur.com/KIpSdQC.png"/><url>https://gatotv.com</url></channel>
+<channel id="AyMSports.mx@SD"><display-name>AYM Sports</display-name><icon src="https://i.imgur.com/yu3Bpbd.png"/><url>https://gatotv.com</url></channel>
+<channel id="AXNLatinAmerica.us@South"><display-name>AXN Sur</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png"/><url>https://gatotv.com</url></channel>
+<channel id="AXNLatinAmerica.us@Mexico"><display-name>AXN México</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png"/><url>https://gatotv.com</url></channel>
+<channel id="AXNLatinAmerica.us@Andes"><display-name>AXN Andes</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png"/><url>https://gatotv.com</url></channel>
 <channel id="AXN.es@SD"><display-name>AXN ES</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png"/><url>https://gatotv.com</url></channel>
 <channel id="ATV.pe@SD"><display-name>ATV</display-name><icon src="https://i.imgur.com/eUzYZfg.png"/><url>https://gatotv.com</url></channel>
-<channel id="fox_sports_3_cono_norte"><display-name>Fox Sports 3 Cono Norte</display-name><url>https://gatotv.com</url></channel>
 <channel id="AtreseriesInternacional.es@SD"><display-name>Atreseries Internacional</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/960px-Atreseries_2020_logo.svg.png"/><url>https://gatotv.com</url></channel>
 <channel id="Atreseries.es@SD"><display-name>Atreseries España</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/960px-Atreseries_2020_logo.svg.png"/><url>https://gatotv.com</url></channel>
-<channel id="comedy_central_mexico"><display-name>Comedy Central México</display-name><url>https://gatotv.com</url></channel>
-<channel id="fox_sports_2_cono_norte"><display-name>Fox Sports 2 Cono Norte</display-name><url>https://gatotv.com</url></channel>
 <channel id="AprendeTV.mx@SD"><display-name>Aprende</display-name><icon src="https://i.imgur.com/nK194u8.png"/><url>https://gatotv.com</url></channel>
 <channel id="APlus.mx@SD"><display-name>a+</display-name><icon src="https://i.imgur.com/TWk9gfd.png"/><url>https://gatotv.com</url></channel>
-<channel id="film_and_arts"><display-name>Film &amp; Arts</display-name><url>https://gatotv.com</url></channel>
 <channel id="Antena7.do@SD"><display-name>7 de República Dominicana</display-name><icon src="https://i.imgur.com/zKWFgeQ.png"/><url>https://gatotv.com</url></channel>
 <channel id="Antena3Internacional.es@SD"><display-name>Antena 3 Internacional</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/8/83/Antena3Internacional2025.png"/><url>https://gatotv.com</url></channel>
-<channel id="amc_series_republica_dominicana"><display-name>AMC Series República Dominicana</display-name><url>https://gatotv.com</url></channel>
-<channel id="comedy_central_centro"><display-name>Comedy Central Centro</display-name><url>https://gatotv.com</url></channel>
-<channel id="exa_tv"><display-name>Exa TV</display-name><url>https://gatotv.com</url></channel>
 <channel id="Antena3.es@National"><display-name>Antena 3 de España</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/8/89/Logo_Antena_3_2025_%28Naranja%29.svg"/><url>https://gatotv.com</url></channel>
 <channel id="AmericaTV.ar@SD"><display-name>America TV Argentina</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/500px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png"/><url>https://gatotv.com</url></channel>
-<channel id="ewtn_en_espanol"><display-name>EWTN en Español</display-name><url>https://gatotv.com</url></channel>
 <channel id="AmericaTeVe.pr@SD"><display-name>América TeVé</display-name><icon src="https://i.imgur.com/K9o3mLP.png"/><url>https://gatotv.com</url></channel>
 <channel id="AmericaTelevision.pe@SD"><display-name>América Televisión Perú</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/500px-Am%C3%A9rica_Televisi%C3%B3n.svg.png"/><url>https://gatotv.com</url></channel>
-<channel id="clic"><display-name>Clic</display-name><url>https://gatotv.com</url></channel>
-<channel id="euronews"><display-name>Euronews</display-name><url>https://gatotv.com</url></channel>
 <channel id="AMCEurope.uk@Spain"><display-name>AMC España</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png"/><url>https://gatotv.com</url></channel>
 <channel id="AMCCrime.es@SD"><display-name>AMC Crime</display-name><icon src="https://i.imgur.com/g8zMKwk.png"/><url>https://gatotv.com</url></channel>
-<channel id="espn_sur"><display-name>ESPN Sur</display-name><url>https://gatotv.com</url></channel>
 <channel id="AMCBreak.es@SD"><display-name>AMC Break</display-name><icon src="https://static.wikia.nocookie.net/logopedia/images/d/d3/AMC_Break_Print.svg/revision/latest/scale-to-width-down/512"/><url>https://gatotv.com</url></channel>
 <channel id="AgrotendenciaTV.cr@SD"><display-name>Agrotendencia TV</display-name><icon src="https://i.imgur.com/frd60hR.png"/><url>https://gatotv.com</url></channel>
-<channel id="amc_mexico"><display-name>AMC México</display-name><url>https://gatotv.com</url></channel>
-<channel id="amc_series_paraguay"><display-name>AMC Series Paraguay</display-name><url>https://gatotv.com</url></channel>
-<channel id="claro_tv"><display-name>Claro TV</display-name><url>https://gatotv.com</url></channel>
-<channel id="espn_premium_chile"><display-name>ESPN Premium Chile</display-name><url>https://gatotv.com</url></channel>
 <channel id="AELatinAmerica.us@Panregional"><display-name>A&amp;E PAN</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png"/><url>https://gatotv.com</url></channel>
 <channel id="AELatinAmerica.us@Mexico"><display-name>A&amp;E México</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png"/><url>https://gatotv.com</url></channel>
-<channel id="espn_7_venezuela"><display-name>ESPN 7 Venezuela</display-name><url>https://gatotv.com</url></channel>
 <channel id="AELatinAmerica.us@Chile"><display-name>A&amp;E Chile</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png"/><url>https://gatotv.com</url></channel>
 <channel id="AdrenalinaSportsNetwork.us@SD"><display-name>Adrenalina Sports Network</display-name><icon src="https://i.imgur.com/xui8cL8.png"/><url>https://gatotv.com</url></channel>
-<channel id="city_tv"><display-name>City TV</display-name><url>https://gatotv.com</url></channel>
-<channel id="espn_7_uruguay"><display-name>ESPN 7 Uruguay</display-name><url>https://gatotv.com</url></channel>
 <channel id="AccionporMovistarPlusPlus.es@SD"><display-name>M+ Acción</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Acci%C3%B3n_por_Movistar_Plus%2B_2023_Logo.svg/960px-Acci%C3%B3n_por_Movistar_Plus%2B_2023_Logo.svg.png"/><url>https://gatotv.com</url></channel>
 <channel id="24Horas.es@SD"><display-name>24 Horas</display-name><icon src="https://i.ibb.co/21sXZ3GT/24h.png"/><url>https://gatotv.com</url></channel>
-<channel id="espn_7_sudamerica"><display-name>ESPN 7 Sudamérica</display-name><url>https://gatotv.com</url></channel>
 <channel id="24Horas.cl@SD"><display-name>24 Horas Chile</display-name><icon src="https://i.imgur.com/CEE9zPe.png"/><url>https://gatotv.com</url></channel>
 <channel id="zoomoo_latinoamerica"><display-name>ZooMoo Latinoamérica</display-name><url>https://gatotv.com</url></channel>
-<channel id="amc_series_panama"><display-name>AMC Series Panamá</display-name><url>https://gatotv.com</url></channel>
-<channel id="cinema"><display-name>Cinema</display-name><url>https://gatotv.com</url></channel>
-<channel id="espn_7_peru"><display-name>ESPN 7 Perú</display-name><url>https://gatotv.com</url></channel>
 <channel id="warner_tv_sur"><display-name>Warner TV Sur</display-name><url>https://gatotv.com</url></channel>
 <channel id="warner_tv_mexico"><display-name>Warner TV México</display-name><url>https://gatotv.com</url></channel>
-<channel id="espn_7_paraguay"><display-name>ESPN 7 Paraguay</display-name><url>https://gatotv.com</url></channel>
 <channel id="warner_tv_espana"><display-name>Warner TV España</display-name><url>https://gatotv.com</url></channel>
 <channel id="warner_tv_chile"><display-name>Warner TV Chile</display-name><url>https://gatotv.com</url></channel>
-<channel id="cinelatino_u_s_a"><display-name>Cinelatino USA</display-name><url>https://gatotv.com</url></channel>
-<channel id="espn_7_ecuador"><display-name>ESPN 7 Ecuador</display-name><url>https://gatotv.com</url></channel>
 <channel id="ve_plus_latinoamerica"><display-name>Ve Plus LATAM</display-name><url>https://gatotv.com</url></channel>
 <channel id="usa_network_latinoamerica"><display-name>Canal USA Network LATAM</display-name><url>https://gatotv.com</url></channel>
-<channel id="espn_7_colombia"><display-name>ESPN 7 Colombia</display-name><url>https://gatotv.com</url></channel>
 <channel id="univision_latinoamerica"><display-name>Univision Latinoamérica</display-name><url>https://gatotv.com</url></channel>
 <channel id="ultra_tainment"><display-name>Ultra Tainment</display-name><url>https://gatotv.com</url></channel>
-<channel id="NTN24.co@SD"><display-name>NTN24</display-name><icon src="https://i.imgur.com/UoKmSAP.png"/><url>https://gatotv.com</url></channel>
-<channel id="NPY.py@SD"><display-name>Noticias PY</display-name><icon src="https://i.imgur.com/pUEkaiW.png"/><url>https://gatotv.com</url></channel>
-<channel id="Nova.es@SD"><display-name>Nova</display-name><icon src="https://i.imgur.com/Vx1F4o5.png"/><url>https://gatotv.com</url></channel>
-<channel id="NickMusic.us@SD"><display-name>NickMusic</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/NickMusic.svg/960px-NickMusic.svg.png"/><url>https://gatotv.com</url></channel>
-<channel id="NFLNetwork.us@SD"><display-name>NFL Network</display-name><icon src="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/960px-NFL_Network_logo.svg.png"/><url>https://gatotv.com</url></channel>
-<channel id="Neox.es@SD"><display-name>Neox</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Neox_2023_logo.svg/500px-Neox_2023_logo.svg.png"/><url>https://gatotv.com</url></channel>
-<channel id="NBCUniverso.us@East"><display-name>Universo</display-name><icon src="https://i.imgur.com/RZ8pIKe.png"/><url>https://gatotv.com</url></channel>
-<channel id="NationalGeographic.es@SD"><display-name>National Geographic España</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png"/><url>https://gatotv.com</url></channel>
-<channel id="MultimediosPlus.mx@SD"><display-name>Multimedios Plus</display-name><icon src="https://i.imgur.com/iLxfYiq.png"/><url>https://gatotv.com</url></channel>
-<channel id="MTVLatinAmerica.us@Panregional"><display-name>MTV Sur</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png"/><url>https://gatotv.com</url></channel>
-<channel id="MilenioTelevision.mx@SD"><display-name>Milenio</display-name><icon src="https://i.imgur.com/TG1T5Oh.png"/><url>https://gatotv.com</url></channel>
-<channel id="MexiquenseTV.mx@SD"><display-name>Mexiquense TV</display-name><icon src="https://i.imgur.com/iVfzakA.png"/><url>https://gatotv.com</url></channel>
-<channel id="MegavisionCanal21.sv@SD"><display-name>12 de El Salvador</display-name><icon src="https://i.imgur.com/HbdYU9k.png"/><url>https://gatotv.com</url></channel>
-<channel id="Mega.es@SD"><display-name>Mega España</display-name><icon src="https://i.imgur.com/Udrt2eK.png"/><url>https://gatotv.com</url></channel>
-<channel id="Mega.cl@SD"><display-name>Mega Chile</display-name><icon src="https://i.imgur.com/RlZfR84.png"/><url>https://gatotv.com</url></channel>
-<channel id="MC.mx@SD"><display-name>MC</display-name><icon src="https://i.imgur.com/TAjbaml.png"/><url>https://gatotv.com</url></channel>
-<channel id="LifetimeLatinAmerica.us@Mexico"><display-name>Lifetime México</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png"/><url>https://gatotv.com</url></channel>
-<channel id="Latina.pe@SD"><display-name>Frecuencia Latina</display-name><icon src="https://i.imgur.com/MOsWriY.png"/><url>https://gatotv.com</url></channel>
-<channel id="Latele.py@SD"><display-name>La Tele Paraguay</display-name><icon src="https://i.imgur.com/Qcf6Qev.png"/><url>https://gatotv.com</url></channel>
-<channel id="LaSexta.es@SD"><display-name>La Sexta</display-name><icon src="https://i.imgur.com/aKV5voq.png"/><url>https://gatotv.com</url></channel>
-<channel id="LasEstrellasLatinAmerica.mx@SD"><display-name>Las Estrellas LATAM</display-name><icon src="https://i.imgur.com/g5ShxZ7.png"/><url>https://gatotv.com</url></channel>
-<channel id="LasEstrellas.mx@SD"><display-name>2 de México</display-name><icon src="https://i.imgur.com/g5ShxZ7.png"/><url>https://gatotv.com</url></channel>
-<channel id="LaOtra.es@SD"><display-name>laOtra</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/La_Otra_logo_%282017%29.svg/960px-La_Otra_logo_%282017%29.svg.png"/><url>https://gatotv.com</url></channel>
-<channel id="LaLigaTVporMovistarPlusPlus.es@SD"><display-name>M+ LaLiga</display-name><url>https://gatotv.com</url></channel>
-<channel id="La2.es@SD"><display-name>La 2</display-name><icon src="https://i.ibb.co/rfsr9PSh/La-2.png"/><url>https://gatotv.com</url></channel>
-<channel id="InvestigationDiscoveryLatinAmerica.us@Panregional"><display-name>ID Panregional</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png"/><url>https://gatotv.com</url></channel>
-<channel id="InvestigationDiscoveryLatinAmerica.us@Mexico"><display-name>ID México</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png"/><url>https://gatotv.com</url></channel>
-<channel id="IntiTV.ec@SD"><display-name>Inti Network</display-name><icon src="https://i.imgur.com/2WirGqb.png"/><url>https://gatotv.com</url></channel>
-<channel id="HTV.us@SD"><display-name>HTV</display-name><icon src="https://i.imgur.com/NlKFNHS.png"/><url>https://gatotv.com</url></channel>
-<channel id="HolaTV.us@SD"><display-name>¡Hola! TV</display-name><icon src="https://i.imgur.com/zfVbp7d.png"/><url>https://gatotv.com</url></channel>
-<channel id="HLN.us@SD"><display-name>HLN</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/HLN_%28TV_network%29_2017_logo.svg/960px-HLN_%28TV_network%29_2017_logo.svg.png"/><url>https://gatotv.com</url></channel>
-<channel id="HITN.us@SD"><display-name>HITN</display-name><icon src="https://i.imgur.com/bgaKLKh.png"/><url>https://gatotv.com</url></channel>
-<channel id="HistoryLatinAmerica.us@Panregional"><display-name>History Panregional</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png"/><url>https://gatotv.com</url></channel>
-<channel id="HistoryenEspanol.us@SD"><display-name>History en Español</display-name><icon src="https://i.imgur.com/KP4e1kk.png"/><url>https://gatotv.com</url></channel>
-<channel id="History.cl@SD"><display-name>History Chile</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png"/><url>https://gatotv.com</url></channel>
-<channel id="History2LatinAmerica.us@Panregional"><display-name>History 2 Panregional</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png"/><url>https://gatotv.com</url></channel>
-<channel id="History2LatinAmerica.us@Mexico"><display-name>History 2 México</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png"/><url>https://gatotv.com</url></channel>
-<channel id="HBOXtremeLatinAmerica.us@SD"><display-name>HBO Xtreme</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/960px-HBO_Xtreme.svg.png"/><url>https://gatotv.com</url></channel>
-<channel id="HBOSignatureLatinAmerica.us@SD"><display-name>HBO Signature LATAM</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/960px-HBO_Signature.svg.png"/><url>https://gatotv.com</url></channel>
-<channel id="HBOPopLatinAmerica.us@SD"><display-name>HBO Pop</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/960px-HBO_Pop.svg.png"/><url>https://gatotv.com</url></channel>
-<channel id="HBOMundiLatinAmerica.us@SD"><display-name>HBO Mundi</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/960px-HBO_Mundi.svg.png"/><url>https://gatotv.com</url></channel>
-<channel id="HBOLatino.us@East"><display-name>HBO Latino Este</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/HBO_Latino_%282014%29.svg/960px-HBO_Latino_%282014%29.svg.png"/><url>https://gatotv.com</url></channel>
-<channel id="HBOLatinAmerica.us@SD"><display-name>HBO Latinoamérica</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png"/><url>https://gatotv.com</url></channel>
-<channel id="HBO2LatinAmerica.us@SD"><display-name>HBO 2 LATAM</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/960px-HBO2_logo.svg.png"/><url>https://gatotv.com</url></channel>
-<channel id="Guatevision.gt@SD"><display-name>Guatevisión</display-name><icon src="https://i.imgur.com/mbmHPnO.png"/><url>https://gatotv.com</url></channel>
-<channel id="GolTVUSA.us@SD"><display-name>Gol TV USA</display-name><icon src="https://i.imgur.com/pypul3s.png"/><url>https://gatotv.com</url></channel>
-<channel id="GoldenPremier.mx@SD"><display-name>Golden Premier</display-name><icon src="https://i.imgur.com/JMa7jws.png"/><url>https://gatotv.com</url></channel>
-<channel id="GoldenPremier2.mx@SD"><display-name>Golden Premier 2</display-name><icon src="https://i.imgur.com/GBlvQBI.png"/><url>https://gatotv.com</url></channel>
-<channel id="GoldenPlus.mx@SD"><display-name>Golden Plus</display-name><icon src="https://i.imgur.com/OOEkyM2.png"/><url>https://gatotv.com</url></channel>
-<channel id="Golden.mx@Panregional"><display-name>Golden Panregional</display-name><icon src="https://i.imgur.com/NNd1lYl.png"/><url>https://gatotv.com</url></channel>
-<channel id="Gamavision.ec@SD"><display-name>Gamavisión</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png"/><url>https://gatotv.com</url></channel>
-<channel id="FX.mx@SD"><display-name>FX México</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png"/><url>https://gatotv.com</url></channel>
-<channel id="FoxDeportes.us@SD"><display-name>Fox Deportes</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/960px-FOX_Deportes_logo.png"/><url>https://gatotv.com</url></channel>
-<channel id="Foro.mx@SD"><display-name>Foro TV</display-name><icon src="https://i.imgur.com/dDFrONz.png"/><url>https://gatotv.com</url></channel>
-<channel id="ZonaLatina.cl@SD"><display-name>Zona Latina</display-name><icon src="https://i.imgur.com/lMyZZtk.png"/><url>https://gatotv.com</url></channel>
-<channel id="XEIPNTDT.mx@SD"><display-name>11 de México</display-name><icon src="https://i.imgur.com/K0351vF.png"/><url>https://gatotv.com</url></channel>
-<channel id="XEFBTDT.mx@SD"><display-name>4 de Monterrey</display-name><icon src="https://i.imgur.com/21AF8UI.png"/><url>https://gatotv.com</url></channel>
-<channel id="WORODT1.pr@SD"><display-name>13 de Puerto Rico</display-name><icon src="https://i.imgur.com/uhQPWqp.png"/><url>https://gatotv.com</url></channel>
-<channel id="WillaxTV.pe@SD"><display-name>Willax TV</display-name><icon src="https://i.imgur.com/bZnDDPH.png"/><url>https://gatotv.com</url></channel>
-<channel id="WAPADT2.pr@SD"><display-name>WAPA 2 Deportes</display-name><icon src="https://i.imgur.com/5WNBFmp.png"/><url>https://gatotv.com</url></channel>
-<channel id="WAPADT1.pr@SD"><display-name>WAPA-TV</display-name><icon src="https://i.imgur.com/kqq7tD9.png"/><url>https://gatotv.com</url></channel>
-<channel id="VideoRola.mx@SD"><display-name>Video Rola</display-name><icon src="https://i.imgur.com/qGoxWCA.png"/><url>https://gatotv.com</url></channel>
-<channel id="VibraTV.mx@SD"><display-name>Vibra TV</display-name><icon src="https://i.imgur.com/B1BhYod.png"/><url>https://gatotv.com</url></channel>
-<channel id="VePlus.ve@US"><display-name>Ve Plus Estados Unidos</display-name><icon src="https://i.imgur.com/uc3zqcP.png"/><url>https://gatotv.com</url></channel>
-<channel id="UniversalReality.us@SD"><display-name>Universal Reality</display-name><icon src="https://i.imgur.com/mqfUD1R.png"/><url>https://gatotv.com</url></channel>
-<channel id="UniversalPremiere.us@East"><display-name>Universal Premiere</display-name><icon src="https://i.imgur.com/KdFk80C.png"/><url>https://gatotv.com</url></channel>
-<channel id="UniversalComedy.us@SD"><display-name>Universal Comedy</display-name><icon src="https://i.imgur.com/avBL8pQ.png"/><url>https://gatotv.com</url></channel>
-<channel id="UniversalCinema.us@SD"><display-name>Universal Cinema</display-name><icon src="https://i.imgur.com/XxfET68.png"/><url>https://gatotv.com</url></channel>
-<channel id="TVUNAM.mx@SD"><display-name>TVUNAM</display-name><icon src="https://i.imgur.com/ayg5kRM.png"/><url>https://gatotv.com</url></channel>
-<channel id="TVPublica.ar@SD"><display-name>Televisión Pública Argentina</display-name><icon src="https://i.imgur.com/XGrkzN3.png"/><url>https://gatotv.com</url></channel>
-<channel id="TVN.cl@SD"><display-name>TVN Chile</display-name><icon src="https://i.imgur.com/3FKZHL4.png"/><url>https://gatotv.com</url></channel>
-<channel id="TVCDeportes.mx@SD"><display-name>TVC Deportes</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/e/e8/TVCDeportes.png"/><url>https://gatotv.com</url></channel>
-<channel id="TV5MondeLatinAmerica.fr@SD"><display-name>TV5Monde</display-name><icon src="https://i.imgur.com/x8rjGhp.png"/><url>https://gatotv.com</url></channel>
-<channel id="TUDN.mx@SD"><display-name>TUDN México</display-name><icon src="https://i.imgur.com/oT5CAvd.png"/><url>https://gatotv.com</url></channel>
-<channel id="TSi.hn@SD"><display-name>Telesistema Informativo (TSI)</display-name><icon src="https://i.imgur.com/GEyxDnf.png"/><url>https://gatotv.com</url></channel>
-<channel id="TNTLatinAmerica.us@South"><display-name>TNT Sur</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png"/><url>https://gatotv.com</url></channel>
-<channel id="TNT.us@West"><display-name>TNT Pacífico</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png"/><url>https://gatotv.com</url></channel>
-<channel id="TlnovelasMexico.mx@SD"><display-name>TLNovelas México</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png"/><url>https://gatotv.com</url></channel>
-<channel id="TigoSports.cr@SD"><display-name>Tigo Sports Costa Rica</display-name><icon src="https://i.imgur.com/UrsLSRs.png"/><url>https://gatotv.com</url></channel>
-<channel id="TelevisionCanaria.es@SD"><display-name>TV Canaria</display-name><icon src="https://rtvc.es/archivos/2020/03/logo-mobilretina.png"/><url>https://gatotv.com</url></channel>
-<channel id="Televisiete.gt@SD"><display-name>7 de Guatemala</display-name><icon src="https://i.imgur.com/yVhUkot.png"/><url>https://gatotv.com</url></channel>
-<channel id="Telesistema11.do@SD"><display-name>11 de República Dominicana</display-name><icon src="https://i.imgur.com/ZzeZKCu.png"/><url>https://gatotv.com</url></channel>
-<channel id="Telepacifico.co@SD"><display-name>Telepacífico</display-name><icon src="https://i.imgur.com/39hy97J.png"/><url>https://gatotv.com</url></channel>
-<channel id="TeleNostalgia.co@SD"><display-name>Telenostalgia</display-name><icon src="https://i.imgur.com/WZeMZNy.png"/><url>https://gatotv.com</url></channel>
-<channel id="Teleislas.co@SD"><display-name>Teleislas</display-name><icon src="https://i.imgur.com/aKHGRyk.png"/><url>https://gatotv.com</url></channel>
-<channel id="TeleHit.mx@SD"><display-name>Telehit</display-name><icon src="https://i.imgur.com/NVxHxJn.png"/><url>https://gatotv.com</url></channel>
-<channel id="Telefuturo.py@SD"><display-name>Telefuturo</display-name><icon src="https://i.imgur.com/6lVrFvb.png"/><url>https://gatotv.com</url></channel>
-<channel id="Teledeporte.es@SD"><display-name>Teledeporte</display-name><icon src="https://i.ibb.co/0jxLdjnY/TDP.png"/><url>https://gatotv.com</url></channel>
-<channel id="TeleCentro.us@SD"><display-name>Telecentro TV</display-name><icon src="https://i.imgur.com/5k1WQyn.png"/><url>https://gatotv.com</url></channel>
-<channel id="Telecentro.do@SD"><display-name>13 de República Dominicana</display-name><icon src="https://i.imgur.com/F17zNXh.png"/><url>https://gatotv.com</url></channel>
-<channel id="Teleamazonas.ec@SD"><display-name>Teleamazonas</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/960px-Teleamazonas_Logo.png"/><url>https://gatotv.com</url></channel>
-<channel id="TCMLatinAmerica.us@Panregional"><display-name>TCM Panregional</display-name><icon src="https://i.imgur.com/QpDkrmT.png"/><url>https://gatotv.com</url></channel>
-<channel id="Syfy.es@SD"><display-name>Syfy España</display-name><icon src="https://i.imgur.com/4fMWhUE.png"/><url>https://gatotv.com</url></channel>
-<channel id="StarChannel.mx@SD"><display-name>Star Channel México</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png"/><url>https://gatotv.com</url></channel>
-<channel id="Space.ar@Panregional"><display-name>Space Panregional</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/960px-SpaceLogo.svg.png"/><url>https://gatotv.com</url></channel>
-<channel id="Space.ar@Mexico"><display-name>Space México</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/960px-SpaceLogo.svg.png"/><url>https://gatotv.com</url></channel>
-<channel id="SkySports24.mx@SD"><display-name>Sky Sports 24</display-name><icon src="https://www.lyngsat.com/logo/tv/ss/sky_mx_sports.png"/><url>https://gatotv.com</url></channel>
-<channel id="SkySports16.mx@SD"><display-name>Sky Sports 16</display-name><icon src="https://i.imgur.com/SuTOqKi.png"/><url>https://gatotv.com</url></channel>
-<channel id="SkySports1.mx@SD"><display-name>Sky Sports 1 México</display-name><icon src="https://i.imgur.com/9onSfMi.png"/><url>https://gatotv.com</url></channel>
-<channel id="SemillitasTV.us@SD"><display-name>Semillitas</display-name><icon src="https://i.imgur.com/u3yujUd.png"/><url>https://gatotv.com</url></channel>
-<channel id="RealMadridTV.es@SD"><display-name>Real Madrid TV</display-name><icon src="https://i.imgur.com/5pMo7dL.png"/><url>https://gatotv.com</url></channel>
-<channel id="PXSports.mx@SD"><display-name>PX Sports</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/PX_Sports_-_Logo.png/960px-PX_Sports_-_Logo.png"/><url>https://gatotv.com</url></channel>
-<channel id="PasionesLatinAmerica.us@SD"><display-name>Pasiones Latinoamérica</display-name><icon src="https://i.imgur.com/VGnbWjO.png"/><url>https://gatotv.com</url></channel>
-<channel id="WOBI.ar@SD"><display-name>WOBI</display-name><icon src="https://i.imgur.com/uW4WIvC.png"/><url>https://gatotv.com</url></channel>
-<channel id="WIPRDT1.pr@SD"><display-name>WIPR</display-name><icon src="https://i.imgur.com/MGJaxFO.png"/><url>https://gatotv.com</url></channel>
-<channel id="WarnerChannel.us@Panregional"><display-name>Warner TV Panregional</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Warner_TV_logo.svg/960px-Warner_TV_logo.svg.png"/><url>https://gatotv.com</url></channel>
-<channel id="VTV.hn@SD"><display-name>VTV Honduras</display-name><icon src="https://i.imgur.com/CsPkwD5.png"/><url>https://gatotv.com</url></channel>
-<channel id="ViaX.cl@SD"><display-name>Vía X</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/d/d3/VIAX-oficial.png"/><url>https://gatotv.com</url></channel>
-<channel id="VamosporMovistarPlusPlus.es@SD"><display-name>M+ #Vamos</display-name><url>https://gatotv.com</url></channel>
-<channel id="UnivisionTlnovelas.us@SD"><display-name>Univision TLNovelas</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Univision_tlnovelas_%282019%29.svg/960px-Univision_tlnovelas_%282019%29.svg.png"/><url>https://gatotv.com</url></channel>
-<channel id="Unicanal.py@SD"><display-name>Unicanal</display-name><icon src="https://i.imgur.com/cgTD2TW.png"/><url>https://gatotv.com</url></channel>
-<channel id="TVN.pa@SD"><display-name>2 de Panamá</display-name><icon src="https://i.imgur.com/tGeHwxd.png"/><url>https://gatotv.com</url></channel>
-<channel id="TVMax.pa@SD"><display-name>9 de Panamá</display-name><icon src="https://i.imgur.com/XcrkfGh.png"/><url>https://gatotv.com</url></channel>
-<channel id="TVGloboInternacionalAmericas.br@SD"><display-name>TV Globo Internacional</display-name><url>https://gatotv.com</url></channel>
-<channel id="TUDN.us@SD"><display-name>TUDN USA</display-name><icon src="https://i.imgur.com/oT5CAvd.png"/><url>https://gatotv.com</url></channel>
-<channel id="Trece.co@SD"><display-name>13 de Colombia</display-name><icon src="https://i.imgur.com/jsuXXIg.png"/><url>https://gatotv.com</url></channel>
-<channel id="TNTLatinAmerica.us@Mexico"><display-name>TNT México</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png"/><url>https://gatotv.com</url></channel>
-<channel id="TlnovelasLatinAmerica.mx@SD"><display-name>TLNovelas LATAM</display-name><icon src="https://i.imgur.com/Rvm38Mu.png"/><url>https://gatotv.com</url></channel>
-<channel id="TLCLatinAmerica.us@Mexico"><display-name>TLC MX</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png"/><url>https://gatotv.com</url></channel>
-<channel id="TigoSports.gt@SD"><display-name>Tigo Sports Guatemala</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png"/><url>https://gatotv.com</url></channel>
-<channel id="TelevisionDominicana.us@SD"><display-name>Television Dominicana</display-name><icon src="https://i.imgur.com/SQyEKCD.png"/><url>https://gatotv.com</url></channel>
-<channel id="TelevisaGuadalajara.mx@SD"><display-name>4 de Guadalajara</display-name><icon src="https://i.imgur.com/Ow0vROp.png"/><url>https://gatotv.com</url></channel>
-<channel id="TeleOnce.gt@SD"><display-name>11 de Guatemala</display-name><icon src="https://i.imgur.com/N4DM2YO.png"/><url>https://gatotv.com</url></channel>
-<channel id="TelemundoInternacional.us@South"><display-name>Telemundo México</display-name><icon src="https://i.imgur.com/j2O4ndp.png"/><url>https://gatotv.com</url></channel>
-<channel id="Telemicro.do@SD"><display-name>Telemicro</display-name><icon src="https://i.imgur.com/WhgySAk.png"/><url>https://gatotv.com</url></channel>
-<channel id="TelehitMusica.mx@SD"><display-name>Telehit Música</display-name><icon src="https://i.imgur.com/CofYjWh.png"/><url>https://gatotv.com</url></channel>
-<channel id="TelefeInternacional.ar@SD"><display-name>Telefe Internacional</display-name><icon src="https://i.imgur.com/HNcCX3h.png"/><url>https://gatotv.com</url></channel>
-<channel id="Telecinco.es@SD"><display-name>Telecinco</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/1/13/Telecinco_2024_Logo.svg"/><url>https://gatotv.com</url></channel>
-<channel id="Telecaribe.co@SD"><display-name>Telecaribe</display-name><icon src="https://i.imgur.com/E35cXHt.png"/><url>https://gatotv.com</url></channel>
-<channel id="Teleantioquia.co@SD"><display-name>Teleantioquia</display-name><icon src="https://i.imgur.com/6WMV2Az.png"/><url>https://gatotv.com</url></channel>
-<channel id="TCM.es@SD"><display-name>TCM España</display-name><icon src="https://i.imgur.com/juCNJxd.png"/><url>https://gatotv.com</url></channel>
-<channel id="SURTVItapua.py@SD"><display-name>Sur TV Itapúa Paraguay</display-name><icon src="https://i.imgur.com/ltJQvZd.png"/><url>https://gatotv.com</url></channel>
-<channel id="SundanceTV.es@SD"><display-name>Sundance TV España</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SundanceTV_2014.svg/960px-SundanceTV_2014.svg.png"/><url>https://gatotv.com</url></channel>
-<channel id="Space.ar@South"><display-name>Space Sur</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/960px-SpaceLogo.svg.png"/><url>https://gatotv.com</url></channel>
-<channel id="Sorpresa.us@SD"><display-name>Sorpresa</display-name><icon src="https://i.imgur.com/EmfEHFM.png"/><url>https://gatotv.com</url></channel>
-<channel id="SNT.py@SD"><display-name>SNT</display-name><icon src="https://i.imgur.com/HNlWRiF.png"/><url>https://gatotv.com</url></channel>
-<channel id="SenalColombia.co@SD"><display-name>Señal Colombia</display-name><icon src="https://i.imgur.com/Y9x16vl.png"/><url>https://gatotv.com</url></channel>
-<channel id="RTS.ec@SD"><display-name>RTS</display-name><icon src="https://i.imgur.com/PML8cJA.png"/><url>https://gatotv.com</url></channel>
-<channel id="PeruMagico.pe@SD"><display-name>Perú Mágico</display-name><icon src="https://i.imgur.com/Z4ELxRP.png"/><url>https://gatotv.com</url></channel>
-<channel id="Pasiones.us@SD"><display-name>Pasiones Estados Unidos</display-name><icon src="https://i.imgur.com/BCWbGf9.png"/><url>https://gatotv.com</url></channel>
-<channel id="ParaguayTV.py@SD"><display-name>Paraguay TV</display-name><icon src="https://i.imgur.com/fkK7i8g.png"/><url>https://gatotv.com</url></channel>
-<channel id="Panico.mx@SD"><display-name>Pánico</display-name><icon src="https://i.imgur.com/XOJzlfS.png"/><url>https://gatotv.com</url></channel>
-<channel id="Odisea.es@SD"><display-name>Odisea</display-name><icon src="https://i.imgur.com/hrximGi.png"/><url>https://gatotv.com</url></channel>
-<channel id="NickJr.es@SD"><display-name>Nick Jr. España</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png"/><url>https://gatotv.com</url></channel>
-<channel id="NationalGeographic.mx@SD"><display-name>National Geographic México</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png"/><url>https://gatotv.com</url></channel>
-<channel id="MariaVision.mx@SD"><display-name>María Visión</display-name><icon src="https://i.imgur.com/GylOPxE.png"/><url>https://gatotv.com</url></channel>
-<channel id="LaRedTV.gt@SD"><display-name>La Red TV Guatemala</display-name><icon src="https://i.imgur.com/chc8x4a.png"/><url>https://gatotv.com</url></channel>
-<channel id="La1.es@SD"><display-name>La 1</display-name><icon src="https://i.ibb.co/MxJNPHsn/La-1.png"/><url>https://gatotv.com</url></channel>
-<channel id="History.mx@SD"><display-name>History MX</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png"/><url>https://gatotv.com</url></channel>
-<channel id="Historia.es@SD"><display-name>Historia España</display-name><icon src="https://i.imgur.com/VUy8xIG.png"/><url>https://gatotv.com</url></channel>
-<channel id="HBOFamilyLatinAmerica.us@SD"><display-name>HBO Family LATAM</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/960px-HBO_Family.svg.png"/><url>https://gatotv.com</url></channel>
-<channel id="FX.cl@SD"><display-name>FX Chile</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png"/><url>https://gatotv.com</url></channel>
-<channel id="Zoom.co@SD"><display-name>ZOOM Colombia</display-name><icon src="https://i.imgur.com/euy5zp6.png"/><url>https://gatotv.com</url></channel>
-<channel id="XEIMTTDT2.mx@SD"><display-name>22 de México</display-name><icon src="https://i.imgur.com/MeIfhXp.png"/><url>https://gatotv.com</url></channel>
-<channel id="UniversalCrime.us@East"><display-name>Universal Crime</display-name><icon src="https://i.imgur.com/OwSlGMu.png"/><url>https://gatotv.com</url></channel>
-<channel id="Trece.py@SD"><display-name>13 de Paraguay</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Logotrececanal.png/960px-Logotrececanal.png"/><url>https://gatotv.com</url></channel>
-<channel id="TeleFormula.mx@SD"><display-name>Telefórmula</display-name><icon src="https://i.imgur.com/y0a0xwY.png"/><url>https://gatotv.com</url></channel>
-<channel id="Paravision.py@SD"><display-name>Paravisión</display-name><icon src="https://i.imgur.com/yd9Dw2G.png"/><url>https://gatotv.com</url></channel>
-<channel id="VivaNicaraguaCanal13.ni@SD"><display-name>13 de Nicaragua</display-name><icon src="https://i.imgur.com/9q7Ajz4.png"/><url>https://gatotv.com</url></channel>
-<channel id="UniversalTVLatinAmerica.us@Panregional"><display-name>Universal TV Panregional</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/960px-Universal_TV_logo.svg.png"/><url>https://gatotv.com</url></channel>
-<channel id="TVChile.cl@SD"><display-name>TV Chile</display-name><icon src="https://i.imgur.com/oYFto0V.png"/><url>https://gatotv.com</url></channel>
-<channel id="Teleuniverso.do@SD"><display-name>29 de República Dominicana</display-name><icon src="https://i.imgur.com/gQev8ST.png"/><url>https://gatotv.com</url></channel>
-<channel id="Telemadrid.es@SD"><display-name>TeleMadrid</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/TeleMadrid.svg/960px-TeleMadrid.svg.png"/><url>https://gatotv.com</url></channel>
-<channel id="StudioUniversalLatinAmerica.us@Panregional"><display-name>Studio Universal Panregional</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/960px-StudioUniversal2016.png"/><url>https://gatotv.com</url></channel>
-<channel id="RCNNovelas.co@SD"><display-name>RCN Novelas</display-name><icon src="https://i.imgur.com/9wxdWNQ.png"/><url>https://gatotv.com</url></channel>
-<channel id="PanamericanaTV.pe@SD"><display-name>Panamericana Televisión</display-name><icon src="https://i.imgur.com/uQhEDES.png"/><url>https://gatotv.com</url></channel>
-<channel id="MTV.es@SD"><display-name>MTV España</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png"/><url>https://gatotv.com</url></channel>
-<channel id="IngenioTV.mx@SD"><display-name>Ingenio TV México</display-name><icon src="https://i.imgur.com/pAppH1M.png"/><url>https://gatotv.com</url></channel>
-<channel id="HBOPlusLatinAmerica.us@SD"><display-name>HBO Plus</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/960px-Logohboplus2019.svg.png"/><url>https://gatotv.com</url></channel>
-<channel id="GolfChannelLatinAmerica.us@SD"><display-name>Golf Channel Latinoamérica</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Golf_Channel_Logo_2018.png/960px-Golf_Channel_Logo_2018.png"/><url>https://gatotv.com</url></channel>
-<channel id="WKAQDT2.pr@SD"><display-name>Punto 2</display-name><icon src="https://i.imgur.com/TL6xy4y.png"/><url>https://gatotv.com</url></channel>
-<channel id="ViendoMovies.us@SD"><display-name>ViendoMovies</display-name><icon src="https://i.imgur.com/wb0rv7g.png"/><url>https://gatotv.com</url></channel>
-<channel id="TyCSports.ar@SD"><display-name>TyC Sports</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png"/><url>https://gatotv.com</url></channel>
-<channel id="TLCLatinAmerica.us@Panregional"><display-name>TLC Panregional</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png"/><url>https://gatotv.com</url></channel>
-<channel id="Teletica7.cr@SD"><display-name>7 de Costa Rica</display-name><icon src="https://i.imgur.com/ctnvE3c.png"/><url>https://gatotv.com</url></channel>
-<channel id="Telecafe.co@SD"><display-name>Telecafé</display-name><icon src="https://i.imgur.com/z18LRqM.png"/><url>https://gatotv.com</url></channel>
-<channel id="SonyChannel.mx@SD"><display-name>Sony México</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/960px-Sony_Channel_Logo.png"/><url>https://gatotv.com</url></channel>
-<channel id="Unicable.mx@SD"><display-name>Unicable MX</display-name><icon src="https://i.imgur.com/MnH8XKh.png"/><url>https://gatotv.com</url></channel>
-<channel id="Tooncast.us@SD"><display-name>Tooncast</display-name><icon src="https://i.imgur.com/3yXRbQy.png"/><url>https://gatotv.com</url></channel>
-<channel id="TigoSports.sv@SD"><display-name>Tigo Sports El Salvador</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png"/><url>https://gatotv.com</url></channel>
-<channel id="Telefe.ar@SD"><display-name>Telefé (Argentina)</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png"/><url>https://gatotv.com</url></channel>
-<channel id="TeleAntillas.do@SD"><display-name>2 de República Dominicana</display-name><icon src="https://i.imgur.com/G1pJZkC.png"/><url>https://gatotv.com</url></channel>
-<channel id="Nickelodeon.es@SD"><display-name>Nickelodeon España</display-name><icon src="https://i.imgur.com/E84jnP8.png"/><url>https://gatotv.com</url></channel>
-<channel id="LifetimeLatinAmerica.us@Panregional"><display-name>Lifetime PAN</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png"/><url>https://gatotv.com</url></channel>
-<channel id="FUTV.cr@SD"><display-name>FUTV</display-name><icon src="https://premium.futvcr.com/assets/img/logo-premium.png"/><url>https://gatotv.com</url></channel>
-<channel id="UniversalTVLatinAmerica.us@Mexico"><display-name>Universal TV México</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/960px-Universal_TV_logo.svg.png"/><url>https://gatotv.com</url></channel>
-<channel id="Teleunion.do@SD"><display-name>Teleunion</display-name><icon src="https://i.imgur.com/vTfxkjW.png"/><url>https://gatotv.com</url></channel>
-<channel id="StudioUniversalLatinAmerica.us@Mexico"><display-name>Studio Universal México</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/960px-StudioUniversal2016.png"/><url>https://gatotv.com</url></channel>
-<channel id="IberaliaTV.es@SD"><display-name>Iberalia TV</display-name><url>https://gatotv.com</url></channel>
-<channel id="NHKWorldJapan.jp@SD"><display-name>NHK World</display-name><icon src="https://jiotvimages.cdn.jio.com/dare_images/images/NHK_World_Japan.png"/><url>https://gatotv.com</url></channel>
-<channel id="FoxNewsChannel.us@SD"><display-name>Fox News</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png"/><url>https://gatotv.com</url></channel>
-<channel id="Pakapaka.ar@SD"><display-name>Pakapaka</display-name><icon src="https://i.imgur.com/GJbRWwH.png"/><url>https://gatotv.com</url></channel>
+<channel id="ultra_kidz"><display-name>Ultra Kidz</display-name><url>https://gatotv.com</url></channel>
+<channel id="ultra_film"><display-name>Ultra Film</display-name><url>https://gatotv.com</url></channel>
+<channel id="ultra_fiesta"><display-name>Ultra Fiesta</display-name><url>https://gatotv.com</url></channel>
+<channel id="ultra_docu"><display-name>Ultra Docu</display-name><url>https://gatotv.com</url></channel>
+<channel id="ultra_cine"><display-name>Ultra Cine</display-name><url>https://gatotv.com</url></channel>
+<channel id="tve"><display-name>TVE Internacional</display-name><url>https://gatotv.com</url></channel>
+<channel id="tv_agro_centroamerica"><display-name>TV Agro C. A.</display-name><url>https://gatotv.com</url></channel>
+<channel id="tudn_centroamerica"><display-name>TUDN Centroamérica</display-name><url>https://gatotv.com</url></channel>
+<channel id="tr3s"><display-name>Tr3s</display-name><url>https://gatotv.com</url></channel>
+<channel id="tnt_series"><display-name>TNT Series Lat.</display-name><url>https://gatotv.com</url></channel>
+<channel id="tnt_novelas_latinoamerica"><display-name>TNT Novelas LATAM</display-name><url>https://gatotv.com</url></channel>
+<channel id="tnt_novelas_guatemala"><display-name>TNT Novelas GT</display-name><url>https://gatotv.com</url></channel>
+<channel id="tnt_centroamerica_y_caribe"><display-name>TNT Centroamérica y Caribe</display-name><url>https://gatotv.com</url></channel>
+<channel id="tn23"><display-name>TN23</display-name><url>https://gatotv.com</url></channel>
+<channel id="telemundo_puerto_rico"><display-name>Telemundo Puerto Rico</display-name><url>https://gatotv.com</url></channel>
+<channel id="telemundo_panregional"><display-name>Telemundo PAN</display-name><url>https://gatotv.com</url></channel>
+<channel id="telehit_musica_plus"><display-name>Telehit Música Plus</display-name><url>https://gatotv.com</url></channel>
+<channel id="tc_television"><display-name>TC Televisión</display-name><url>https://gatotv.com</url></channel>
+<channel id="sun_channel"><display-name>Sun Channel</display-name><url>https://gatotv.com</url></channel>
+<channel id="starz_encore_espanol"><display-name>Starz Encore Español</display-name><url>https://gatotv.com</url></channel>
+<channel id="star_tve"><display-name>Star TVE</display-name><url>https://gatotv.com</url></channel>
+<channel id="star_channel_centro"><display-name>Star Channel Centro</display-name><url>https://gatotv.com</url></channel>
+<channel id="star_channel_argentina"><display-name>Star Channel Argentina</display-name><url>https://gatotv.com</url></channel>
+<channel id="space_chile"><display-name>Space Chile</display-name><url>https://gatotv.com</url></channel>
+<channel id="sony_movies_latinoamerica"><display-name>Sony Movies LATAM</display-name><url>https://gatotv.com</url></channel>
+<channel id="sony_chile"><display-name>Sony Chile</display-name><url>https://gatotv.com</url></channel>
+<channel id="sony_centro"><display-name>Sony Centro</display-name><url>https://gatotv.com</url></channel>
+<channel id="region_mas"><display-name>Región+</display-name><url>https://gatotv.com</url></channel>
+<channel id="rcn_nuestra_tele_internacional"><display-name>RCN Internacional</display-name><url>https://gatotv.com</url></channel>
+<channel id="rcn_colombia"><display-name>RCN Colombia</display-name><url>https://gatotv.com</url></channel>
+<channel id="rai_international"><display-name>RAI International</display-name><url>https://gatotv.com</url></channel>
+<channel id="nickelodeon_mexico"><display-name>Nickelodeon México</display-name><url>https://gatotv.com</url></channel>
+<channel id="nickelodeon_centro"><display-name>Nickelodeon Centro</display-name><url>https://gatotv.com</url></channel>
+<channel id="nick_junior_latinoamerica"><display-name>Nick Jr. Latinoamérica</display-name><url>https://gatotv.com</url></channel>
+<channel id="national_geographic_centro"><display-name>National Geographic Centro</display-name><url>https://gatotv.com</url></channel>
+<channel id="mtv_mexico"><display-name>MTV México</display-name><url>https://gatotv.com</url></channel>
+<channel id="mtv_centro"><display-name>MTV Centro</display-name><url>https://gatotv.com</url></channel>
+<channel id="meganoticias_mx"><display-name>Meganoticias MX</display-name><url>https://gatotv.com</url></channel>
+<channel id="la_red_chile"><display-name>La Red Chile</display-name><url>https://gatotv.com</url></channel>
+<channel id="hollywood_espana"><display-name>Hollywood España</display-name><url>https://gatotv.com</url></channel>
+<channel id="hbo_chile"><display-name>HBO Chile</display-name><url>https://gatotv.com</url></channel>
+<channel id="golden_mpx"><display-name>Golden MPX</display-name><url>https://gatotv.com</url></channel>
+<channel id="golden_mexico"><display-name>Golden México</display-name><url>https://gatotv.com</url></channel>
+<channel id="golden_edge"><display-name>Golden Edge</display-name><url>https://gatotv.com</url></channel>
+<channel id="gol_play_espana"><display-name>Gol Play España</display-name><url>https://gatotv.com</url></channel>
+<channel id="galicia_tv"><display-name>Galicia TV</display-name><url>https://gatotv.com</url></channel>
+<channel id="fx_centro"><display-name>FX Centro</display-name><url>https://gatotv.com</url></channel>
+<channel id="fox_sports_cono_sur"><display-name>Fox Sports Cono Sur</display-name><url>https://gatotv.com</url></channel>
+<channel id="fox_sports_cono_norte"><display-name>Fox Sports Cono Norte</display-name><url>https://gatotv.com</url></channel>
+<channel id="fox_sports_3_cono_norte"><display-name>Fox Sports 3 Cono Norte</display-name><url>https://gatotv.com</url></channel>
+<channel id="fox_sports_2_cono_norte"><display-name>Fox Sports 2 Cono Norte</display-name><url>https://gatotv.com</url></channel>
+<channel id="film_and_arts"><display-name>Film &amp; Arts</display-name><url>https://gatotv.com</url></channel>
+<channel id="exa_tv"><display-name>Exa TV</display-name><url>https://gatotv.com</url></channel>
+<channel id="ewtn_en_espanol"><display-name>EWTN en Español</display-name><url>https://gatotv.com</url></channel>
+<channel id="euronews"><display-name>Euronews</display-name><url>https://gatotv.com</url></channel>
+<channel id="espn_sur"><display-name>ESPN Sur</display-name><url>https://gatotv.com</url></channel>
+<channel id="espn_premium_chile"><display-name>ESPN Premium Chile</display-name><url>https://gatotv.com</url></channel>
+<channel id="espn_7_venezuela"><display-name>ESPN 7 Venezuela</display-name><url>https://gatotv.com</url></channel>
+<channel id="espn_7_uruguay"><display-name>ESPN 7 Uruguay</display-name><url>https://gatotv.com</url></channel>
+<channel id="espn_7_sudamerica"><display-name>ESPN 7 Sudamérica</display-name><url>https://gatotv.com</url></channel>
+<channel id="espn_7_peru"><display-name>ESPN 7 Perú</display-name><url>https://gatotv.com</url></channel>
+<channel id="espn_7_paraguay"><display-name>ESPN 7 Paraguay</display-name><url>https://gatotv.com</url></channel>
+<channel id="espn_7_ecuador"><display-name>ESPN 7 Ecuador</display-name><url>https://gatotv.com</url></channel>
+<channel id="espn_7_colombia"><display-name>ESPN 7 Colombia</display-name><url>https://gatotv.com</url></channel>
+<channel id="espn_7_chile"><display-name>ESPN 7 Chile</display-name><url>https://gatotv.com</url></channel>
+<channel id="espn_7_bolivia"><display-name>ESPN 7 Bolivia</display-name><url>https://gatotv.com</url></channel>
+<channel id="espn_6_sudamerica"><display-name>ESPN 6 Sur</display-name><url>https://gatotv.com</url></channel>
+<channel id="espn_6_centroamerica_y_republica_dominicana"><display-name>ESPN 6 C. A. y R. D.</display-name><url>https://gatotv.com</url></channel>
+<channel id="espn_5_sudamerica"><display-name>ESPN 5 Sur</display-name><url>https://gatotv.com</url></channel>
+<channel id="espn_5_centroamerica_y_republica_dominicana"><display-name>ESPN 5 C. A. y R. D.</display-name><url>https://gatotv.com</url></channel>
+<channel id="espn_4_sur"><display-name>ESPN 4 Sur</display-name><url>https://gatotv.com</url></channel>
+<channel id="espn_4_mexico"><display-name>ESPN 4 México</display-name><url>https://gatotv.com</url></channel>
+<channel id="espn_4_centroamerica_y_caribe"><display-name>ESPN 4 C. A. y R. D.</display-name><url>https://gatotv.com</url></channel>
+<channel id="espn_3_norte"><display-name>ESPN 3 Norte</display-name><url>https://gatotv.com</url></channel>
+<channel id="espn_2_venezuela"><display-name>ESPN 2 Venezuela</display-name><url>https://gatotv.com</url></channel>
+<channel id="espn_2_sur"><display-name>ESPN 2 Sur</display-name><url>https://gatotv.com</url></channel>
+<channel id="enlace"><display-name>TBN</display-name><url>https://gatotv.com</url></channel>
+<channel id="elgourmet"><display-name>Elgourmet</display-name><url>https://gatotv.com</url></channel>
+<channel id="el_heraldo_tv_mexico"><display-name>El Heraldo TV</display-name><url>https://gatotv.com</url></channel>
+<channel id="el_financiero_tv"><display-name>El Financiero TV</display-name><url>https://gatotv.com</url></channel>
+<channel id="e_entertainment_television_panregional"><display-name>E! Entertainment Television Panregional</display-name><url>https://gatotv.com</url></channel>
+<channel id="e_entertainment_television_chile"><display-name>E! Entertainment Television Chile</display-name><url>https://gatotv.com</url></channel>
+<channel id="dw_latinoamerica"><display-name>DW Latam.</display-name><url>https://gatotv.com</url></channel>
+<channel id="discovery_turbo_latinoamerica"><display-name>Discovery Turbo LATAM.</display-name><url>https://gatotv.com</url></channel>
+<channel id="discovery_kids_latinoamerica"><display-name>Discovery Kids LATAM</display-name><url>https://gatotv.com</url></channel>
+<channel id="discovery_home_and_health_colombia"><display-name>Discovery Home &amp; Health Colombia</display-name><url>https://gatotv.com</url></channel>
+<channel id="deutsche_welle"><display-name>DW</display-name><url>https://gatotv.com</url></channel>
+<channel id="de_las_estrellas_-2h_mexico"><display-name>las Estrellas -2 Horas</display-name><url>https://gatotv.com</url></channel>
+<channel id="de_las_estrellas_-1h_mexico"><display-name>las Estrellas - 1 Hora</display-name><url>https://gatotv.com</url></channel>
+<channel id="comedy_central_mexico"><display-name>Comedy Central México</display-name><url>https://gatotv.com</url></channel>
+<channel id="comedy_central_centro"><display-name>Comedy Central Centro</display-name><url>https://gatotv.com</url></channel>
+<channel id="clic"><display-name>Clic</display-name><url>https://gatotv.com</url></channel>
+<channel id="claro_tv"><display-name>Claro TV</display-name><url>https://gatotv.com</url></channel>
+<channel id="city_tv"><display-name>City TV</display-name><url>https://gatotv.com</url></channel>
+<channel id="cinema"><display-name>Cinema</display-name><url>https://gatotv.com</url></channel>
+<channel id="cinelatino_u_s_a"><display-name>Cinelatino USA</display-name><url>https://gatotv.com</url></channel>
+<channel id="cartoonito_sur"><display-name>Cartoonito Sur</display-name><url>https://gatotv.com</url></channel>
+<channel id="cartoonito_panregional"><display-name>Cartoonito Panregional</display-name><url>https://gatotv.com</url></channel>
+<channel id="capital_colombia"><display-name>Capital Colombia</display-name><url>https://gatotv.com</url></channel>
+<channel id="bloomberg"><display-name>Bloomberg</display-name><url>https://gatotv.com</url></channel>
+<channel id="barca_tv"><display-name>Barça TV</display-name><url>https://gatotv.com</url></channel>
+<channel id="baby_tv_latinoamerica"><display-name>Baby TV Latam.</display-name><url>https://gatotv.com</url></channel>
+<channel id="azteca_uno_2h"><display-name>Azteca Uno -2 h</display-name><url>https://gatotv.com</url></channel>
+<channel id="azteca_uno_1h"><display-name>Azteca Uno -1 h</display-name><url>https://gatotv.com</url></channel>
+<channel id="axn_venezuela"><display-name>AXN Venezuela</display-name><url>https://gatotv.com</url></channel>
+<channel id="animal_planet_sur"><display-name>Animal Planet Sur</display-name><url>https://gatotv.com</url></channel>
+<channel id="animal_planet_panregional"><display-name>Animal Planet Panregional</display-name><url>https://gatotv.com</url></channel>
+<channel id="animal_planet_mexico"><display-name>Animal Planet México</display-name><url>https://gatotv.com</url></channel>
+<channel id="amc_series_uruguay"><display-name>AMC Series Uruguay</display-name><url>https://gatotv.com</url></channel>
+<channel id="amc_series_republica_dominicana"><display-name>AMC Series República Dominicana</display-name><url>https://gatotv.com</url></channel>
+<channel id="amc_series_paraguay"><display-name>AMC Series Paraguay</display-name><url>https://gatotv.com</url></channel>
+<channel id="amc_series_panama"><display-name>AMC Series Panamá</display-name><url>https://gatotv.com</url></channel>
+<channel id="amc_series_nicaragua"><display-name>AMC Series Nicaragua</display-name><url>https://gatotv.com</url></channel>
+<channel id="amc_series_mexico"><display-name>AMC Series México</display-name><url>https://gatotv.com</url></channel>
+<channel id="amc_series_honduras"><display-name>AMC Series Honduras</display-name><url>https://gatotv.com</url></channel>
+<channel id="amc_series_guatemala"><display-name>AMC Series Guatemala</display-name><url>https://gatotv.com</url></channel>
+<channel id="amc_series_el_salvador"><display-name>AMC Series El Salvador</display-name><url>https://gatotv.com</url></channel>
+<channel id="amc_series_costa_rica"><display-name>AMC Series Costa Rica</display-name><url>https://gatotv.com</url></channel>
+<channel id="amc_series_argentina"><display-name>AMC Series Argentina</display-name><url>https://gatotv.com</url></channel>
+<channel id="amc_mexico"><display-name>AMC México</display-name><url>https://gatotv.com</url></channel>
+<channel id="amc_colombia"><display-name>AMC Colombia</display-name><url>https://gatotv.com</url></channel>
+<channel id="adn_noticias"><display-name>ADN Noticias</display-name><url>https://gatotv.com</url></channel>
+<channel id="14_de_mexico"><display-name>14 de México</display-name><url>https://gatotv.com</url></channel>
+<channel id="13_de_guatemala"><display-name>13 de Guatemala</display-name><url>https://gatotv.com</url></channel>
+<channel id="13_de_costa_rica"><display-name>13 de Costa Rica</display-name><url>https://gatotv.com</url></channel>
+<channel id="9_de_mexico"><display-name>9 de México</display-name><url>https://gatotv.com</url></channel>
+<channel id="9_de_honduras_vica"><display-name>9 de Honduras</display-name><url>https://gatotv.com</url></channel>
 <programme start="20260330050000 +0000" stop="20260330053000 +0000" channel="5_mexico"><title lang="es">Sognare</title></programme>
 <programme start="20260330053000 +0000" stop="20260330070000 +0000" channel="5_mexico"><title lang="es">Infomerciales</title></programme>
 <programme start="20260330070000 +0000" stop="20260330073000 +0000" channel="5_mexico"><title lang="es">Cronicas</title></programme>
@@ -20905,71 +20905,71 @@
 <programme start="20260331040000 +0000" stop="20260331050000 +0000" channel="Teleislas.co@SD"><title lang="es">Sea View</title></programme>
 <programme start="20260331040000 +0000" stop="20260331043000 +0000" channel="Teleislas.co@SD"><title lang="es">Programa Pagado</title></programme>
 <programme start="20260331043000 +0000" stop="20260331050000 +0000" channel="Teleislas.co@SD"><title lang="es">Programa Pagado</title></programme>
-<programme start="20260331050000 +0000" stop="20260331053000 +0000" channel="Teleislas.co@SD"><title lang="es">Programa Pagado</title></programme>
 <programme start="20260331050000 +0000" stop="20260331060000 +0000" channel="Teleislas.co@SD"><title lang="es">Puebleando</title></programme>
+<programme start="20260331050000 +0000" stop="20260331053000 +0000" channel="Teleislas.co@SD"><title lang="es">Programa Pagado</title></programme>
 <programme start="20260331053000 +0000" stop="20260331060000 +0000" channel="Teleislas.co@SD"><title lang="es">Programa Pagado</title></programme>
-<programme start="20260331060000 +0000" stop="20260331063000 +0000" channel="Teleislas.co@SD"><title lang="es">Programa Pagado</title></programme>
 <programme start="20260331060000 +0000" stop="20260331070000 +0000" channel="Teleislas.co@SD"><title lang="es">Fisherman Islands</title></programme>
+<programme start="20260331060000 +0000" stop="20260331063000 +0000" channel="Teleislas.co@SD"><title lang="es">Programa Pagado</title></programme>
 <programme start="20260331063000 +0000" stop="20260331070000 +0000" channel="Teleislas.co@SD"><title lang="es">Programa Pagado</title></programme>
-<programme start="20260331070000 +0000" stop="20260331073000 +0000" channel="Teleislas.co@SD"><title lang="es">Programa Pagado</title></programme>
 <programme start="20260331070000 +0000" stop="20260331080000 +0000" channel="Teleislas.co@SD"><title lang="es">Healthy Body</title></programme>
+<programme start="20260331070000 +0000" stop="20260331073000 +0000" channel="Teleislas.co@SD"><title lang="es">Programa Pagado</title></programme>
 <programme start="20260331073000 +0000" stop="20260331080000 +0000" channel="Teleislas.co@SD"><title lang="es">Programa Pagado</title></programme>
-<programme start="20260331080000 +0000" stop="20260331083000 +0000" channel="Teleislas.co@SD"><title lang="es">Programa Pagado</title></programme>
 <programme start="20260331080000 +0000" stop="20260331083000 +0000" channel="Teleislas.co@SD"><title lang="es">Fitness Time</title></programme>
-<programme start="20260331083000 +0000" stop="20260331090000 +0000" channel="Teleislas.co@SD"><title lang="es">Programa Pagado</title></programme>
+<programme start="20260331080000 +0000" stop="20260331083000 +0000" channel="Teleislas.co@SD"><title lang="es">Programa Pagado</title></programme>
 <programme start="20260331083000 +0000" stop="20260331090000 +0000" channel="Teleislas.co@SD"><title lang="es">Rumba en casa</title></programme>
-<programme start="20260331090000 +0000" stop="20260331130000 +0000" channel="Teleislas.co@SD"><title lang="es">¡Despierta América!</title></programme>
+<programme start="20260331083000 +0000" stop="20260331090000 +0000" channel="Teleislas.co@SD"><title lang="es">Programa Pagado</title></programme>
 <programme start="20260331090000 +0000" stop="20260331090300 +0000" channel="Teleislas.co@SD"><title lang="es">Himno Nacional</title></programme>
+<programme start="20260331090000 +0000" stop="20260331130000 +0000" channel="Teleislas.co@SD"><title lang="es">¡Despierta América!</title></programme>
 <programme start="20260331090300 +0000" stop="20260331095500 +0000" channel="Teleislas.co@SD"><title lang="es">Teleislas News</title></programme>
 <programme start="20260331095500 +0000" stop="20260331100000 +0000" channel="Teleislas.co@SD"><title lang="es">Words of Prayer</title></programme>
 <programme start="20260331100000 +0000" stop="20260331120000 +0000" channel="Teleislas.co@SD"><title lang="es">Pretty Island Magazine</title></programme>
 <programme start="20260331120000 +0000" stop="20260331130000 +0000" channel="Teleislas.co@SD"><title lang="es">En familia</title></programme>
-<programme start="20260331130000 +0000" stop="20260331140000 +0000" channel="Teleislas.co@SD"><title lang="es">Duelo de pasiones</title></programme>
 <programme start="20260331130000 +0000" stop="20260331133000 +0000" channel="Teleislas.co@SD"><title lang="es">Raizal Memory</title></programme>
+<programme start="20260331130000 +0000" stop="20260331140000 +0000" channel="Teleislas.co@SD"><title lang="es">Duelo de pasiones</title></programme>
 <programme start="20260331133000 +0000" stop="20260331140000 +0000" channel="Teleislas.co@SD"><title lang="es">Raizal Rights</title></programme>
-<programme start="20260331140000 +0000" stop="20260331150000 +0000" channel="Teleislas.co@SD"><title lang="es">¡Siéntese quien pueda!</title></programme>
 <programme start="20260331140000 +0000" stop="20260331143000 +0000" channel="Teleislas.co@SD"><title lang="es">San Andrés</title></programme>
+<programme start="20260331140000 +0000" stop="20260331150000 +0000" channel="Teleislas.co@SD"><title lang="es">¡Siéntese quien pueda!</title></programme>
 <programme start="20260331143000 +0000" stop="20260331150000 +0000" channel="Teleislas.co@SD"><title lang="es">Raizal Memory</title></programme>
-<programme start="20260331150000 +0000" stop="20260331160000 +0000" channel="Teleislas.co@SD"><title lang="es">La Rosa de Guadalupe</title></programme>
 <programme start="20260331150000 +0000" stop="20260331160000 +0000" channel="Teleislas.co@SD"><title lang="es">Quick and Delicious</title></programme>
-<programme start="20260331160000 +0000" stop="20260331170000 +0000" channel="Teleislas.co@SD"><title lang="es">¡Siéntese quien pueda!</title></programme>
+<programme start="20260331150000 +0000" stop="20260331160000 +0000" channel="Teleislas.co@SD"><title lang="es">La Rosa de Guadalupe</title></programme>
 <programme start="20260331160000 +0000" stop="20260331163000 +0000" channel="Teleislas.co@SD"><title lang="es">Teleislas News</title></programme>
+<programme start="20260331160000 +0000" stop="20260331170000 +0000" channel="Teleislas.co@SD"><title lang="es">¡Siéntese quien pueda!</title></programme>
 <programme start="20260331163000 +0000" stop="20260331170000 +0000" channel="Teleislas.co@SD"><title lang="es">Defensor del televidente</title></programme>
-<programme start="20260331170000 +0000" stop="20260331180000 +0000" channel="Teleislas.co@SD"><title lang="es">Desiguales</title></programme>
 <programme start="20260331170000 +0000" stop="20260331173000 +0000" channel="Teleislas.co@SD"><title lang="es">Caribbean culture</title></programme>
+<programme start="20260331170000 +0000" stop="20260331180000 +0000" channel="Teleislas.co@SD"><title lang="es">Desiguales</title></programme>
 <programme start="20260331173000 +0000" stop="20260331180000 +0000" channel="Teleislas.co@SD"><title lang="es">English For You</title></programme>
-<programme start="20260331180000 +0000" stop="20260331190000 +0000" channel="Teleislas.co@SD"><title lang="es">El Gordo y la Flaca</title></programme>
 <programme start="20260331180000 +0000" stop="20260331190000 +0000" channel="Teleislas.co@SD"><title lang="es">Creole Evening</title></programme>
-<programme start="20260331190000 +0000" stop="20260331200000 +0000" channel="Teleislas.co@SD"><title lang="es">Primer Impacto</title></programme>
+<programme start="20260331180000 +0000" stop="20260331190000 +0000" channel="Teleislas.co@SD"><title lang="es">El Gordo y la Flaca</title></programme>
 <programme start="20260331190000 +0000" stop="20260331193000 +0000" channel="Teleislas.co@SD"><title lang="es">Flora y fauna marina 2023</title></programme>
+<programme start="20260331190000 +0000" stop="20260331200000 +0000" channel="Teleislas.co@SD"><title lang="es">Primer Impacto</title></programme>
 <programme start="20260331193000 +0000" stop="20260331200000 +0000" channel="Teleislas.co@SD"><title lang="es">Regional TV Shift</title></programme>
-<programme start="20260331200000 +0000" stop="20260331203000 +0000" channel="Teleislas.co@SD"><title lang="es">Noticiero Univisión - Edición digital</title></programme>
 <programme start="20260331200000 +0000" stop="20260331210000 +0000" channel="Teleislas.co@SD"><title lang="es">Da music</title></programme>
+<programme start="20260331200000 +0000" stop="20260331203000 +0000" channel="Teleislas.co@SD"><title lang="es">Noticiero Univisión - Edición digital</title></programme>
 <programme start="20260331203000 +0000" stop="20260331210000 +0000" channel="Teleislas.co@SD"><title lang="es">Noticiero Univisión</title></programme>
-<programme start="20260331210000 +0000" stop="20260331220000 +0000" channel="Teleislas.co@SD"><title lang="es">Papás por Siempre</title></programme>
 <programme start="20260331210000 +0000" stop="20260331210300 +0000" channel="Teleislas.co@SD"><title lang="es">Himno Nacional</title></programme>
+<programme start="20260331210000 +0000" stop="20260331220000 +0000" channel="Teleislas.co@SD"><title lang="es">Papás por Siempre</title></programme>
 <programme start="20260331210300 +0000" stop="20260331215500 +0000" channel="Teleislas.co@SD"><title lang="es">Da music</title></programme>
 <programme start="20260331215500 +0000" stop="20260331220000 +0000" channel="Teleislas.co@SD"><title lang="es">Minuto afro</title></programme>
-<programme start="20260331220000 +0000" stop="20260331230000 +0000" channel="Teleislas.co@SD"><title lang="es">¿Quién caerá?</title></programme>
 <programme start="20260331220000 +0000" stop="20260331220200 +0000" channel="Teleislas.co@SD"><title lang="es">Espacio político</title></programme>
+<programme start="20260331220000 +0000" stop="20260331230000 +0000" channel="Teleislas.co@SD"><title lang="es">¿Quién caerá?</title></programme>
 <programme start="20260331220200 +0000" stop="20260331225500 +0000" channel="Teleislas.co@SD"><title lang="es">En familia</title></programme>
 <programme start="20260331225500 +0000" stop="20260331230000 +0000" channel="Teleislas.co@SD"><title lang="es">Gotas bíblicas</title></programme>
-<programme start="20260331230000 +0000" stop="20260401000000 +0000" channel="Teleislas.co@SD"><title lang="es">Desafío: The Box</title></programme>
 <programme start="20260331230000 +0000" stop="20260401000000 +0000" channel="Teleislas.co@SD"><title lang="es">Teleislas News</title></programme>
-<programme start="20260401000000 +0000" stop="20260401010000 +0000" channel="Teleislas.co@SD"><title lang="es">C.D.I. Código de investigación</title></programme>
+<programme start="20260331230000 +0000" stop="20260401000000 +0000" channel="Teleislas.co@SD"><title lang="es">Desafío: The Box</title></programme>
 <programme start="20260401000000 +0000" stop="20260401003000 +0000" channel="Teleislas.co@SD"><title lang="es">Nuestros Iconos</title></programme>
+<programme start="20260401000000 +0000" stop="20260401010000 +0000" channel="Teleislas.co@SD"><title lang="es">C.D.I. Código de investigación</title></programme>
 <programme start="20260401003000 +0000" stop="20260401010000 +0000" channel="Teleislas.co@SD"><title lang="es">La vorágine</title></programme>
-<programme start="20260401010000 +0000" stop="20260401013000 +0000" channel="Teleislas.co@SD"><title lang="es">La Rosa de Guadalupe</title></programme>
 <programme start="20260401010000 +0000" stop="20260401020000 +0000" channel="Teleislas.co@SD"><title lang="es">La frecuencia</title></programme>
+<programme start="20260401010000 +0000" stop="20260401013000 +0000" channel="Teleislas.co@SD"><title lang="es">La Rosa de Guadalupe</title></programme>
 <programme start="20260401013000 +0000" stop="20260401020000 +0000" channel="Teleislas.co@SD"><title lang="es">Programa Pagado</title></programme>
-<programme start="20260401020000 +0000" stop="20260401023000 +0000" channel="Teleislas.co@SD"><title lang="es">Programa Pagado</title></programme>
 <programme start="20260401020000 +0000" stop="20260401030000 +0000" channel="Teleislas.co@SD"><title lang="es">Caribbean Traditional People</title></programme>
+<programme start="20260401020000 +0000" stop="20260401023000 +0000" channel="Teleislas.co@SD"><title lang="es">Programa Pagado</title></programme>
 <programme start="20260401023000 +0000" stop="20260401030000 +0000" channel="Teleislas.co@SD"><title lang="es">Programa Pagado</title></programme>
-<programme start="20260401030000 +0000" stop="20260401033000 +0000" channel="Teleislas.co@SD"><title lang="es">Programa Pagado</title></programme>
 <programme start="20260401030000 +0000" stop="20260401040000 +0000" channel="Teleislas.co@SD"><title lang="es">San Andrés From the Sky</title></programme>
+<programme start="20260401030000 +0000" stop="20260401033000 +0000" channel="Teleislas.co@SD"><title lang="es">Programa Pagado</title></programme>
 <programme start="20260401033000 +0000" stop="20260401040000 +0000" channel="Teleislas.co@SD"><title lang="es">Programa Pagado</title></programme>
-<programme start="20260401040000 +0000" stop="20260401043000 +0000" channel="Teleislas.co@SD"><title lang="es">Programa Pagado</title></programme>
 <programme start="20260401040000 +0000" stop="20260401050000 +0000" channel="Teleislas.co@SD"><title lang="es">Sea View</title></programme>
+<programme start="20260401040000 +0000" stop="20260401043000 +0000" channel="Teleislas.co@SD"><title lang="es">Programa Pagado</title></programme>
 <programme start="20260401043000 +0000" stop="20260401050000 +0000" channel="Teleislas.co@SD"><title lang="es">Programa Pagado</title></programme>
 <programme start="20260330043000 +0000" stop="20260330070000 +0000" channel="Telemadrid.es@SD"><title lang="es">Buenos Días</title></programme>
 <programme start="20260330070000 +0000" stop="20260330100000 +0000" channel="Telemadrid.es@SD"><title lang="es">120 minutos</title></programme>
