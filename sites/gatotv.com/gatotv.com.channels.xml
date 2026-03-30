@@ -371,7 +371,6 @@
   <channel site="gatotv.com" site_id="rts" lang="es" xmltv_id="RTS.ec@SD">RTS</channel>
   <channel site="gatotv.com" site_id="semillitas" lang="es" xmltv_id="SemillitasTV.us@SD">Semillitas</channel>
   <channel site="gatotv.com" site_id="senal_colombia" lang="es" xmltv_id="SenalColombia.co@SD">Señal Colombia</channel>
-  <channel site="gatotv.com" site_id="sky_one_mexico" lang="es" xmltv_id="SkyOne.mx@SD">Sky One México</channel>
   <channel site="gatotv.com" site_id="sky_sports_1_mexico" lang="es" xmltv_id="SkySports1.mx@SD">Sky Sports 1 México</channel>
   <channel site="gatotv.com" site_id="sky_sports_16" lang="es" xmltv_id="SkySports16.mx@SD">Sky Sports 16</channel>
   <channel site="gatotv.com" site_id="sky_sports_24" lang="es" xmltv_id="SkySports24.mx@SD">Sky Sports 24</channel>
