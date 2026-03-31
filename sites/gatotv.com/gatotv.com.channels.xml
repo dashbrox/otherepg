@@ -101,6 +101,7 @@
   <channel site="gatotv.com" site_id="rcn_colombia" lang="es" xmltv_id="">RCN Colombia</channel>
   <channel site="gatotv.com" site_id="rcn_nuestra_tele_internacional" lang="es" xmltv_id="">RCN Internacional</channel>
   <channel site="gatotv.com" site_id="region_mas" lang="es" xmltv_id="">Región+</channel>
+  <channel site="gatotv.com" site_id="sky_one_mexico" lang="es" xmltv_id="">Sky One México</channel>
   <channel site="gatotv.com" site_id="sony_centro" lang="es" xmltv_id="">Sony Centro</channel>
   <channel site="gatotv.com" site_id="sony_chile" lang="es" xmltv_id="">Sony Chile</channel>
   <channel site="gatotv.com" site_id="sony_movies_latinoamerica" lang="es" xmltv_id="">Sony Movies LATAM</channel>
@@ -356,7 +357,6 @@
   <channel site="gatotv.com" site_id="nova" lang="es" xmltv_id="Nova.es@SD">Nova</channel>
   <channel site="gatotv.com" site_id="noticias_py" lang="es" xmltv_id="NPY.py@SD">Noticias PY</channel>
   <channel site="gatotv.com" site_id="ntn24_nuestra_tele_noticias" lang="es" xmltv_id="NTN24.co@SD">NTN24</channel>
-  <channel site="gatotv.com" site_id="odisea" lang="es" xmltv_id="Odisea.es@SD">Odisea</channel>
   <channel site="gatotv.com" site_id="pakapaka" lang="es" xmltv_id="Pakapaka.ar@SD">Pakapaka</channel>
   <channel site="gatotv.com" site_id="panamericana_television" lang="es" xmltv_id="PanamericanaTV.pe@SD">Panamericana Televisión</channel>
   <channel site="gatotv.com" site_id="panico" lang="es" xmltv_id="Panico.mx@SD">Pánico</channel>
