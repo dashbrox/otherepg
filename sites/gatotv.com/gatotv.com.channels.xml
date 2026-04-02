@@ -237,7 +237,6 @@
   <channel site="gatotv.com" site_id="cosmopolitan_espana" lang="es" xmltv_id="COSMO.es@SD">Cosmopolitan España</channel>
   <channel site="gatotv.com" site_id="cuatro_de_espana" lang="es" xmltv_id="Cuatro.es@SD">Cuatro de España</channel>
   <channel site="gatotv.com" site_id="de_pelicula_clasico" lang="es" xmltv_id="DePeliculaClasico.mx@SD">De Película Clásico</channel>
-  <channel site="gatotv.com" site_id="de_pelicula" lang="es" xmltv_id="DePeliculaLatinAmerica.mx@SD">De Película</channel>
   <channel site="gatotv.com" site_id="dhe" lang="es" xmltv_id="DHE.us@SD">DHE</channel>
   <channel site="gatotv.com" site_id="15_republica_dominicana" lang="es" xmltv_id="Digital15.do@SD">15 de República Dominicana</channel>
   <channel site="gatotv.com" site_id="discovery_channel_espana" lang="es" xmltv_id="DiscoveryChannel.es@SD">Discovery Channel España</channel>
