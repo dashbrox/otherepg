@@ -102,7 +102,6 @@
   <channel site="gatotv.com" site_id="rai_international" lang="es" xmltv_id="">RAI International</channel>
   <channel site="gatotv.com" site_id="rcn_colombia" lang="es" xmltv_id="">RCN Colombia</channel>
   <channel site="gatotv.com" site_id="rcn_nuestra_tele_internacional" lang="es" xmltv_id="">RCN Internacional</channel>
-  <channel site="gatotv.com" site_id="region_mas" lang="es" xmltv_id="">Región+</channel>
   <channel site="gatotv.com" site_id="sky_one_mexico" lang="es" xmltv_id="">Sky One México</channel>
   <channel site="gatotv.com" site_id="sony_centro" lang="es" xmltv_id="">Sony Centro</channel>
   <channel site="gatotv.com" site_id="sony_chile" lang="es" xmltv_id="">Sony Chile</channel>
@@ -117,14 +116,12 @@
   <channel site="gatotv.com" site_id="telehit_musica_plus" lang="es" xmltv_id="">Telehit Música Plus</channel>
   <channel site="gatotv.com" site_id="telemundo_panregional" lang="es" xmltv_id="">Telemundo PAN</channel>
   <channel site="gatotv.com" site_id="telemundo_puerto_rico" lang="es" xmltv_id="">Telemundo Puerto Rico</channel>
-  <channel site="gatotv.com" site_id="tn23" lang="es" xmltv_id="">TN23</channel>
   <channel site="gatotv.com" site_id="tnt_centroamerica_y_caribe" lang="es" xmltv_id="">TNT Centroamérica y Caribe</channel>
   <channel site="gatotv.com" site_id="tnt_novelas_guatemala" lang="es" xmltv_id="">TNT Novelas GT</channel>
   <channel site="gatotv.com" site_id="tnt_novelas_latinoamerica" lang="es" xmltv_id="">TNT Novelas LATAM</channel>
   <channel site="gatotv.com" site_id="tnt_series" lang="es" xmltv_id="">TNT Series Lat.</channel>
   <channel site="gatotv.com" site_id="tr3s" lang="es" xmltv_id="">Tr3s</channel>
   <channel site="gatotv.com" site_id="tudn_centroamerica" lang="es" xmltv_id="">TUDN Centroamérica</channel>
-  <channel site="gatotv.com" site_id="tv_agro_centroamerica" lang="es" xmltv_id="">TV Agro C. A.</channel>
   <channel site="gatotv.com" site_id="tve" lang="es" xmltv_id="">TVE Internacional</channel>
   <channel site="gatotv.com" site_id="ultra_cine" lang="es" xmltv_id="">Ultra Cine</channel>
   <channel site="gatotv.com" site_id="ultra_docu" lang="es" xmltv_id="">Ultra Docu</channel>
@@ -147,7 +144,6 @@
   <channel site="gatotv.com" site_id="a_y_e_chile" lang="es" xmltv_id="AELatinAmerica.us@Chile">A&amp;E Chile</channel>
   <channel site="gatotv.com" site_id="a_y_e_mexico" lang="es" xmltv_id="AELatinAmerica.us@Mexico">A&amp;E México</channel>
   <channel site="gatotv.com" site_id="a_and_e_panregional" lang="es" xmltv_id="AELatinAmerica.us@Panregional">A&amp;E PAN</channel>
-  <channel site="gatotv.com" site_id="agrotendencia_tv" lang="es" xmltv_id="AgrotendenciaTV.cr@SD">Agrotendencia TV</channel>
   <channel site="gatotv.com" site_id="amc_break" lang="es" xmltv_id="AMCBreak.es@SD">AMC Break</channel>
   <channel site="gatotv.com" site_id="amc_crime" lang="es" xmltv_id="AMCCrime.es@SD">AMC Crime</channel>
   <channel site="gatotv.com" site_id="amc_espana" lang="es" xmltv_id="AMCEurope.uk@Spain">AMC España</channel>
@@ -408,7 +404,6 @@
   <channel site="gatotv.com" site_id="telemadrid" lang="es" xmltv_id="Telemadrid.es@SD">TeleMadrid</channel>
   <channel site="gatotv.com" site_id="5_de_republica_dominicana_telemicro" lang="es" xmltv_id="Telemicro.do@SD">Telemicro</channel>
   <channel site="gatotv.com" site_id="telemundo_mexico" lang="es" xmltv_id="TelemundoInternacional.us@South">Telemundo México</channel>
-  <channel site="gatotv.com" site_id="telenostalgia" lang="es" xmltv_id="TeleNostalgia.co@SD">Telenostalgia</channel>
   <channel site="gatotv.com" site_id="11_de_guatemala" lang="es" xmltv_id="TeleOnce.gt@SD">11 de Guatemala</channel>
   <channel site="gatotv.com" site_id="telepacifico" lang="es" xmltv_id="Telepacifico.co@SD">Telepacífico</channel>
   <channel site="gatotv.com" site_id="telesistema_11" lang="es" xmltv_id="Telesistema11.do@SD">11 de República Dominicana</channel>
