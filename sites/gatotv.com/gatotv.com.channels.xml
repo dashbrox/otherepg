@@ -215,7 +215,6 @@
   <channel site="gatotv.com" site_id="cinecanal_mexico" lang="es" xmltv_id="Cinecanal.us@Mexico">Cinecanal México</channel>
   <channel site="gatotv.com" site_id="cinecanal_pacifico" lang="es" xmltv_id="Cinecanal.us@Pacific">Cinecanal Pacífico</channel>
   <channel site="gatotv.com" site_id="cinecanal_sur" lang="es" xmltv_id="Cinecanal.us@South">Cinecanal Sur</channel>
-  <channel site="gatotv.com" site_id="cineclick" lang="es" xmltv_id="CineClick.us@SD">CineClick</channel>
   <channel site="gatotv.com" site_id="cine_estelar" lang="es" xmltv_id="CineEstelar.us@SD">Cine Estelar</channel>
   <channel site="gatotv.com" site_id="cinelatino" lang="es" xmltv_id="CineLatino.mx@SD">Cinelatino</channel>
   <channel site="gatotv.com" site_id="cinema_platino" lang="es" xmltv_id="CinemaPlatino.mx@SD">Cinema Platino</channel>
