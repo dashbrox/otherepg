@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channels>
+  <channel site="gatotv.com" site_id="5_de_republica_dominicana_telemicro" lang="es" xmltv_id="">Telemicro</channel>
   <channel site="gatotv.com" site_id="5_mexico" lang="es" xmltv_id="">5 de México</channel>
   <channel site="gatotv.com" site_id="9_de_honduras_vica" lang="es" xmltv_id="">9 de Honduras</channel>
   <channel site="gatotv.com" site_id="9_de_mexico" lang="es" xmltv_id="">9 de México</channel>
@@ -51,6 +52,7 @@
   <channel site="gatotv.com" site_id="dw_latinoamerica" lang="es" xmltv_id="">DW Latam.</channel>
   <channel site="gatotv.com" site_id="e_entertainment_television_chile" lang="es" xmltv_id="">E! Entertainment Television Chile</channel>
   <channel site="gatotv.com" site_id="e_entertainment_television_panregional" lang="es" xmltv_id="">E! Entertainment Television Panregional</channel>
+  <channel site="gatotv.com" site_id="el_financiero_tv" lang="es" xmltv_id="">El Financiero TV</channel>
   <channel site="gatotv.com" site_id="el_heraldo_tv_mexico" lang="es" xmltv_id="">El Heraldo TV</channel>
   <channel site="gatotv.com" site_id="elgourmet" lang="es" xmltv_id="">Elgourmet</channel>
   <channel site="gatotv.com" site_id="enlace" lang="es" xmltv_id="">TBN</channel>
@@ -91,6 +93,7 @@
   <channel site="gatotv.com" site_id="golden_mpx" lang="es" xmltv_id="">Golden MPX</channel>
   <channel site="gatotv.com" site_id="hbo_chile" lang="es" xmltv_id="">HBO Chile</channel>
   <channel site="gatotv.com" site_id="hollywood_espana" lang="es" xmltv_id="">Hollywood España</channel>
+  <channel site="gatotv.com" site_id="ingenio_tv_mexico" lang="es" xmltv_id="">Ingenio TV México</channel>
   <channel site="gatotv.com" site_id="la_red_chile" lang="es" xmltv_id="">La Red Chile</channel>
   <channel site="gatotv.com" site_id="meganoticias_mx" lang="es" xmltv_id="">Meganoticias MX</channel>
   <channel site="gatotv.com" site_id="mtv_centro" lang="es" xmltv_id="">MTV Centro</channel>
@@ -104,6 +107,7 @@
   <channel site="gatotv.com" site_id="rcn_colombia" lang="es" xmltv_id="">RCN Colombia</channel>
   <channel site="gatotv.com" site_id="rcn_nuestra_tele_internacional" lang="es" xmltv_id="">RCN Internacional</channel>
   <channel site="gatotv.com" site_id="region_mas" lang="es" xmltv_id="">Región+</channel>
+  <channel site="gatotv.com" site_id="sky_one_mexico" lang="es" xmltv_id="">Sky One México</channel>
   <channel site="gatotv.com" site_id="sony_centro" lang="es" xmltv_id="">Sony Centro</channel>
   <channel site="gatotv.com" site_id="sony_chile" lang="es" xmltv_id="">Sony Chile</channel>
   <channel site="gatotv.com" site_id="sony_movies_latinoamerica" lang="es" xmltv_id="">Sony Movies LATAM</channel>
@@ -114,7 +118,6 @@
   <channel site="gatotv.com" site_id="starz_encore_espanol" lang="es" xmltv_id="">Starz Encore Español</channel>
   <channel site="gatotv.com" site_id="sun_channel" lang="es" xmltv_id="">Sun Channel</channel>
   <channel site="gatotv.com" site_id="tc_television" lang="es" xmltv_id="">TC Televisión</channel>
-  <channel site="gatotv.com" site_id="telehit_musica_plus" lang="es" xmltv_id="">Telehit Música Plus</channel>
   <channel site="gatotv.com" site_id="telemundo_panregional" lang="es" xmltv_id="">Telemundo PAN</channel>
   <channel site="gatotv.com" site_id="telemundo_puerto_rico" lang="es" xmltv_id="">Telemundo Puerto Rico</channel>
   <channel site="gatotv.com" site_id="telenostalgia" lang="es" xmltv_id="">Telenostalgia</channel>
@@ -126,6 +129,7 @@
   <channel site="gatotv.com" site_id="tr3s" lang="es" xmltv_id="">Tr3s</channel>
   <channel site="gatotv.com" site_id="tudn_centroamerica" lang="es" xmltv_id="">TUDN Centroamérica</channel>
   <channel site="gatotv.com" site_id="tv_agro_centroamerica" lang="es" xmltv_id="">TV Agro C. A.</channel>
+  <channel site="gatotv.com" site_id="tve" lang="es" xmltv_id="">TVE Internacional</channel>
   <channel site="gatotv.com" site_id="ultra_cine" lang="es" xmltv_id="">Ultra Cine</channel>
   <channel site="gatotv.com" site_id="ultra_docu" lang="es" xmltv_id="">Ultra Docu</channel>
   <channel site="gatotv.com" site_id="ultra_fiesta" lang="es" xmltv_id="">Ultra Fiesta</channel>
@@ -398,8 +402,6 @@
   <channel site="gatotv.com" site_id="telefe_internacional" lang="es" xmltv_id="TelefeInternacional.ar@SD">Telefe Internacional</channel>
   <channel site="gatotv.com" site_id="teleformula" lang="es" xmltv_id="TeleFormula.mx@SD">Telefórmula</channel>
   <channel site="gatotv.com" site_id="telefuturo" lang="es" xmltv_id="Telefuturo.py@SD">Telefuturo</channel>
-  <channel site="gatotv.com" site_id="telehit" lang="es" xmltv_id="TeleHit.mx@SD">Telehit</channel>
-  <channel site="gatotv.com" site_id="telehit_musica" lang="es" xmltv_id="TelehitMusica.mx@SD">Telehit Música</channel>
   <channel site="gatotv.com" site_id="7_de_puerto_rico_teleisla" lang="es" xmltv_id="Teleislas.co@SD">Tele Isla</channel>
   <channel site="gatotv.com" site_id="teleislas" lang="es" xmltv_id="Teleislas.co@SD">Teleislas</channel>
   <channel site="gatotv.com" site_id="telemadrid" lang="es" xmltv_id="Telemadrid.es@SD">TeleMadrid</channel>
