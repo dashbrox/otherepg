@@ -48,24 +48,14 @@
 <channel id="amc_series_republica_dominicana"><display-name>AMC Series República Dominicana</display-name><url>https://gatotv.com</url></channel>
 <channel id="comedy_central_mexico"><display-name>Comedy Central México</display-name><url>https://gatotv.com</url></channel>
 <channel id="comedy_central_centro"><display-name>Comedy Central Centro</display-name><url>https://gatotv.com</url></channel>
-<channel id="foro_tv"><display-name>Foro TV</display-name><url>https://gatotv.com</url></channel>
-<channel id="film_and_arts"><display-name>Film &amp; Arts</display-name><url>https://gatotv.com</url></channel>
 <channel id="13_de_costa_rica"><display-name>13 de Costa Rica</display-name><url>https://gatotv.com</url></channel>
 <channel id="amc_colombia"><display-name>AMC Colombia</display-name><url>https://gatotv.com</url></channel>
 <channel id="amc_series_paraguay"><display-name>AMC Series Paraguay</display-name><url>https://gatotv.com</url></channel>
 <channel id="clic"><display-name>Clic</display-name><url>https://gatotv.com</url></channel>
-<channel id="exa_tv"><display-name>Exa TV</display-name><url>https://gatotv.com</url></channel>
-<channel id="ewtn_en_espanol"><display-name>EWTN en Español</display-name><url>https://gatotv.com</url></channel>
 <channel id="claro_tv"><display-name>Claro TV</display-name><url>https://gatotv.com</url></channel>
-<channel id="euronews"><display-name>Euronews</display-name><url>https://gatotv.com</url></channel>
-<channel id="espn_sur"><display-name>ESPN Sur</display-name><url>https://gatotv.com</url></channel>
 <channel id="amc_series_panama"><display-name>AMC Series Panamá</display-name><url>https://gatotv.com</url></channel>
 <channel id="city_tv"><display-name>City TV</display-name><url>https://gatotv.com</url></channel>
-<channel id="espn_premium_chile"><display-name>ESPN Premium Chile</display-name><url>https://gatotv.com</url></channel>
-<channel id="espn_7_venezuela"><display-name>ESPN 7 Venezuela</display-name><url>https://gatotv.com</url></channel>
 <channel id="cinema"><display-name>Cinema</display-name><url>https://gatotv.com</url></channel>
-<channel id="espn_7_uruguay"><display-name>ESPN 7 Uruguay</display-name><url>https://gatotv.com</url></channel>
-<channel id="espn_7_sudamerica"><display-name>ESPN 7 Sudamérica</display-name><url>https://gatotv.com</url></channel>
 <channel id="agrotendencia_tv"><display-name>Agrotendencia TV</display-name><url>https://gatotv.com</url></channel>
 <channel id="amc_series_nicaragua"><display-name>AMC Series Nicaragua</display-name><url>https://gatotv.com</url></channel>
 <channel id="cinelatino_u_s_a"><display-name>Cinelatino USA</display-name><url>https://gatotv.com</url></channel>
@@ -81,6 +71,16 @@
 <channel id="cartoonito_panregional"><display-name>Cartoonito Panregional</display-name><url>https://gatotv.com</url></channel>
 <channel id="espn_6_sudamerica"><display-name>ESPN 6 Sur</display-name><url>https://gatotv.com</url></channel>
 <channel id="espn_6_centroamerica_y_republica_dominicana"><display-name>ESPN 6 C. A. y R. D.</display-name><url>https://gatotv.com</url></channel>
+<channel id="Telefuturo.py@SD"><display-name>Telefuturo</display-name><icon src="https://i.imgur.com/6lVrFvb.png"/><url>https://gatotv.com</url></channel>
+<channel id="TeleFormula.mx@SD"><display-name>Telefórmula</display-name><icon src="https://i.imgur.com/y0a0xwY.png"/><url>https://gatotv.com</url></channel>
+<channel id="TelefeInternacional.ar@SD"><display-name>Telefe Internacional</display-name><icon src="https://i.imgur.com/HNcCX3h.png"/><url>https://gatotv.com</url></channel>
+<channel id="Telefe.ar@SD"><display-name>Telefé (Argentina)</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png"/><url>https://gatotv.com</url></channel>
+<channel id="Teledeporte.es@SD"><display-name>Teledeporte</display-name><icon src="https://i.ibb.co/0jxLdjnY/TDP.png"/><url>https://gatotv.com</url></channel>
+<channel id="Telecinco.es@SD"><display-name>Telecinco</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/1/13/Telecinco_2024_Logo.svg"/><url>https://gatotv.com</url></channel>
+<channel id="TeleCentro.us@SD"><display-name>Telecentro TV</display-name><icon src="https://i.imgur.com/5k1WQyn.png"/><url>https://gatotv.com</url></channel>
+<channel id="Telecentro.do@SD"><display-name>13 de República Dominicana</display-name><icon src="https://i.imgur.com/F17zNXh.png"/><url>https://gatotv.com</url></channel>
+<channel id="Telecaribe.co@SD"><display-name>Telecaribe</display-name><icon src="https://i.imgur.com/E35cXHt.png"/><url>https://gatotv.com</url></channel>
+<channel id="Telecafe.co@SD"><display-name>Telecafé</display-name><icon src="https://i.imgur.com/z18LRqM.png"/><url>https://gatotv.com</url></channel>
 <channel id="Teleantioquia.co@SD"><display-name>Teleantioquia</display-name><icon src="https://i.imgur.com/6WMV2Az.png"/><url>https://gatotv.com</url></channel>
 <channel id="TeleAntillas.do@SD"><display-name>2 de República Dominicana</display-name><icon src="https://i.imgur.com/G1pJZkC.png"/><url>https://gatotv.com</url></channel>
 <channel id="Teleamazonas.ec@SD"><display-name>Teleamazonas</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/960px-Teleamazonas_Logo.png"/><url>https://gatotv.com</url></channel>
@@ -391,32 +391,28 @@
 <channel id="fox_sports_cono_norte"><display-name>Fox Sports Cono Norte</display-name><url>https://gatotv.com</url></channel>
 <channel id="fox_sports_3_cono_norte"><display-name>Fox Sports 3 Cono Norte</display-name><url>https://gatotv.com</url></channel>
 <channel id="fox_sports_2_cono_norte"><display-name>Fox Sports 2 Cono Norte</display-name><url>https://gatotv.com</url></channel>
-<channel id="Trece.py@SD"><display-name>13 de Paraguay</display-name><icon src="https://media.trece.com.py/sites/2/2025/09/logotrece_2025.webp"/><url>https://gatotv.com</url></channel>
-<channel id="Trece.co@SD"><display-name>13 de Colombia</display-name><icon src="https://i.imgur.com/jsuXXIg.png"/><url>https://gatotv.com</url></channel>
-<channel id="Tooncast.us@SD"><display-name>Tooncast</display-name><icon src="https://i.imgur.com/3yXRbQy.png"/><url>https://gatotv.com</url></channel>
-<channel id="TNT.us@West"><display-name>TNT Pacífico</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png"/><url>https://gatotv.com</url></channel>
-<channel id="TlnovelasMexico.mx@SD"><display-name>TLNovelas México</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png"/><url>https://gatotv.com</url></channel>
-<channel id="TlnovelasLatinAmerica.mx@SD"><display-name>TLNovelas LATAM</display-name><icon src="https://i.imgur.com/Rvm38Mu.png"/><url>https://gatotv.com</url></channel>
-<channel id="TLCLatinAmerica.us@Panregional"><display-name>TLC Panregional</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png"/><url>https://gatotv.com</url></channel>
-<channel id="TLCLatinAmerica.us@Mexico"><display-name>TLC MX</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png"/><url>https://gatotv.com</url></channel>
+<channel id="foro_tv"><display-name>Foro TV</display-name><url>https://gatotv.com</url></channel>
+<channel id="film_and_arts"><display-name>Film &amp; Arts</display-name><url>https://gatotv.com</url></channel>
+<channel id="exa_tv"><display-name>Exa TV</display-name><url>https://gatotv.com</url></channel>
+<channel id="ewtn_en_espanol"><display-name>EWTN en Español</display-name><url>https://gatotv.com</url></channel>
+<channel id="euronews"><display-name>Euronews</display-name><url>https://gatotv.com</url></channel>
+<channel id="espn_sur"><display-name>ESPN Sur</display-name><url>https://gatotv.com</url></channel>
+<channel id="espn_premium_chile"><display-name>ESPN Premium Chile</display-name><url>https://gatotv.com</url></channel>
+<channel id="espn_7_venezuela"><display-name>ESPN 7 Venezuela</display-name><url>https://gatotv.com</url></channel>
+<channel id="espn_7_uruguay"><display-name>ESPN 7 Uruguay</display-name><url>https://gatotv.com</url></channel>
+<channel id="espn_7_sudamerica"><display-name>ESPN 7 Sudamérica</display-name><url>https://gatotv.com</url></channel>
 <channel id="TigoSports.sv@SD"><display-name>Tigo Sports El Salvador</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png"/><url>https://gatotv.com</url></channel>
+<channel id="TigoSports.gt@SD"><display-name>Tigo Sports Guatemala</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png"/><url>https://gatotv.com</url></channel>
 <channel id="TigoSports.cr@SD"><display-name>Tigo Sports Costa Rica</display-name><icon src="https://i.imgur.com/UrsLSRs.png"/><url>https://gatotv.com</url></channel>
-<channel id="TelevisionDominicana.us@SD"><display-name>Television Dominicana</display-name><icon src="https://i.imgur.com/SQyEKCD.png"/><url>https://gatotv.com</url></channel>
 <channel id="TelevisionCanaria.es@SD"><display-name>TV Canaria</display-name><icon src="https://rtvc.es/archivos/2020/03/logo-mobilretina.png"/><url>https://gatotv.com</url></channel>
+<channel id="Televisiete.gt@SD"><display-name>7 de Guatemala</display-name><icon src="https://i.imgur.com/yVhUkot.png"/><url>https://gatotv.com</url></channel>
 <channel id="TelevisaGuadalajara.mx@SD"><display-name>4 de Guadalajara</display-name><icon src="https://i.imgur.com/Ow0vROp.png"/><url>https://gatotv.com</url></channel>
-<channel id="Teleuniverso.do@SD"><display-name>29 de República Dominicana</display-name><icon src="https://i.imgur.com/gQev8ST.png"/><url>https://gatotv.com</url></channel>
 <channel id="Teleunion.do@SD"><display-name>Teleunion</display-name><icon src="https://i.imgur.com/vTfxkjW.png"/><url>https://gatotv.com</url></channel>
+<channel id="Teletica7.cr@SD"><display-name>7 de Costa Rica</display-name><icon src="https://i.imgur.com/ctnvE3c.png"/><url>https://gatotv.com</url></channel>
 <channel id="Telesistema11.do@SD"><display-name>11 de República Dominicana</display-name><icon src="https://i.imgur.com/ZzeZKCu.png"/><url>https://gatotv.com</url></channel>
 <channel id="Telepacifico.co@SD"><display-name>Telepacífico</display-name><icon src="https://i.imgur.com/39hy97J.png"/><url>https://gatotv.com</url></channel>
 <channel id="TeleOnce.gt@SD"><display-name>11 de Guatemala</display-name><icon src="https://i.imgur.com/N4DM2YO.png"/><url>https://gatotv.com</url></channel>
-<channel id="Telemadrid.es@SD"><display-name>TeleMadrid</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/TeleMadrid.svg/960px-TeleMadrid.svg.png"/><url>https://gatotv.com</url></channel>
-<channel id="Teleislas.co@SD"><display-name>Teleislas</display-name><icon src="https://i.imgur.com/aKHGRyk.png"/><url>https://gatotv.com</url></channel>
-<channel id="TeleFormula.mx@SD"><display-name>Telefórmula</display-name><icon src="https://i.imgur.com/y0a0xwY.png"/><url>https://gatotv.com</url></channel>
-<channel id="TelefeInternacional.ar@SD"><display-name>Telefe Internacional</display-name><icon src="https://i.imgur.com/HNcCX3h.png"/><url>https://gatotv.com</url></channel>
-<channel id="Telefe.ar@SD"><display-name>Telefé (Argentina)</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png"/><url>https://gatotv.com</url></channel>
-<channel id="Teledeporte.es@SD"><display-name>Teledeporte</display-name><icon src="https://i.ibb.co/0jxLdjnY/TDP.png"/><url>https://gatotv.com</url></channel>
-<channel id="Telecinco.es@SD"><display-name>Telecinco</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/1/13/Telecinco_2024_Logo.svg"/><url>https://gatotv.com</url></channel>
-<channel id="TeleCentro.us@SD"><display-name>Telecentro TV</display-name><icon src="https://i.imgur.com/5k1WQyn.png"/><url>https://gatotv.com</url></channel>
+<channel id="TelemundoInternacional.us@South"><display-name>Telemundo México</display-name><icon src="https://i.imgur.com/j2O4ndp.png"/><url>https://gatotv.com</url></channel>
 <channel id="Zoom.co@SD"><display-name>ZOOM Colombia</display-name><icon src="https://i.imgur.com/euy5zp6.png"/><url>https://gatotv.com</url></channel>
 <channel id="ZonaLatina.cl@SD"><display-name>Zona Latina</display-name><icon src="https://i.imgur.com/lMyZZtk.png"/><url>https://gatotv.com</url></channel>
 <channel id="XEIPNTDT.mx@SD"><display-name>11 de México</display-name><icon src="https://i.imgur.com/K0351vF.png"/><url>https://gatotv.com</url></channel>
@@ -452,25 +448,29 @@
 <channel id="TUDN.us@SD"><display-name>TUDN USA</display-name><icon src="https://i.imgur.com/oT5CAvd.png"/><url>https://gatotv.com</url></channel>
 <channel id="TUDN.mx@SD"><display-name>TUDN México</display-name><icon src="https://i.imgur.com/oT5CAvd.png"/><url>https://gatotv.com</url></channel>
 <channel id="TSi.hn@SD"><display-name>Telesistema Informativo (TSI)</display-name><icon src="https://i.imgur.com/GEyxDnf.png"/><url>https://gatotv.com</url></channel>
-<channel id="TigoSports.gt@SD"><display-name>Tigo Sports Guatemala</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png"/><url>https://gatotv.com</url></channel>
-<channel id="Televisiete.gt@SD"><display-name>7 de Guatemala</display-name><icon src="https://i.imgur.com/yVhUkot.png"/><url>https://gatotv.com</url></channel>
-<channel id="TelemundoInternacional.us@South"><display-name>Telemundo México</display-name><icon src="https://i.imgur.com/j2O4ndp.png"/><url>https://gatotv.com</url></channel>
-<channel id="Telecentro.do@SD"><display-name>13 de República Dominicana</display-name><icon src="https://i.imgur.com/F17zNXh.png"/><url>https://gatotv.com</url></channel>
+<channel id="Trece.py@SD"><display-name>13 de Paraguay</display-name><icon src="https://media.trece.com.py/sites/2/2025/09/logotrece_2025.webp"/><url>https://gatotv.com</url></channel>
+<channel id="TNTLatinAmerica.us@South"><display-name>TNT Sur</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png"/><url>https://gatotv.com</url></channel>
+<channel id="TNTLatinAmerica.us@Mexico"><display-name>TNT México</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png"/><url>https://gatotv.com</url></channel>
+<channel id="TNT.us@West"><display-name>TNT Pacífico</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png"/><url>https://gatotv.com</url></channel>
+<channel id="TlnovelasMexico.mx@SD"><display-name>TLNovelas México</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png"/><url>https://gatotv.com</url></channel>
+<channel id="TlnovelasLatinAmerica.mx@SD"><display-name>TLNovelas LATAM</display-name><icon src="https://i.imgur.com/Rvm38Mu.png"/><url>https://gatotv.com</url></channel>
+<channel id="TLCLatinAmerica.us@Panregional"><display-name>TLC Panregional</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png"/><url>https://gatotv.com</url></channel>
+<channel id="TelevisionDominicana.us@SD"><display-name>Television Dominicana</display-name><icon src="https://i.imgur.com/SQyEKCD.png"/><url>https://gatotv.com</url></channel>
+<channel id="Telemadrid.es@SD"><display-name>TeleMadrid</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/TeleMadrid.svg/960px-TeleMadrid.svg.png"/><url>https://gatotv.com</url></channel>
 <channel id="WOBI.ar@SD"><display-name>WOBI</display-name><icon src="https://i.imgur.com/uW4WIvC.png"/><url>https://gatotv.com</url></channel>
 <channel id="WarnerChannel.us@Panregional"><display-name>Warner TV Panregional</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Warner_TV_logo.svg/960px-Warner_TV_logo.svg.png"/><url>https://gatotv.com</url></channel>
 <channel id="ViaX.cl@SD"><display-name>Vía X</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/d/d3/VIAX-oficial.png"/><url>https://gatotv.com</url></channel>
 <channel id="Unicanal.py@SD"><display-name>Unicanal</display-name><icon src="https://i.imgur.com/cgTD2TW.png"/><url>https://gatotv.com</url></channel>
 <channel id="TVN.pa@SD"><display-name>2 de Panamá</display-name><icon src="https://i.imgur.com/tGeHwxd.png"/><url>https://gatotv.com</url></channel>
-<channel id="TNTLatinAmerica.us@South"><display-name>TNT Sur</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png"/><url>https://gatotv.com</url></channel>
-<channel id="Teletica7.cr@SD"><display-name>7 de Costa Rica</display-name><icon src="https://i.imgur.com/ctnvE3c.png"/><url>https://gatotv.com</url></channel>
-<channel id="Telefuturo.py@SD"><display-name>Telefuturo</display-name><icon src="https://i.imgur.com/6lVrFvb.png"/><url>https://gatotv.com</url></channel>
+<channel id="Trece.co@SD"><display-name>13 de Colombia</display-name><icon src="https://i.imgur.com/jsuXXIg.png"/><url>https://gatotv.com</url></channel>
+<channel id="TLCLatinAmerica.us@Mexico"><display-name>TLC MX</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png"/><url>https://gatotv.com</url></channel>
+<channel id="Teleuniverso.do@SD"><display-name>29 de República Dominicana</display-name><icon src="https://i.imgur.com/gQev8ST.png"/><url>https://gatotv.com</url></channel>
 <channel id="VivaNicaraguaCanal13.ni@SD"><display-name>13 de Nicaragua</display-name><icon src="https://i.imgur.com/9q7Ajz4.png"/><url>https://gatotv.com</url></channel>
 <channel id="UniversalTVLatinAmerica.us@Panregional"><display-name>Universal TV Panregional</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/960px-Universal_TV_logo.svg.png"/><url>https://gatotv.com</url></channel>
 <channel id="TVChile.cl@SD"><display-name>TV Chile</display-name><icon src="https://i.imgur.com/oYFto0V.png"/><url>https://gatotv.com</url></channel>
-<channel id="Telecaribe.co@SD"><display-name>Telecaribe</display-name><icon src="https://i.imgur.com/E35cXHt.png"/><url>https://gatotv.com</url></channel>
+<channel id="Teleislas.co@SD"><display-name>Teleislas</display-name><icon src="https://i.imgur.com/aKHGRyk.png"/><url>https://gatotv.com</url></channel>
 <channel id="Unicable.mx@SD"><display-name>Unicable MX</display-name><icon src="https://i.imgur.com/MnH8XKh.png"/><url>https://gatotv.com</url></channel>
-<channel id="TNTLatinAmerica.us@Mexico"><display-name>TNT México</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png"/><url>https://gatotv.com</url></channel>
-<channel id="Telecafe.co@SD"><display-name>Telecafé</display-name><icon src="https://i.imgur.com/z18LRqM.png"/><url>https://gatotv.com</url></channel>
+<channel id="Tooncast.us@SD"><display-name>Tooncast</display-name><icon src="https://i.imgur.com/3yXRbQy.png"/><url>https://gatotv.com</url></channel>
 <programme start="20260410050000 +0000" stop="20260410053000 +0000" channel="5_de_republica_dominicana_telemicro"><title lang="es">Noticiero Univisión</title></programme>
 <programme start="20260410053000 +0000" stop="20260410063000 +0000" channel="5_de_republica_dominicana_telemicro"><title lang="es">Primer impacto</title></programme>
 <programme start="20260410063000 +0000" stop="20260410073000 +0000" channel="5_de_republica_dominicana_telemicro"><title lang="es">De Extremo a Extremo</title></programme>
@@ -21203,81 +21203,81 @@
 <programme start="20260411040000 +0000" stop="20260411050000 +0000" channel="Teleislas.co@SD"><title lang="es">The Raizal Horse</title></programme>
 <programme start="20260411040000 +0000" stop="20260411043000 +0000" channel="Teleislas.co@SD"><title lang="es">Programa Pagado</title></programme>
 <programme start="20260411043000 +0000" stop="20260411050000 +0000" channel="Teleislas.co@SD"><title lang="es">Programa Pagado</title></programme>
-<programme start="20260411050000 +0000" stop="20260411053000 +0000" channel="Teleislas.co@SD"><title lang="es">Programa Pagado</title></programme>
 <programme start="20260411050000 +0000" stop="20260411070000 +0000" channel="Teleislas.co@SD"><title lang="es">Raizal people</title></programme>
+<programme start="20260411050000 +0000" stop="20260411053000 +0000" channel="Teleislas.co@SD"><title lang="es">Programa Pagado</title></programme>
 <programme start="20260411053000 +0000" stop="20260411060000 +0000" channel="Teleislas.co@SD"><title lang="es">Programa Pagado</title></programme>
 <programme start="20260411060000 +0000" stop="20260411063000 +0000" channel="Teleislas.co@SD"><title lang="es">Programa Pagado</title></programme>
 <programme start="20260411063000 +0000" stop="20260411070000 +0000" channel="Teleislas.co@SD"><title lang="es">Programa Pagado</title></programme>
-<programme start="20260411070000 +0000" stop="20260411073000 +0000" channel="Teleislas.co@SD"><title lang="es">Programa Pagado</title></programme>
 <programme start="20260411070000 +0000" stop="20260411080000 +0000" channel="Teleislas.co@SD"><title lang="es">Sea View</title></programme>
+<programme start="20260411070000 +0000" stop="20260411073000 +0000" channel="Teleislas.co@SD"><title lang="es">Programa Pagado</title></programme>
 <programme start="20260411073000 +0000" stop="20260411080000 +0000" channel="Teleislas.co@SD"><title lang="es">Programa Pagado</title></programme>
-<programme start="20260411080000 +0000" stop="20260411083000 +0000" channel="Teleislas.co@SD"><title lang="es">Programa Pagado</title></programme>
 <programme start="20260411080000 +0000" stop="20260411090000 +0000" channel="Teleislas.co@SD"><title lang="es">Puebleando</title></programme>
+<programme start="20260411080000 +0000" stop="20260411083000 +0000" channel="Teleislas.co@SD"><title lang="es">Programa Pagado</title></programme>
 <programme start="20260411083000 +0000" stop="20260411090000 +0000" channel="Teleislas.co@SD"><title lang="es">Programa Pagado</title></programme>
-<programme start="20260411090000 +0000" stop="20260411093000 +0000" channel="Teleislas.co@SD"><title lang="es">Programa Pagado</title></programme>
 <programme start="20260411090000 +0000" stop="20260411100000 +0000" channel="Teleislas.co@SD"><title lang="es">Fisherman Islands</title></programme>
+<programme start="20260411090000 +0000" stop="20260411093000 +0000" channel="Teleislas.co@SD"><title lang="es">Programa Pagado</title></programme>
 <programme start="20260411093000 +0000" stop="20260411100000 +0000" channel="Teleislas.co@SD"><title lang="es">Programa Pagado</title></programme>
-<programme start="20260411100000 +0000" stop="20260411103000 +0000" channel="Teleislas.co@SD"><title lang="es">Programa Pagado</title></programme>
 <programme start="20260411100000 +0000" stop="20260411110000 +0000" channel="Teleislas.co@SD"><title lang="es">Healthy Body</title></programme>
+<programme start="20260411100000 +0000" stop="20260411103000 +0000" channel="Teleislas.co@SD"><title lang="es">Programa Pagado</title></programme>
 <programme start="20260411103000 +0000" stop="20260411110000 +0000" channel="Teleislas.co@SD"><title lang="es">Programa Pagado</title></programme>
-<programme start="20260411110000 +0000" stop="20260411120000 +0000" channel="Teleislas.co@SD"><title lang="es">Pequeños en Acción</title></programme>
 <programme start="20260411110000 +0000" stop="20260411113000 +0000" channel="Teleislas.co@SD"><title lang="es">Fitness Time</title></programme>
+<programme start="20260411110000 +0000" stop="20260411120000 +0000" channel="Teleislas.co@SD"><title lang="es">Pequeños en Acción</title></programme>
 <programme start="20260411113000 +0000" stop="20260411120000 +0000" channel="Teleislas.co@SD"><title lang="es">Rumba en casa</title></programme>
-<programme start="20260411120000 +0000" stop="20260411123000 +0000" channel="Teleislas.co@SD"><title lang="es">Pequeños en Acción</title></programme>
 <programme start="20260411120000 +0000" stop="20260411123000 +0000" channel="Teleislas.co@SD"><title lang="es">Himno Nacional</title></programme>
-<programme start="20260411123000 +0000" stop="20260411130000 +0000" channel="Teleislas.co@SD"><title lang="es">La Nave de Remi</title></programme>
+<programme start="20260411120000 +0000" stop="20260411123000 +0000" channel="Teleislas.co@SD"><title lang="es">Pequeños en Acción</title></programme>
 <programme start="20260411123000 +0000" stop="20260411130000 +0000" channel="Teleislas.co@SD"><title lang="es">Relatos</title></programme>
-<programme start="20260411130000 +0000" stop="20260411133000 +0000" channel="Teleislas.co@SD"><title lang="es">Los cuentos de Chaski</title></programme>
+<programme start="20260411123000 +0000" stop="20260411130000 +0000" channel="Teleislas.co@SD"><title lang="es">La Nave de Remi</title></programme>
 <programme start="20260411130000 +0000" stop="20260411133000 +0000" channel="Teleislas.co@SD"><title lang="es">Caribbean culture</title></programme>
-<programme start="20260411133000 +0000" stop="20260411140000 +0000" channel="Teleislas.co@SD"><title lang="es">Animaleando</title></programme>
+<programme start="20260411130000 +0000" stop="20260411133000 +0000" channel="Teleislas.co@SD"><title lang="es">Los cuentos de Chaski</title></programme>
 <programme start="20260411133000 +0000" stop="20260411140000 +0000" channel="Teleislas.co@SD"><title lang="es">Green Island</title></programme>
-<programme start="20260411140000 +0000" stop="20260411143000 +0000" channel="Teleislas.co@SD"><title lang="es">La fórmula steam</title></programme>
+<programme start="20260411133000 +0000" stop="20260411140000 +0000" channel="Teleislas.co@SD"><title lang="es">Animaleando</title></programme>
 <programme start="20260411140000 +0000" stop="20260411140500 +0000" channel="Teleislas.co@SD"><title lang="es">Mi mundo interior</title></programme>
+<programme start="20260411140000 +0000" stop="20260411143000 +0000" channel="Teleislas.co@SD"><title lang="es">La fórmula steam</title></programme>
 <programme start="20260411140500 +0000" stop="20260411143000 +0000" channel="Teleislas.co@SD"><title lang="es">El mundo de Luna</title></programme>
-<programme start="20260411143000 +0000" stop="20260411150000 +0000" channel="Teleislas.co@SD"><title lang="es">Programa Pagado</title></programme>
 <programme start="20260411143000 +0000" stop="20260411150000 +0000" channel="Teleislas.co@SD"><title lang="es">Chaski, el investigador</title></programme>
-<programme start="20260411150000 +0000" stop="20260411153000 +0000" channel="Teleislas.co@SD"><title lang="es">Programa Pagado</title></programme>
+<programme start="20260411143000 +0000" stop="20260411150000 +0000" channel="Teleislas.co@SD"><title lang="es">Programa Pagado</title></programme>
 <programme start="20260411150000 +0000" stop="20260411151500 +0000" channel="Teleislas.co@SD"><title lang="es">Kriol Bible Stuoriz</title></programme>
+<programme start="20260411150000 +0000" stop="20260411153000 +0000" channel="Teleislas.co@SD"><title lang="es">Programa Pagado</title></programme>
 <programme start="20260411151500 +0000" stop="20260411154500 +0000" channel="Teleislas.co@SD"><title lang="es">Today&apos;s Piknini</title></programme>
 <programme start="20260411153000 +0000" stop="20260411160000 +0000" channel="Teleislas.co@SD"><title lang="es">La Dr. Polo vida sin límites</title></programme>
 <programme start="20260411154500 +0000" stop="20260411160000 +0000" channel="Teleislas.co@SD"><title lang="es">Peg + gato</title></programme>
-<programme start="20260411160000 +0000" stop="20260411163000 +0000" channel="Teleislas.co@SD"><title lang="es">Programa Pagado</title></programme>
 <programme start="20260411160000 +0000" stop="20260411163000 +0000" channel="Teleislas.co@SD"><title lang="es">Eureka</title></programme>
-<programme start="20260411163000 +0000" stop="20260411170000 +0000" channel="Teleislas.co@SD"><title lang="es">Programa Pagado</title></programme>
+<programme start="20260411160000 +0000" stop="20260411163000 +0000" channel="Teleislas.co@SD"><title lang="es">Programa Pagado</title></programme>
 <programme start="20260411163000 +0000" stop="20260411163500 +0000" channel="Teleislas.co@SD"><title lang="es">Happy Reef</title></programme>
+<programme start="20260411163000 +0000" stop="20260411170000 +0000" channel="Teleislas.co@SD"><title lang="es">Programa Pagado</title></programme>
 <programme start="20260411163500 +0000" stop="20260411164000 +0000" channel="Teleislas.co@SD"><title lang="es">Mek&apos; a tell you</title></programme>
 <programme start="20260411164000 +0000" stop="20260411170000 +0000" channel="Teleislas.co@SD"><title lang="es">Pequeñas estrellas</title></programme>
-<programme start="20260411170000 +0000" stop="20260411173000 +0000" channel="Teleislas.co@SD"><title lang="es">Programa Pagado</title></programme>
 <programme start="20260411170000 +0000" stop="20260411173000 +0000" channel="Teleislas.co@SD"><title lang="es">Island Kids</title></programme>
-<programme start="20260411173000 +0000" stop="20260411180000 +0000" channel="Teleislas.co@SD"><title lang="es">Programa Pagado</title></programme>
+<programme start="20260411170000 +0000" stop="20260411173000 +0000" channel="Teleislas.co@SD"><title lang="es">Programa Pagado</title></programme>
 <programme start="20260411173000 +0000" stop="20260411180000 +0000" channel="Teleislas.co@SD"><title lang="es">Fi Wi Future</title></programme>
-<programme start="20260411180000 +0000" stop="20260411183000 +0000" channel="Teleislas.co@SD"><title lang="es">La Dr. Polo vida sin límites</title></programme>
+<programme start="20260411173000 +0000" stop="20260411180000 +0000" channel="Teleislas.co@SD"><title lang="es">Programa Pagado</title></programme>
 <programme start="20260411180000 +0000" stop="20260411183000 +0000" channel="Teleislas.co@SD"><title lang="es">Culture and Taste</title></programme>
-<programme start="20260411183000 +0000" stop="20260411190000 +0000" channel="Teleislas.co@SD"><title lang="es">Programa Pagado</title></programme>
+<programme start="20260411180000 +0000" stop="20260411183000 +0000" channel="Teleislas.co@SD"><title lang="es">La Dr. Polo vida sin límites</title></programme>
 <programme start="20260411183000 +0000" stop="20260411190000 +0000" channel="Teleislas.co@SD"><title lang="es">Quick and Delicious</title></programme>
-<programme start="20260411190000 +0000" stop="20260411193000 +0000" channel="Teleislas.co@SD"><title lang="es">La Dr. Polo vida sin límites</title></programme>
+<programme start="20260411183000 +0000" stop="20260411190000 +0000" channel="Teleislas.co@SD"><title lang="es">Programa Pagado</title></programme>
 <programme start="20260411190000 +0000" stop="20260411200000 +0000" channel="Teleislas.co@SD"><title lang="es">Campeonas de la ciudad</title></programme>
+<programme start="20260411190000 +0000" stop="20260411193000 +0000" channel="Teleislas.co@SD"><title lang="es">La Dr. Polo vida sin límites</title></programme>
 <programme start="20260411193000 +0000" stop="20260411200000 +0000" channel="Teleislas.co@SD"><title lang="es">Programa Pagado</title></programme>
-<programme start="20260411200000 +0000" stop="20260411203000 +0000" channel="Teleislas.co@SD"><title lang="es">Programa Pagado</title></programme>
 <programme start="20260411200000 +0000" stop="20260411210000 +0000" channel="Teleislas.co@SD"><title lang="es">We Are Up</title></programme>
+<programme start="20260411200000 +0000" stop="20260411203000 +0000" channel="Teleislas.co@SD"><title lang="es">Programa Pagado</title></programme>
 <programme start="20260411203000 +0000" stop="20260411210000 +0000" channel="Teleislas.co@SD"><title lang="es">Programa Pagado</title></programme>
-<programme start="20260411210000 +0000" stop="20260411213000 +0000" channel="Teleislas.co@SD"><title lang="es">La Dr. Polo vida sin límites</title></programme>
 <programme start="20260411210000 +0000" stop="20260411220000 +0000" channel="Teleislas.co@SD"><title lang="es">Farm and Fish</title></programme>
+<programme start="20260411210000 +0000" stop="20260411213000 +0000" channel="Teleislas.co@SD"><title lang="es">La Dr. Polo vida sin límites</title></programme>
 <programme start="20260411213000 +0000" stop="20260411220000 +0000" channel="Teleislas.co@SD"><title lang="es">Programa Pagado</title></programme>
-<programme start="20260411220000 +0000" stop="20260411223000 +0000" channel="Teleislas.co@SD"><title lang="es">Programa Pagado</title></programme>
 <programme start="20260411220000 +0000" stop="20260411223000 +0000" channel="Teleislas.co@SD"><title lang="es">Documental</title></programme>
-<programme start="20260411223000 +0000" stop="20260411230000 +0000" channel="Teleislas.co@SD"><title lang="es">La Dr. Polo vida sin límites</title></programme>
+<programme start="20260411220000 +0000" stop="20260411223000 +0000" channel="Teleislas.co@SD"><title lang="es">Programa Pagado</title></programme>
 <programme start="20260411223000 +0000" stop="20260411230000 +0000" channel="Teleislas.co@SD"><title lang="es">Old Providence Sport</title></programme>
-<programme start="20260411230000 +0000" stop="20260411233000 +0000" channel="Teleislas.co@SD"><title lang="es">Programa Pagado</title></programme>
+<programme start="20260411223000 +0000" stop="20260411230000 +0000" channel="Teleislas.co@SD"><title lang="es">La Dr. Polo vida sin límites</title></programme>
 <programme start="20260411230000 +0000" stop="20260411233000 +0000" channel="Teleislas.co@SD"><title lang="es">Yo mujer</title></programme>
-<programme start="20260411233000 +0000" stop="20260412000000 +0000" channel="Teleislas.co@SD"><title lang="es">Programa Pagado</title></programme>
+<programme start="20260411230000 +0000" stop="20260411233000 +0000" channel="Teleislas.co@SD"><title lang="es">Programa Pagado</title></programme>
 <programme start="20260411233000 +0000" stop="20260411235700 +0000" channel="Teleislas.co@SD"><title lang="es">Vida marina</title></programme>
+<programme start="20260411233000 +0000" stop="20260412000000 +0000" channel="Teleislas.co@SD"><title lang="es">Programa Pagado</title></programme>
 <programme start="20260411235700 +0000" stop="20260412000000 +0000" channel="Teleislas.co@SD"><title lang="es">Himno Nacional</title></programme>
-<programme start="20260412000000 +0000" stop="20260412003000 +0000" channel="Teleislas.co@SD"><title lang="es">Programa Pagado</title></programme>
 <programme start="20260412000000 +0000" stop="20260412010000 +0000" channel="Teleislas.co@SD"><title lang="es">Inteligencia artificial</title></programme>
+<programme start="20260412000000 +0000" stop="20260412003000 +0000" channel="Teleislas.co@SD"><title lang="es">Programa Pagado</title></programme>
 <programme start="20260412003000 +0000" stop="20260412010000 +0000" channel="Teleislas.co@SD"><title lang="es">Programa Pagado</title></programme>
-<programme start="20260412010000 +0000" stop="20260412013000 +0000" channel="Teleislas.co@SD"><title lang="es">Programa Pagado</title></programme>
 <programme start="20260412010000 +0000" stop="20260412020500 +0000" channel="Teleislas.co@SD"><title lang="es">Tourism and Beach</title></programme>
+<programme start="20260412010000 +0000" stop="20260412013000 +0000" channel="Teleislas.co@SD"><title lang="es">Programa Pagado</title></programme>
 <programme start="20260412013000 +0000" stop="20260412020000 +0000" channel="Teleislas.co@SD"><title lang="es">Programa Pagado</title></programme>
 <programme start="20260412020000 +0000" stop="20260412023000 +0000" channel="Teleislas.co@SD"><title lang="es">Programa Pagado</title></programme>
 <programme start="20260412020500 +0000" stop="20260412100500 +0000" channel="Teleislas.co@SD"><title lang="es">El mundo de Luna</title></programme>
