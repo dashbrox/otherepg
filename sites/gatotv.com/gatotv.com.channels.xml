@@ -165,7 +165,6 @@
   <channel site="gatotv.com" site_id="antena_3" lang="es" xmltv_id="Antena3Internacional.es@SD">Antena 3 Internacional</channel>
   <channel site="gatotv.com" site_id="7_republica_dominicana" lang="es" xmltv_id="Antena7.do@SD">7 de República Dominicana</channel>
   <channel site="gatotv.com" site_id="a_mas" lang="es" xmltv_id="APlus.mx@SD">a+</channel>
-  <channel site="gatotv.com" site_id="aprende" lang="es" xmltv_id="AprendeTV.mx@SD">Aprende</channel>
   <channel site="gatotv.com" site_id="atreseries_espana" lang="es" xmltv_id="Atreseries.es@SD">Atreseries España</channel>
   <channel site="gatotv.com" site_id="atreseries_internacional" lang="es" xmltv_id="AtreseriesInternacional.es@SD">Atreseries Internacional</channel>
   <channel site="gatotv.com" site_id="atv" lang="es" xmltv_id="ATV.pe@SD">ATV</channel>
