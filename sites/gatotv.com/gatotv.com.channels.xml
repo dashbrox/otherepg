@@ -107,7 +107,6 @@
   <channel site="gatotv.com" site_id="rai_international" lang="es" xmltv_id="">RAI International</channel>
   <channel site="gatotv.com" site_id="rcn_colombia" lang="es" xmltv_id="">RCN Colombia</channel>
   <channel site="gatotv.com" site_id="rcn_nuestra_tele_internacional" lang="es" xmltv_id="">RCN Internacional</channel>
-  <channel site="gatotv.com" site_id="region_mas" lang="es" xmltv_id="">Región+</channel>
   <channel site="gatotv.com" site_id="sky_one_mexico" lang="es" xmltv_id="">Sky One México</channel>
   <channel site="gatotv.com" site_id="sony_centro" lang="es" xmltv_id="">Sony Centro</channel>
   <channel site="gatotv.com" site_id="sony_chile" lang="es" xmltv_id="">Sony Chile</channel>
@@ -224,12 +223,10 @@
   <channel site="gatotv.com" site_id="cinecanal_sur" lang="es" xmltv_id="Cinecanal.us@South">Cinecanal Sur</channel>
   <channel site="gatotv.com" site_id="cine_estelar" lang="es" xmltv_id="CineEstelar.us@SD">Cine Estelar</channel>
   <channel site="gatotv.com" site_id="cinelatino" lang="es" xmltv_id="CineLatino.mx@SD">Cinelatino</channel>
-  <channel site="gatotv.com" site_id="cinema_platino" lang="es" xmltv_id="CinemaPlatino.mx@SD">Cinema Platino</channel>
   <channel site="gatotv.com" site_id="cinema_mas" lang="es" xmltv_id="CinemaPlus.co@SD">Cinema +</channel>
   <channel site="gatotv.com" site_id="cinemax_chile" lang="es" xmltv_id="CinemaxLatinAmerica.us@SD">Cinemax Chile</channel>
   <channel site="gatotv.com" site_id="cinemax_mexico" lang="es" xmltv_id="CinemaxLatinAmerica.us@SD">Cinemax México</channel>
   <channel site="gatotv.com" site_id="cinemax_panregional" lang="es" xmltv_id="CinemaxLatinAmerica.us@SD">Cinemax Panregional</channel>
-  <channel site="gatotv.com" site_id="cine_mexicano" lang="es" xmltv_id="CineMexicano.mx@SD">Cine Mexicano</channel>
   <channel site="gatotv.com" site_id="cine_nostalgia" lang="es" xmltv_id="CineNostalgia.us@SD">Cine Nostalgia</channel>
   <channel site="gatotv.com" site_id="cine_sony" lang="es" xmltv_id="CineSony.us@SD">Cine Sony</channel>
   <channel site="gatotv.com" site_id="clan_tve" lang="es" xmltv_id="Clan.es@SD">Clan TVE</channel>
@@ -364,7 +361,6 @@
   <channel site="gatotv.com" site_id="ntn24_nuestra_tele_noticias" lang="es" xmltv_id="NTN24.co@SD">NTN24</channel>
   <channel site="gatotv.com" site_id="pakapaka" lang="es" xmltv_id="Pakapaka.ar@SD">Pakapaka</channel>
   <channel site="gatotv.com" site_id="panamericana_television" lang="es" xmltv_id="PanamericanaTV.pe@SD">Panamericana Televisión</channel>
-  <channel site="gatotv.com" site_id="panico" lang="es" xmltv_id="Panico.mx@SD">Pánico</channel>
   <channel site="gatotv.com" site_id="paraguay_tv" lang="es" xmltv_id="ParaguayTV.py@SD">Paraguay TV</channel>
   <channel site="gatotv.com" site_id="paravision" lang="es" xmltv_id="Paravision.py@SD">Paravisión</channel>
   <channel site="gatotv.com" site_id="pasiones_estados_unidos" lang="es" xmltv_id="Pasiones.us@SD">Pasiones Estados Unidos</channel>
