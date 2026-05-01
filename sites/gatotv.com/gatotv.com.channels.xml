@@ -439,7 +439,6 @@
   <channel site="gatotv.com" site_id="tvc_deportes" lang="es" xmltv_id="TVCDeportes.mx@SD">TVC Deportes</channel>
   <channel site="gatotv.com" site_id="tv_chile" lang="es" xmltv_id="TVChile.cl@SD">TV Chile</channel>
   <channel site="gatotv.com" site_id="tv_globo_internacional" lang="es" xmltv_id="TVGloboInternacionalAmericas.br@SD">TV Globo Internacional</channel>
-  <channel site="gatotv.com" site_id="tvmax" lang="es" xmltv_id="TVMax.pa@SD">9 de Panamá</channel>
   <channel site="gatotv.com" site_id="tvn_chile" lang="es" xmltv_id="TVN.cl@SD">TVN Chile</channel>
   <channel site="gatotv.com" site_id="2_de_panama" lang="es" xmltv_id="TVN.pa@SD">2 de Panamá</channel>
   <channel site="gatotv.com" site_id="television_publica" lang="es" xmltv_id="TVPublica.ar@SD">Televisión Pública Argentina</channel>
