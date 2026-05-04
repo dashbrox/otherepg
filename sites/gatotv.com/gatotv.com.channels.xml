@@ -54,10 +54,8 @@
   <channel site="gatotv.com" site_id="dw_latinoamerica" lang="es" xmltv_id="">DW Latam.</channel>
   <channel site="gatotv.com" site_id="e_entertainment_television_chile" lang="es" xmltv_id="">E! Entertainment Television Chile</channel>
   <channel site="gatotv.com" site_id="e_entertainment_television_panregional" lang="es" xmltv_id="">E! Entertainment Television Panregional</channel>
-  <channel site="gatotv.com" site_id="el_financiero_tv" lang="es" xmltv_id="">El Financiero TV</channel>
   <channel site="gatotv.com" site_id="el_heraldo_tv_mexico" lang="es" xmltv_id="">El Heraldo TV</channel>
   <channel site="gatotv.com" site_id="elgourmet" lang="es" xmltv_id="">Elgourmet</channel>
-  <channel site="gatotv.com" site_id="enlace" lang="es" xmltv_id="">TBN</channel>
   <channel site="gatotv.com" site_id="espn_2_sur" lang="es" xmltv_id="">ESPN 2 Sur</channel>
   <channel site="gatotv.com" site_id="espn_2_venezuela" lang="es" xmltv_id="">ESPN 2 Venezuela</channel>
   <channel site="gatotv.com" site_id="espn_3_norte" lang="es" xmltv_id="">ESPN 3 Norte</channel>
@@ -98,9 +96,7 @@
   <channel site="gatotv.com" site_id="hollywood_espana" lang="es" xmltv_id="">Hollywood España</channel>
   <channel site="gatotv.com" site_id="ingenio_tv_mexico" lang="es" xmltv_id="">Ingenio TV México</channel>
   <channel site="gatotv.com" site_id="la_red_chile" lang="es" xmltv_id="">La Red Chile</channel>
-  <channel site="gatotv.com" site_id="meganoticias_mx" lang="es" xmltv_id="">Meganoticias MX</channel>
   <channel site="gatotv.com" site_id="mtv_centro" lang="es" xmltv_id="">MTV Centro</channel>
-  <channel site="gatotv.com" site_id="mtv_mexico" lang="es" xmltv_id="">MTV México</channel>
   <channel site="gatotv.com" site_id="national_geographic_centro" lang="es" xmltv_id="">National Geographic Centro</channel>
   <channel site="gatotv.com" site_id="nick_junior_latinoamerica" lang="es" xmltv_id="">Nick Jr. Latinoamérica</channel>
   <channel site="gatotv.com" site_id="nickelodeon_centro" lang="es" xmltv_id="">Nickelodeon Centro</channel>
@@ -137,7 +133,6 @@
   <channel site="gatotv.com" site_id="tr3s" lang="es" xmltv_id="">Tr3s</channel>
   <channel site="gatotv.com" site_id="tudn_centroamerica" lang="es" xmltv_id="">TUDN Centroamérica</channel>
   <channel site="gatotv.com" site_id="tv_agro_centroamerica" lang="es" xmltv_id="">TV Agro C. A.</channel>
-  <channel site="gatotv.com" site_id="tve" lang="es" xmltv_id="">TVE Internacional</channel>
   <channel site="gatotv.com" site_id="tvmax" lang="es" xmltv_id="">9 de Panamá</channel>
   <channel site="gatotv.com" site_id="ultra_cine" lang="es" xmltv_id="">Ultra Cine</channel>
   <channel site="gatotv.com" site_id="ultra_docu" lang="es" xmltv_id="">Ultra Docu</channel>
