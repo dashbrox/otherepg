@@ -106,7 +106,6 @@
   <channel site="gatotv.com" site_id="rai_international" lang="es" xmltv_id="">RAI International</channel>
   <channel site="gatotv.com" site_id="rcn_colombia" lang="es" xmltv_id="">RCN Colombia</channel>
   <channel site="gatotv.com" site_id="rcn_nuestra_tele_internacional" lang="es" xmltv_id="">RCN Internacional</channel>
-  <channel site="gatotv.com" site_id="region_mas" lang="es" xmltv_id="">Región+</channel>
   <channel site="gatotv.com" site_id="sky_one_mexico" lang="es" xmltv_id="">Sky One México</channel>
   <channel site="gatotv.com" site_id="sony_centro" lang="es" xmltv_id="">Sony Centro</channel>
   <channel site="gatotv.com" site_id="sony_chile" lang="es" xmltv_id="">Sony Chile</channel>
@@ -119,7 +118,6 @@
   <channel site="gatotv.com" site_id="sun_channel" lang="es" xmltv_id="">Sun Channel</channel>
   <channel site="gatotv.com" site_id="tc_television" lang="es" xmltv_id="">TC Televisión</channel>
   <channel site="gatotv.com" site_id="telehit" lang="es" xmltv_id="">Telehit</channel>
-  <channel site="gatotv.com" site_id="telehit_musica" lang="es" xmltv_id="">Telehit Música</channel>
   <channel site="gatotv.com" site_id="telehit_musica_plus" lang="es" xmltv_id="">Telehit Música Plus</channel>
   <channel site="gatotv.com" site_id="telemundo_panregional" lang="es" xmltv_id="">Telemundo PAN</channel>
   <channel site="gatotv.com" site_id="telemundo_puerto_rico" lang="es" xmltv_id="">Telemundo Puerto Rico</channel>
