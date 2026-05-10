@@ -84,8 +84,6 @@
   <channel site="gatotv.com" site_id="exa_tv" lang="es" xmltv_id="">Exa TV</channel>
   <channel site="gatotv.com" site_id="film_and_arts" lang="es" xmltv_id="">Film &amp; Arts</channel>
   <channel site="gatotv.com" site_id="foro_tv" lang="es" xmltv_id="">Foro TV</channel>
-  <channel site="gatotv.com" site_id="fox_sports_2_cono_norte" lang="es" xmltv_id="">Fox Sports 2 Cono Norte</channel>
-  <channel site="gatotv.com" site_id="fox_sports_3_cono_norte" lang="es" xmltv_id="">Fox Sports 3 Cono Norte</channel>
   <channel site="gatotv.com" site_id="fox_sports_cono_norte" lang="es" xmltv_id="">Fox Sports Cono Norte</channel>
   <channel site="gatotv.com" site_id="fox_sports_cono_sur" lang="es" xmltv_id="">Fox Sports Cono Sur</channel>
   <channel site="gatotv.com" site_id="fx_centro" lang="es" xmltv_id="">FX Centro</channel>
@@ -135,7 +133,6 @@
   <channel site="gatotv.com" site_id="tnt_novelas_latinoamerica" lang="es" xmltv_id="">TNT Novelas LATAM</channel>
   <channel site="gatotv.com" site_id="tnt_series" lang="es" xmltv_id="">TNT Series Lat.</channel>
   <channel site="gatotv.com" site_id="tr3s" lang="es" xmltv_id="">Tr3s</channel>
-  <channel site="gatotv.com" site_id="tudn_centroamerica" lang="es" xmltv_id="">TUDN Centroamérica</channel>
   <channel site="gatotv.com" site_id="tv_agro_centroamerica" lang="es" xmltv_id="">TV Agro C. A.</channel>
   <channel site="gatotv.com" site_id="tve" lang="es" xmltv_id="">TVE Internacional</channel>
   <channel site="gatotv.com" site_id="tvmax" lang="es" xmltv_id="">9 de Panamá</channel>
