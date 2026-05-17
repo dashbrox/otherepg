@@ -141,7 +141,16 @@ module.exports = {
       i++
     })
 
-    return channels
+    // 🎯 FILTRO: Solo los 5 canales TSN que necesitas
+    const allowedIds = new Set([
+      'tsn1-hd/2819',
+      'tsn2-hd/5920',
+      'tsn3-hd/13768',
+      'tsn4-hd/13769',
+      'tsn5-hd/13770'
+    ])
+
+    return channels.filter(channel => allowedIds.has(channel.site_id))
   }
 }
 
