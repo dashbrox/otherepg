@@ -6,8 +6,10 @@ convirtiéndolos a:
     "Nombre Torneo (2026): Jugador A vs Jugador B"
 
 Uso:
-    python clean_guide.py [archivo_entrada|url] [archivo_salida]
-Si no se indica archivo_salida, se imprime por stdout.
+    python clean_guide.py                  # Descarga la URL por defecto y muestra por stdout
+    python clean_guide.py salida.xml       # Descarga la URL por defecto y guarda en 'salida.xml'
+    python clean_guide.py entrada.xml salida.xml  # Lee 'entrada.xml' y guarda en 'salida.xml'
+    python clean_guide.py https://... salida.xml  # Descarga de la URL y guarda en 'salida.xml'
 """
 
 import re
@@ -25,8 +27,6 @@ def clean_title(title: str) -> str:
         Nombre (aaaa): Jug1 vs Jug2
     En caso contrario, devuelve el título original.
     """
-    # Patrón: captura el nombre del torneo, el año T, los dos jugadores
-    # Permite que el segundo jugador tenga un texto entre paréntesis al final
     pattern = re.compile(
         r"^(.*?)\s*\(T(\d{4})\)\s*:\s*(.*?)\s*-\s*(.*?)\s*$",
         re.IGNORECASE
@@ -79,13 +79,16 @@ def process_guide(input_source, output_file=None):
 
 
 if __name__ == "__main__":
-    # Si no se pasan argumentos, usar la URL por defecto y mostrar por stdout
+    # Lógica de argumentos:
+    #   0 args -> usa URL_GUIDE, salida por stdout
+    #   1 arg  -> usa URL_GUIDE, ese arg es el archivo de salida
+    #   2 args -> primer arg es entrada (URL o archivo), segundo es salida
     if len(sys.argv) == 1:
         input_src = URL_GUIDE
         output_dest = None
     elif len(sys.argv) == 2:
-        input_src = sys.argv[1]
-        output_dest = None
+        input_src = URL_GUIDE
+        output_dest = sys.argv[1]
     else:
         input_src = sys.argv[1]
         output_dest = sys.argv[2]
