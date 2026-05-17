@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20260517">
 <channel id="tsn1-hd/2819"><display-name>TSN1 HD</display-name><url>https://tvpassport.com</url></channel>
-<channel id="tsn2-hd/5920"><display-name>TSN2 HD</display-name><url>https://tvpassport.com</url></channel>
-<channel id="tsn3-hd/13768"><display-name>TSN3 HD</display-name><url>https://tvpassport.com</url></channel>
-<channel id="tsn4-hd/13769"><display-name>TSN4 HD</display-name><url>https://tvpassport.com</url></channel>
 <channel id="tsn5-hd/13770"><display-name>TSN5 HD</display-name><url>https://tvpassport.com</url></channel>
+<channel id="tsn4-hd/13769"><display-name>TSN4 HD</display-name><url>https://tvpassport.com</url></channel>
+<channel id="tsn3-hd/13768"><display-name>TSN3 HD</display-name><url>https://tvpassport.com</url></channel>
+<channel id="tsn2-hd/5920"><display-name>TSN2 HD</display-name><url>https://tvpassport.com</url></channel>
 <programme start="20260517100000 +0000" stop="20260517130000 +0000" channel="tsn1-hd/2819"><title lang="en">2026 IIHF World Championship</title><desc lang="en">From Swiss Life Arena in Zürich, Switzerland.</desc><category lang="en">Sports</category><category lang="en">Hockey</category><image>https://cdn.tvpassport.com/image/show/960x540/v2/p32912839_b_v12_ab.jpg</image></programme>
 <programme start="20260517130000 +0000" stop="20260517140000 +0000" channel="tsn1-hd/2819"><title lang="en">SportsCentre</title><desc lang="en">TSN&apos;s flagship show providing news, highlights, analysis and interviews from the world of sports.</desc><category lang="en">Sports</category><category lang="en">News</category><image>https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_v8_ae.jpg</image></programme>
 <programme start="20260517140000 +0000" stop="20260517170000 +0000" channel="tsn1-hd/2819"><title lang="en">2026 IIHF World Championship</title><desc lang="en">From Swiss Life Arena in Zürich, Switzerland.</desc><category lang="en">Sports</category><category lang="en">Hockey</category><image>https://cdn.tvpassport.com/image/show/960x540/v2/p32912839_b_v12_ab.jpg</image></programme>
