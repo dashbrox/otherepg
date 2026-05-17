@@ -4,8 +4,6 @@ const cheerio = require('cheerio')
 const utc = require('dayjs/plugin/utc')
 const timezone = require('dayjs/plugin/timezone')
 const customParseFormat = require('dayjs/plugin/customParseFormat')
-const doFetch = require('@ntlab/sfetch')
-const FRENCH_CHANNELS = require('./__data__/frenchChannels.js')
 
 dayjs.extend(utc)
 dayjs.extend(timezone)
@@ -66,94 +64,40 @@ module.exports = {
 
     return programs
   },
+  // ⚡ VERSIÓN OPTIMIZADA: sin recorrer el sitemap
   async channels() {
-    function wait(ms) {
-      return new Promise(resolve => {
-        setTimeout(resolve, ms)
-      })
-    }
-
-    const xml = await axios
-      .get('https://www.tvpassport.com/sitemap.stations.xml')
-      .then(r => r.data)
-      .catch(console.error)
-
-    if (!xml) return []
-
-    const $ = cheerio.load(xml)
-    const elements = $('loc').toArray()
-    const queue = elements.map(el => $(el).text())
-    const total = queue.length
-
-    let i = 1
-    const channels = []
-
-    await doFetch(queue, async (url, res) => {
-      if (!res) {
-        i++
-        return
+    // Devuelve directamente los 5 canales TSN
+    return [
+      {
+        lang: 'en',
+        site_id: 'tsn1-hd/2819',
+        name: 'TSN1 HD'
+      },
+      {
+        lang: 'en',
+        site_id: 'tsn2-hd/5920',
+        name: 'TSN2 HD'
+      },
+      {
+        lang: 'en',
+        site_id: 'tsn3-hd/13768',
+        name: 'TSN3 HD'
+      },
+      {
+        lang: 'en',
+        site_id: 'tsn4-hd/13769',
+        name: 'TSN4 HD'
+      },
+      {
+        lang: 'en',
+        site_id: 'tsn5-hd/13770',
+        name: 'TSN5 HD'
       }
-
-      const match = url.match(/\/tv-listings\/stations\/(.*)$/)
-      if (!match) {
-        console.log(`Skipping invalid station url: ${url}`)
-        i++
-        return
-      }
-
-      const [, site_id] = match
-
-      console.log(`[${i}/${total}]`, url)
-
-      await wait(1000)
-
-      const $channelPage = cheerio.load(res)
-      const title =
-        $channelPage('meta[property="og:title"]').attr('content')?.trim() ||
-        $channelPage('title').text()?.trim() ||
-        $channelPage('h1').first().text()?.trim()
-
-      if (!title) {
-        console.log(`Skipping channel without title: ${url}`)
-        i++
-        return
-      }
-
-      const name = title
-        .replace(/^TV Schedule for /, '')
-        .replace(/\s*[-|]\s*TV Passport\s*$/i, '')
-        .trim()
-
-      if (!name) {
-        console.log(`Skipping channel with empty parsed name: ${url}`)
-        i++
-        return
-      }
-
-      const lang = FRENCH_CHANNELS.has(site_id) ? 'fr' : 'en'
-
-      channels.push({
-        lang,
-        site_id,
-        name
-      })
-
-      i++
-    })
-
-    // 🎯 FILTRO: Solo los 5 canales TSN que necesitas
-    const allowedIds = new Set([
-      'tsn1-hd/2819',
-      'tsn2-hd/5920',
-      'tsn3-hd/13768',
-      'tsn4-hd/13769',
-      'tsn5-hd/13770'
-    ])
-
-    return channels.filter(channel => allowedIds.has(channel.site_id))
+    ]
   }
 }
 
+// El resto de funciones auxiliares se mantienen igual
 async function getCookie() {
   const res = await axios.get('https://www.tvpassport.com/tv-listings')
   const setCookie = res.headers['set-cookie']
@@ -169,7 +113,6 @@ function parseDescription($item) {
 function parseImage($item) {
   const showpicture = $item('*').data('showpicture')
   if (!showpicture) return null
-
   const url = new URL(showpicture, 'https://cdn.tvpassport.com/image/show/960x540/')
   return url.href
 }
@@ -208,7 +151,6 @@ function parseGuest($item) {
 
 function parseRating($item) {
   const rating = $item('*').data('rating')
-
   return rating
     ? {
         system: 'MPA',
@@ -230,13 +172,11 @@ function parseDuration($item) {
 function parseItems(content) {
   if (!content) return []
   const $ = cheerio.load(content)
-
   return $('.station-listings .list-group-item').toArray()
 }
 
 function parseCurrentTimezone(content) {
   if (!content) return 'America/New_York'
   const $ = cheerio.load(content)
-
   return $('#timezone_selector').val()
 }
