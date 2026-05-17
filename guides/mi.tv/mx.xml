@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20260517">
 <channel id="mx#a-e-mundo"><display-name>A&amp;E</display-name><url>https://mi.tv</url></channel>
-<channel id="mx#xh-gc-canal-5-hd"><display-name>Canal 5 HD</display-name><url>https://mi.tv</url></channel>
+<channel id="mx#a-plus"><display-name>A+</display-name><url>https://mi.tv</url></channel>
 <channel id="Canal5.mx@SD"><display-name>Canal 5</display-name><icon src="https://i.imgur.com/uZdVSoW.png"/><url>https://mi.tv</url></channel>
 <channel id="XEIPNTDT.mx@SD"><display-name>Canal Once</display-name><icon src="https://i.imgur.com/K0351vF.png"/><url>https://mi.tv</url></channel>
 <channel id="WOBI.ar@SD"><display-name>WOBI TV</display-name><icon src="https://i.imgur.com/uW4WIvC.png"/><url>https://mi.tv</url></channel>
@@ -119,7 +119,7 @@
 <channel id="mx#animal-planet"><display-name>Animal Planet</display-name><url>https://mi.tv</url></channel>
 <channel id="mx#amc-hd"><display-name>AMC HD</display-name><url>https://mi.tv</url></channel>
 <channel id="AMCLatinAmerica.us@SD"><display-name>AMC</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png"/><url>https://mi.tv</url></channel>
-<channel id="mx#a-plus"><display-name>A+</display-name><url>https://mi.tv</url></channel>
+<channel id="mx#xh-gc-canal-5-hd"><display-name>Canal 5 HD</display-name><url>https://mi.tv</url></channel>
 <programme start="20260517055000 +0000" stop="20260517080500 +0000" channel="AMCLatinAmerica.us@SD"><title lang="es">Crepúsculo: Twilight</title><title lang="en">Twilight</title><desc lang="es">Historia de amor entre un vampiro y una humana. Bella siempre fue una chica algo diferente. Cuando llega a Forks para vivir con su padre, conoce a Edward, un joven que pronto demuestra no ser como los demás.</desc><category lang="es">Thriller</category><rating><value>5.2</value></rating><image>https://cdn.mitvstatic.com/programs/mx_crepusculo-twilight-2008_l_m.jpg</image></programme>
 <programme start="20260517080500 +0000" stop="20260517100000 +0000" channel="AMCLatinAmerica.us@SD"><title lang="es">Vivero</title><title lang="en">Vivarium</title><desc lang="es">Gemma y Tom buscan comprar su primera casa. Para ello, visitan una inmobiliaria donde los recibe un extraño agente de ventas, que los acompaña a una misteriosa y peculiar urbanización donde todas las casas son iguales.</desc><category lang="es">Terror</category><rating><value>5.9</value></rating><image>https://cdn.mitvstatic.com/programs/fallback_movies_l_m.jpg</image></programme>
 <programme start="20260517100000 +0000" stop="20260517120000 +0000" channel="AMCLatinAmerica.us@SD"><title lang="es">Plan de escape: El rescate</title><title lang="en">Escape Plan: The Extractors</title><desc lang="es">El experto en seguridad Ray Breslin es contratado para rescatar a la hija de un magnate de la tecnología de Hong Kong que ha sido secuestrada y puesta bajo custodia en una prisión de Letonia.</desc><category lang="es">Acción</category><rating><value>4.4</value></rating><image>https://cdn.mitvstatic.com/programs/fallback_movies_l_m.jpg</image></programme>
