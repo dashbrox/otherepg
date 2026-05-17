@@ -2,9 +2,9 @@ name: Limpiar guía EPG
 
 on:
   schedule:
-    # Ejecutar cada 3 horas (a la hora en punto: 0:00, 3:00, 6:00... UTC)
+    # Ejecutar cada 3 horas (en punto: 0:00, 3:00, 6:00... UTC)
     - cron: '0 */3 * * *'
-  workflow_dispatch:  # Permite lanzarlo manualmente desde GitHub
+  workflow_dispatch:  # Permite lanzarlo manualmente desde la pestaña Actions
 
 jobs:
   clean:
@@ -20,12 +20,12 @@ jobs:
           python-version: '3.x'
 
       - name: Ejecutar script de limpieza
-        run: python clean_guide.py guia_limpia.xml
+        run: python clean_guide.py guides/guia_limpia.xml
 
       - name: Commit y push del archivo limpio
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add guia_limpia.xml
+          git add guides/guia_limpia.xml
           git diff --staged --quiet || git commit -m "Guía limpia actualizada automáticamente"
           git push
