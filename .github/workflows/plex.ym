@@ -1,0 +1,102 @@
+name: Generar guía plex.tv
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 */3 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: epg-plex-tv
+  cancel-in-progress: false
+
+env:
+  BRANCH_NAME: ${{ github.ref_name }}
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+          ref: ${{ github.ref_name }}
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "npm"
+
+      - name: Instalar dependencias
+        run: npm ci
+
+      - name: Actualizar canales plex.tv
+        run: |
+          mkdir -p sites/plex.tv
+          echo "Actualizando canales plex.tv..."
+          npm run channels:parse -- --config=./sites/plex.tv/plex.tv.config.js --output=./sites/plex.tv/plex.tv_us.channels.xml
+
+      - name: Extraer identificadores de canales
+        run: |
+          mkdir -p reports
+
+          echo "Extrayendo IDs únicos desde todas las listas .channels.xml..."
+
+          find sites -type f -name "*.channels.xml" -print0 \
+            | xargs -0 grep -hoE '<channel id="[^"]+"' \
+            | sed -E 's/<channel id="([^"]+)"/\1/' \
+            | sort -u > reports/channel_ids.txt
+
+          echo "Extrayendo IDs con archivo de origen..."
+
+          find sites -type f -name "*.channels.xml" | while read -r file; do
+            grep -oE '<channel id="[^"]+"' "$file" \
+              | sed -E 's/<channel id="([^"]+)"/\1/' \
+              | awk -v f="$file" '{ print $0 " | " f }'
+          done | sort -u > reports/channel_ids_with_source.txt
+
+          echo "Total IDs únicos:"
+          wc -l reports/channel_ids.txt
+
+          echo "Primeros 20 IDs:"
+          head -20 reports/channel_ids.txt
+
+      - name: Generar guía plex.tv
+        run: |
+          mkdir -p guides/plex.tv
+          echo "Generando plex.tv..."
+          npm run grab -- --site=plex.tv --output=guides/plex.tv/guide.xml
+
+      - name: Commit si hubo cambios
+        id: commit_changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add -f guides/plex.tv/*.xml
+          git add -f sites/plex.tv/*.xml
+          git add -f reports/*.txt
+
+          if git diff --cached --quiet; then
+            echo "has_changes=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          git commit -m "Actualizar guía EPG plex.tv"
+          echo "has_changes=true" >> "$GITHUB_OUTPUT"
+
+      - name: Rebase y push
+        if: steps.commit_changes.outputs.has_changes == 'true'
+        run: |
+          for i in 1 2 3; do
+            git fetch origin "$BRANCH_NAME"
+            git pull --rebase origin "$BRANCH_NAME" && git push origin HEAD:"$BRANCH_NAME" && exit 0
+            echo "Reintentando push ($i)..."
+            sleep 5
+          done
+          exit 1
