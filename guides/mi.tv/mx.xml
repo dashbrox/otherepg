@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20260518">
 <channel id="mx#a-e-mundo"><display-name>A&amp;E</display-name><url>https://mi.tv</url></channel>
-<channel id="mx#a-plus"><display-name>A+</display-name><url>https://mi.tv</url></channel>
+<channel id="mx#xh-gc-canal-5-hd"><display-name>Canal 5 HD</display-name><url>https://mi.tv</url></channel>
 <channel id="Canal5.mx@SD"><display-name>Canal 5</display-name><icon src="https://i.imgur.com/uZdVSoW.png"/><url>https://mi.tv</url></channel>
 <channel id="XEIPNTDT.mx@SD"><display-name>Canal Once</display-name><icon src="https://i.imgur.com/K0351vF.png"/><url>https://mi.tv</url></channel>
 <channel id="WOBI.ar@SD"><display-name>WOBI TV</display-name><icon src="https://i.imgur.com/uW4WIvC.png"/><url>https://mi.tv</url></channel>
@@ -119,7 +119,7 @@
 <channel id="mx#animal-planet"><display-name>Animal Planet</display-name><url>https://mi.tv</url></channel>
 <channel id="mx#amc-hd"><display-name>AMC HD</display-name><url>https://mi.tv</url></channel>
 <channel id="AMCLatinAmerica.us@SD"><display-name>AMC</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png"/><url>https://mi.tv</url></channel>
-<channel id="mx#xh-gc-canal-5-hd"><display-name>Canal 5 HD</display-name><url>https://mi.tv</url></channel>
+<channel id="mx#a-plus"><display-name>A+</display-name><url>https://mi.tv</url></channel>
 <programme start="20260518040000 +0000" stop="20260518061500 +0000" channel="AMCLatinAmerica.us@SD"><title lang="es">Los señores de la mafia</title><title lang="en">The Gentlemen</title><desc lang="es">Un capo de la droga con un marcado estilo británico intenta vender su imperio a una dinastía de multimillonarios procedentes de Oklahoma.</desc><category lang="es">Crimen</category><rating><value>7.8</value></rating><image>https://cdn.mitvstatic.com/programs/mx_los-senores-de-la-mafia-2019_l_m.jpg</image></programme>
 <programme start="20260518061500 +0000" stop="20260518075500 +0000" channel="AMCLatinAmerica.us@SD"><title lang="es">Contrarreloj</title><title lang="en">Retribution</title><desc lang="es">Un ejecutivo de un banco recibe, mientras conduce a sus hijos a la escuela, una amenaza de bomba dentro de su auto, el cual explotará si se detienen o salen del vehículo antes de conseguir una elevada suma de dinero.</desc><category lang="es">Acción</category><rating><value>5.3</value></rating><image>https://cdn.mitvstatic.com/programs/fallback_movies_l_m.jpg</image></programme>
 <programme start="20260518075500 +0000" stop="20260518094500 +0000" channel="AMCLatinAmerica.us@SD"><title lang="es">Bodas de plomo</title><title lang="en">Shotgun Wedding</title><desc lang="es">La extravagante boda del destino de una pareja es secuestrada por delincuentes. En el proceso de salvar a sus familias, redescubren por qué se enamoraron en primer lugar.</desc><category lang="es">Acción</category><rating><value>5.5</value></rating><image>https://cdn.mitvstatic.com/programs/fallback_movies_l_m.jpg</image></programme>
