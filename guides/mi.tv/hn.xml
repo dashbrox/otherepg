@@ -4,30 +4,29 @@
 <channel id="AlfaOmegaVision.hn@SD"><display-name>Alfa &amp; Omega Vision</display-name><icon src="https://i.imgur.com/4BSKCQT.png"/><url>https://mi.tv</url></channel>
 <channel id="hn#antena3"><display-name>Antena 3</display-name><url>https://mi.tv</url></channel>
 <channel id="hn#azteca-honduras"><display-name>Azteca Honduras</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#cartoon-network"><display-name>Cartoon Network</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#caracol-internacional"><display-name>Caracol Internacional</display-name><url>https://mi.tv</url></channel>
 <channel id="hn#animal-planet"><display-name>Animal Planet</display-name><url>https://mi.tv</url></channel>
 <channel id="hn#azteca-13"><display-name>Azteca 13</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#canal-de-las-estrellas"><display-name>Las Estrellas</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#canal-11-sotel-hd"><display-name>Canal 11 HD</display-name><url>https://mi.tv</url></channel>
 <channel id="Azteca7.mx@SD"><display-name>Azteca 7</display-name><icon src="https://i.imgur.com/UtFXjIn.png"/><url>https://mi.tv</url></channel>
-<channel id="Canal11.hn@SD"><display-name>Canal 11</display-name><icon src="https://i.imgur.com/Sht2Rd4.png"/><url>https://mi.tv</url></channel>
-<channel id="Televicentro.hn@SD"><display-name>Canal 5</display-name><url>https://mi.tv</url></channel>
 <channel id="hn#amc"><display-name>AMC</display-name><url>https://mi.tv</url></channel>
 <channel id="hn#az-corazon"><display-name>Az Corazón</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#boomerang-cartoon"><display-name>Cartoonito</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#bloomberg"><display-name>Bloomberg</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#cinema"><display-name>Cinema+</display-name><url>https://mi.tv</url></channel>
 <channel id="hn#axn"><display-name>AXN</display-name><url>https://mi.tv</url></channel>
-<channel id="BethelTV.pe@SD"><display-name>Bethel</display-name><icon src="https://i.imgur.com/zCVh765.png"/><url>https://mi.tv</url></channel>
-<channel id="hn#cinecanal-hd"><display-name>Cinecanal HD</display-name><url>https://mi.tv</url></channel>
-<channel id="Cinecanal.us@Pacific"><display-name>Cinecanal</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png"/><url>https://mi.tv</url></channel>
-<channel id="hn#beat-tv"><display-name>Beat TV</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#cine-latino"><display-name>Cinelatino</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#chocolate"><display-name>Chocolate</display-name><url>https://mi.tv</url></channel>
-<channel id="Bandamax.mx@SD"><display-name>Bandamax</display-name><icon src="https://i.imgur.com/4DfnOTA.png"/><url>https://mi.tv</url></channel>
-<channel id="CDMInternacional.pr@SD"><display-name>CDM - Cadena de Milagros</display-name><icon src="https://i.imgur.com/N7IneVk.png"/><url>https://mi.tv</url></channel>
-<channel id="CCIChannel.hn@SD"><display-name>CCI Channel</display-name><icon src="https://i.imgur.com/c6hm03f.png"/><url>https://mi.tv</url></channel>
+<channel id="hn#tve"><display-name>TVE</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#tru-tv"><display-name>TruTV</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#todo-deportes-tdtv"><display-name>Todo Deportes</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#tnt-series"><display-name>TNT Series</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#tnt-hd"><display-name>TNT HD</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#tnt"><display-name>TNT</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#tlnovelas"><display-name>TLNovelas</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#telesur"><display-name>teleSUR</display-name><url>https://mi.tv</url></channel>
+<channel id="Telesistema3y7.hn@SD"><display-name>Telesistema 3 y 7</display-name><icon src="https://i.imgur.com/5viHgRa.png"/><url>https://mi.tv</url></channel>
+<channel id="hn#telered-21"><display-name>Telered21</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#telemundo"><display-name>Telemundo</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#telehit"><display-name>Telehit</display-name><url>https://mi.tv</url></channel>
+<channel id="Teleceiba.hn@SD"><display-name>Teleceiba</display-name><icon src="https://i.imgur.com/oPSfsvy.png"/><url>https://mi.tv</url></channel>
+<channel id="Telecadena7y4.hn@SD"><display-name>Telecadena 7 y 4</display-name><icon src="https://i.imgur.com/3gzFNog.png"/><url>https://mi.tv</url></channel>
+<channel id="hn#tele-nostalgia"><display-name>Telenostalgia</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#tdn"><display-name>TDN</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#tcm"><display-name>TCM</display-name><url>https://mi.tv</url></channel>
 <channel id="hn#syfy"><display-name>Syfy</display-name><url>https://mi.tv</url></channel>
 <channel id="hn#suyapa-tv"><display-name>Suyapa TV</display-name><url>https://mi.tv</url></channel>
 <channel id="hn#suyapa-educativa-tv"><display-name>Suyapa Educativa TV</display-name><url>https://mi.tv</url></channel>
@@ -103,17 +102,25 @@
 <channel id="CubavisionInternacional.cu@SD"><display-name>Cubavisión</display-name><icon src="https://i.imgur.com/0ZHm9f6.png"/><url>https://mi.tv</url></channel>
 <channel id="hn#cnn-en-espanol"><display-name>CNN en Español</display-name><url>https://mi.tv</url></channel>
 <channel id="hn#cnn"><display-name>CNN</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#tnt-series"><display-name>TNT Series</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#tnt-hd"><display-name>TNT HD</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#tnt"><display-name>TNT</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#telesur"><display-name>teleSUR</display-name><url>https://mi.tv</url></channel>
-<channel id="Telesistema3y7.hn@SD"><display-name>Telesistema 3 y 7</display-name><icon src="https://i.imgur.com/5viHgRa.png"/><url>https://mi.tv</url></channel>
-<channel id="hn#telered-21"><display-name>Telered21</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#telemundo"><display-name>Telemundo</display-name><url>https://mi.tv</url></channel>
-<channel id="Teleceiba.hn@SD"><display-name>Teleceiba</display-name><icon src="https://i.imgur.com/oPSfsvy.png"/><url>https://mi.tv</url></channel>
-<channel id="Telecadena7y4.hn@SD"><display-name>Telecadena 7 y 4</display-name><icon src="https://i.imgur.com/3gzFNog.png"/><url>https://mi.tv</url></channel>
-<channel id="hn#tele-nostalgia"><display-name>Telenostalgia</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#tdn"><display-name>TDN</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#cinema"><display-name>Cinema+</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#cinecanal-hd"><display-name>Cinecanal HD</display-name><url>https://mi.tv</url></channel>
+<channel id="Cinecanal.us@Pacific"><display-name>Cinecanal</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png"/><url>https://mi.tv</url></channel>
+<channel id="hn#cine-latino"><display-name>Cinelatino</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#chocolate"><display-name>Chocolate</display-name><url>https://mi.tv</url></channel>
+<channel id="CDMInternacional.pr@SD"><display-name>CDM - Cadena de Milagros</display-name><icon src="https://i.imgur.com/N7IneVk.png"/><url>https://mi.tv</url></channel>
+<channel id="CCIChannel.hn@SD"><display-name>CCI Channel</display-name><icon src="https://i.imgur.com/c6hm03f.png"/><url>https://mi.tv</url></channel>
+<channel id="hn#cartoon-network"><display-name>Cartoon Network</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#caracol-internacional"><display-name>Caracol Internacional</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#canal-de-las-estrellas"><display-name>Las Estrellas</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#canal-11-sotel-hd"><display-name>Canal 11 HD</display-name><url>https://mi.tv</url></channel>
+<channel id="Canal11.hn@SD"><display-name>Canal 11</display-name><icon src="https://i.imgur.com/Sht2Rd4.png"/><url>https://mi.tv</url></channel>
+<channel id="Televicentro.hn@SD"><display-name>Canal 5</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#boomerang-cartoon"><display-name>Cartoonito</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#bloomberg"><display-name>Bloomberg</display-name><url>https://mi.tv</url></channel>
+<channel id="BethelTV.pe@SD"><display-name>Bethel</display-name><icon src="https://i.imgur.com/zCVh765.png"/><url>https://mi.tv</url></channel>
+<channel id="hn#beat-tv"><display-name>Beat TV</display-name><url>https://mi.tv</url></channel>
+<channel id="Bandamax.mx@SD"><display-name>Bandamax</display-name><icon src="https://i.imgur.com/4DfnOTA.png"/><url>https://mi.tv</url></channel>
+<channel id="UniversalTVLatinAmerica.us@Panregional"><display-name>Universal TV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/960px-Universal_TV_logo.svg.png"/><url>https://mi.tv</url></channel>
 <channel id="hn#warner"><display-name>Warner Channel</display-name><url>https://mi.tv</url></channel>
 <channel id="VTV.hn@SD"><display-name>VTV</display-name><icon src="https://i.imgur.com/CsPkwD5.png"/><url>https://mi.tv</url></channel>
 <channel id="hn#vh1-classic-usa"><display-name>VH1 Classic USA</display-name><url>https://mi.tv</url></channel>
@@ -121,15 +128,8 @@
 <channel id="hn#ve-plus-tv"><display-name>Ve Plus TV</display-name><url>https://mi.tv</url></channel>
 <channel id="hn#utv-universidad-autonoma"><display-name>UTV - Universidad Autónoma</display-name><url>https://mi.tv</url></channel>
 <channel id="hn#univision"><display-name>Univision</display-name><url>https://mi.tv</url></channel>
-<channel id="UniversalTVLatinAmerica.us@Panregional"><display-name>Universal TV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/960px-Universal_TV_logo.svg.png"/><url>https://mi.tv</url></channel>
-<channel id="hn#tve"><display-name>TVE</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#tru-tv"><display-name>TruTV</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#todo-deportes-tdtv"><display-name>Todo Deportes</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#telehit"><display-name>Telehit</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#tcm"><display-name>TCM</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#venus"><display-name>Venus</display-name><url>https://mi.tv</url></channel>
 <channel id="hn#tvh"><display-name>TVH</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#tlnovelas"><display-name>TLNovelas</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#venus"><display-name>Venus</display-name><url>https://mi.tv</url></channel>
 <programme start="20260520060000 +0000" stop="20260520070000 +0000" channel="3ABNLatino.us@SD"><title lang="es">3ABN Hoy cocina</title><desc lang="es">Emisión culinaria que ofrece recetas deliciosas, nutritivas, fáciles de hacer y prácticas para que pongas a prueba tus sentidos con los aromas y sabores que deleitarán tu paladar, y te convierten en el mejor anfitrión de tu hogar.</desc><category lang="es">- Sabores de Italia - Invitados: Nmaculada Inés Duarte, Chef Inés</category><image>https://cdn.mitvstatic.com/programs/hn_3abn-hoy-cocina-sabores-de-italia-invitados-nmaculada-ines-duarte-chef-ines-1_l_m.jpg</image></programme>
 <programme start="20260520070000 +0000" stop="20260520080000 +0000" channel="3ABNLatino.us@SD"><title lang="es">Los mensajes de los tres ángeles</title><desc lang="es">Esta campaña consiste de 24 sermones que explicarán y aclararán estos mensajes relevantes y oportunos que se encuentran en Apocalipsis 14:6-13.</desc><category lang="es">- El bendito descanso y la hoz aguda</category><image>https://cdn.mitvstatic.com/programs/hn_los-mensajes-de-los-tres-angeles-el-bendito-descanso-y-la-hoz-aguda_l_m.jpg</image></programme>
 <programme start="20260520080000 +0000" stop="20260520083000 +0000" channel="3ABNLatino.us@SD"><title lang="es">Descubra</title><desc lang="es">Frank González, con su calidez habitual, abre sus ojos a nuevos descubrimientos bíblicos. Un diálogo abierto y afable, sobre inquietudes humanas.</desc><category lang="es">- Quién verá al señor</category><image>https://cdn.mitvstatic.com/programs/hn_descubra-quien-vera-al-senor_l_m.jpg</image></programme>
@@ -2603,8 +2603,8 @@
 <programme start="20260520170000 +0000" stop="20260520210000 +0000" channel="hn#cinema"><title lang="es">Cinema +</title><category lang="es">Variedades</category><image>https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg</image></programme>
 <programme start="20260520210000 +0000" stop="20260521010000 +0000" channel="hn#cinema"><title lang="es">Cinema +</title><category lang="es">Variedades</category><image>https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg</image></programme>
 <programme start="20260521010000 +0000" stop="20260521050000 +0000" channel="hn#cinema"><title lang="es">Cinema +</title><category lang="es">Variedades</category><image>https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg</image></programme>
-<programme start="20260521050000 +0000" stop="20260521060000 +0000" channel="hn#cinema"><title lang="es">Cinema +</title><category lang="es">Variedades</category><image>https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg</image></programme>
 <programme start="20260521050000 +0000" stop="20260521090000 +0000" channel="hn#cinema"><title lang="es">Cinema +</title><category lang="es">Variedades</category><image>https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg</image></programme>
+<programme start="20260521050000 +0000" stop="20260521060000 +0000" channel="hn#cinema"><title lang="es">Cinema +</title><category lang="es">Variedades</category><image>https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg</image></programme>
 <programme start="20260521090000 +0000" stop="20260521130000 +0000" channel="hn#cinema"><title lang="es">Cinema +</title><category lang="es">Variedades</category><image>https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg</image></programme>
 <programme start="20260521130000 +0000" stop="20260521170000 +0000" channel="hn#cinema"><title lang="es">Cinema +</title><category lang="es">Variedades</category><image>https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg</image></programme>
 <programme start="20260521170000 +0000" stop="20260521210000 +0000" channel="hn#cinema"><title lang="es">Cinema +</title><category lang="es">Variedades</category><image>https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg</image></programme>
@@ -7049,8 +7049,8 @@
 <programme start="20260522000000 +0000" stop="20260522010000 +0000" channel="hn#tele-nostalgia"><title lang="es">Con sentimiento popular</title><desc lang="es">Espacio dedicado a emitir lo mejor de la música popular colombiana y regional mexicana.</desc><category lang="es">Musical</category><image>https://cdn.mitvstatic.com/programs/hn_con-sentimiento-popular_l_m.jpg</image></programme>
 <programme start="20260522010000 +0000" stop="20260522030000 +0000" channel="hn#tele-nostalgia"><title lang="es">Programación videos</title><desc lang="es">Disfruta de los artistas y canciones favoritas de todos los tiempos con sus videos musicales, en este espacio que te lleva a recordar momentos especiales con hermosas y vibrantes melodías.</desc><category lang="es">Musical</category><image>https://cdn.mitvstatic.com/programs/hn_programacion-videos_l_m.jpg</image></programme>
 <programme start="20260522030000 +0000" stop="20260522040000 +0000" channel="hn#tele-nostalgia"><title lang="es">Estudio abierto</title><desc lang="es">Espacio dedicado a la música popular, donde son directamente los artistas los encargados de contarnos lo que acontece en su carrera profesional.</desc><category lang="es">Entrevista</category><image>https://cdn.mitvstatic.com/programs/hn_estudio-abierto_l_m.jpg</image></programme>
-<programme start="20260522040000 +0000" stop="20260522050000 +0000" channel="hn#tele-nostalgia"><title lang="es">Programación videos</title><desc lang="es">Disfruta de los artistas y canciones favoritas de todos los tiempos con sus videos musicales, en este espacio que te lleva a recordar momentos especiales con hermosas y vibrantes melodías.</desc><category lang="es">Musical</category><image>https://cdn.mitvstatic.com/programs/hn_programacion-videos_l_m.jpg</image></programme>
 <programme start="20260522040000 +0000" stop="20260522160000 +0000" channel="hn#tele-nostalgia"><title lang="es">Programación videos</title><desc lang="es">Disfruta de los artistas y canciones favoritas de todos los tiempos con sus videos musicales, en este espacio que te lleva a recordar momentos especiales con hermosas y vibrantes melodías.</desc><category lang="es">Musical</category><image>https://cdn.mitvstatic.com/programs/hn_programacion-videos_l_m.jpg</image></programme>
+<programme start="20260522040000 +0000" stop="20260522050000 +0000" channel="hn#tele-nostalgia"><title lang="es">Programación videos</title><desc lang="es">Disfruta de los artistas y canciones favoritas de todos los tiempos con sus videos musicales, en este espacio que te lleva a recordar momentos especiales con hermosas y vibrantes melodías.</desc><category lang="es">Musical</category><image>https://cdn.mitvstatic.com/programs/hn_programacion-videos_l_m.jpg</image></programme>
 <programme start="20260522160000 +0000" stop="20260522170000 +0000" channel="hn#tele-nostalgia"><title lang="es">Programación videos</title><desc lang="es">Disfruta de los artistas y canciones favoritas de todos los tiempos con sus videos musicales, en este espacio que te lleva a recordar momentos especiales con hermosas y vibrantes melodías.</desc><category lang="es">Musical</category><image>https://cdn.mitvstatic.com/programs/hn_programacion-videos_l_m.jpg</image></programme>
 <programme start="20260522170000 +0000" stop="20260522180000 +0000" channel="hn#tele-nostalgia"><title lang="es">El mano a mano</title><desc lang="es">Dos artistas se enfrentarán con sus más grandes éxitos musicales. Lo más importante es que el público será el encargado de elegir el artista ganador, a través de votaciones Online.</desc><category lang="es">Musical</category><image>https://cdn.mitvstatic.com/programs/hn_el-mano-a-mano_l_m.jpg</image></programme>
 <programme start="20260522180000 +0000" stop="20260523010000 +0000" channel="hn#tele-nostalgia"><title lang="es">Programación videos</title><desc lang="es">Disfruta de los artistas y canciones favoritas de todos los tiempos con sus videos musicales, en este espacio que te lleva a recordar momentos especiales con hermosas y vibrantes melodías.</desc><category lang="es">Musical</category><image>https://cdn.mitvstatic.com/programs/hn_programacion-videos_l_m.jpg</image></programme>
@@ -7183,8 +7183,8 @@
 <programme start="20260522010000 +0000" stop="20260522020000 +0000" channel="hn#telered-21"><title lang="es">Urbano</title><category lang="es">Variedades</category><image>https://cdn.mitvstatic.com/programs/hn_urbano_l_m.jpg</image></programme>
 <programme start="20260522020000 +0000" stop="20260522030000 +0000" channel="hn#telered-21"><title lang="es">La calle me lo pidio</title><category lang="es">Musical</category><image>https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg</image></programme>
 <programme start="20260522030000 +0000" stop="20260522050000 +0000" channel="hn#telered-21"><title lang="es">Hit</title><desc lang="es">Un espacio de contenido musical para escuchar tus canciones preferidas.</desc><category lang="es">Musical</category><image>https://cdn.mitvstatic.com/programs/hn_hit_l_m.jpg</image></programme>
-<programme start="20260522050000 +0000" stop="20260522060000 +0000" channel="hn#telered-21"><title lang="es">Zona mix</title><desc lang="es">Programa musical con mezclas de DJ&apos;s.</desc><category lang="es">Musical</category><image>https://cdn.mitvstatic.com/programs/hn_zona-mix_l_m.jpg</image></programme>
 <programme start="20260522050000 +0000" stop="20260522070000 +0000" channel="hn#telered-21"><title lang="es">Zona mix</title><desc lang="es">Programa musical con mezclas de DJ&apos;s.</desc><category lang="es">Musical</category><image>https://cdn.mitvstatic.com/programs/hn_zona-mix_l_m.jpg</image></programme>
+<programme start="20260522050000 +0000" stop="20260522060000 +0000" channel="hn#telered-21"><title lang="es">Zona mix</title><desc lang="es">Programa musical con mezclas de DJ&apos;s.</desc><category lang="es">Musical</category><image>https://cdn.mitvstatic.com/programs/hn_zona-mix_l_m.jpg</image></programme>
 <programme start="20260522070000 +0000" stop="20260522120000 +0000" channel="hn#telered-21"><title lang="es">Fin de transmisión</title><desc lang="es">Fin de transmisión.</desc><category lang="es">Interés general</category><image>https://cdn.mitvstatic.com/programs/hn_fin-de-transmision_l_m.jpg</image></programme>
 <programme start="20260522120000 +0000" stop="20260522140000 +0000" channel="hn#telered-21"><title lang="es">Levantate</title><category lang="es">Variedades</category><image>https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg</image></programme>
 <programme start="20260522140000 +0000" stop="20260522150000 +0000" channel="hn#telered-21"><title lang="es">Zona mix</title><desc lang="es">Programa musical con mezclas de DJ&apos;s.</desc><category lang="es">Musical</category><image>https://cdn.mitvstatic.com/programs/hn_zona-mix_l_m.jpg</image></programme>
@@ -8593,8 +8593,8 @@
 <programme start="20260521030000 +0000" stop="20260521035000 +0000" channel="UniversalTVLatinAmerica.us@Panregional"><title lang="es">The Hunting Party</title><sub-title lang="es">Denise Glenn</sub-title><desc lang="es">El alumno se convierte en maestro cuando un asesino serial fugado del Pozo decide adoptar el estilo de matar de otro interno.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">0.7.0/1</episode-num><episode-num system="onscreen">S01E08</episode-num><image>https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg</image></programme>
 <programme start="20260521035000 +0000" stop="20260521044000 +0000" channel="UniversalTVLatinAmerica.us@Panregional"><title lang="es">Policías de Chicago</title><sub-title lang="es">Soplón</sub-title><desc lang="es">Mientras investigan un caso de homicidio relacionado con drogas, la unidad de inteligencia se encuentra obstaculizada por la cultura de no delatar que tiene el vecindario. Y Atwater descubre una conexión personal con el caso.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">4.3.0/1</episode-num><episode-num system="onscreen">S05E04</episode-num><image>https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg</image></programme>
 <programme start="20260521044000 +0000" stop="20260521053000 +0000" channel="UniversalTVLatinAmerica.us@Panregional"><title lang="es">Policías de Chicago</title><sub-title lang="es">Hogar</sub-title><desc lang="es">Cuando la unidad de inteligencia desbarata un laboratorio de metanfetaminas dirigido por el líder pandillero Marshall Carter, descubren una estafa de adopción mediante la cual niños adoptados son abandonados y luego vendidos por internet.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">4.4.0/1</episode-num><episode-num system="onscreen">S05E05</episode-num><image>https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg</image></programme>
-<programme start="20260521053000 +0000" stop="20260521062000 +0000" channel="UniversalTVLatinAmerica.us@Panregional"><title lang="es">Chicago Fire</title><sub-title lang="es">Helicóptero</sub-title><desc lang="es">Cuando una espantosa explosión de un helicóptero en una zona densamente poblada deja un tendal de restos en toda una manzana de la ciudad, los miembros del destacamento de bomberos se ponen en acción mientras corren peligro muchas vidas.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">2.7.0/1</episode-num><episode-num system="onscreen">S03E08</episode-num><image>https://cdn.mitvstatic.com/programs/hn_chicago-fire-s03e08-helicoptero_l_m.jpg</image></programme>
 <programme start="20260521053000 +0000" stop="20260521063000 +0000" channel="UniversalTVLatinAmerica.us@Panregional"><title lang="es">Chicago Fire</title><sub-title lang="es">Helicóptero</sub-title><desc lang="es">Cuando una espantosa explosión de un helicóptero en una zona densamente poblada deja un tendal de restos en toda una manzana de la ciudad, los miembros del destacamento de bomberos se ponen en acción mientras corren peligro muchas vidas.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">2.7.0/1</episode-num><episode-num system="onscreen">S03E08</episode-num><image>https://cdn.mitvstatic.com/programs/hn_chicago-fire-s03e08-helicoptero_l_m.jpg</image></programme>
+<programme start="20260521053000 +0000" stop="20260521062000 +0000" channel="UniversalTVLatinAmerica.us@Panregional"><title lang="es">Chicago Fire</title><sub-title lang="es">Helicóptero</sub-title><desc lang="es">Cuando una espantosa explosión de un helicóptero en una zona densamente poblada deja un tendal de restos en toda una manzana de la ciudad, los miembros del destacamento de bomberos se ponen en acción mientras corren peligro muchas vidas.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">2.7.0/1</episode-num><episode-num system="onscreen">S03E08</episode-num><image>https://cdn.mitvstatic.com/programs/hn_chicago-fire-s03e08-helicoptero_l_m.jpg</image></programme>
 <programme start="20260521062000 +0000" stop="20260521071000 +0000" channel="UniversalTVLatinAmerica.us@Panregional"><title lang="es">Chicago Fire</title><sub-title lang="es">Arresto en tránsito</sub-title><desc lang="es">Cuando el equipo responde a un llamado sobre un semirremolque que está perdiendo ácido clorhídrico en una intersección muy transitada, Casey y Dawson encuentran su relación puesta a prueba.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">2.8.0/1</episode-num><episode-num system="onscreen">S03E09</episode-num><image>https://cdn.mitvstatic.com/programs/hn_chicago-fire-s03e09-arresto-en-transito_l_m.jpg</image></programme>
 <programme start="20260521071000 +0000" stop="20260521080000 +0000" channel="UniversalTVLatinAmerica.us@Panregional"><title lang="es">Chicago Fire</title><sub-title lang="es">Santa Claus muerde</sub-title><desc lang="es">Una pareja está en peligro cuando se incendia su casa. Dawson y Casey son obligados a separarse. El festival de Chicago le da a Molly la oportunidad de lucirse.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">2.9.0/1</episode-num><episode-num system="onscreen">S03E10</episode-num><image>https://cdn.mitvstatic.com/programs/hn_chicago-fire-s03e10-santa-claus-muerde_l_m.jpg</image></programme>
 <programme start="20260521080000 +0000" stop="20260521084500 +0000" channel="UniversalTVLatinAmerica.us@Panregional"><title lang="es">Policías de Chicago</title><sub-title lang="es">Confidencial</sub-title><desc lang="es">Burgess trabaja con su primer informante criminal para encontrar a un despiadado proxeneta y desbaratar su red de prostitución.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">4.10.0/1</episode-num><episode-num system="onscreen">S05E11</episode-num><image>https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg</image></programme>
