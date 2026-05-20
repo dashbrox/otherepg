@@ -80,6 +80,7 @@
   <channel site="movistarplus.es" site_id="esp" lang="es" xmltv_id="">Eurosport 1</channel>
   <channel site="movistarplus.es" site_id="esp2" lang="es" xmltv_id="">Eurosport 2</channel>
   <channel site="movistarplus.es" site_id="esp3" lang="es" xmltv_id="">Esport 3</channel>
+  <channel site="movistarplus.es" site_id="esp4k" lang="es" xmltv_id="">Eurosport 4K</channel>
   <channel site="movistarplus.es" site_id="etb" lang="es" xmltv_id="">etb2ON</channel>
   <channel site="movistarplus.es" site_id="etb1" lang="es" xmltv_id="">etb1</channel>
   <channel site="movistarplus.es" site_id="etb2" lang="es" xmltv_id="">etb2</channel>
