@@ -1,5 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channels>
+  <channel site="tvpassport.com" site_id="5-star-max-hd--eastern/7093" lang="en" xmltv_id="">5 Star Max HD - Eastern</channel>
+  <channel site="tvpassport.com" site_id="abc-kabc-los-angeles-ca-hd/4552" lang="en" xmltv_id="">ABC (KABC) Los Angeles, CA HD</channel>
+  <channel site="tvpassport.com" site_id="abc-wabc-new-york-ny-hd/4553" lang="en" xmltv_id="">ABC (WABC) New York, NY HD</channel>
+  <channel site="tvpassport.com" site_id="actionmax--eastern-hd/7094" lang="en" xmltv_id="">ActionMax - Eastern HD</channel>
+  <channel site="tvpassport.com" site_id="bravo-usa-hd--eastern-feed/6120" lang="en" xmltv_id="">Bravo USA HD - Eastern Feed</channel>
+  <channel site="tvpassport.com" site_id="bravo-usa-hd--pacific-feed/16226" lang="en" xmltv_id="">Bravo USA HD - Pacific Feed</channel>
+  <channel site="tvpassport.com" site_id="cbs-wcbs-new-york-ny-hd/4555" lang="en" xmltv_id="">CBS (WCBS) New York, NY HD</channel>
+  <channel site="tvpassport.com" site_id="cnn-hd/4724" lang="en" xmltv_id="">CNN HD</channel>
+  <channel site="tvpassport.com" site_id="cw--network-eastern/1231" lang="en" xmltv_id="">CW - Network Eastern</channel>
+  <channel site="tvpassport.com" site_id="e-entertainment-usa-hd--east/6659" lang="en" xmltv_id="">E! Entertainment USA HD - East</channel>
+  <channel site="tvpassport.com" site_id="fox--eastern/1229" lang="en" xmltv_id="">FOX - Eastern</channel>
+  <channel site="tvpassport.com" site_id="hallmark-channel-hd--eastern/6213" lang="en" xmltv_id="">Hallmark Channel HD - Eastern</channel>
+  <channel site="tvpassport.com" site_id="hallmark-mystery-eastern--hd/6214" lang="en" xmltv_id="">Hallmark Mystery Eastern - HD</channel>
+  <channel site="tvpassport.com" site_id="hbo-2--eastern-feed-hd/6313" lang="en" xmltv_id="">HBO 2 - Eastern Feed HD</channel>
+  <channel site="tvpassport.com" site_id="hbo-comedy-hd--east/7105" lang="en" xmltv_id="">HBO Comedy HD - East</channel>
+  <channel site="tvpassport.com" site_id="hbo-latino-hbo-7-hd--eastern/7096" lang="en" xmltv_id="">HBO Latino (HBO 7) HD - Eastern</channel>
+  <channel site="tvpassport.com" site_id="hbo-signature-hbo-3--eastern-hd/7099" lang="en" xmltv_id="">HBO Signature (HBO 3) - Eastern HD</channel>
+  <channel site="tvpassport.com" site_id="hbo-zone-hd--east/7102" lang="en" xmltv_id="">HBO Zone HD - East</channel>
+  <channel site="tvpassport.com" site_id="moremax--eastern-hd/7097" lang="en" xmltv_id="">MoreMax - Eastern HD</channel>
+  <channel site="tvpassport.com" site_id="mtv-usa-hd--eastern/4525" lang="en" xmltv_id="">MTV USA HD - Eastern</channel>
+  <channel site="tvpassport.com" site_id="nbc--network-eastern/1227" lang="en" xmltv_id="">NBC - Network Eastern</channel>
+  <channel site="tvpassport.com" site_id="nbc-knbc-los-angeles-ca-hd/4558" lang="en" xmltv_id="">NBC (KNBC) Los Angeles, CA HD</channel>
+  <channel site="tvpassport.com" site_id="starz1--east-hd/3613" lang="en" xmltv_id="">STARZ1 - East HD</channel>
+  <channel site="tvpassport.com" site_id="starz-cinema-hd--eastern/7087" lang="en" xmltv_id="">Starz Cinema HD - Eastern</channel>
+  <channel site="tvpassport.com" site_id="starz-comedy-hd--eastern/7088" lang="en" xmltv_id="">Starz Comedy HD - Eastern</channel>
+  <channel site="tvpassport.com" site_id="starz-edge-hd--eastern/7089" lang="en" xmltv_id="">Starz Edge HD - Eastern</channel>
+  <channel site="tvpassport.com" site_id="starz-encore-action-hd--eastern/10812" lang="en" xmltv_id="">Starz Encore Action HD - Eastern</channel>
+  <channel site="tvpassport.com" site_id="starz-encore-family-hd--eastern/11441" lang="en" xmltv_id="">Starz Encore Family HD - Eastern</channel>
+  <channel site="tvpassport.com" site_id="starz-encore-suspense-hd--eastern/11437" lang="en" xmltv_id="">Starz Encore Suspense HD - Eastern</channel>
+  <channel site="tvpassport.com" site_id="the-tennis-channel-hd/7051" lang="en" xmltv_id="">The Tennis Channel HD</channel>
+  <channel site="tvpassport.com" site_id="tnt-hd--east-feed/3037" lang="en" xmltv_id="">TNT HD - East Feed</channel>
+  <channel site="tvpassport.com" site_id="trutv-usa--east-hd/6996" lang="en" xmltv_id="">truTV USA - East HD</channel>
   <channel site="tvpassport.com" site_id="tsn1-hd/2819" lang="en" xmltv_id="">TSN1 HD</channel>
   <channel site="tvpassport.com" site_id="tsn2-hd/5920" lang="en" xmltv_id="">TSN2 HD</channel>
   <channel site="tvpassport.com" site_id="tsn3-hd/13768" lang="en" xmltv_id="">TSN3 HD</channel>
