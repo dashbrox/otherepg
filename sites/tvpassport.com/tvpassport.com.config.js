@@ -64,10 +64,9 @@ module.exports = {
 
     return programs
   },
-  // ⚡ VERSIÓN OPTIMIZADA: sin recorrer el sitemap
   async channels() {
-    // Devuelve directamente los 5 canales TSN
     return [
+      // Original TSN channels
       {
         lang: 'en',
         site_id: 'tsn1-hd/2819',
@@ -92,6 +91,167 @@ module.exports = {
         lang: 'en',
         site_id: 'tsn5-hd/13770',
         name: 'TSN5 HD'
+      },
+      // New channels
+      {
+        lang: 'en',
+        site_id: 'e-entertainment-usa-hd--east/6659',
+        name: 'E! Entertainment USA HD - East'
+      },
+      {
+        lang: 'en',
+        site_id: 'bravo-usa-hd--eastern-feed/6120',
+        name: 'Bravo USA HD - Eastern Feed'
+      },
+      {
+        lang: 'en',
+        site_id: 'bravo-usa-hd--pacific-feed/16226',
+        name: 'Bravo USA HD - Pacific Feed'
+      },
+      {
+        lang: 'en',
+        site_id: 'abc-wabc-new-york-ny-hd/4553',
+        name: 'ABC (WABC) New York, NY HD'
+      },
+      {
+        lang: 'en',
+        site_id: 'abc-kabc-los-angeles-ca-hd/4552',
+        name: 'ABC (KABC) Los Angeles, CA HD'
+      },
+      {
+        lang: 'en',
+        site_id: 'nbc--network-eastern/1227',
+        name: 'NBC - Network Eastern'
+      },
+      {
+        lang: 'en',
+        site_id: 'nbc-knbc-los-angeles-ca-hd/4558',
+        name: 'NBC (KNBC) Los Angeles, CA HD'
+      },
+      {
+        lang: 'en',
+        site_id: 'cbs-wcbs-new-york-ny-hd/4555',
+        name: 'CBS (WCBS) New York, NY HD'
+      },
+      {
+        lang: 'en',
+        site_id: 'hallmark-channel-hd--eastern/6213',
+        name: 'Hallmark Channel HD - Eastern'
+      },
+      {
+        lang: 'en',
+        site_id: 'hallmark-mystery-eastern--hd/6214',
+        name: 'Hallmark Mystery Eastern - HD'
+      },
+      {
+        lang: 'en',
+        site_id: 'cw--network-eastern/1231',
+        name: 'CW - Network Eastern'
+      },
+      {
+        lang: 'en',
+        site_id: 'fox--eastern/1229',
+        name: 'FOX - Eastern'
+      },
+      {
+        lang: 'en',
+        site_id: 'cnn-hd/4724',
+        name: 'CNN HD'
+      },
+      {
+        lang: 'en',
+        site_id: 'the-tennis-channel-hd/7051',
+        name: 'The Tennis Channel HD'
+      },
+      {
+        lang: 'en',
+        site_id: 'hbo-latino-hbo-7-hd--eastern/7096',
+        name: 'HBO Latino (HBO 7) HD - Eastern'
+      },
+      {
+        lang: 'en',
+        site_id: 'hbo-2--eastern-feed-hd/6313',
+        name: 'HBO 2 - Eastern Feed HD'
+      },
+      {
+        lang: 'en',
+        site_id: 'hbo-comedy-hd--east/7105',
+        name: 'HBO Comedy HD - East'
+      },
+      {
+        lang: 'en',
+        site_id: 'hbo-signature-hbo-3--eastern-hd/7099',
+        name: 'HBO Signature (HBO 3) - Eastern HD'
+      },
+      {
+        lang: 'en',
+        site_id: 'hbo-zone-hd--east/7102',
+        name: 'HBO Zone HD - East'
+      },
+      {
+        lang: 'en',
+        site_id: '5-star-max-hd--eastern/7093',
+        name: '5 Star Max HD - Eastern'
+      },
+      {
+        lang: 'en',
+        site_id: 'actionmax--eastern-hd/7094',
+        name: 'ActionMax - Eastern HD'
+      },
+      {
+        lang: 'en',
+        site_id: 'moremax--eastern-hd/7097',
+        name: 'MoreMax - Eastern HD'
+      },
+      {
+        lang: 'en',
+        site_id: 'starz1--east-hd/3613',
+        name: 'STARZ1 - East HD'
+      },
+      {
+        lang: 'en',
+        site_id: 'starz-edge-hd--eastern/7089',
+        name: 'Starz Edge HD - Eastern'
+      },
+      {
+        lang: 'en',
+        site_id: 'starz-encore-action-hd--eastern/10812',
+        name: 'Starz Encore Action HD - Eastern'
+      },
+      {
+        lang: 'en',
+        site_id: 'starz-cinema-hd--eastern/7087',
+        name: 'Starz Cinema HD - Eastern'
+      },
+      {
+        lang: 'en',
+        site_id: 'starz-comedy-hd--eastern/7088',
+        name: 'Starz Comedy HD - Eastern'
+      },
+      {
+        lang: 'en',
+        site_id: 'starz-encore-family-hd--eastern/11441',
+        name: 'Starz Encore Family HD - Eastern'
+      },
+      {
+        lang: 'en',
+        site_id: 'starz-encore-suspense-hd--eastern/11437',
+        name: 'Starz Encore Suspense HD - Eastern'
+      },
+      {
+        lang: 'en',
+        site_id: 'mtv-usa-hd--eastern/4525',
+        name: 'MTV USA HD - Eastern'
+      },
+      {
+        lang: 'en',
+        site_id: 'tnt-hd--east-feed/3037',
+        name: 'TNT HD - East Feed'
+      },
+      {
+        lang: 'en',
+        site_id: 'trutv-usa--east-hd/6996',
+        name: 'truTV USA - East HD'
       }
     ]
   }
