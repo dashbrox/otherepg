@@ -14,6 +14,7 @@
   <channel site="sky.com" site_id="1262" lang="en" xmltv_id="">RTÉ 2FM</channel>
   <channel site="sky.com" site_id="1263" lang="en" xmltv_id="">RTÉ R na G</channel>
   <channel site="sky.com" site_id="1264" lang="en" xmltv_id="">RTÉ Lyric fm</channel>
+  <channel site="sky.com" site_id="1800" lang="en" xmltv_id="">5</channel>
   <channel site="sky.com" site_id="2021" lang="en" xmltv_id="">BBC R Cymru 2</channel>
   <channel site="sky.com" site_id="2026" lang="en" xmltv_id="">BBC R5L</channel>
   <channel site="sky.com" site_id="2034" lang="en" xmltv_id="">BBC R5SX</channel>
@@ -53,6 +54,7 @@
   <channel site="sky.com" site_id="4158" lang="en" xmltv_id="">WRN Europe</channel>
   <channel site="sky.com" site_id="4163" lang="en" xmltv_id="">EWTN Catholic</channel>
   <channel site="sky.com" site_id="4611" lang="en" xmltv_id="">LEGEND</channel>
+  <channel site="sky.com" site_id="6761" lang="en" xmltv_id="">QUEST</channel>
   <channel site="sky.com" site_id="8040" lang="en" xmltv_id="">My Sky</channel>
   <channel site="sky.com" site_id="8266" lang="en" xmltv_id="">My Account</channel>
   <channel site="sky.com" site_id="8301" lang="en" xmltv_id="">Program Your Remote</channel>
@@ -223,7 +225,6 @@
   <channel site="sky.com" site_id="1320" lang="en" xmltv_id="GREATtv.ie@SD">Great! TV</channel>
   <channel site="sky.com" site_id="5338" lang="en" xmltv_id="GREATtv.uk@Plus1">Great! TV+1</channel>
   <channel site="sky.com" site_id="4266" lang="en" xmltv_id="GREATtv.uk@SD">Great! TV</channel>
-  <channel site="sky.com" site_id="2408" lang="en" xmltv_id="HGTV.ie@SD">HGTV</channel>
   <channel site="sky.com" site_id="2309" lang="en" xmltv_id="HGTV.uk@Plus1">HGTV+1</channel>
   <channel site="sky.com" site_id="2301" lang="en" xmltv_id="HGTV.uk@SD">HGTV</channel>
   <channel site="sky.com" site_id="3580" lang="en" xmltv_id="HighStreetTV1.uk@SD">High Street TV 1</channel>
@@ -361,7 +362,6 @@
   <channel site="sky.com" site_id="3355" lang="en" xmltv_id="SangatTV.uk@SD">Sangat</channel>
   <channel site="sky.com" site_id="1100" lang="en" xmltv_id="SanskarTV.in@SD">Sanskar</channel>
   <channel site="sky.com" site_id="3650" lang="en" xmltv_id="SikhChannel.uk@SD">Sikh Channel</channel>
-  <channel site="sky.com" site_id="1229" lang="en" xmltv_id="SkyArts.ie@SD">Sky Arts</channel>
   <channel site="sky.com" site_id="4063" lang="en" xmltv_id="SkyArts.uk@HD">Sky Arts HD</channel>
   <channel site="sky.com" site_id="1752" lang="en" xmltv_id="SkyArts.uk@SD">Sky Arts</channel>
   <channel site="sky.com" site_id="1414" lang="en" xmltv_id="SkyAtlantic.ie@SD">Sky Atlantic</channel>
@@ -407,8 +407,6 @@
   <channel site="sky.com" site_id="4645" lang="en" xmltv_id="SkyNewsArabia.ae@SD">SkyNewsArabia</channel>
   <channel site="sky.com" site_id="4074" lang="en" xmltv_id="SkySciFi.uk@HD">Sky Sci-Fi HD</channel>
   <channel site="sky.com" site_id="2505" lang="en" xmltv_id="SkySciFi.uk@SD">Sky Sci-Fi</channel>
-  <channel site="sky.com" site_id="1278" lang="en" xmltv_id="SkyShowcase.ie@HD">SkyShowcaseHD</channel>
-  <channel site="sky.com" site_id="1279" lang="en" xmltv_id="SkyShowcase.ie@SD">Sky Showcase</channel>
   <channel site="sky.com" site_id="1275" lang="en" xmltv_id="SkyShowcase.uk@HD">SkyShowcaseHD</channel>
   <channel site="sky.com" site_id="1277" lang="en" xmltv_id="SkyShowcase.uk@Plus1">SkyShowcase+1</channel>
   <channel site="sky.com" site_id="3839" lang="en" xmltv_id="SkySportsArena.ie@SD">SkySp+</channel>
