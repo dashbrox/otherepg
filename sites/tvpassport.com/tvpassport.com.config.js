@@ -1,13 +1,13 @@
-const axios = require('axios')
-const dayjs = require('dayjs')
-const cheerio = require('cheerio')
-const utc = require('dayjs/plugin/utc')
-const timezone = require('dayjs/plugin/timezone')
-const customParseFormat = require('dayjs/plugin/customParseFormat')
+const axios = require('axios');
+const dayjs = require('dayjs');
+const cheerio = require('cheerio');
+const utc = require('dayjs/plugin/utc');
+const timezone = require('dayjs/plugin/timezone');
+const customParseFormat = require('dayjs/plugin/customParseFormat');
 
-dayjs.extend(utc)
-dayjs.extend(timezone)
-dayjs.extend(customParseFormat)
+dayjs.extend(utc);
+dayjs.extend(timezone);
+dayjs.extend(customParseFormat);
 
 module.exports = {
   site: 'tvpassport.com',
@@ -15,7 +15,7 @@ module.exports = {
   url({ channel, date }) {
     return `https://www.tvpassport.com/tv-listings/stations/${channel.site_id}/${date.format(
       'YYYY-MM-DD'
-    )}`
+    )}`;
   },
   async request() {
     return {
@@ -23,32 +23,37 @@ module.exports = {
       headers: {
         Cookie: await getCookie()
       }
-    }
+    };
   },
   parser: function ({ content }) {
-    let programs = []
-    const currentTimezone = parseCurrentTimezone(content)
-    const items = parseItems(content)
+    let programs = [];
+    const currentTimezone = parseCurrentTimezone(content);
+    const items = parseItems(content);
 
     for (let item of items) {
-      const $item = cheerio.load(item)
-      const start = parseStart($item, currentTimezone)
-      const duration = parseDuration($item)
-      const stop = start.add(duration, 'm')
+      const $item = cheerio.load(item);
+      const start = parseStart($item, currentTimezone);
+      const duration = parseDuration($item);
+      const stop = start.add(duration, 'm');
 
-      let title = parseTitle($item)
-      let subtitle = parseSubTitle($item)
+      // --- MEJORAS DE TÍTULO, SUBTÍTULO Y AÑO ---
+      let title = parseTitle($item);
+      let subtitle = parseSubTitle($item);
+      let year = parseYear($item);
 
-      if (!title) continue
-
-      if (title === 'Movie' || title === 'Cinéma') {
-        title = subtitle
-        subtitle = null
+      // Caso especial para Películas (cuando el título es 'Movie' o 'Cinéma')
+      if (title === 'Movie' || title === 'Cinéma' || title === 'Film') {
+        const realTitle = $item('strong a').text().trim();
+        if (realTitle) {
+          title = realTitle; // Reemplaza 'Movie' por 'Flow', 'Euphoria', etc.
+        }
       }
 
+      if (!title) continue;
+
       programs.push({
-        title,
-        subtitle,
+        title: title,
+        subtitle: subtitle,
         description: parseDescription($item),
         image: parseImage($item),
         category: parseCategory($item),
@@ -56,13 +61,13 @@ module.exports = {
         actors: parseActors($item),
         guest: parseGuest($item),
         director: parseDirector($item),
-        year: parseYear($item),
-        start,
-        stop
-      })
+        year: year,
+        start: start,
+        stop: stop
+      });
     }
 
-    return programs
+    return programs;
   },
   async channels() {
     return [
@@ -253,90 +258,119 @@ module.exports = {
         site_id: 'trutv-usa--east-hd/6996',
         name: 'truTV USA - East HD'
       }
-    ]
+    ];
   }
-}
+};
 
-// El resto de funciones auxiliares se mantienen igual
+// --- FUNCIONES AUXILIARES ---
+
 async function getCookie() {
-  const res = await axios.get('https://www.tvpassport.com/tv-listings')
-  const setCookie = res.headers['set-cookie']
-  if (!setCookie || setCookie.length === 0) return ''
-  const cookies = setCookie.map(cookie => cookie.split(';')[0])
-  return cookies.join('; ')
+  const res = await axios.get('https://www.tvpassport.com/tv-listings');
+  const setCookie = res.headers['set-cookie'];
+  if (!setCookie || setCookie.length === 0) return '';
+  const cookies = setCookie.map(cookie => cookie.split(';')[0]);
+  return cookies.join('; ');
 }
 
-function parseDescription($item) {
-  return $item('*').data('description')
+function parseItems(content) {
+  if (!content) return [];
+  const $ = cheerio.load(content);
+  return $('.station-listings .list-group-item').toArray();
 }
 
-function parseImage($item) {
-  const showpicture = $item('*').data('showpicture')
-  if (!showpicture) return null
-  const url = new URL(showpicture, 'https://cdn.tvpassport.com/image/show/960x540/')
-  return url.href
+function parseCurrentTimezone(content) {
+  if (!content) return 'America/New_York';
+  const $ = cheerio.load(content);
+  return $('#timezone_selector').val();
 }
 
 function parseTitle($item) {
-  return $item('*').data('showname')?.toString() || null
+  // PRIORIDAD 1: data-showname (Para deportes y series)
+  const showname = $item('*').data('showname');
+  
+  // SI ES UNA PELÍCULA (Movie/Cinéma/Film), intenta obtener el título real del DOM
+  if (showname && (showname === 'Movie' || showname === 'Cinéma' || showname === 'Film')) {
+    const domTitle = $item('strong a').text().trim();
+    return domTitle || showname;
+  }
+  
+  // PARA DEPORTES Y SERIES: Devuelve el título base (ej: "Courtside - Live", "Euphoria")
+  return showname || $item('strong a').text().trim() || null;
 }
 
 function parseSubTitle($item) {
-  return $item('*').data('episodetitle')?.toString() || null
+  // PRIORIDAD 1: data-episodetitle (Para series y deportes)
+  const episodeTitle = $item('*').data('episodetitle');
+  if (episodeTitle) {
+    return episodeTitle.toString();
+  }
+  return null;
+}
+
+function parseDescription($item) {
+  // Obtiene el texto del párrafo <p> (El texto azul)
+  const descText = $item('p').text().trim();
+  if (descText) {
+    return descText.replace(/\s+/g, ' ');
+  }
+  return $item('*').data('description') || null;
 }
 
 function parseYear($item) {
-  return $item('*').data('year')?.toString() || null
+  // 1. Intenta obtener el año del atributo data-year
+  const yearData = $item('*').data('year');
+  if (yearData) return yearData.toString();
+
+  // 2. Si no, busca (YYYY) en el texto del título (Para películas como "Flow (2024)")
+  const strongText = $item('strong').text().trim();
+  const yearMatch = strongText.match(/\((\d{4})\)/);
+  
+  return yearMatch ? yearMatch[1] : null;
+}
+
+function parseStart($item, currentTimezone) {
+  const time = $item('*').data('st');
+  return dayjs.tz(time, 'YYYY-MM-DD HH:mm:ss', currentTimezone);
+}
+
+function parseDuration($item) {
+  const duration = $item('*').data('duration');
+  return parseInt(duration);
+}
+
+function parseImage($item) {
+  const showpicture = $item('*').data('showpicture');
+  if (!showpicture) return null;
+  const url = new URL(showpicture, 'https://cdn.tvpassport.com/image/show/960x540/');
+  return url.href;
 }
 
 function parseCategory($item) {
-  const showtype = $item('*').data('showtype')
-  return showtype ? showtype.split(', ') : []
+  const showtype = $item('*').data('showtype');
+  return showtype ? showtype.split(', ') : [];
 }
 
 function parseActors($item) {
-  const cast = $item('*').data('cast')
-  return cast ? cast.split(', ') : []
+  const cast = $item('*').data('cast');
+  return cast ? cast.split(', ') : [];
 }
 
 function parseDirector($item) {
-  const director = $item('*').data('director')
-  return director ? director.split(', ') : []
+  const director = $item('*').data('director');
+  return director ? director.split(', ') : [];
 }
 
 function parseGuest($item) {
-  const guest = $item('*').data('guest')
-  return guest ? guest.split(', ') : []
+  const guest = $item('*').data('guest');
+  return guest ? guest.split(', ') : [];
 }
 
 function parseRating($item) {
-  const rating = $item('*').data('rating')
+  const rating = $item('*').data('rating');
   return rating
     ? {
         system: 'MPA',
         value: rating.replace(/^TV/, 'TV-')
       }
-    : null
-}
-
-function parseStart($item, currentTimezone) {
-  const time = $item('*').data('st')
-  return dayjs.tz(time, 'YYYY-MM-DD HH:mm:ss', currentTimezone)
-}
-
-function parseDuration($item) {
-  const duration = $item('*').data('duration')
-  return parseInt(duration)
-}
-
-function parseItems(content) {
-  if (!content) return []
-  const $ = cheerio.load(content)
-  return $('.station-listings .list-group-item').toArray()
-}
-
-function parseCurrentTimezone(content) {
-  if (!content) return 'America/New_York'
-  const $ = cheerio.load(content)
-  return $('#timezone_selector').val()
+    : null;
 }
