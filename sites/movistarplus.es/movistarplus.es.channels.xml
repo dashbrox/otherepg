@@ -127,7 +127,16 @@
   <channel site="movistarplus.es" site_id="mligs" lang="es" xmltv_id="">LALIGA TV HYPERMOTION</channel>
   <channel site="movistarplus.es" site_id="mligs2" lang="es" xmltv_id="">LALIGA TV HYPERMOTION 2</channel>
   <channel site="movistarplus.es" site_id="mligs3" lang="es" xmltv_id="">LALIGA TV HYPERMOTION 3</channel>
+  <channel site="movistarplus.es" site_id="mligs4" lang="es" xmltv_id="">LALIGA TV HYPERMOTION 4</channel>
+  <channel site="movistarplus.es" site_id="mligs5" lang="es" xmltv_id="">LALIGA TV HYPERMOTION 5</channel>
+  <channel site="movistarplus.es" site_id="mligs6" lang="es" xmltv_id="">LALIGA TV HYPERMOTION 6</channel>
+  <channel site="movistarplus.es" site_id="mligs7" lang="es" xmltv_id="">LALIGA TV HYPERMOTION 7</channel>
+  <channel site="movistarplus.es" site_id="mligs8" lang="es" xmltv_id="">LALIGA TV HYPERMOTION 8</channel>
+  <channel site="movistarplus.es" site_id="mligs9" lang="es" xmltv_id="">LALIGA TV HYPERMOTION 9</channel>
   <channel site="movistarplus.es" site_id="mliguh" lang="es" xmltv_id="">M+ LALIGA HDR</channel>
+  <channel site="movistarplus.es" site_id="mlih10" lang="es" xmltv_id="">LALIGA TV HYPERMOTION 10</channel>
+  <channel site="movistarplus.es" site_id="mlih11" lang="es" xmltv_id="">LALIGA TV HYPERMOTION 11</channel>
+  <channel site="movistarplus.es" site_id="mlih12" lang="es" xmltv_id="">LALIGA TV HYPERMOTION 12</channel>
   <channel site="movistarplus.es" site_id="mliuhd" lang="es" xmltv_id="">M+ LALIGA 2 HDR</channel>
   <channel site="movistarplus.es" site_id="morig" lang="es" xmltv_id="">M+ Originales</channel>
   <channel site="movistarplus.es" site_id="mplus" lang="es" xmltv_id="">Movistar Plus</channel>
