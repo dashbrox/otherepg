@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv date="20260523">
 <channel id="7tvmur"><display-name>7 TV Región Murcia</display-name><url>https://movistarplus.es</url></channel>
-<channel id="13tv"><display-name>TRECE</display-name><url>https://movistarplus.es</url></channel>
-<channel id="3_24"><display-name>3CatInfo</display-name><url>https://movistarplus.es</url></channel>
-<channel id="andatv"><display-name>Andalucía TV</display-name><url>https://movistarplus.es</url></channel>
-<channel id="24h"><display-name>24 Horas</display-name><url>https://movistarplus.es</url></channel>
-<channel id="aljaze"><display-name>Al Jazeera English</display-name><url>https://movistarplus.es</url></channel>
-<channel id="a3"><display-name>Antena 3</display-name><url>https://movistarplus.es</url></channel>
+<channel id="veo7"><display-name>Veo7</display-name><url>https://movistarplus.es</url></channel>
+<channel id="vamosd"><display-name>M+ Vamos</display-name><url>https://movistarplus.es</url></channel>
+<channel id="vam2sd"><display-name>M+ Vamos 2</display-name><url>https://movistarplus.es</url></channel>
+<channel id="usop11"><display-name>M+ Deportes 5</display-name><url>https://movistarplus.es</url></channel>
+<channel id="usop3"><display-name>M+ Deportes 4</display-name><url>https://movistarplus.es</url></channel>
 <channel id="usop2"><display-name>M+ Deportes 3</display-name><url>https://movistarplus.es</url></channel>
 <channel id="ucl"><display-name>UCL</display-name><url>https://movistarplus.es</url></channel>
 <channel id="ubeat"><display-name>Ubeat</display-name><url>https://movistarplus.es</url></channel>
@@ -184,11 +183,12 @@
 <channel id="aragon"><display-name>Aragón TV Int</display-name><url>https://movistarplus.es</url></channel>
 <channel id="apunt"><display-name>À Punt</display-name><url>https://movistarplus.es</url></channel>
 <channel id="antv"><display-name>Canal Sur Andalucía</display-name><url>https://movistarplus.es</url></channel>
-<channel id="veo7"><display-name>Veo7</display-name><url>https://movistarplus.es</url></channel>
-<channel id="vam2sd"><display-name>M+ Vamos 2</display-name><url>https://movistarplus.es</url></channel>
-<channel id="usop11"><display-name>M+ Deportes 5</display-name><url>https://movistarplus.es</url></channel>
-<channel id="usop3"><display-name>M+ Deportes 4</display-name><url>https://movistarplus.es</url></channel>
-<channel id="vamosd"><display-name>M+ Vamos</display-name><url>https://movistarplus.es</url></channel>
+<channel id="andatv"><display-name>Andalucía TV</display-name><url>https://movistarplus.es</url></channel>
+<channel id="aljaze"><display-name>Al Jazeera English</display-name><url>https://movistarplus.es</url></channel>
+<channel id="a3"><display-name>Antena 3</display-name><url>https://movistarplus.es</url></channel>
+<channel id="3_24"><display-name>3CatInfo</display-name><url>https://movistarplus.es</url></channel>
+<channel id="24h"><display-name>24 Horas</display-name><url>https://movistarplus.es</url></channel>
+<channel id="13tv"><display-name>TRECE</display-name><url>https://movistarplus.es</url></channel>
 <programme start="20260523030000 +0000" stop="20260523220000 +0000" channel="7tvmur"><title lang="es">En el corazón de la fiesta</title><desc lang="es">Programa dedicado a las celebraciones y festejos que se llevan a cabo en todos los territorios de la región. El espacio pretende mostrar las raíces de la cultura de las diferentes localidades a través de las festividades tanto de carácter religioso como pagano.</desc></programme>
 <programme start="20260523040000 +0000" stop="20260523050000 +0000" channel="7tvmur"><title lang="es">Un paseo por</title><desc lang="es">Programa de divulgación cultural en el que se recorre la geografía murciana. El espacio muestra las calles, los centros históricos, culturales y religiosos de la comunidad, así como los lugares con mayor riqueza en biodiversidad.</desc></programme>
 <programme start="20260523050000 +0000" stop="20260523060000 +0000" channel="7tvmur"><title lang="es">En ruta</title><desc lang="es">Recorrido en bicicleta por la Región de Murcia que visibiliza un turismo más sostenible y equilibrado, poniendo en valor el patrimonio histórico, cultural y natural.</desc></programme>
@@ -478,7 +478,7 @@
 <programme start="20260523032500 +0000" stop="20260523053500 +0000" channel="andatv"><title lang="es">Conexión CSTV</title><desc lang="es">Conexión con la programación de CSTV.</desc></programme>
 <programme start="20260523053500 +0000" stop="20260523054000 +0000" channel="andatv"><title lang="es">Callejeando</title><desc lang="es">Programa que recorre, enseña y explica los entresijos de las calles más importantes, bonitas, curiosas y entrañables de Andalucía.</desc></programme>
 <programme start="20260523054000 +0000" stop="20260523061000 +0000" channel="andatv"><title lang="es">Bajo el cielo de Orión</title><desc lang="es">Serie documental que ofrece una aproximación a la historia de la navegación en el mundo, resaltando el papel de Andalucía en la misma. Con entregas de 30 minutos de duración, el espacio ofrece una visión divulgativa de la navegación.</desc></programme>
-<programme start="20260523061000 +0000" stop="20260523063500 +0000" channel="andatv"><title lang="es">La huella americana</title><desc lang="es">Serie que trata sobre los lugares y edificios más notables relacionados con la gran aventura americana. El programa recoge la belleza de palacios, monasterios, castillos, puertos, torres y diferentes edificaciones, que dan testimonio del periodo histórico en cuestión.</desc></programme>
+<programme start="20260523061000 +0000" stop="20260523063500 +0000" channel="andatv"><title lang="es">La huella americana</title></programme>
 <programme start="20260523063500 +0000" stop="20260523070000 +0000" channel="andatv"><title lang="es">Andalucía desde el cielo</title><desc lang="es">Programa documental que trata la diversidad y la riqueza de la realidad andaluza. Un conjunto de 13 episodios que muestran una belleza visual indiscutible a través de una cuidada selección de planos y una interiorización poética de los contenidos.</desc></programme>
 <programme start="20260523070000 +0000" stop="20260523090000 +0000" channel="andatv"><title lang="es">La Banda</title><desc lang="es">Canal Sur concentra su oferta infantil y juvenil en el magacín ''La Banda'', que incluye concursos, juegos con pruebas de habilidad y conocimiento, reportajes y actuaciones musicales. El contenido se completa con una selección de series de animación y ficción.</desc></programme>
 <programme start="20260523090000 +0000" stop="20260523093000 +0000" channel="andatv"><title lang="es">Experiencia TV</title><desc lang="es">Programa de los servicios informativos de RTVA en el que los estudiantes andaluces del área audiovisual dan su visión del mundo que les rodea a través de trabajos propios. Cada estudiante elabora sus trabajos de principio a fin.</desc></programme>
@@ -506,7 +506,7 @@
 <programme start="20260524024000 +0000" stop="20260524220000 +0000" channel="andatv"><title lang="es">Conexión CSTV</title><desc lang="es">Conexión con la programación de CSTV.</desc></programme>
 <programme start="20260524052800 +0000" stop="20260524053000 +0000" channel="andatv"><title lang="es">Callejeando</title><desc lang="es">Programa que recorre, enseña y explica los entresijos de las calles más importantes, bonitas, curiosas y entrañables de Andalucía.</desc></programme>
 <programme start="20260524053000 +0000" stop="20260524060500 +0000" channel="andatv"><title lang="es">Bajo el cielo de Orión</title><desc lang="es">Serie documental que ofrece una aproximación a la historia de la navegación en el mundo, resaltando el papel de Andalucía en la misma. Con entregas de 30 minutos de duración, el espacio ofrece una visión divulgativa de la navegación.</desc></programme>
-<programme start="20260524060500 +0000" stop="20260524063000 +0000" channel="andatv"><title lang="es">La huella americana</title><desc lang="es">Serie que trata sobre los lugares y edificios más notables relacionados con la gran aventura americana. El programa recoge la belleza de palacios, monasterios, castillos, puertos, torres y diferentes edificaciones, que dan testimonio del periodo histórico en cuestión.</desc></programme>
+<programme start="20260524060500 +0000" stop="20260524063000 +0000" channel="andatv"><title lang="es">La huella americana</title></programme>
 <programme start="20260524063000 +0000" stop="20260524070000 +0000" channel="andatv"><title lang="es">Andalucía desde el cielo</title><desc lang="es">Programa documental que trata la diversidad y la riqueza de la realidad andaluza. Un conjunto de 13 episodios que muestran una belleza visual indiscutible a través de una cuidada selección de planos y una interiorización poética de los contenidos.</desc></programme>
 <programme start="20260524070000 +0000" stop="20260524085500 +0000" channel="andatv"><title lang="es">La Banda</title><desc lang="es">Canal Sur concentra su oferta infantil y juvenil en el magacín ''La Banda'', que incluye concursos, juegos con pruebas de habilidad y conocimiento, reportajes y actuaciones musicales. El contenido se completa con una selección de series de animación y ficción.</desc></programme>
 <programme start="20260524085500 +0000" stop="20260524090000 +0000" channel="andatv"><title lang="es">Callejeando</title><desc lang="es">Programa que recorre, enseña y explica los entresijos de las calles más importantes, bonitas, curiosas y entrañables de Andalucía.</desc></programme>
@@ -5501,8 +5501,7 @@
 <programme start="20260523172000 +0000" stop="20260524000000 +0000" channel="mbalct"><title lang="es">M+ Baloncesto</title></programme>
 <programme start="20260524000000 +0000" stop="20260524220000 +0000" channel="mbalct"><title lang="es">M+ Baloncesto</title></programme>
 <programme start="20260524033000 +0000" stop="20260524220000 +0000" channel="mbalct"><title lang="es">M+ Baloncesto</title></programme>
-<programme start="20260524060000 +0000" stop="20260524095500 +0000" channel="mbalct"><title lang="es">M+ Baloncesto</title></programme>
-<programme start="20260524095500 +0000" stop="20260524121500 +0000" channel="mbalct"><title lang="es">Primera FEB (T25/26): TBC</title><desc lang="es">La LEB Oro cambia de nombre, desde esta temporada pasa a denominarse Primera FEB, y lo hace con la campaña más apasionante que se recuerda. Movistar Estudiantes volverá a ser uno de los favoritos para regresar a la Liga Endesa. Junto a los colegiales los dos equipos de Burgos y los dos descendidos, Palencia y Obradoiro. Cinco equipos, más la sorpresa de cada temporada, para sólo dos puestos de ascenso. Toda la emoción de la Primera FEB en Movistar+.</desc></programme>
+<programme start="20260524060000 +0000" stop="20260524121500 +0000" channel="mbalct"><title lang="es">M+ Baloncesto</title></programme>
 <programme start="20260524121500 +0000" stop="20260524145500 +0000" channel="mbalct"><title lang="es">M+ Baloncesto</title></programme>
 <programme start="20260524145500 +0000" stop="20260524173000 +0000" channel="mbalct"><title lang="es">Adidas Next Gen Championship Game (T25/26): Final</title><desc lang="es">Adidas Next Gen Championship Game</desc></programme>
 <programme start="20260524173000 +0000" stop="20260524180000 +0000" channel="mbalct"><title lang="es">Previa Euroliga de baloncesto (T25/26): Final</title><desc lang="es">Previa Euroliga de baloncesto</desc></programme>
@@ -6462,7 +6461,7 @@
 <programme start="20260523121400 +0000" stop="20260523134500 +0000" channel="mvf1"><title lang="es">Mundial F1 - GP de Canadá (T2026): Libres 1</title><desc lang="es">Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc></programme>
 <programme start="20260523134500 +0000" stop="20260523143500 +0000" channel="mvf1"><title lang="es">F1 Academia: Canadá (T2026): Carrera 1</title><desc lang="es">F1 Academy es una serie de carreras para mujeres cuyo objetivo es centrarse en el desarrollo y la preparación de jóvenes pilotos para progresar a niveles más altos de competencia.</desc></programme>
 <programme start="20260523143500 +0000" stop="20260523145000 +0000" channel="mvf1"><title lang="es">Colapinto &amp; Christine en góndola</title></programme>
-<programme start="20260523145000 +0000" stop="20260523153000 +0000" channel="mvf1"><title lang="es">Mundial F1 - GP de Canadá (T2026): Clasificación Sprint</title><desc lang="es">Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc></programme>
+<programme start="20260523145000 +0000" stop="20260523153000 +0000" channel="mvf1"><title lang="es">Gearbox (T2026): Episodio 23</title><desc lang="es">Los fanáticos de la conducción tienen una cita en Gearbox, donde los volantes del presente, del pasado y del futuro se ponen en las manos de los mejores expertos.</desc></programme>
 <programme start="20260523153000 +0000" stop="20260523155500 +0000" channel="mvf1"><title lang="es">Mundial F1 - GP de Canadá (T2026): Previo Sprint</title><desc lang="es">Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc></programme>
 <programme start="20260523155500 +0000" stop="20260523164000 +0000" channel="mvf1"><title lang="es">Mundial F1 - GP de Canadá (T2026): Sprint</title><desc lang="es">Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc></programme>
 <programme start="20260523164000 +0000" stop="20260523170000 +0000" channel="mvf1"><title lang="es">Mundial F1 - GP de Canadá (T2026): Post Sprint</title><desc lang="es">Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc></programme>
