@@ -445,7 +445,6 @@
   <channel site="gatotv.com" site_id="tvunam" lang="es" xmltv_id="TVUNAM.mx@SD">TVUNAM</channel>
   <channel site="gatotv.com" site_id="tyc_sports" lang="es" xmltv_id="TyCSports.ar@SD">TyC Sports</channel>
   <channel site="gatotv.com" site_id="unicable" lang="es" xmltv_id="Unicable.mx@SD">Unicable MX</channel>
-  <channel site="gatotv.com" site_id="unicanal" lang="es" xmltv_id="Unicanal.py@SD">Unicanal</channel>
   <channel site="gatotv.com" site_id="universal_cinema" lang="es" xmltv_id="UniversalCinema.us@SD">Universal Cinema</channel>
   <channel site="gatotv.com" site_id="universal_comedy" lang="es" xmltv_id="UniversalComedy.us@SD">Universal Comedy</channel>
   <channel site="gatotv.com" site_id="universal_crime" lang="es" xmltv_id="UniversalCrime.us@East">Universal Crime</channel>
