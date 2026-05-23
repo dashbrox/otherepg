@@ -420,7 +420,6 @@
   <channel site="gatotv.com" site_id="7_de_guatemala" lang="es" xmltv_id="Televisiete.gt@SD">7 de Guatemala</channel>
   <channel site="gatotv.com" site_id="television_canaria" lang="es" xmltv_id="TelevisionCanaria.es@SD">TV Canaria</channel>
   <channel site="gatotv.com" site_id="tv_dominicana" lang="es" xmltv_id="TelevisionDominicana.us@SD">Television Dominicana</channel>
-  <channel site="gatotv.com" site_id="tigo_sports_costa_rica" lang="es" xmltv_id="TigoSports.cr@SD">Tigo Sports Costa Rica</channel>
   <channel site="gatotv.com" site_id="tigo_sports_guatemala" lang="es" xmltv_id="TigoSports.gt@SD">Tigo Sports Guatemala</channel>
   <channel site="gatotv.com" site_id="tigo_sports_el_salvador" lang="es" xmltv_id="TigoSports.sv@SD">Tigo Sports El Salvador</channel>
   <channel site="gatotv.com" site_id="tlc_mexico" lang="es" xmltv_id="TLCLatinAmerica.us@Mexico">TLC MX</channel>
