@@ -8,6 +8,7 @@
   <channel site="gatotv.com" site_id="13_de_guatemala" lang="es" xmltv_id="">13 de Guatemala</channel>
   <channel site="gatotv.com" site_id="14_de_mexico" lang="es" xmltv_id="">14 de México</channel>
   <channel site="gatotv.com" site_id="adn_noticias" lang="es" xmltv_id="">ADN Noticias</channel>
+  <channel site="gatotv.com" site_id="agrotendencia_tv" lang="es" xmltv_id="">Agrotendencia TV</channel>
   <channel site="gatotv.com" site_id="amc_colombia" lang="es" xmltv_id="">AMC Colombia</channel>
   <channel site="gatotv.com" site_id="amc_mexico" lang="es" xmltv_id="">AMC México</channel>
   <channel site="gatotv.com" site_id="amc_series_argentina" lang="es" xmltv_id="">AMC Series Argentina</channel>
@@ -34,6 +35,7 @@
   <channel site="gatotv.com" site_id="cartoonito_panregional" lang="es" xmltv_id="">Cartoonito Panregional</channel>
   <channel site="gatotv.com" site_id="cartoonito_sur" lang="es" xmltv_id="">Cartoonito Sur</channel>
   <channel site="gatotv.com" site_id="cine_mexicano" lang="es" xmltv_id="">Cine Mexicano</channel>
+  <channel site="gatotv.com" site_id="cineclick" lang="es" xmltv_id="">CineClick</channel>
   <channel site="gatotv.com" site_id="cinelatino_u_s_a" lang="es" xmltv_id="">Cinelatino USA</channel>
   <channel site="gatotv.com" site_id="cinema" lang="es" xmltv_id="">Cinema</channel>
   <channel site="gatotv.com" site_id="cinema_platino" lang="es" xmltv_id="">Cinema Platino</channel>
@@ -126,12 +128,16 @@
   <channel site="gatotv.com" site_id="telemundo_mexico" lang="es" xmltv_id="">Telemundo México</channel>
   <channel site="gatotv.com" site_id="telemundo_panregional" lang="es" xmltv_id="">Telemundo PAN</channel>
   <channel site="gatotv.com" site_id="telemundo_puerto_rico" lang="es" xmltv_id="">Telemundo Puerto Rico</channel>
+  <channel site="gatotv.com" site_id="telenostalgia" lang="es" xmltv_id="">Telenostalgia</channel>
+  <channel site="gatotv.com" site_id="tlnovelas_latinoamerica" lang="es" xmltv_id="">TLNovelas LATAM</channel>
   <channel site="gatotv.com" site_id="tn23" lang="es" xmltv_id="">TN23</channel>
   <channel site="gatotv.com" site_id="tnt_centroamerica_y_caribe" lang="es" xmltv_id="">TNT Centroamérica y Caribe</channel>
   <channel site="gatotv.com" site_id="tnt_novelas_guatemala" lang="es" xmltv_id="">TNT Novelas GT</channel>
   <channel site="gatotv.com" site_id="tnt_novelas_latinoamerica" lang="es" xmltv_id="">TNT Novelas LATAM</channel>
   <channel site="gatotv.com" site_id="tnt_series" lang="es" xmltv_id="">TNT Series Lat.</channel>
   <channel site="gatotv.com" site_id="tr3s" lang="es" xmltv_id="">Tr3s</channel>
+  <channel site="gatotv.com" site_id="tudn_centroamerica" lang="es" xmltv_id="">TUDN Centroamérica</channel>
+  <channel site="gatotv.com" site_id="tv_agro_centroamerica" lang="es" xmltv_id="">TV Agro C. A.</channel>
   <channel site="gatotv.com" site_id="tve" lang="es" xmltv_id="">TVE Internacional</channel>
   <channel site="gatotv.com" site_id="tvmax" lang="es" xmltv_id="">9 de Panamá</channel>
   <channel site="gatotv.com" site_id="ultra_cine" lang="es" xmltv_id="">Ultra Cine</channel>
