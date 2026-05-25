@@ -102,7 +102,7 @@
   <channel site="movistarplus.es" site_id="iberal" lang="es" xmltv_id="">Iberalia TV</channel>
   <channel site="movistarplus.es" site_id="inteco" lang="es" xmltv_id="">El Toro TV</channel>
   <channel site="movistarplus.es" site_id="inteua" lang="es" xmltv_id="">1+1 Internacional</channel>
-  <channel site="movistarplus.es" site_id="l2000" lang="es" xmltv_id="">M+ Los 2000</channel>
+  <channel site="movistarplus.es" site_id="l2000" lang="es" xmltv_id="">M+ Vacaciones</channel>
   <channel site="movistarplus.es" site_id="la2" lang="es" xmltv_id="">LA 2</channel>
   <channel site="movistarplus.es" site_id="m1sd" lang="es" xmltv_id="">DAZN 1</channel>
   <channel site="movistarplus.es" site_id="m2sd" lang="es" xmltv_id="">DAZN 2</channel>
@@ -172,7 +172,7 @@
   <channel site="movistarplus.es" site_id="ten" lang="es" xmltv_id="">Ten</channel>
   <channel site="movistarplus.es" site_id="tlesur" lang="es" xmltv_id="">Telesur</channel>
   <channel site="movistarplus.es" site_id="tnt" lang="es" xmltv_id="">Warner TV</channel>
-  <channel site="movistarplus.es" site_id="topcom" lang="es" xmltv_id="">M+ Top Comedia Española</channel>
+  <channel site="movistarplus.es" site_id="topcom" lang="es" xmltv_id="">M+ Orgullo</channel>
   <channel site="movistarplus.es" site_id="tpa" lang="es" xmltv_id="">TPA</channel>
   <channel site="movistarplus.es" site_id="tv3cat" lang="es" xmltv_id="">TV3</channel>
   <channel site="movistarplus.es" site_id="tv5" lang="es" xmltv_id="">TV5MONDE</channel>
