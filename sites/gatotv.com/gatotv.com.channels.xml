@@ -136,7 +136,6 @@
   <channel site="gatotv.com" site_id="tnt_novelas_latinoamerica" lang="es" xmltv_id="">TNT Novelas LATAM</channel>
   <channel site="gatotv.com" site_id="tnt_series" lang="es" xmltv_id="">TNT Series Lat.</channel>
   <channel site="gatotv.com" site_id="tr3s" lang="es" xmltv_id="">Tr3s</channel>
-  <channel site="gatotv.com" site_id="tudn_centroamerica" lang="es" xmltv_id="">TUDN Centroamérica</channel>
   <channel site="gatotv.com" site_id="tv_agro_centroamerica" lang="es" xmltv_id="">TV Agro C. A.</channel>
   <channel site="gatotv.com" site_id="tve" lang="es" xmltv_id="">TVE Internacional</channel>
   <channel site="gatotv.com" site_id="tvmax" lang="es" xmltv_id="">9 de Panamá</channel>
@@ -146,6 +145,7 @@
   <channel site="gatotv.com" site_id="ultra_film" lang="es" xmltv_id="">Ultra Film</channel>
   <channel site="gatotv.com" site_id="ultra_kidz" lang="es" xmltv_id="">Ultra Kidz</channel>
   <channel site="gatotv.com" site_id="ultra_tainment" lang="es" xmltv_id="">Ultra Tainment</channel>
+  <channel site="gatotv.com" site_id="unicanal" lang="es" xmltv_id="">Unicanal</channel>
   <channel site="gatotv.com" site_id="univision_latinoamerica" lang="es" xmltv_id="">Univision Latinoamérica</channel>
   <channel site="gatotv.com" site_id="usa_network_latinoamerica" lang="es" xmltv_id="">Canal USA Network LATAM</channel>
   <channel site="gatotv.com" site_id="ve_plus_latinoamerica" lang="es" xmltv_id="">Ve Plus LATAM</channel>
