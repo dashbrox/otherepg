@@ -119,7 +119,6 @@
   <channel site="sky.com" site_id="4100" lang="en" xmltv_id="BestDirect.uk@SD">Best Direct</channel>
   <channel site="sky.com" site_id="1065" lang="en" xmltv_id="Blaze.uk@SD">BLAZE</channel>
   <channel site="sky.com" site_id="1074" lang="en" xmltv_id="BloombergTV.us@Europe">Bloomberg HD</channel>
-  <channel site="sky.com" site_id="4030" lang="en" xmltv_id="Boomerang.uk@HD">Boomerang HD</channel>
   <channel site="sky.com" site_id="5603" lang="en" xmltv_id="Boomerang.uk@Plus1">Boomerang+1</channel>
   <channel site="sky.com" site_id="5609" lang="en" xmltv_id="Boomerang.uk@SD">Boomerang</channel>
   <channel site="sky.com" site_id="1371" lang="en" xmltv_id="Cartoonito.uk@SD">Cartoonito</channel>
@@ -457,8 +456,6 @@
   <channel site="sky.com" site_id="3109" lang="en" xmltv_id="TBNUK.uk@SD">TBN UK</channel>
   <channel site="sky.com" site_id="4192" lang="en" xmltv_id="TelevisionX.uk@SD">Television X</channel>
   <channel site="sky.com" site_id="4034" lang="en" xmltv_id="TG4.ie@HD">TG4 HD</channel>
-  <channel site="sky.com" site_id="1134" lang="en" xmltv_id="Thats60s.uk@SD">Thats20Century</channel>
-  <channel site="sky.com" site_id="1311" lang="en" xmltv_id="Thats70s.uk@SD">That&apos;s TV 2</channel>
   <channel site="sky.com" site_id="1017" lang="en" xmltv_id="ThatsTV.uk@SD">That&apos;s TV</channel>
   <channel site="sky.com" site_id="1234" lang="en" xmltv_id="TinyPop.uk@SD">Tiny Pop</channel>
   <channel site="sky.com" site_id="1113" lang="en" xmltv_id="TJC.uk@HD">TJC HD</channel>
