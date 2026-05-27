@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20260527">
 <channel id="5-star-max-hd--eastern/7093"><display-name>5 Star Max HD - Eastern</display-name><url>https://tvpassport.com</url></channel>
-<channel id="abc-kabc-los-angeles-ca-hd/4552"><display-name>ABC (KABC) Los Angeles, CA HD</display-name><url>https://tvpassport.com</url></channel>
-<channel id="abc-wabc-new-york-ny-hd/4553"><display-name>ABC (WABC) New York, NY HD</display-name><url>https://tvpassport.com</url></channel>
-<channel id="actionmax--eastern-hd/7094"><display-name>ActionMax - Eastern HD</display-name><url>https://tvpassport.com</url></channel>
+<channel id="tsn5-hd/13770"><display-name>TSN5 HD</display-name><url>https://tvpassport.com</url></channel>
+<channel id="tsn4-hd/13769"><display-name>TSN4 HD</display-name><url>https://tvpassport.com</url></channel>
+<channel id="tsn3-hd/13768"><display-name>TSN3 HD</display-name><url>https://tvpassport.com</url></channel>
 <channel id="tsn2-hd/5920"><display-name>TSN2 HD</display-name><url>https://tvpassport.com</url></channel>
 <channel id="tsn1-hd/2819"><display-name>TSN1 HD</display-name><url>https://tvpassport.com</url></channel>
 <channel id="trutv-usa--east-hd/6996"><display-name>truTV USA - East HD</display-name><url>https://tvpassport.com</url></channel>
@@ -33,9 +33,9 @@
 <channel id="cbs-wcbs-new-york-ny-hd/4555"><display-name>CBS (WCBS) New York, NY HD</display-name><url>https://tvpassport.com</url></channel>
 <channel id="bravo-usa-hd--pacific-feed/16226"><display-name>Bravo USA HD - Pacific Feed</display-name><url>https://tvpassport.com</url></channel>
 <channel id="bravo-usa-hd--eastern-feed/6120"><display-name>Bravo USA HD - Eastern Feed</display-name><url>https://tvpassport.com</url></channel>
-<channel id="tsn4-hd/13769"><display-name>TSN4 HD</display-name><url>https://tvpassport.com</url></channel>
-<channel id="tsn3-hd/13768"><display-name>TSN3 HD</display-name><url>https://tvpassport.com</url></channel>
-<channel id="tsn5-hd/13770"><display-name>TSN5 HD</display-name><url>https://tvpassport.com</url></channel>
+<channel id="actionmax--eastern-hd/7094"><display-name>ActionMax - Eastern HD</display-name><url>https://tvpassport.com</url></channel>
+<channel id="abc-wabc-new-york-ny-hd/4553"><display-name>ABC (WABC) New York, NY HD</display-name><url>https://tvpassport.com</url></channel>
+<channel id="abc-kabc-los-angeles-ca-hd/4552"><display-name>ABC (KABC) Los Angeles, CA HD</display-name><url>https://tvpassport.com</url></channel>
 <programme start="20260527123900 +0000" stop="20260527135900 +0000" channel="5-star-max-hd--eastern/7093"><title lang="en">For All Mankind</title><desc lang="en">For All Mankind (1989)A unique view of the moon is made possible through film taken by the Apollo astronauts who landed on the surface.</desc><category lang="en">Movies</category><category lang="en">Documentary</category><image>https://cdn.tvpassport.com/image/show/960x540/v2/p51078_p_v8_aa.jpg</image></programme>
 <programme start="20260527123900 +0000" stop="20260527135900 +0000" channel="5-star-max-hd--eastern/7093"><title lang="en">For All Mankind</title><desc lang="en">For All Mankind (1989)A unique view of the moon is made possible through film taken by the Apollo astronauts who landed on the surface.</desc><category lang="en">Movies</category><category lang="en">Documentary</category><image>https://cdn.tvpassport.com/image/show/960x540/v2/p51078_p_v8_aa.jpg</image></programme>
 <programme start="20260527123900 +0000" stop="20260527135900 +0000" channel="5-star-max-hd--eastern/7093"><title lang="en">For All Mankind</title><desc lang="en">For All Mankind (1989)A unique view of the moon is made possible through film taken by the Apollo astronauts who landed on the surface.</desc><category lang="en">Movies</category><category lang="en">Documentary</category><image>https://cdn.tvpassport.com/image/show/960x540/v2/p51078_p_v8_aa.jpg</image></programme>
