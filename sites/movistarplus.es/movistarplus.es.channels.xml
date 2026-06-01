@@ -41,8 +41,6 @@
   <channel site="movistarplus.es" site_id="cgtnfr" lang="es" xmltv_id="">CGTN Français HD</channel>
   <channel site="movistarplus.es" site_id="chap1" lang="es" xmltv_id="">M+ Liga de Campeones 2</channel>
   <channel site="movistarplus.es" site_id="chapio" lang="es" xmltv_id="">M+ Liga de Campeones</channel>
-  <channel site="movistarplus.es" site_id="chhdr" lang="es" xmltv_id="">M+ Liga de Campeones HDR</channel>
-  <channel site="movistarplus.es" site_id="chhdr2" lang="es" xmltv_id="">M+ Liga de Campeones2 HDR</channel>
   <channel site="movistarplus.es" site_id="chile" lang="es" xmltv_id="">TV Chile</channel>
   <channel site="movistarplus.es" site_id="cl13" lang="es" xmltv_id="">Calle 13</channel>
   <channel site="movistarplus.es" site_id="clantv" lang="es" xmltv_id="">Clan TVE</channel>
@@ -64,10 +62,10 @@
   <channel site="movistarplus.es" site_id="dazmot" lang="es" xmltv_id="">DAZN MotoGP</channel>
   <channel site="movistarplus.es" site_id="dazn3" lang="es" xmltv_id="">DAZN 3</channel>
   <channel site="movistarplus.es" site_id="dazn4" lang="es" xmltv_id="">DAZN 4</channel>
-  <channel site="movistarplus.es" site_id="daznl2" lang="es" xmltv_id="">DAZN LALIGA 2</channel>
-  <channel site="movistarplus.es" site_id="daznl3" lang="es" xmltv_id="">DAZN LALIGA 3</channel>
-  <channel site="movistarplus.es" site_id="daznl4" lang="es" xmltv_id="">DAZN LALIGA 4</channel>
-  <channel site="movistarplus.es" site_id="daznli" lang="es" xmltv_id="">DAZN LALIGA</channel>
+  <channel site="movistarplus.es" site_id="daznl2" lang="es" xmltv_id="">DAZN MUNDIAL 2</channel>
+  <channel site="movistarplus.es" site_id="daznl3" lang="es" xmltv_id="">DAZN MUNDIAL 3</channel>
+  <channel site="movistarplus.es" site_id="daznl4" lang="es" xmltv_id="">DAZN MUNDIAL 4</channel>
+  <channel site="movistarplus.es" site_id="daznli" lang="es" xmltv_id="">DAZN MUNDIAL</channel>
   <channel site="movistarplus.es" site_id="dcesp" lang="es" xmltv_id="">M+ Cine Español</channel>
   <channel site="movistarplus.es" site_id="dcr" lang="es" xmltv_id="">Discovery</channel>
   <channel site="movistarplus.es" site_id="dcrmax" lang="es" xmltv_id="">DMAX</channel>
@@ -125,16 +123,7 @@
   <channel site="movistarplus.es" site_id="mligs" lang="es" xmltv_id="">LALIGA TV HYPERMOTION</channel>
   <channel site="movistarplus.es" site_id="mligs2" lang="es" xmltv_id="">LALIGA TV HYPERMOTION 2</channel>
   <channel site="movistarplus.es" site_id="mligs3" lang="es" xmltv_id="">LALIGA TV HYPERMOTION 3</channel>
-  <channel site="movistarplus.es" site_id="mligs4" lang="es" xmltv_id="">LALIGA TV HYPERMOTION 4</channel>
-  <channel site="movistarplus.es" site_id="mligs5" lang="es" xmltv_id="">LALIGA TV HYPERMOTION 5</channel>
-  <channel site="movistarplus.es" site_id="mligs6" lang="es" xmltv_id="">LALIGA TV HYPERMOTION 6</channel>
-  <channel site="movistarplus.es" site_id="mligs7" lang="es" xmltv_id="">LALIGA TV HYPERMOTION 7</channel>
-  <channel site="movistarplus.es" site_id="mligs8" lang="es" xmltv_id="">LALIGA TV HYPERMOTION 8</channel>
-  <channel site="movistarplus.es" site_id="mligs9" lang="es" xmltv_id="">LALIGA TV HYPERMOTION 9</channel>
   <channel site="movistarplus.es" site_id="mliguh" lang="es" xmltv_id="">M+ LALIGA HDR</channel>
-  <channel site="movistarplus.es" site_id="mlih10" lang="es" xmltv_id="">LALIGA TV HYPERMOTION 10</channel>
-  <channel site="movistarplus.es" site_id="mlih11" lang="es" xmltv_id="">LALIGA TV HYPERMOTION 11</channel>
-  <channel site="movistarplus.es" site_id="mlih12" lang="es" xmltv_id="">LALIGA TV HYPERMOTION 12</channel>
   <channel site="movistarplus.es" site_id="mliuhd" lang="es" xmltv_id="">M+ LALIGA 2 HDR</channel>
   <channel site="movistarplus.es" site_id="morig" lang="es" xmltv_id="">M+ Originales</channel>
   <channel site="movistarplus.es" site_id="mplus" lang="es" xmltv_id="">Movistar Plus</channel>
