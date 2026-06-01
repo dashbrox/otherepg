@@ -29,6 +29,7 @@
   <channel site="gatotv.com" site_id="azteca_uno_1h" lang="es" xmltv_id="">Azteca Uno -1 h</channel>
   <channel site="gatotv.com" site_id="azteca_uno_2h" lang="es" xmltv_id="">Azteca Uno -2 h</channel>
   <channel site="gatotv.com" site_id="baby_tv_latinoamerica" lang="es" xmltv_id="">Baby TV Latam.</channel>
+  <channel site="gatotv.com" site_id="bandamax" lang="es" xmltv_id="">Bandamax</channel>
   <channel site="gatotv.com" site_id="barca_tv" lang="es" xmltv_id="">Barça TV</channel>
   <channel site="gatotv.com" site_id="bloomberg" lang="es" xmltv_id="">Bloomberg</channel>
   <channel site="gatotv.com" site_id="capital_colombia" lang="es" xmltv_id="">Capital Colombia</channel>
@@ -37,10 +38,12 @@
   <channel site="gatotv.com" site_id="cineclick" lang="es" xmltv_id="">CineClick</channel>
   <channel site="gatotv.com" site_id="cinelatino_u_s_a" lang="es" xmltv_id="">Cinelatino USA</channel>
   <channel site="gatotv.com" site_id="cinema" lang="es" xmltv_id="">Cinema</channel>
+  <channel site="gatotv.com" site_id="cinema_platino" lang="es" xmltv_id="">Cinema Platino</channel>
   <channel site="gatotv.com" site_id="city_tv" lang="es" xmltv_id="">City TV</channel>
   <channel site="gatotv.com" site_id="claro_tv" lang="es" xmltv_id="">Claro TV</channel>
   <channel site="gatotv.com" site_id="clic" lang="es" xmltv_id="">Clic</channel>
   <channel site="gatotv.com" site_id="comedy_central_centro" lang="es" xmltv_id="">Comedy Central Centro</channel>
+  <channel site="gatotv.com" site_id="comedy_central_mexico" lang="es" xmltv_id="">Comedy Central México</channel>
   <channel site="gatotv.com" site_id="de_las_estrellas_-1h_mexico" lang="es" xmltv_id="">las Estrellas - 1 Hora</channel>
   <channel site="gatotv.com" site_id="de_las_estrellas_-2h_mexico" lang="es" xmltv_id="">las Estrellas -2 Horas</channel>
   <channel site="gatotv.com" site_id="de_pelicula" lang="es" xmltv_id="">De Película</channel>
@@ -51,7 +54,9 @@
   <channel site="gatotv.com" site_id="dw_latinoamerica" lang="es" xmltv_id="">DW Latam.</channel>
   <channel site="gatotv.com" site_id="e_entertainment_television_chile" lang="es" xmltv_id="">E! Entertainment Television Chile</channel>
   <channel site="gatotv.com" site_id="e_entertainment_television_panregional" lang="es" xmltv_id="">E! Entertainment Television Panregional</channel>
+  <channel site="gatotv.com" site_id="el_financiero_tv" lang="es" xmltv_id="">El Financiero TV</channel>
   <channel site="gatotv.com" site_id="elgourmet" lang="es" xmltv_id="">Elgourmet</channel>
+  <channel site="gatotv.com" site_id="enlace" lang="es" xmltv_id="">TBN</channel>
   <channel site="gatotv.com" site_id="espn_2_sur" lang="es" xmltv_id="">ESPN 2 Sur</channel>
   <channel site="gatotv.com" site_id="espn_2_venezuela" lang="es" xmltv_id="">ESPN 2 Venezuela</channel>
   <channel site="gatotv.com" site_id="espn_3_norte" lang="es" xmltv_id="">ESPN 3 Norte</channel>
@@ -96,8 +101,12 @@
   <channel site="gatotv.com" site_id="golden_mpx" lang="es" xmltv_id="">Golden MPX</channel>
   <channel site="gatotv.com" site_id="hbo_chile" lang="es" xmltv_id="">HBO Chile</channel>
   <channel site="gatotv.com" site_id="hollywood_espana" lang="es" xmltv_id="">Hollywood España</channel>
+  <channel site="gatotv.com" site_id="ingenio_tv_mexico" lang="es" xmltv_id="">Ingenio TV México</channel>
   <channel site="gatotv.com" site_id="la_red_chile" lang="es" xmltv_id="">La Red Chile</channel>
+  <channel site="gatotv.com" site_id="las_estrellas_latinoamerica" lang="es" xmltv_id="">Las Estrellas LATAM</channel>
+  <channel site="gatotv.com" site_id="meganoticias_mx" lang="es" xmltv_id="">Meganoticias MX</channel>
   <channel site="gatotv.com" site_id="mtv_centro" lang="es" xmltv_id="">MTV Centro</channel>
+  <channel site="gatotv.com" site_id="mtv_mexico" lang="es" xmltv_id="">MTV México</channel>
   <channel site="gatotv.com" site_id="national_geographic_centro" lang="es" xmltv_id="">National Geographic Centro</channel>
   <channel site="gatotv.com" site_id="nick_junior_latinoamerica" lang="es" xmltv_id="">Nick Jr. Latinoamérica</channel>
   <channel site="gatotv.com" site_id="nickelodeon_centro" lang="es" xmltv_id="">Nickelodeon Centro</channel>
@@ -108,6 +117,7 @@
   <channel site="gatotv.com" site_id="rcn_colombia" lang="es" xmltv_id="">RCN Colombia</channel>
   <channel site="gatotv.com" site_id="rcn_nuestra_tele_internacional" lang="es" xmltv_id="">RCN Internacional</channel>
   <channel site="gatotv.com" site_id="region_mas" lang="es" xmltv_id="">Región+</channel>
+  <channel site="gatotv.com" site_id="sky_one_mexico" lang="es" xmltv_id="">Sky One México</channel>
   <channel site="gatotv.com" site_id="sony_centro" lang="es" xmltv_id="">Sony Centro</channel>
   <channel site="gatotv.com" site_id="sony_chile" lang="es" xmltv_id="">Sony Chile</channel>
   <channel site="gatotv.com" site_id="sony_movies_latinoamerica" lang="es" xmltv_id="">Sony Movies LATAM</channel>
@@ -126,6 +136,7 @@
   <channel site="gatotv.com" site_id="telemundo_puerto_rico" lang="es" xmltv_id="">Telemundo Puerto Rico</channel>
   <channel site="gatotv.com" site_id="telenostalgia" lang="es" xmltv_id="">Telenostalgia</channel>
   <channel site="gatotv.com" site_id="tlnovelas_latinoamerica" lang="es" xmltv_id="">TLNovelas LATAM</channel>
+  <channel site="gatotv.com" site_id="tlnovelas_mexico" lang="es" xmltv_id="">TLNovelas México</channel>
   <channel site="gatotv.com" site_id="tn23" lang="es" xmltv_id="">TN23</channel>
   <channel site="gatotv.com" site_id="tnt_centroamerica_y_caribe" lang="es" xmltv_id="">TNT Centroamérica y Caribe</channel>
   <channel site="gatotv.com" site_id="tnt_novelas_guatemala" lang="es" xmltv_id="">TNT Novelas GT</channel>
@@ -134,6 +145,7 @@
   <channel site="gatotv.com" site_id="tr3s" lang="es" xmltv_id="">Tr3s</channel>
   <channel site="gatotv.com" site_id="tudn_centroamerica" lang="es" xmltv_id="">TUDN Centroamérica</channel>
   <channel site="gatotv.com" site_id="tv_agro_centroamerica" lang="es" xmltv_id="">TV Agro C. A.</channel>
+  <channel site="gatotv.com" site_id="tve" lang="es" xmltv_id="">TVE Internacional</channel>
   <channel site="gatotv.com" site_id="tvmax" lang="es" xmltv_id="">9 de Panamá</channel>
   <channel site="gatotv.com" site_id="ultra_cine" lang="es" xmltv_id="">Ultra Cine</channel>
   <channel site="gatotv.com" site_id="ultra_docu" lang="es" xmltv_id="">Ultra Docu</channel>
