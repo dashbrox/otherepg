@@ -40,6 +40,9 @@
   <channel site="movistarplus.es" site_id="cgtnen" lang="es" xmltv_id="">CGTN English HD</channel>
   <channel site="movistarplus.es" site_id="cgtnfr" lang="es" xmltv_id="">CGTN Français HD</channel>
   <channel site="movistarplus.es" site_id="chap1" lang="es" xmltv_id="">M+ Liga de Campeones 2</channel>
+  <channel site="movistarplus.es" site_id="chap2" lang="es" xmltv_id="">M+ Liga de Campeones 3</channel>
+  <channel site="movistarplus.es" site_id="chap3" lang="es" xmltv_id="">M+ Liga de Campeones 4</channel>
+  <channel site="movistarplus.es" site_id="chap4" lang="es" xmltv_id="">M+ Liga de Campeones 5</channel>
   <channel site="movistarplus.es" site_id="chapio" lang="es" xmltv_id="">M+ Liga de Campeones</channel>
   <channel site="movistarplus.es" site_id="chile" lang="es" xmltv_id="">TV Chile</channel>
   <channel site="movistarplus.es" site_id="cl13" lang="es" xmltv_id="">Calle 13</channel>
@@ -94,6 +97,7 @@
   <channel site="movistarplus.es" site_id="futrep" lang="es" xmltv_id="">Canal Fútbol Replay</channel>
   <channel site="movistarplus.es" site_id="galav" lang="es" xmltv_id="">Canal de las Estrellas</channel>
   <channel site="movistarplus.es" site_id="gol" lang="es" xmltv_id="">GOL</channel>
+  <channel site="movistarplus.es" site_id="golf2" lang="es" xmltv_id="">M+ Golf 2</channel>
   <channel site="movistarplus.es" site_id="golf+" lang="es" xmltv_id="">M+ Golf</channel>
   <channel site="movistarplus.es" site_id="ib3" lang="es" xmltv_id="">IB3</channel>
   <channel site="movistarplus.es" site_id="iberal" lang="es" xmltv_id="">Iberalia TV</channel>
