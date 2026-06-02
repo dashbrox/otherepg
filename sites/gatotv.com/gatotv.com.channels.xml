@@ -35,6 +35,7 @@
   <channel site="gatotv.com" site_id="capital_colombia" lang="es" xmltv_id="">Capital Colombia</channel>
   <channel site="gatotv.com" site_id="cartoonito_panregional" lang="es" xmltv_id="">Cartoonito Panregional</channel>
   <channel site="gatotv.com" site_id="cartoonito_sur" lang="es" xmltv_id="">Cartoonito Sur</channel>
+  <channel site="gatotv.com" site_id="cine_mexicano" lang="es" xmltv_id="">Cine Mexicano</channel>
   <channel site="gatotv.com" site_id="cineclick" lang="es" xmltv_id="">CineClick</channel>
   <channel site="gatotv.com" site_id="cinelatino_u_s_a" lang="es" xmltv_id="">Cinelatino USA</channel>
   <channel site="gatotv.com" site_id="cinema" lang="es" xmltv_id="">Cinema</channel>
@@ -83,12 +84,9 @@
   <channel site="gatotv.com" site_id="exa_tv" lang="es" xmltv_id="">Exa TV</channel>
   <channel site="gatotv.com" site_id="film_and_arts" lang="es" xmltv_id="">Film &amp; Arts</channel>
   <channel site="gatotv.com" site_id="foro_tv" lang="es" xmltv_id="">Foro TV</channel>
-  <channel site="gatotv.com" site_id="fox_plus_costa_rica" lang="es" xmltv_id="">FOX+ Costa Rica</channel>
-  <channel site="gatotv.com" site_id="fox_plus_el_salvador" lang="es" xmltv_id="">FOX+ El Salvador</channel>
-  <channel site="gatotv.com" site_id="fox_plus_guatemala" lang="es" xmltv_id="">FOX+ Guatemala</channel>
-  <channel site="gatotv.com" site_id="fox_plus_honduras" lang="es" xmltv_id="">FOX+ Honduras</channel>
-  <channel site="gatotv.com" site_id="fox_plus_nicaragua" lang="es" xmltv_id="">FOX+ Nicaragua</channel>
-  <channel site="gatotv.com" site_id="fox_plus_panama" lang="es" xmltv_id="">FOX+ Panamá</channel>
+  <channel site="gatotv.com" site_id="fox_centroamerica" lang="es" xmltv_id="">FOX CENTRO</channel>
+  <channel site="gatotv.com" site_id="fox_costa_rica" lang="es" xmltv_id="">Fox Costa Rica</channel>
+  <channel site="gatotv.com" site_id="fox_guatemala" lang="es" xmltv_id="">Fox Guatemala</channel>
   <channel site="gatotv.com" site_id="fox_sports_2_cono_norte" lang="es" xmltv_id="">Fox Sports 2 Cono Norte</channel>
   <channel site="gatotv.com" site_id="fox_sports_3_cono_norte" lang="es" xmltv_id="">Fox Sports 3 Cono Norte</channel>
   <channel site="gatotv.com" site_id="fox_sports_cono_norte" lang="es" xmltv_id="">Fox Sports Cono Norte</channel>
