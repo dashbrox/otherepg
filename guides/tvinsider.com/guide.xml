@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20260602">
 <channel id="5-star-max"><display-name>5-Star MAX</display-name><url>https://tvinsider.com</url></channel>
-<channel id="zoomoo"><display-name>ZooMoo</display-name><url>https://tvinsider.com</url></channel>
-<channel id="z-living"><display-name>Z Living</display-name><url>https://tvinsider.com</url></channel>
-<channel id="youtube"><display-name>YouTube</display-name><url>https://tvinsider.com</url></channel>
-<channel id="yankee-entertainment-sports"><display-name>YES Network</display-name><url>https://tvinsider.com</url></channel>
+<channel id="abc"><display-name>ABC</display-name><url>https://tvinsider.com</url></channel>
+<channel id="acorn-tv"><display-name>Acorn TV</display-name><url>https://tvinsider.com</url></channel>
+<channel id="acc-network"><display-name>ACC Network</display-name><url>https://tvinsider.com</url></channel>
+<channel id="adult-swim"><display-name>Adult Swim</display-name><url>https://tvinsider.com</url></channel>
+<channel id="action-max"><display-name>Action MAX</display-name><url>https://tvinsider.com</url></channel>
 <channel id="wwe-network"><display-name>WWE Network</display-name><url>https://tvinsider.com</url></channel>
 <channel id="world-fishing-network"><display-name>World Fishing Network</display-name><url>https://tvinsider.com</url></channel>
 <channel id="world-channel"><display-name>World Channel</display-name><url>https://tvinsider.com</url></channel>
@@ -376,9 +377,8 @@
 <channel id="allblk"><display-name>ALLBLK</display-name><url>https://tvinsider.com</url></channel>
 <channel id="all-reality"><display-name>All Reality</display-name><url>https://tvinsider.com</url></channel>
 <channel id="ae"><display-name>A&amp;E</display-name><url>https://tvinsider.com</url></channel>
-<channel id="adult-swim"><display-name>Adult Swim</display-name><url>https://tvinsider.com</url></channel>
-<channel id="action-max"><display-name>Action MAX</display-name><url>https://tvinsider.com</url></channel>
-<channel id="acorn-tv"><display-name>Acorn TV</display-name><url>https://tvinsider.com</url></channel>
-<channel id="acc-network"><display-name>ACC Network</display-name><url>https://tvinsider.com</url></channel>
-<channel id="abc"><display-name>ABC</display-name><url>https://tvinsider.com</url></channel>
+<channel id="z-living"><display-name>Z Living</display-name><url>https://tvinsider.com</url></channel>
+<channel id="youtube"><display-name>YouTube</display-name><url>https://tvinsider.com</url></channel>
+<channel id="yankee-entertainment-sports"><display-name>YES Network</display-name><url>https://tvinsider.com</url></channel>
+<channel id="zoomoo"><display-name>ZooMoo</display-name><url>https://tvinsider.com</url></channel>
 </tv>
