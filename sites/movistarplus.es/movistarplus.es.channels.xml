@@ -99,7 +99,6 @@
   <channel site="movistarplus.es" site_id="iberal" lang="es" xmltv_id="">Iberalia TV</channel>
   <channel site="movistarplus.es" site_id="inteco" lang="es" xmltv_id="">El Toro TV</channel>
   <channel site="movistarplus.es" site_id="inteua" lang="es" xmltv_id="">1+1 Internacional</channel>
-  <channel site="movistarplus.es" site_id="l2000" lang="es" xmltv_id="">M+ Vacaciones</channel>
   <channel site="movistarplus.es" site_id="la2" lang="es" xmltv_id="">LA 2</channel>
   <channel site="movistarplus.es" site_id="m1sd" lang="es" xmltv_id="">DAZN 1</channel>
   <channel site="movistarplus.es" site_id="m2sd" lang="es" xmltv_id="">DAZN 2</channel>
@@ -125,12 +124,14 @@
   <channel site="movistarplus.es" site_id="mligs3" lang="es" xmltv_id="">LALIGA TV HYPERMOTION 3</channel>
   <channel site="movistarplus.es" site_id="mliguh" lang="es" xmltv_id="">M+ LALIGA HDR</channel>
   <channel site="movistarplus.es" site_id="mliuhd" lang="es" xmltv_id="">M+ LALIGA 2 HDR</channel>
+  <channel site="movistarplus.es" site_id="morgul" lang="es" xmltv_id="">M+ Orgullo</channel>
   <channel site="movistarplus.es" site_id="morig" lang="es" xmltv_id="">M+ Originales</channel>
   <channel site="movistarplus.es" site_id="mplus" lang="es" xmltv_id="">Movistar Plus</channel>
   <channel site="movistarplus.es" site_id="mtv" lang="es" xmltv_id="">MTV</channel>
   <channel site="movistarplus.es" site_id="multi6" lang="es" xmltv_id="">M+ Deportes 7</channel>
   <channel site="movistarplus.es" site_id="multi8" lang="es" xmltv_id="">M+ Deportes 6</channel>
   <channel site="movistarplus.es" site_id="mv1" lang="es" xmltv_id="">M+ Estrenos</channel>
+  <channel site="movistarplus.es" site_id="mvciva" lang="es" xmltv_id="">M+ Vacaciones</channel>
   <channel site="movistarplus.es" site_id="mvf1" lang="es" xmltv_id="">DAZN F1</channel>
   <channel site="movistarplus.es" site_id="natgeo" lang="es" xmltv_id="">National Geographic</channel>
   <channel site="movistarplus.es" site_id="natgw" lang="es" xmltv_id="">Nat Geo Wild</channel>
@@ -159,7 +160,6 @@
   <channel site="movistarplus.es" site_id="ten" lang="es" xmltv_id="">Ten</channel>
   <channel site="movistarplus.es" site_id="tlesur" lang="es" xmltv_id="">Telesur</channel>
   <channel site="movistarplus.es" site_id="tnt" lang="es" xmltv_id="">Warner TV</channel>
-  <channel site="movistarplus.es" site_id="topcom" lang="es" xmltv_id="">M+ Orgullo</channel>
   <channel site="movistarplus.es" site_id="tpa" lang="es" xmltv_id="">TPA</channel>
   <channel site="movistarplus.es" site_id="tv3cat" lang="es" xmltv_id="">TV3</channel>
   <channel site="movistarplus.es" site_id="tv5" lang="es" xmltv_id="">TV5MONDE</channel>
