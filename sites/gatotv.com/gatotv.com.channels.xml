@@ -87,6 +87,7 @@
   <channel site="gatotv.com" site_id="fox_centroamerica" lang="es" xmltv_id="">FOX CENTRO</channel>
   <channel site="gatotv.com" site_id="fox_costa_rica" lang="es" xmltv_id="">Fox Costa Rica</channel>
   <channel site="gatotv.com" site_id="fox_guatemala" lang="es" xmltv_id="">Fox Guatemala</channel>
+  <channel site="gatotv.com" site_id="fox_plus_centroamerica" lang="es" xmltv_id="">FOX+ Centroamérica</channel>
   <channel site="gatotv.com" site_id="fox_sports_2_cono_norte" lang="es" xmltv_id="">Fox Sports 2 Cono Norte</channel>
   <channel site="gatotv.com" site_id="fox_sports_3_cono_norte" lang="es" xmltv_id="">Fox Sports 3 Cono Norte</channel>
   <channel site="gatotv.com" site_id="fox_sports_cono_norte" lang="es" xmltv_id="">Fox Sports Cono Norte</channel>
