@@ -6,6 +6,7 @@
 <channel id="acc-network"><display-name>ACC Network</display-name><url>https://tvinsider.com</url></channel>
 <channel id="adult-swim"><display-name>Adult Swim</display-name><url>https://tvinsider.com</url></channel>
 <channel id="action-max"><display-name>Action MAX</display-name><url>https://tvinsider.com</url></channel>
+<channel id="world-fishing-network"><display-name>World Fishing Network</display-name><url>https://tvinsider.com</url></channel>
 <channel id="world-channel"><display-name>World Channel</display-name><url>https://tvinsider.com</url></channel>
 <channel id="willow"><display-name>Willow</display-name><url>https://tvinsider.com</url></channel>
 <channel id="wgn"><display-name>WGN America</display-name><url>https://tvinsider.com</url></channel>
@@ -376,9 +377,8 @@
 <channel id="allblk"><display-name>ALLBLK</display-name><url>https://tvinsider.com</url></channel>
 <channel id="all-reality"><display-name>All Reality</display-name><url>https://tvinsider.com</url></channel>
 <channel id="zoomoo"><display-name>ZooMoo</display-name><url>https://tvinsider.com</url></channel>
-<channel id="z-living"><display-name>Z Living</display-name><url>https://tvinsider.com</url></channel>
 <channel id="youtube"><display-name>YouTube</display-name><url>https://tvinsider.com</url></channel>
 <channel id="yankee-entertainment-sports"><display-name>YES Network</display-name><url>https://tvinsider.com</url></channel>
 <channel id="wwe-network"><display-name>WWE Network</display-name><url>https://tvinsider.com</url></channel>
-<channel id="world-fishing-network"><display-name>World Fishing Network</display-name><url>https://tvinsider.com</url></channel>
+<channel id="z-living"><display-name>Z Living</display-name><url>https://tvinsider.com</url></channel>
 </tv>
