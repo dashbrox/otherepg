@@ -8,6 +8,10 @@
   <channel site="gatotv.com" site_id="13_de_guatemala" lang="es" xmltv_id="">13 de Guatemala</channel>
   <channel site="gatotv.com" site_id="14_de_mexico" lang="es" xmltv_id="">14 de México</channel>
   <channel site="gatotv.com" site_id="adn_noticias" lang="es" xmltv_id="">ADN Noticias</channel>
+  <channel site="gatotv.com" site_id="adult_swim_mexico" lang="es" xmltv_id="">Adult Swim México</channel>
+  <channel site="gatotv.com" site_id="adult_swim_panregional" lang="es" xmltv_id="">Adult Swim Panregional</channel>
+  <channel site="gatotv.com" site_id="adult_swim_paraguay" lang="es" xmltv_id="">Adult Swim Paraguay</channel>
+  <channel site="gatotv.com" site_id="adult_swim_uruguay" lang="es" xmltv_id="">Adult Swim Uruguay</channel>
   <channel site="gatotv.com" site_id="agrotendencia_tv" lang="es" xmltv_id="">Agrotendencia TV</channel>
   <channel site="gatotv.com" site_id="amc_colombia" lang="es" xmltv_id="">AMC Colombia</channel>
   <channel site="gatotv.com" site_id="amc_mexico" lang="es" xmltv_id="">AMC México</channel>
