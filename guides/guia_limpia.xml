@@ -1,185 +1,185 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv date="20260606">
 <channel id="7tvmur"><display-name>7 TV Región Murcia</display-name><url>https://movistarplus.es</url></channel>
-<channel id="13tv"><display-name>TRECE</display-name><url>https://movistarplus.es</url></channel>
-<channel id="3_24"><display-name>3CatInfo</display-name><url>https://movistarplus.es</url></channel>
-<channel id="antv"><display-name>Canal Sur Andalucía</display-name><url>https://movistarplus.es</url></channel>
-<channel id="baby"><display-name>Baby TV</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cansur"><display-name>Canal Sur</display-name><url>https://movistarplus.es</url></channel>
-<channel id="dazn3"><display-name>DAZN 3</display-name><url>https://movistarplus.es</url></channel>
-<channel id="dazmot"><display-name>DAZN MotoGP</display-name><url>https://movistarplus.es</url></channel>
-<channel id="canar"><display-name>TV Canaria</display-name><url>https://movistarplus.es</url></channel>
-<channel id="dazba"><display-name>DAZN Baloncesto</display-name><url>https://movistarplus.es</url></channel>
-<channel id="dazb3"><display-name>DAZN Baloncesto 3</display-name><url>https://movistarplus.es</url></channel>
-<channel id="axn"><display-name>AXN</display-name><url>https://movistarplus.es</url></channel>
-<channel id="can33"><display-name>33</display-name><url>https://movistarplus.es</url></channel>
-<channel id="dazb2"><display-name>DAZN Baloncesto 2</display-name><url>https://movistarplus.es</url></channel>
-<channel id="dayst"><display-name>Daystar Español HD</display-name><url>https://movistarplus.es</url></channel>
-<channel id="c33"><display-name>SX3</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cyltv"><display-name>La 7</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cubav"><display-name>Cubavisión</display-name><url>https://movistarplus.es</url></channel>
-<channel id="andatv"><display-name>Andalucía TV</display-name><url>https://movistarplus.es</url></channel>
-<channel id="atress"><display-name>Atreseries</display-name><url>https://movistarplus.es</url></channel>
-<channel id="c4"><display-name>Cuatro</display-name><url>https://movistarplus.es</url></channel>
-<channel id="csurhd"><display-name>Canal Sur HD</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cpdep"><display-name>M+ Deportes</display-name><url>https://movistarplus.es</url></channel>
-<channel id="btv"><display-name>Betevé</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cpcome"><display-name>M+ Comedia</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cpcole"><display-name>M+ Drama</display-name><url>https://movistarplus.es</url></channel>
-<channel id="m1sd"><display-name>DAZN 1</display-name><url>https://movistarplus.es</url></channel>
-<channel id="arthur"><display-name>M+ Deportes 2</display-name><url>https://movistarplus.es</url></channel>
-<channel id="boing"><display-name>Boing</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cpacci"><display-name>M+ Acción</display-name><url>https://movistarplus.es</url></channel>
-<channel id="la2"><display-name>LA 2</display-name><url>https://movistarplus.es</url></channel>
-<channel id="inteua"><display-name>1+1 Internacional</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cosmo"><display-name>COSMO</display-name><url>https://movistarplus.es</url></channel>
-<channel id="inteco"><display-name>El Toro TV</display-name><url>https://movistarplus.es</url></channel>
-<channel id="iberal"><display-name>Iberalia TV</display-name><url>https://movistarplus.es</url></channel>
-<channel id="bl"><display-name>Bloomberg</display-name><url>https://movistarplus.es</url></channel>
-<channel id="colomb"><display-name>TV Colombia</display-name><url>https://movistarplus.es</url></channel>
-<channel id="ib3"><display-name>IB3</display-name><url>https://movistarplus.es</url></channel>
-<channel id="golf+"><display-name>M+ Golf</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cnn"><display-name>CNN Int</display-name><url>https://movistarplus.es</url></channel>
-<channel id="golf2"><display-name>M+ Golf 2</display-name><url>https://movistarplus.es</url></channel>
-<channel id="gol"><display-name>GOL</display-name><url>https://movistarplus.es</url></channel>
-<channel id="24h"><display-name>24 Horas</display-name><url>https://movistarplus.es</url></channel>
-<channel id="aljaze"><display-name>Al Jazeera English</display-name><url>https://movistarplus.es</url></channel>
-<channel id="arirhd"><display-name>Arirang TV HD</display-name><url>https://movistarplus.es</url></channel>
-<channel id="bemad"><display-name>BE MAD</display-name><url>https://movistarplus.es</url></channel>
-<channel id="classd"><display-name>Classica</display-name><url>https://movistarplus.es</url></channel>
-<channel id="galav"><display-name>Canal de las Estrellas</display-name><url>https://movistarplus.es</url></channel>
-<channel id="futrep"><display-name>Canal Fútbol Replay</display-name><url>https://movistarplus.es</url></channel>
-<channel id="clantv"><display-name>Clan TVE</display-name><url>https://movistarplus.es</url></channel>
-<channel id="freeli"><display-name>M+ Cero</display-name><url>https://movistarplus.es</url></channel>
-<channel id="france"><display-name>FRANCE24 (FR)</display-name><url>https://movistarplus.es</url></channel>
-<channel id="bbhis"><display-name>BBC History</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cl13"><display-name>Calle 13</display-name><url>https://movistarplus.es</url></channel>
-<channel id="foxge"><display-name>STAR Channel</display-name><url>https://movistarplus.es</url></channel>
-<channel id="flix2"><display-name>Canal FlixOlé 2</display-name><url>https://movistarplus.es</url></channel>
-<channel id="chile"><display-name>TV Chile</display-name><url>https://movistarplus.es</url></channel>
-<channel id="flix1"><display-name>Canal FlixOlé 1</display-name><url>https://movistarplus.es</url></channel>
-<channel id="fdfic"><display-name>Factoría de Ficción</display-name><url>https://movistarplus.es</url></channel>
-<channel id="aragtv"><display-name>Aragón TV</display-name><url>https://movistarplus.es</url></channel>
-<channel id="bbgea"><display-name>BBC Top Gear</display-name><url>https://movistarplus.es</url></channel>
-<channel id="chapio"><display-name>M+ Liga de Campeones</display-name><url>https://movistarplus.es</url></channel>
-<channel id="extrem"><display-name>Canal Extremadura Sat</display-name><url>https://movistarplus.es</url></channel>
-<channel id="extre"><display-name>Canal Extremadura</display-name><url>https://movistarplus.es</url></channel>
-<channel id="chap4"><display-name>M+ Liga de Campeones 5</display-name><url>https://movistarplus.es</url></channel>
-<channel id="ewtn"><display-name>EWTN</display-name><url>https://movistarplus.es</url></channel>
-<channel id="etb3"><display-name>etb1ON</display-name><url>https://movistarplus.es</url></channel>
-<channel id="bbfoo"><display-name>BBC Food</display-name><url>https://movistarplus.es</url></channel>
-<channel id="chap3"><display-name>M+ Liga de Campeones 4</display-name><url>https://movistarplus.es</url></channel>
-<channel id="etb2"><display-name>etb2</display-name><url>https://movistarplus.es</url></channel>
-<channel id="etb1"><display-name>etb1</display-name><url>https://movistarplus.es</url></channel>
-<channel id="chap2"><display-name>M+ Liga de Campeones 3</display-name><url>https://movistarplus.es</url></channel>
-<channel id="etb"><display-name>etb2ON</display-name><url>https://movistarplus.es</url></channel>
-<channel id="esp4k"><display-name>Eurosport 4K</display-name><url>https://movistarplus.es</url></channel>
-<channel id="a3"><display-name>Antena 3</display-name><url>https://movistarplus.es</url></channel>
-<channel id="aragon"><display-name>Aragón TV Int</display-name><url>https://movistarplus.es</url></channel>
-<channel id="bbdra"><display-name>BBC Series</display-name><url>https://movistarplus.es</url></channel>
-<channel id="chap1"><display-name>M+ Liga de Campeones 2</display-name><url>https://movistarplus.es</url></channel>
-<channel id="esp3"><display-name>Esport 3</display-name><url>https://movistarplus.es</url></channel>
-<channel id="esp2"><display-name>Eurosport 2</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cgtnfr"><display-name>CGTN Français HD</display-name><url>https://movistarplus.es</url></channel>
-<channel id="esp"><display-name>Eurosport 1</display-name><url>https://movistarplus.es</url></channel>
-<channel id="enw"><display-name>Euronews</display-name><url>https://movistarplus.es</url></channel>
-<channel id="bbclif"><display-name>BBC Lifestyle</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cgtnen"><display-name>CGTN English HD</display-name><url>https://movistarplus.es</url></channel>
-<channel id="energy"><display-name>Energy</display-name><url>https://movistarplus.es</url></channel>
-<channel id="dwsp"><display-name>Dreamworks</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cgtndo"><display-name>CGTN Documentary HD</display-name><url>https://movistarplus.es</url></channel>
-<channel id="dkiss"><display-name>DKISS</display-name><url>https://movistarplus.es</url></channel>
-<channel id="divini"><display-name>Divinity</display-name><url>https://movistarplus.es</url></channel>
-<channel id="apunt"><display-name>À Punt</display-name><url>https://movistarplus.es</url></channel>
-<channel id="bbcear"><display-name>BBC Earth</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cgtnd"><display-name>CGTN Documentary</display-name><url>https://movistarplus.es</url></channel>
-<channel id="dcrmax"><display-name>DMAX</display-name><url>https://movistarplus.es</url></channel>
-<channel id="dcr"><display-name>Discovery</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cctv-e"><display-name>CGTN Español</display-name><url>https://movistarplus.es</url></channel>
-<channel id="dcesp"><display-name>M+ Cine Español</display-name><url>https://movistarplus.es</url></channel>
-<channel id="daznli"><display-name>DAZN MUNDIAL</display-name><url>https://movistarplus.es</url></channel>
-<channel id="bbc"><display-name>BBC News</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cazpes"><display-name>Caza y Pesca</display-name><url>https://movistarplus.es</url></channel>
-<channel id="daznl4"><display-name>DAZN MUNDIAL 4</display-name><url>https://movistarplus.es</url></channel>
-<channel id="daznl3"><display-name>DAZN MUNDIAL 3</display-name><url>https://movistarplus.es</url></channel>
-<channel id="casman"><display-name>Castilla la Mancha TV</display-name><url>https://movistarplus.es</url></channel>
-<channel id="daznl2"><display-name>DAZN MUNDIAL 2</display-name><url>https://movistarplus.es</url></channel>
-<channel id="dazn4"><display-name>DAZN 4</display-name><url>https://movistarplus.es</url></channel>
-<channel id="skysho"><display-name>SkyShowtime 1</display-name><url>https://movistarplus.es</url></channel>
-<channel id="set"><display-name>AXN Movies</display-name><url>https://movistarplus.es</url></channel>
-<channel id="sci-fi"><display-name>SYFY</display-name><url>https://movistarplus.es</url></channel>
-<channel id="playdc"><display-name>Disney Channel</display-name><url>https://movistarplus.es</url></channel>
-<channel id="pcm"><display-name>Comedy Central</display-name><url>https://movistarplus.es</url></channel>
-<channel id="nickjr"><display-name>NICK JR</display-name><url>https://movistarplus.es</url></channel>
-<channel id="nick"><display-name>Nickelodeon</display-name><url>https://movistarplus.es</url></channel>
-<channel id="nava"><display-name>Navarra TV</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mv1"><display-name>M+ Estrenos</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mtv"><display-name>MTV</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mplus"><display-name>Movistar Plus</display-name><url>https://movistarplus.es</url></channel>
-<channel id="morgul"><display-name>M+ Orgullo</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mliuhd"><display-name>M+ LALIGA 2 HDR</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mligs2"><display-name>LALIGA TV HYPERMOTION 2</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mligs"><display-name>LALIGA TV HYPERMOTION</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mlig2"><display-name>M+ LALIGA 3</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mlig1"><display-name>M+ Fanzone</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mezzo"><display-name>Mezzo</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mega"><display-name>Mega</display-name><url>https://movistarplus.es</url></channel>
-<channel id="medite"><display-name>La Ocho TV</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mdoc"><display-name>M+ Documentales</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mbalct"><display-name>M+ Baloncesto</display-name><url>https://movistarplus.es</url></channel>
 <channel id="veo7"><display-name>Veo7</display-name><url>https://movistarplus.es</url></channel>
 <channel id="vamosd"><display-name>M+ Vamos</display-name><url>https://movistarplus.es</url></channel>
 <channel id="vam2sd"><display-name>M+ Vamos 2</display-name><url>https://movistarplus.es</url></channel>
 <channel id="usop11"><display-name>M+ Deportes 5</display-name><url>https://movistarplus.es</url></channel>
 <channel id="usop3"><display-name>M+ Deportes 4</display-name><url>https://movistarplus.es</url></channel>
 <channel id="usop2"><display-name>M+ Deportes 3</display-name><url>https://movistarplus.es</url></channel>
+<channel id="ucl"><display-name>UCL</display-name><url>https://movistarplus.es</url></channel>
 <channel id="ubeat"><display-name>Ubeat</display-name><url>https://movistarplus.es</url></channel>
 <channel id="tvgal"><display-name>TVG -TV Galicia</display-name><url>https://movistarplus.es</url></channel>
 <channel id="tvg2"><display-name>TVG 2</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tvg"><display-name>TVG Europa</display-name><url>https://movistarplus.es</url></channel>
 <channel id="tve"><display-name>LA 1</display-name><url>https://movistarplus.es</url></channel>
 <channel id="tvc"><display-name>TV3 Cat</display-name><url>https://movistarplus.es</url></channel>
 <channel id="tv5"><display-name>TV5MONDE</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tv3cat"><display-name>TV3</display-name><url>https://movistarplus.es</url></channel>
 <channel id="tpa"><display-name>TPA</display-name><url>https://movistarplus.es</url></channel>
 <channel id="tnt"><display-name>Warner TV</display-name><url>https://movistarplus.es</url></channel>
 <channel id="tlesur"><display-name>Telesur</display-name><url>https://movistarplus.es</url></channel>
+<channel id="ten"><display-name>Ten</display-name><url>https://movistarplus.es</url></channel>
 <channel id="telmin"><display-name>Telemadrid Int.</display-name><url>https://movistarplus.es</url></channel>
 <channel id="telmad"><display-name>Telemadrid</display-name><url>https://movistarplus.es</url></channel>
 <channel id="tdep"><display-name>Teledeporte</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tcm"><display-name>TCM</display-name><url>https://movistarplus.es</url></channel>
+<channel id="t5"><display-name>Telecinco</display-name><url>https://movistarplus.es</url></channel>
 <channel id="squi"><display-name>Squirrel</display-name><url>https://movistarplus.es</url></channel>
+<channel id="skysho"><display-name>SkyShowtime 1</display-name><url>https://movistarplus.es</url></channel>
 <channel id="skynw"><display-name>Sky News</display-name><url>https://movistarplus.es</url></channel>
+<channel id="sexta"><display-name>La Sexta</display-name><url>https://movistarplus.es</url></channel>
+<channel id="set"><display-name>AXN Movies</display-name><url>https://movistarplus.es</url></channel>
+<channel id="sci-fi"><display-name>SYFY</display-name><url>https://movistarplus.es</url></channel>
+<channel id="realm"><display-name>Real Madrid TV</display-name><url>https://movistarplus.es</url></channel>
+<channel id="playdc"><display-name>Disney Channel</display-name><url>https://movistarplus.es</url></channel>
+<channel id="pcm"><display-name>Comedy Central</display-name><url>https://movistarplus.es</url></channel>
 <channel id="otra"><display-name>La Otra</display-name><url>https://movistarplus.es</url></channel>
+<channel id="nova"><display-name>Nova</display-name><url>https://movistarplus.es</url></channel>
+<channel id="nickjr"><display-name>NICK JR</display-name><url>https://movistarplus.es</url></channel>
+<channel id="nick"><display-name>Nickelodeon</display-name><url>https://movistarplus.es</url></channel>
 <channel id="neox"><display-name>Neox</display-name><url>https://movistarplus.es</url></channel>
+<channel id="negotv"><display-name>Negocios TV</display-name><url>https://movistarplus.es</url></channel>
+<channel id="nbc"><display-name>CNBC</display-name><url>https://movistarplus.es</url></channel>
+<channel id="nava"><display-name>Navarra TV</display-name><url>https://movistarplus.es</url></channel>
 <channel id="natgw"><display-name>Nat Geo Wild</display-name><url>https://movistarplus.es</url></channel>
 <channel id="natgeo"><display-name>National Geographic</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mvf1"><display-name>DAZN F1</display-name><url>https://movistarplus.es</url></channel>
 <channel id="mvciva"><display-name>M+ Vacaciones</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mv1"><display-name>M+ Estrenos</display-name><url>https://movistarplus.es</url></channel>
 <channel id="multi8"><display-name>M+ Deportes 6</display-name><url>https://movistarplus.es</url></channel>
+<channel id="multi6"><display-name>M+ Deportes 7</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mtv"><display-name>MTV</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mplus"><display-name>Movistar Plus</display-name><url>https://movistarplus.es</url></channel>
 <channel id="morig"><display-name>M+ Originales</display-name><url>https://movistarplus.es</url></channel>
+<channel id="morgul"><display-name>M+ Orgullo</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mliuhd"><display-name>M+ LALIGA 2 HDR</display-name><url>https://movistarplus.es</url></channel>
 <channel id="mliguh"><display-name>M+ LALIGA HDR</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mligs3"><display-name>LALIGA TV HYPERMOTION 3</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mligs2"><display-name>LALIGA TV HYPERMOTION 2</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mligs"><display-name>LALIGA TV HYPERMOTION</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mliga"><display-name>M+ LALIGA</display-name><url>https://movistarplus.es</url></channel>
 <channel id="mlig3"><display-name>M+ LALIGA 4</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mlig2"><display-name>M+ LALIGA 3</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mlig1"><display-name>M+ Fanzone</display-name><url>https://movistarplus.es</url></channel>
 <channel id="mindi"><display-name>M+ Indie</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mhits"><display-name>M+ Hits</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mezzo"><display-name>Mezzo</display-name><url>https://movistarplus.es</url></channel>
 <channel id="mezzli"><display-name>Mezzo Live</display-name><url>https://movistarplus.es</url></channel>
 <channel id="mellav"><display-name>M+ Vamos 3</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mega"><display-name>Mega</display-name><url>https://movistarplus.es</url></channel>
+<channel id="medite"><display-name>La Ocho TV</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mdoc"><display-name>M+ Documentales</display-name><url>https://movistarplus.es</url></channel>
 <channel id="mcopa"><display-name>Primera Federación</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mbalc2"><display-name>M+ Baloncesto 2</display-name><url>https://movistarplus.es</url></channel>
-<channel id="m2sd"><display-name>DAZN 2</display-name><url>https://movistarplus.es</url></channel>
-<channel id="t5"><display-name>Telecinco</display-name><url>https://movistarplus.es</url></channel>
-<channel id="multi6"><display-name>M+ Deportes 7</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mliga"><display-name>M+ LALIGA</display-name><url>https://movistarplus.es</url></channel>
-<channel id="ucl"><display-name>UCL</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tvg"><display-name>TVG Europa</display-name><url>https://movistarplus.es</url></channel>
-<channel id="ten"><display-name>Ten</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tcm"><display-name>TCM</display-name><url>https://movistarplus.es</url></channel>
-<channel id="realm"><display-name>Real Madrid TV</display-name><url>https://movistarplus.es</url></channel>
-<channel id="nova"><display-name>Nova</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mvf1"><display-name>DAZN F1</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mligs3"><display-name>LALIGA TV HYPERMOTION 3</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mhits"><display-name>M+ Hits</display-name><url>https://movistarplus.es</url></channel>
-<channel id="sexta"><display-name>La Sexta</display-name><url>https://movistarplus.es</url></channel>
-<channel id="maxava"><display-name>HBO Max Avances</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tv3cat"><display-name>TV3</display-name><url>https://movistarplus.es</url></channel>
-<channel id="negotv"><display-name>Negocios TV</display-name><url>https://movistarplus.es</url></channel>
 <channel id="mclas"><display-name>M+ Clásicos</display-name><url>https://movistarplus.es</url></channel>
-<channel id="nbc"><display-name>CNBC</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mbalct"><display-name>M+ Baloncesto</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mbalc2"><display-name>M+ Baloncesto 2</display-name><url>https://movistarplus.es</url></channel>
+<channel id="maxava"><display-name>HBO Max Avances</display-name><url>https://movistarplus.es</url></channel>
+<channel id="m2sd"><display-name>DAZN 2</display-name><url>https://movistarplus.es</url></channel>
+<channel id="m1sd"><display-name>DAZN 1</display-name><url>https://movistarplus.es</url></channel>
+<channel id="la2"><display-name>LA 2</display-name><url>https://movistarplus.es</url></channel>
+<channel id="inteua"><display-name>1+1 Internacional</display-name><url>https://movistarplus.es</url></channel>
+<channel id="inteco"><display-name>El Toro TV</display-name><url>https://movistarplus.es</url></channel>
+<channel id="iberal"><display-name>Iberalia TV</display-name><url>https://movistarplus.es</url></channel>
+<channel id="ib3"><display-name>IB3</display-name><url>https://movistarplus.es</url></channel>
+<channel id="golf+"><display-name>M+ Golf</display-name><url>https://movistarplus.es</url></channel>
+<channel id="golf2"><display-name>M+ Golf 2</display-name><url>https://movistarplus.es</url></channel>
+<channel id="gol"><display-name>GOL</display-name><url>https://movistarplus.es</url></channel>
+<channel id="galav"><display-name>Canal de las Estrellas</display-name><url>https://movistarplus.es</url></channel>
+<channel id="futrep"><display-name>Canal Fútbol Replay</display-name><url>https://movistarplus.es</url></channel>
+<channel id="freeli"><display-name>M+ Cero</display-name><url>https://movistarplus.es</url></channel>
+<channel id="france"><display-name>FRANCE24 (FR)</display-name><url>https://movistarplus.es</url></channel>
+<channel id="foxge"><display-name>STAR Channel</display-name><url>https://movistarplus.es</url></channel>
+<channel id="flix2"><display-name>Canal FlixOlé 2</display-name><url>https://movistarplus.es</url></channel>
+<channel id="flix1"><display-name>Canal FlixOlé 1</display-name><url>https://movistarplus.es</url></channel>
+<channel id="fdfic"><display-name>Factoría de Ficción</display-name><url>https://movistarplus.es</url></channel>
+<channel id="extrem"><display-name>Canal Extremadura Sat</display-name><url>https://movistarplus.es</url></channel>
+<channel id="extre"><display-name>Canal Extremadura</display-name><url>https://movistarplus.es</url></channel>
+<channel id="ewtn"><display-name>EWTN</display-name><url>https://movistarplus.es</url></channel>
+<channel id="etb3"><display-name>etb1ON</display-name><url>https://movistarplus.es</url></channel>
+<channel id="etb2"><display-name>etb2</display-name><url>https://movistarplus.es</url></channel>
+<channel id="etb1"><display-name>etb1</display-name><url>https://movistarplus.es</url></channel>
+<channel id="etb"><display-name>etb2ON</display-name><url>https://movistarplus.es</url></channel>
+<channel id="esp4k"><display-name>Eurosport 4K</display-name><url>https://movistarplus.es</url></channel>
+<channel id="esp3"><display-name>Esport 3</display-name><url>https://movistarplus.es</url></channel>
+<channel id="esp2"><display-name>Eurosport 2</display-name><url>https://movistarplus.es</url></channel>
+<channel id="esp"><display-name>Eurosport 1</display-name><url>https://movistarplus.es</url></channel>
+<channel id="enw"><display-name>Euronews</display-name><url>https://movistarplus.es</url></channel>
+<channel id="energy"><display-name>Energy</display-name><url>https://movistarplus.es</url></channel>
+<channel id="dwsp"><display-name>Dreamworks</display-name><url>https://movistarplus.es</url></channel>
+<channel id="dkiss"><display-name>DKISS</display-name><url>https://movistarplus.es</url></channel>
+<channel id="divini"><display-name>Divinity</display-name><url>https://movistarplus.es</url></channel>
+<channel id="dcrmax"><display-name>DMAX</display-name><url>https://movistarplus.es</url></channel>
+<channel id="dcr"><display-name>Discovery</display-name><url>https://movistarplus.es</url></channel>
+<channel id="dcesp"><display-name>M+ Cine Español</display-name><url>https://movistarplus.es</url></channel>
+<channel id="daznli"><display-name>DAZN MUNDIAL</display-name><url>https://movistarplus.es</url></channel>
+<channel id="daznl4"><display-name>DAZN MUNDIAL 4</display-name><url>https://movistarplus.es</url></channel>
+<channel id="daznl3"><display-name>DAZN MUNDIAL 3</display-name><url>https://movistarplus.es</url></channel>
+<channel id="daznl2"><display-name>DAZN MUNDIAL 2</display-name><url>https://movistarplus.es</url></channel>
+<channel id="dazn4"><display-name>DAZN 4</display-name><url>https://movistarplus.es</url></channel>
+<channel id="dazn3"><display-name>DAZN 3</display-name><url>https://movistarplus.es</url></channel>
+<channel id="dazmot"><display-name>DAZN MotoGP</display-name><url>https://movistarplus.es</url></channel>
+<channel id="dazba"><display-name>DAZN Baloncesto</display-name><url>https://movistarplus.es</url></channel>
+<channel id="dazb3"><display-name>DAZN Baloncesto 3</display-name><url>https://movistarplus.es</url></channel>
+<channel id="dazb2"><display-name>DAZN Baloncesto 2</display-name><url>https://movistarplus.es</url></channel>
+<channel id="dayst"><display-name>Daystar Español HD</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cyltv"><display-name>La 7</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cubav"><display-name>Cubavisión</display-name><url>https://movistarplus.es</url></channel>
+<channel id="csurhd"><display-name>Canal Sur HD</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cpdep"><display-name>M+ Deportes</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cpcome"><display-name>M+ Comedia</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cpcole"><display-name>M+ Drama</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cpacci"><display-name>M+ Acción</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cosmo"><display-name>COSMO</display-name><url>https://movistarplus.es</url></channel>
+<channel id="colomb"><display-name>TV Colombia</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cnn"><display-name>CNN Int</display-name><url>https://movistarplus.es</url></channel>
+<channel id="classd"><display-name>Classica</display-name><url>https://movistarplus.es</url></channel>
+<channel id="clantv"><display-name>Clan TVE</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cl13"><display-name>Calle 13</display-name><url>https://movistarplus.es</url></channel>
+<channel id="chile"><display-name>TV Chile</display-name><url>https://movistarplus.es</url></channel>
+<channel id="chapio"><display-name>M+ Liga de Campeones</display-name><url>https://movistarplus.es</url></channel>
+<channel id="chap4"><display-name>M+ Liga de Campeones 5</display-name><url>https://movistarplus.es</url></channel>
+<channel id="chap3"><display-name>M+ Liga de Campeones 4</display-name><url>https://movistarplus.es</url></channel>
+<channel id="chap2"><display-name>M+ Liga de Campeones 3</display-name><url>https://movistarplus.es</url></channel>
+<channel id="chap1"><display-name>M+ Liga de Campeones 2</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cgtnfr"><display-name>CGTN Français HD</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cgtnen"><display-name>CGTN English HD</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cgtndo"><display-name>CGTN Documentary HD</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cgtnd"><display-name>CGTN Documentary</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cctv-e"><display-name>CGTN Español</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cazpes"><display-name>Caza y Pesca</display-name><url>https://movistarplus.es</url></channel>
+<channel id="casman"><display-name>Castilla la Mancha TV</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cansur"><display-name>Canal Sur</display-name><url>https://movistarplus.es</url></channel>
+<channel id="canar"><display-name>TV Canaria</display-name><url>https://movistarplus.es</url></channel>
+<channel id="can33"><display-name>33</display-name><url>https://movistarplus.es</url></channel>
+<channel id="c33"><display-name>SX3</display-name><url>https://movistarplus.es</url></channel>
+<channel id="c4"><display-name>Cuatro</display-name><url>https://movistarplus.es</url></channel>
+<channel id="btv"><display-name>Betevé</display-name><url>https://movistarplus.es</url></channel>
+<channel id="boing"><display-name>Boing</display-name><url>https://movistarplus.es</url></channel>
+<channel id="bl"><display-name>Bloomberg</display-name><url>https://movistarplus.es</url></channel>
+<channel id="bemad"><display-name>BE MAD</display-name><url>https://movistarplus.es</url></channel>
+<channel id="bbhis"><display-name>BBC History</display-name><url>https://movistarplus.es</url></channel>
+<channel id="bbgea"><display-name>BBC Top Gear</display-name><url>https://movistarplus.es</url></channel>
+<channel id="bbfoo"><display-name>BBC Food</display-name><url>https://movistarplus.es</url></channel>
+<channel id="bbdra"><display-name>BBC Series</display-name><url>https://movistarplus.es</url></channel>
+<channel id="bbclif"><display-name>BBC Lifestyle</display-name><url>https://movistarplus.es</url></channel>
+<channel id="bbcear"><display-name>BBC Earth</display-name><url>https://movistarplus.es</url></channel>
+<channel id="bbc"><display-name>BBC News</display-name><url>https://movistarplus.es</url></channel>
+<channel id="baby"><display-name>Baby TV</display-name><url>https://movistarplus.es</url></channel>
+<channel id="axn"><display-name>AXN</display-name><url>https://movistarplus.es</url></channel>
+<channel id="atress"><display-name>Atreseries</display-name><url>https://movistarplus.es</url></channel>
+<channel id="arthur"><display-name>M+ Deportes 2</display-name><url>https://movistarplus.es</url></channel>
+<channel id="arirhd"><display-name>Arirang TV HD</display-name><url>https://movistarplus.es</url></channel>
+<channel id="aragtv"><display-name>Aragón TV</display-name><url>https://movistarplus.es</url></channel>
+<channel id="aragon"><display-name>Aragón TV Int</display-name><url>https://movistarplus.es</url></channel>
+<channel id="apunt"><display-name>À Punt</display-name><url>https://movistarplus.es</url></channel>
+<channel id="antv"><display-name>Canal Sur Andalucía</display-name><url>https://movistarplus.es</url></channel>
+<channel id="andatv"><display-name>Andalucía TV</display-name><url>https://movistarplus.es</url></channel>
+<channel id="aljaze"><display-name>Al Jazeera English</display-name><url>https://movistarplus.es</url></channel>
+<channel id="a3"><display-name>Antena 3</display-name><url>https://movistarplus.es</url></channel>
+<channel id="3_24"><display-name>3CatInfo</display-name><url>https://movistarplus.es</url></channel>
+<channel id="24h"><display-name>24 Horas</display-name><url>https://movistarplus.es</url></channel>
+<channel id="13tv"><display-name>TRECE</display-name><url>https://movistarplus.es</url></channel>
 <programme start="20260606030000 +0000" stop="20260606220000 +0000" channel="7tvmur"><title lang="es">En el corazón de la fiesta</title><desc lang="es">Programa dedicado a las celebraciones y festejos que se llevan a cabo en todos los territorios de la región. El espacio pretende mostrar las raíces de la cultura de las diferentes localidades a través de las festividades tanto de carácter religioso como pagano.</desc></programme>
 <programme start="20260606040000 +0000" stop="20260606050000 +0000" channel="7tvmur"><title lang="es">Un paseo por</title><desc lang="es">Programa de divulgación cultural en el que se recorre la geografía murciana. El espacio muestra las calles, los centros históricos, culturales y religiosos de la comunidad, así como los lugares con mayor riqueza en biodiversidad.</desc></programme>
 <programme start="20260606050000 +0000" stop="20260606060000 +0000" channel="7tvmur"><title lang="es">En ruta</title><desc lang="es">Recorrido en bicicleta por la Región de Murcia que visibiliza un turismo más sostenible y equilibrado, poniendo en valor el patrimonio histórico, cultural y natural.</desc></programme>
@@ -2646,7 +2646,7 @@
 <programme start="20260607164000 +0000" stop="20260607164700 +0000" channel="clantv"><title lang="es">Superthings: Rescue Force (T2): Ep.2 ¡Trasher ensucia la ciudad!</title><desc lang="es">Sigue las aventuras de Starberry, Trasher, Super Slice, Badnilla, Sugarfun y Smash Crash.</desc></programme>
 <programme start="20260607164700 +0000" stop="20260607165400 +0000" channel="clantv"><title lang="es">Superthings kazoom kids (T1): Ep.4 ¡Badnilla congela la ciudad!</title><desc lang="es">Sigue las aventuras de Starberry, Trasher, Super Slice, Badnilla, Sugarfun y Smash Crash.</desc></programme>
 <programme start="20260607165400 +0000" stop="20260607171600 +0000" channel="clantv"><title lang="es">Pokémon X Y: expediciones en Kalos (T17): Ep.5 ¡Un tempestuoso combate de gimnasio en Novarte!</title><desc lang="es">El sueño de Ash Ketchum es ser el mejor entrenador de Pokémons. A los diez años, gracias al Profesor Oak, consigue su primer Pokémon, llamado Pikachu. Desde ese momento los dos son compañeros de aventuras. Juntos viajan por todo el mundo, desafiando a entrenadores y haciendo nuevos amigos.En el mundo donde acontece la serie sólo hay seres humanos y una gran variedad de Pokémons, que se organizan por lo que llaman tipos y se caracterizan, además, por ser evolutivos: con el paso del tiempo modifican su aspecto físico y sus cualidades.''Pokémon'' es una serie de anime japonés que ha tenido una gran repercusión en el público infantil de todo el mundo. Basada en los personajes de unos exitosos videojuegos, se ha llevado ya en varias ocasiones a la gran pantalla y su 'merchandising' ha inundado muchos hogares españoles.</desc></programme>
-<programme start="20260607171600 +0000" stop="20260607173700 +0000" channel="clantv"><title lang="es">Pokémon X Y: expediciones en Kalos (T17): Ep.6 ¡Combatiendo sobre una capa de hielo!</title><desc lang="es">El sueño de Ash Ketchum es ser el mejor entrenador de Pokémons. A los diez años, gracias al Profesor Oak, consigue su primer Pokémon, llamado Pikachu. Desde ese momento los dos son compañeros de aventuras. Juntos viajan por todo el mundo, desafiando a entrenadores y haciendo nuevos amigos.En el mundo donde acontece la serie sólo hay seres humanos y una gran variedad de Pokémons, que se organizan por lo que llaman tipos y se caracterizan, además, por ser evolutivos: con el paso del tiempo modifican su aspecto físico y sus cualidades.''Pokémon'' es una serie de anime japonés que ha tenido una gran repercusión en el público infantil de todo el mundo. Basada en los personajes de unos exitosos videojuegos, se ha llevado ya en varias ocasiones a la gran pantalla y su 'merchandising' ha inundado muchos hogares españoles.</desc></programme>
+<programme start="20260607171600 +0000" stop="20260607173700 +0000" channel="clantv"><title lang="es">Pokémon X Y: expediciones en Kalos (T17): Ep.6 ¡Combatiendo sobre una capa de hielo!</title></programme>
 <programme start="20260607173700 +0000" stop="20260607174900 +0000" channel="clantv"><title lang="es">Pokémon X Y: expediciones en Kalos (T17): Ep.7 ¡Persecución en las carreras de Rhyhorn!</title><desc lang="es">El sueño de Ash Ketchum es ser el mejor entrenador de Pokémons. A los diez años, gracias al Profesor Oak, consigue su primer Pokémon, llamado Pikachu. Desde ese momento los dos son compañeros de aventuras. Juntos viajan por todo el mundo, desafiando a entrenadores y haciendo nuevos amigos.En el mundo donde acontece la serie sólo hay seres humanos y una gran variedad de Pokémons, que se organizan por lo que llaman tipos y se caracterizan, además, por ser evolutivos: con el paso del tiempo modifican su aspecto físico y sus cualidades.''Pokémon'' es una serie de anime japonés que ha tenido una gran repercusión en el público infantil de todo el mundo. Basada en los personajes de unos exitosos videojuegos, se ha llevado ya en varias ocasiones a la gran pantalla y su 'merchandising' ha inundado muchos hogares españoles.</desc></programme>
 <programme start="20260607174900 +0000" stop="20260607175800 +0000" channel="clantv"><title lang="es">Una casa de locos (T4): Ep.7 Mejorando el presente / Mío helado</title><desc lang="es">Los niños buscan el regalo perfecto para papá; Lily evita desastres entre hermanos.</desc></programme>
 <programme start="20260607175800 +0000" stop="20260607184100 +0000" channel="clantv"><title lang="es">Pokémon X Y: expediciones en Kalos (T17): Ep.8 ¡Peinando a Furfrou!</title><desc lang="es">El sueño de Ash Ketchum es ser el mejor entrenador de Pokémons. A los diez años, gracias al Profesor Oak, consigue su primer Pokémon, llamado Pikachu. Desde ese momento los dos son compañeros de aventuras. Juntos viajan por todo el mundo, desafiando a entrenadores y haciendo nuevos amigos.En el mundo donde acontece la serie sólo hay seres humanos y una gran variedad de Pokémons, que se organizan por lo que llaman tipos y se caracterizan, además, por ser evolutivos: con el paso del tiempo modifican su aspecto físico y sus cualidades.''Pokémon'' es una serie de anime japonés que ha tenido una gran repercusión en el público infantil de todo el mundo. Basada en los personajes de unos exitosos videojuegos, se ha llevado ya en varias ocasiones a la gran pantalla y su 'merchandising' ha inundado muchos hogares españoles.</desc></programme>
@@ -5392,7 +5392,7 @@
 <programme start="20260607203000 +0000" stop="20260607212000 +0000" channel="la2"><title lang="es">Me meto en un jardín: Miguel Ángel Revilla</title><desc lang="es">Mercedes Milá recorre Cantabria junto a Miguel Ángel Revilla. Viajan por el Valle del Nansa, visitan la Cueva del Soplao y los Jardines de Cabárceno. También descubre un taller floral en Pámanes. Un viaje entre naturaleza, historia y memoria.</desc></programme>
 <programme start="20260607212000 +0000" stop="20260607221500 +0000" channel="la2"><title lang="es">Me meto en un jardín: David Uclés</title><desc lang="es">Mercedes Milá viaja a Quesada para conocer al escritor David Uclés. Recorren el pueblo, visitan el Museo Zabaleta y su cortijo familiar, y comparten momentos con su familia. El viaje continúa por la Sierra de Cazorla, hasta llegar al jardín Torre del Vinagre.</desc></programme>
 <programme start="20260607221500 +0000" stop="20260608000500 +0000" channel="la2"><title lang="es">Tesoros de la tele: La edad de oro</title><desc lang="es">Una completa selección de los mejores momentos, entrevistas y actuaciones, nacionales e internacionales, del mítico programa ''La edad de oro'', dirigido y presentado por Paloma Chamorro.</desc></programme>
-<programme start="20260608000500 +0000" stop="20260608012000 +0000" channel="la2"><title lang="es">Nuestro papa</title><desc lang="es">Para preparar el papel del hombre que se convertiría en el Papa Francisco, un actor viaja de Génova a Roma siguiendo los orígenes del líder religioso.</desc></programme>
+<programme start="20260608000500 +0000" stop="20260608012000 +0000" channel="la2"><title lang="es">Nuestro papa</title></programme>
 <programme start="20260608012000 +0000" stop="20260608021500 +0000" channel="la2"><title lang="es">Documentos TV: Salvar los glaciares</title><desc lang="es">Glaciólogos e investigadores climáticos alertan de los derrumbes y desprendimientos, inundaciones provocadas por desbordamientos, subida del nivel del mar o desestabilización de las corrientes mientras trabajan para anticipar su impacto en millones de personas.</desc></programme>
 <programme start="20260608021500 +0000" stop="20260608031000 +0000" channel="la2"><title lang="es">Soylent Green: alerta roja</title><desc lang="es">El director de cine Fleischer se hizo eco de un informe de la época que ya cuestionaba el modelo industrial y consumista de los años 70. Con esa información, realizó ''Cuando el destino nos alcance'' y Charlton Heston apoyó la causa con su interpretación.</desc></programme>
 <programme start="20260606030500 +0000" stop="20260606220000 +0000" channel="m1sd"><title lang="es">Disfruta de DAZN en Movistar Plus</title></programme>
@@ -6023,8 +6023,8 @@
 <programme start="20260607120000 +0000" stop="20260607140000 +0000" channel="mligs"><title lang="es">LALIGA HYPERMOTION (T25/26): Zaragoza - Málaga</title><desc lang="es">Ibercaja Estadio acoge el último partido del curso en Zaragoza, con un ambiente inevitablemente emocional. El Zaragoza, un histórico del fútbol profesional, afronta una tarde de despedida dura, mientras que el Málaga llega con la ambición intacta en un escenario que siempre exige. La última jornada llega con realidades opuestas: el Zaragoza ya tiene confirmado el descenso, pero quiere cerrar con una actuación que honre a su afición y sirva de punto de partida para reconstruir. El Málaga, en cambio, se juega asegurar su plaza de promoción e incluso mejorar su posición, así que no puede permitirse un despiste. Partido con mucho componente anímico y presión para los visitantes.</desc></programme>
 <programme start="20260607140000 +0000" stop="20260607160000 +0000" channel="mligs"><title lang="es">LALIGA HYPERMOTION (T25/26): Castellón - Eibar</title><desc lang="es">SkyFi Castalia despide la fase regular con un duelo de alto voltaje: dos equipos hechos para competir, con ritmo y capacidad para mandar en campo rival. El Castellón se ha ganado el derecho a llegar hasta el final dependiendo de sí mismo en un estadio que aprieta de verdad. Es la última jornada y aquí hay premio grande: el Castellón defiende plaza de promoción y el Eibar se juega seguir enganchado a esa pelea. Si uno duda, el otro no perdona; por eso se espera un partido de nervio, con mucho balón parado y miradas constantes a lo que ocurra en otros campos.</desc></programme>
 <programme start="20260607160000 +0000" stop="20260607180000 +0000" channel="mligs"><title lang="es">LALIGA HYPERMOTION (T25/26): Castellón - Almería</title><desc lang="es">Castalia abre el playoff con un Castellón que llega enchufado tras cerrar la fase regular con victoria ante el Eibar (2-1). Con la ciudad metida y un equipo que ha vivido buena parte del curso en la zona alta, el plan pasa por imponer ritmo, morder arriba por tramos y cargar el área con continuidad: en eliminatorias así, cada detalle en campo rival vale oro. El Almería aterriza con la presión de quien se marcó el ascenso como objetivo y, aun así, se quedó en la promoción: viene de ganar al Valladolid (1-0) y sabe que fuera de casa toca ser fino y práctico. Si sostiene el partido desde el orden, minimiza pérdidas y aprovecha sus momentos de calidad en tres cuartos, puede llevarse un resultado que le deje la vuelta muy viva.</desc></programme>
-<programme start="20260607180000 +0000" stop="20260607190000 +0000" channel="mligs"><title lang="es">Previa Segunda División (T25/26): Las Palmas - Málaga</title><desc lang="es">Toda la información previa a los partidos que se van a disputar en la siguiente jornada de competición. Noticias, estadísticas, análisis y los datos necesarios para disfrutar más de los encuentros.</desc></programme>
-<programme start="20260607190000 +0000" stop="20260607210000 +0000" channel="mligs"><title lang="es">LALIGA HYPERMOTION (T25/26): Las Palmas - Málaga</title><desc lang="es">El Gran Canaria se prepara para una noche grande, con Las Palmas ya en ‘modo playoff’ tras asaltar Riazor (1-2) en el cierre de la fase regular. Con el ascenso en el horizonte, los amarillos buscarán mandar desde la pelota, tener paciencia en campo rival y, sobre todo, protegerse de las transiciones: el equilibrio será clave para que el empuje de casa se convierta en ventaja. El Málaga llega lanzado después de ganar en Zaragoza (0-2) y con la idea clara de competir la eliminatoria desde la contundencia en las áreas. Si consigue hacer un partido largo, juntar líneas y castigar en los momentos en los que Las Palmas se parta, puede salir con un botín muy valioso. En una ida, el control emocional y la estrategia suelen decidir más de lo que parece.</desc></programme>
+<programme start="20260607180000 +0000" stop="20260607190000 +0000" channel="mligs"><title lang="es">Previa Segunda División (T25/26): Las Palmas - Málaga</title></programme>
+<programme start="20260607190000 +0000" stop="20260607210000 +0000" channel="mligs"><title lang="es">LALIGA HYPERMOTION (T25/26): Las Palmas - Málaga</title></programme>
 <programme start="20260607210000 +0000" stop="20260607220000 +0000" channel="mligs"><title lang="es">Post Segunda División (T25/26): Las Palmas - Málaga</title><desc lang="es">Tras la disputa de los encuentros, es tiempo para el análisis. Los entrenadores de los equipos de LaLiga HyperMotion desmenuzan las claves que, según ellos, han propiciado el resultado del partido que acaban de jugar.</desc></programme>
 <programme start="20260607220000 +0000" stop="20260607223000 +0000" channel="mligs"><title lang="es">Inside - El gran derbi</title><desc lang="es">Un recorrido por la organización de El Gran Derbi de Sevilla y el impacto de la piratería audiovisual.</desc></programme>
 <programme start="20260607223000 +0000" stop="20260608023000 +0000" channel="mligs"><title lang="es">LALIGA TV HYPERMOTION</title></programme>
@@ -6313,7 +6313,7 @@
 <programme start="20260607213500 +0000" stop="20260607215700 +0000" channel="mtv"><title lang="es">Vergüenza ajena: Mike "The Situation" Sorrentino III</title><desc lang="es">En este nuevo episodio de «Vergüenza ajena», Rob, Steelo y Nina Agdal dan la bienvenida a Mike "The Situation" Sorrentino de Jersey Shore y sufren un poco con PATINAZO Y CAÍDA y encuentran nuevas formas de arder con CHICOS DEL SOPLETE.</desc></programme>
 <programme start="20260607215700 +0000" stop="20260607223900 +0000" channel="mtv"><title lang="es">Pillados: Infieles: ¡Regalaste las galletas!</title><desc lang="es">Desde hace casi tres años, Mariah vive con su novio y padre de su hijo. A pesar de recibir mucho amor de Bobby, Mariah vivió un impactante incidente que la hace cuestionarse si hay alguien más en su relación.</desc></programme>
 <programme start="20260607223900 +0000" stop="20260607233200 +0000" channel="mtv"><title lang="es">Behind the Music (2021): Boy George</title><desc lang="es">Los artistas comparten sus verdades auténticas detrás de las mayores historias musicales de nuestro tiempo, ya que la icónica serie documental regresa con remasterizaciones actualizadas que reflejan los viajes de los artistas, y nuevos episodios con una experiencia visual reimaginada.</desc></programme>
-<programme start="20260607233200 +0000" stop="20260608001700 +0000" channel="mtv"><title lang="es">Jersey Shore: Vacaciones en familia: El programa de las albóndigas</title><desc lang="es">Las chicas estrenan el programa de las albóndigas y tienen como invitados a Jerry Springer y Aimee. Vinny muestra sus habilidades saltando a la comba. Ronnie hace una aparición sorpresa. Miken en guerra, ángel contra diablo.</desc></programme>
+<programme start="20260607233200 +0000" stop="20260608001700 +0000" channel="mtv"><title lang="es">Jersey Shore: Vacaciones en familia: El programa de las albóndigas</title></programme>
 <programme start="20260608001700 +0000" stop="20260608010000 +0000" channel="mtv"><title lang="es">Jersey Shore: Vacaciones en familia: Fiesta en la piscina</title><desc lang="es">El grupo llega a San Diego para otras vacaciones. Angelina y Jenni discuten de nuevo mientras Mike mete cizaña. Vinny se muere por ir la fiesta de la piscina mientras las albóndigas esperan. ¡Parecen unas vacaciones muy divertidas!</desc></programme>
 <programme start="20260608010000 +0000" stop="20260608014400 +0000" channel="mtv"><title lang="es">Jersey Shore: Vacaciones en familia: Está bien, trabajo aquí</title><desc lang="es">La carne ya está en el asador. Cuando piensas que todo está bien, la tensión estropea el ambiente. Mientras, las "fiesteras guarras" se apoderan de San Diego.</desc></programme>
 <programme start="20260608014400 +0000" stop="20260608022600 +0000" channel="mtv"><title lang="es">Jersey Shore: Vacaciones en familia: Lola la conejita</title><desc lang="es">Domingo de Pascua: Estilo Jersey Shore. Vuelve Lola la conejita, Angelina y Snooki causan estragos en una vinoteca. Los chicos disfrutan del paseo de San Diego.</desc></programme>
@@ -6860,70 +6860,6 @@
 <programme start="20260608015600 +0000" stop="20260608021900 +0000" channel="nick"><title lang="es">Bob Esponja (T12): Ep.26 El puesto de Cangreburguers / El Saltasueños</title><desc lang="es">El equipo del Krusty Krab vende hamburguesas en un concierto. Bob Esponja explora los paisajes oníricos.</desc></programme>
 <programme start="20260608021900 +0000" stop="20260608023800 +0000" channel="nick"><title lang="es">Bob Esponja (T13): Ep.1 Un lugar para las mascotas/Preso del amor</title><desc lang="es">El señor Cangrejo se da cuenta de que las mascotas consumen mucho más que sus dueños. Karen cierra el cubo de cebo.</desc></programme>
 <programme start="20260608023800 +0000" stop="20260608030000 +0000" channel="nick"><title lang="es">Bob Esponja (T13): Ep.2 El mayor espectáculo del mundo/Calamardo está de baja</title><desc lang="es">La casa de Calamardo se infesta de un circo de pulgas que llega por correo. Calamardo finge estar enfermo.</desc></programme>
-<programme start="20260606031300 +0000" stop="20260606033700 +0000" channel="nickjr"><title lang="es">Barbapapa - ¡Una gran familia! (T2): Ep.13 Barbabrillo mete la pata / Millonarios</title><desc lang="es">Los gemelos visitan la habitación de Barbabrillo. Si fueras multimillonario, ¿qué harías para alcanzar tus sueños.</desc></programme>
-<programme start="20260606033700 +0000" stop="20260606220000 +0000" channel="nickjr"><title lang="es">Tim Rex en el espacio (T1): Ep.4 Botas / Loro lunar / Vóley-cola</title><desc lang="es">Tim prueba unas botas propulsoras y se descontrolan. // Tim, Tommy y Tia cuidan del loro lunar de Bronte. // Tim, Tommy y Tia juegan a vóley-cola contra sus padres.</desc></programme>
-<programme start="20260606040000 +0000" stop="20260606042800 +0000" channel="nickjr"><title lang="es">Blaze y los Monster Machines (T2): Ep.12 El Gran Premio de Axle City</title><desc lang="es">Gabby le da a Blaze un mando especial con el que puede controlar cualquier máquina, y Crusher intenta robarlo.</desc></programme>
-<programme start="20260606042800 +0000" stop="20260606045600 +0000" channel="nickjr"><title lang="es">Blaze y los Monster Machines (T2): Ep.13 La Ruta del Tesoro</title><desc lang="es">Blaze, AJ y Gabby se unen al camión pirata Pata de Palo para buscar el tesoro de la isla.</desc></programme>
-<programme start="20260606045600 +0000" stop="20260606052600 +0000" channel="nickjr"><title lang="es">Equipo Rubble (T2): Ep.3 El equipo construye un circuito de minigolf / El equipo construye un mariposario</title><desc lang="es">El equipo inventa un nuevo deporte; Al descubrir una mariposa, los cachorros la ven revolotear y alejarse.</desc></programme>
-<programme start="20260606052600 +0000" stop="20260606055700 +0000" channel="nickjr"><title lang="es">La Patrulla Canina (T2): Ep.17 La Patrulla contra el resfriado / La Patrulla y el fantasma de la cabaña</title><desc lang="es">Marshall cuida a los cachorros que han caído enfermos. / La Patrulla creen que hay un fantasma incordiando.</desc></programme>
-<programme start="20260606055700 +0000" stop="20260606060200 +0000" channel="nickjr"><title lang="es">Peppa Pig (T2): Ep.83 Un paseo en bicicleta</title><desc lang="es">Peppa y su familia van de paseo en bicicleta. Peppa va en su pequeña bicicleta. Mamá y Papá Pig van en tándem con George en la parte de atrás. A Peppa le encanta ir en bicicleta cuesta abajo, pero no le gusta tanto pedalear cuesta arriba.</desc></programme>
-<programme start="20260606060200 +0000" stop="20260606060600 +0000" channel="nickjr"><title lang="es">Peppa Pig (T2): Ep.84 Patinando sobre hielo</title><desc lang="es">Peppa y George van a patinar sobre hielo por primera vez. Mamá Pig enseña a patinar a Peppa, quien comienza a pasárselo muy bien. Peppa empieza a enseñar a George, pero resulta que es un patinador nato. A Peppa y a George les encanta patinar.</desc></programme>
-<programme start="20260606060600 +0000" stop="20260606061100 +0000" channel="nickjr"><title lang="es">Peppa Pig (T2): Ep.85 El dentista</title><desc lang="es">Peppa y George van al dentista para una revisión. El Doctor Elephant, el dentista, dice que los dientes de Peppa y George son muy bonitos y están muy limpios. Pero los dientes del juguete de George, Señor Dinosaurio, están un poco amarillos.</desc></programme>
-<programme start="20260606061100 +0000" stop="20260606062500 +0000" channel="nickjr"><title lang="es">Peppa Pig (T2): Ep.86 Casitas</title><desc lang="es">Peppa y George juegan en la casa del árbol. Los amigos de Peppa van a jugar, pero Peppa decide que solo las niñas pueden entrar en la casa del árbol. Entonces, Abuelo Pig les construye a los niños su propia cabaña en forma de castillo.</desc></programme>
-<programme start="20260606062500 +0000" stop="20260606065600 +0000" channel="nickjr"><title lang="es">Tim Rex en el espacio (T1): Ep.6 Spaceland / Cohete nuevo / Cuidando niños</title><desc lang="es">Tim, Tommy y Tia se pierden en un centro de juegos. // Tim intenta encontrar un cohete nuevo perfecto para él. // Tim intenta saltarse las reglas cuando Terri viene a hacer de canguro.</desc></programme>
-<programme start="20260606065600 +0000" stop="20260606072600 +0000" channel="nickjr"><title lang="es">Dora (T4): Ep.3 Capitana Dora / Bruno y los Bunny Boyz</title><desc lang="es">Dora y Botas siguen el rastro del barco de los Cerditos Piratas y lo salvan de un kraken // Dora y Botas ayudan a Bruno el Conejo a crear movimientos de baile propios a tiempo de actuar con su grupo favorito, los Bunny Boyz.</desc></programme>
-<programme start="20260606072600 +0000" stop="20260606075600 +0000" channel="nickjr"><title lang="es">El pequeño reino de Ben y Holly (T1): Ep.1 El picnic real/Gastón, la mariquita</title><desc lang="es">Holly invita a Ben al pícnic anual de las hadas.La pandilla limpia la cueva de Gastón para animarlo, pero a él le gusta desordenada.</desc></programme>
-<programme start="20260606075600 +0000" stop="20260606082600 +0000" channel="nickjr"><title lang="es">Barbapapa - ¡Una gran familia! (T1): Ep.20 Cuentacuentos/ El universo barbabebé</title><desc lang="es">Barbalib, Barbalala y Barbabella se turnan para narrar una historia, cada una la cuenta con un toque personal. // La familia Barbapapá pasa el día en la playa. Divididos en dos equipos, los barbabebés se pelean por una península de arena.</desc></programme>
-<programme start="20260606082600 +0000" stop="20260606084600 +0000" channel="nickjr"><title lang="es">Barbapapa - ¡Una gran familia! single story (T2): Episodio 8</title><desc lang="es">¡La maravillosa vuelta a las pantallas de la familia más popular de todas! BARBAPAPÁ ¡Una gran familia! Para los Barbapapás no existe la rutina: cada día es una aventura nueva llena de sorpresas.</desc></programme>
-<programme start="20260606084600 +0000" stop="20260606091500 +0000" channel="nickjr"><title lang="es">Mr. Cocodrilo (T1): Ep.3 Buzzy, el cocodrilo / La casa de ensueño</title><desc lang="es">A Mr. Cocodrilo le preocupa tener que elegir entre Buzzy, su antiguo mejor amigo, y Daisy, su nueva mejor amiga. // La sencilla casita del árbol de Daisy y Mr. Cocodrilo se complica cuando quieren hacer más sitio a todos sus amigos.</desc></programme>
-<programme start="20260606091500 +0000" stop="20260606094400 +0000" channel="nickjr"><title lang="es">Blaze y los Monster Machines (T4): Ep.4 Blaze ninja</title><desc lang="es">Blaze y AJ deben poner a prueba sus habilidades ninja para salvar a Crusher y Pickle de una montaña helada.</desc></programme>
-<programme start="20260606094400 +0000" stop="20260606100500 +0000" channel="nickjr"><title lang="es">Blaze y los Monster Machines (T4): Ep.5 El premio súper enorme</title><desc lang="es">Blaze consigue tres trabajos porque está decidido a ganar suficiente dinero para usar la máquina de regalos gigantes.</desc></programme>
-<programme start="20260606100500 +0000" stop="20260606103500 +0000" channel="nickjr"><title lang="es">Equipo Rubble (T1): Ep.7 El equipo construye una casa a un castor / El equipo arregla la calle</title><desc lang="es">El equipo le construye una casa a un castor; Speed Meister daña una calle justo antes de un desfile.</desc></programme>
-<programme start="20260606103500 +0000" stop="20260606105500 +0000" channel="nickjr"><title lang="es">Equipo Rubble (episodios individuales) (T2): Ep.11 El equipo construye un gimnasio</title><desc lang="es">El equipo construye un gimnasio a petición de la monitora Karima, aunque la barra de ejercicios es demasiado alta para Lily.</desc></programme>
-<programme start="20260606105500 +0000" stop="20260606112600 +0000" channel="nickjr"><title lang="es">La Patrulla Canina (T3): Ep.18 La Patrulla y la mermelada / La Patrulla salva a un cerdo surfero</title><desc lang="es">Los cachorros disfrutan de la fiesta anual de la mermelada. La patrulla rescata a Cornelius en el mar.</desc></programme>
-<programme start="20260606112600 +0000" stop="20260606115700 +0000" channel="nickjr"><title lang="es">Barbapapa - ¡Una gran familia! (T2): Ep.18 La feria de la innovación / ¡Aclárate, Barbazoo!</title><desc lang="es">Los Barbabebés quieren ser inventores como Leonardo da Vinci.// Los barbabebés deben elegir entre ir a la piscina o montar en bici.</desc></programme>
-<programme start="20260606115700 +0000" stop="20260606121700 +0000" channel="nickjr"><title lang="es">Barbapapa - ¡Una gran familia! single story (T1): Ep.30 Sin desperdicios</title><desc lang="es">Al ver la playa llena de basura, la familia Barbapapá decide limpiarla y usar la basura para crear un minicampo de golf.</desc></programme>
-<programme start="20260606121700 +0000" stop="20260606124800 +0000" channel="nickjr"><title lang="es">Tim Rex en el espacio (T1): Ep.1 Estrella fugaz / Pelota / Globo</title><desc lang="es">Tim, Tommy, Tia y papá se quedan atrapados en un asteroide. // Tim, Kai y Tommy intentan recuperar su pelota de la habitación de mamá. // El nuevo globo de Tia se atasca en un árbol y Tim intenta bajarlo.</desc></programme>
-<programme start="20260606124800 +0000" stop="20260606131800 +0000" channel="nickjr"><title lang="es">Detectives animales (T1): Episodio 20</title><desc lang="es">Dos detectives bestiales y su panda de amigos agentes especiales se alían para resolver los incontables misterioes del reino animal.</desc></programme>
-<programme start="20260606131800 +0000" stop="20260606134800 +0000" channel="nickjr"><title lang="es">Deer Squad (T3): Ep.6 Baby Acero / El tiro por la culata</title><desc lang="es">Acero se convierte en bebé por accidente y causa estragos en la ciudad. / Ricardo y Trickalien gastan la broma definitiva al Deer Squad y el día de la diversión no tarda en convertirse en un caos.</desc></programme>
-<programme start="20260606134800 +0000" stop="20260606135300 +0000" channel="nickjr"><title lang="es">Peppa Pig (T3): Ep.16 El Viaje En Barco De Polly</title><desc lang="es">Peppa y George salen a pasear en barco con el abuelo Pig, pero deben enviar al loro Polly a pedir ayuda cuando encallan.</desc></programme>
-<programme start="20260606135300 +0000" stop="20260606135700 +0000" channel="nickjr"><title lang="es">Peppa Pig (T3): Ep.17 Delphine Donkey</title><desc lang="es">La amiga francesa de Peppa, Delphine, viene a pasar unos días. Peppa la invita a su guardería y cantan la canción "Bing Bong".</desc></programme>
-<programme start="20260606135700 +0000" stop="20260606140200 +0000" channel="nickjr"><title lang="es">Peppa Pig (T3): Ep.18 El Camión De Bomberos</title><desc lang="es">Peppa y George van con mamá Pig al grupo antiincendios de la Sra. Rabbit.</desc></programme>
-<programme start="20260606140200 +0000" stop="20260606143000 +0000" channel="nickjr"><title lang="es">El pequeño reino de Ben y Holly (T1): Ep.1 El picnic real/Gastón, la mariquita</title><desc lang="es">Holly invita a Ben al pícnic anual de las hadas.La pandilla limpia la cueva de Gastón para animarlo, pero a él le gusta desordenada.</desc></programme>
-<programme start="20260606143000 +0000" stop="20260606145900 +0000" channel="nickjr"><title lang="es">La patrulla canina (T7): Ep.2 La patrulla salva el día de las elecciones / La patrulla salva a los monos-pompa</title><desc lang="es">El alcalde Humdinger se presenta para alcalde de Ciudad Aventura. Un grupo de monos tiene problemas.</desc></programme>
-<programme start="20260606145900 +0000" stop="20260606153000 +0000" channel="nickjr"><title lang="es">Equipo Rubble (T2): Ep.7 El equipo construye una supercama para Charger / El equipo construye un jardín de juegos de Super...</title><desc lang="es">Charger está demasiado energético para dormir; Los cachorros organizan una divertida cita de juegos.</desc></programme>
-<programme start="20260606153000 +0000" stop="20260606155900 +0000" channel="nickjr"><title lang="es">Mr. Cocodrilo (T1): Ep.13 ¡Atado a ti! / Amistades animales</title><desc lang="es">Cuando Winston y Daisy se quedan enganchados con una comba, a Daisy le preocupa pasar el resto de su vida enganchada a él. // Daisy y Mr. Cocodrilo intentan ayudar a Roland a buscar a un amigo que le acompañe a una feria de bellotas.</desc></programme>
-<programme start="20260606155900 +0000" stop="20260606162900 +0000" channel="nickjr"><title lang="es">Barbapapa - ¡Una gran familia! (T2): Ep.21 Vándalo / Trompos, ¿dónde estás?</title><desc lang="es">Barbabravo atrapa a un vándalo misterioso enmascarado.// rompos, el coche favorito de Barbabravo, ha desaparecido misteriosamente en el salón.</desc></programme>
-<programme start="20260606162900 +0000" stop="20260606165900 +0000" channel="nickjr"><title lang="es">Tim Rex en el espacio (T1): Ep.1 Estrella fugaz / Pelota / Globo</title><desc lang="es">Tim, Tommy, Tia y papá se quedan atrapados en un asteroide. // Tim, Kai y Tommy intentan recuperar su pelota de la habitación de mamá. // El nuevo globo de Tia se atasca en un árbol y Tim intenta bajarlo.</desc></programme>
-<programme start="20260606165900 +0000" stop="20260606170300 +0000" channel="nickjr"><title lang="es">Peppa Pig (T1): Ep.50 Suzy se marcha</title><desc lang="es">Mamá Sheep recibe la noticia de que ha conseguido un nuevo trabajo lejos de casa. Suzy y Peppa se preguntan cómo van a seguir siendo mejores amigas.</desc></programme>
-<programme start="20260606170300 +0000" stop="20260606170800 +0000" channel="nickjr"><title lang="es">Peppa Pig (T1): Ep.52 Sellos</title><desc lang="es">El Abuelo Pig muestra a Peppa y a George su extensa colección de sellos, ¡y eso les inspira a enviar una postal!</desc></programme>
-<programme start="20260606170800 +0000" stop="20260606171300 +0000" channel="nickjr"><title lang="es">Peppa Pig (T1): Ep.37 Cuando sea mayor</title><desc lang="es">En la guardería, Peppa y sus amigos deciden qué les gustaría ser de mayores.</desc></programme>
-<programme start="20260606171300 +0000" stop="20260606172700 +0000" channel="nickjr"><title lang="es">Peppa Pig (T1): Ep.43 El desfile de carnaval</title><desc lang="es">¡El carnaval ha llegado a la ciudad y es una oportunidad para ver todo tipo de cosas emocionantes! Está la banda de jazz del Sr. Bull, la Srta. Rabbit como reina del carnaval ¡e incluso una aparición muy especial del Sr. Potato con su enorme globo!</desc></programme>
-<programme start="20260606172700 +0000" stop="20260606175600 +0000" channel="nickjr"><title lang="es">El pequeño reino de Ben y Holly (T1): Ep.1 El picnic real/Gastón, la mariquita</title><desc lang="es">Holly invita a Ben al pícnic anual de las hadas.La pandilla limpia la cueva de Gastón para animarlo, pero a él le gusta desordenada.</desc></programme>
-<programme start="20260606175600 +0000" stop="20260606182700 +0000" channel="nickjr"><title lang="es">Barbapapa - ¡Una gran familia! (T2): Ep.15 Hijo de las estrellas - Parte 1 / Hijo de las estrellas - Parte 2</title><desc lang="es">Barbapapá y Lolita ven un platillo volante acercándose a su casa.// Los Barbapapás se encuentran a bordo de Badabám con la esperanza de encontrar el planeta de Bebé Pies Grandes.</desc></programme>
-<programme start="20260606182700 +0000" stop="20260606184700 +0000" channel="nickjr"><title lang="es">Barbapapa - ¡Una gran familia! single story (T1): Ep.17 Que se haga justicia</title><desc lang="es">A Barbabello se le olvida devolver un libro a la biblioteca. Como Don Estricto va hoy a casa a visitar a Barbapapá, decide huir.</desc></programme>
-<programme start="20260606184700 +0000" stop="20260606191700 +0000" channel="nickjr"><title lang="es">Blaze y los Monster Machines (T3): Ep.10 La isla de los animales</title><desc lang="es">Blaze y Stripes deben evitar los obstáculos de un lagarto para salvar a sus amigos en la isla de los Animales.</desc></programme>
-<programme start="20260606191700 +0000" stop="20260606193900 +0000" channel="nickjr"><title lang="es">La Patrulla Canina (T3): Ep.16 La Patrulla salva a Danny / La Patrulla salva los tulipanes de la alcaldesa</title><desc lang="es">Dani X, el cañero, está en peligro otra vez. El alcalde Humdinger sabotea las plantas de la alcaldesa Goodway.</desc></programme>
-<programme start="20260606193900 +0000" stop="20260606195900 +0000" channel="nickjr"><title lang="es">La patrulla canina Single Story (T5): Ep.46 La patrulla salva la sorpresa de cumpleaños de Ace</title><desc lang="es">Rocky y los cachorros están restaurando un coche clásico para el cumpleaños sorpresa de Ace.</desc></programme>
-<programme start="20260606195900 +0000" stop="20260606202900 +0000" channel="nickjr"><title lang="es">Equipo Rubble (T1): Ep.14 El equipo construye un parque acuático / El equipo construye un cuarto de juegos</title><desc lang="es">Los cachorros construyen un parque acuático. / El equipo construye un salón de juegos para Lucas y Lily.</desc></programme>
-<programme start="20260606202900 +0000" stop="20260606205000 +0000" channel="nickjr"><title lang="es">Equipo Rubble (episodios individuales) (T2): Episodio 38</title><desc lang="es">Rubble vive con su familia en la ciudad de Cala Construcción, en donde se divertirán construyendo todo aquello que hace falta en la ciudad.</desc></programme>
-<programme start="20260606205000 +0000" stop="20260606212000 +0000" channel="nickjr"><title lang="es">Barbapapa - ¡Una gran familia! (T2): Ep.22 ¡Ya no soy un Barbabebé! / Robocajamán</title><desc lang="es">¡No, no puede ser! Barbabravo ya no es un bebé, ¡sino un chico mayor!// Los barbabebés van al supermercado por primera vez.</desc></programme>
-<programme start="20260606212000 +0000" stop="20260606215100 +0000" channel="nickjr"><title lang="es">Barbapapa - ¡Una gran familia! (T2): Ep.23 Ranúnculo / Tenemos que salvar a los corales.</title><desc lang="es">Las rosas preciosas de Barbazoo han desaparecido misteriosamente por la noche.// Barbapapá le cuenta a los bebés la vez que se fue con Lolita a explorar el Ártico y el fondo marino.</desc></programme>
-<programme start="20260606215100 +0000" stop="20260606221200 +0000" channel="nickjr"><title lang="es">Barbapapa - ¡Una gran familia! (T2): Ep.24 La marioneta / Glup glup aah aah</title><desc lang="es">Los bebés deciden organizar un espectáculo por todo lo alto. Barbalib quiere hacer la mejor limonada.</desc></programme>
-<programme start="20260606221200 +0000" stop="20260606222300 +0000" channel="nickjr"><title lang="es">Barbapapa - ¡Una gran familia! single story (T1): Ep.6 Nacido para ser libre</title><desc lang="es">El elefante Boris echa de menos su casa. Los Barbapapás deciden llevarlo de vuelta a África.</desc></programme>
-<programme start="20260606222300 +0000" stop="20260606224400 +0000" channel="nickjr"><title lang="es">Equipo Rubble (T3): Ep.3 El equipo construye un muro en el mar</title><desc lang="es">La guardabosques Rose le pide al equipo Rubble que construya un puente hacia Isla Oso. Cuando Speed Meister hace de las suyas, el equipo deberá proteger a los osos de una tormenta ¡con la ayuda de la supermegagrúa!</desc></programme>
-<programme start="20260606224400 +0000" stop="20260606230600 +0000" channel="nickjr"><title lang="es">Equipo Rubble (T3): Ep.4 El equipo construye una super-mega-pantalla de cine / El equipo construye un regalo para el Día d...</title><desc lang="es">Se proyecta una película de la Superardillita voladora en el autocine, pero Speed Meister echa a perder la velada. // ¿Logrará el equipo Rubble terminar a tiempo el regalo para su querida tita Crane?</desc></programme>
-<programme start="20260606230600 +0000" stop="20260606232800 +0000" channel="nickjr"><title lang="es">La Patrulla Canina (T6): Ep.19 La patrulla salva a un lobo blanco / La patrulla salva a un explorador despistado</title><desc lang="es">Everest cuida de un cachorro de lobo. El viajero Travis se topa con cocodrilos en el Polo Norte.</desc></programme>
-<programme start="20260606232800 +0000" stop="20260606235100 +0000" channel="nickjr"><title lang="es">La Patrulla Canina (T6): Ep.20 La patrulla salva a las ardillas / La patrulla salva a un canguro</title><desc lang="es">Las ardillas esconden bellotas en la casa del árbol de Alex y provocan que se caiga; los cachorros salvan a un canguro.</desc></programme>
-<programme start="20260606235100 +0000" stop="20260607001300 +0000" channel="nickjr"><title lang="es">Barbapapa - ¡Una gran familia! (T2): Ep.10 El diario de Barbazoo / Una gran periodista</title><desc lang="es">Barbazoo tiene muchas cosas que escribir en su diario. Adenás, tras leer la biografía de Nellie Bly, Barbalib se propone convertirse en una gran periodista</desc></programme>
-<programme start="20260607001300 +0000" stop="20260607003600 +0000" channel="nickjr"><title lang="es">Barbapapa - ¡Una gran familia! (T2): Ep.11 El club privado / Las algas verdes</title><desc lang="es">Barbabello, Barbabella y Barbabrillo construyen una casa árbol. Barbamamá quiere frenar una contaminación fétida.</desc></programme>
-<programme start="20260607003600 +0000" stop="20260607005900 +0000" channel="nickjr"><title lang="es">Tim Rex en el espacio (T1): Ep.3 Carrera de cohetes / Magia / Padres</title><desc lang="es">Tommy participa en su primera carrera de cohetes y Tim hace todo lo posible por apoyarlo. // Tim intenta mantener a Tia distraída mientras Tusky está en la lavadora. // Los niños se convierten en los padres y los padres en los niños.</desc></programme>
-<programme start="20260607005900 +0000" stop="20260607012200 +0000" channel="nickjr"><title lang="es">Equipo Rubble (T2): Ep.18 El equipo construye una pista de aterrizaje elevada / El equipo construye un patinete gigante</title><desc lang="es">Botones necesita ayuda para cruzar la pista del aeropuerto. La tripulación ayuda a la tía Crane y a River.</desc></programme>
-<programme start="20260607012200 +0000" stop="20260607014500 +0000" channel="nickjr"><title lang="es">Equipo Rubble (T2): Ep.19 El equipo construye una oficina de correos / El equipo construye un lavadero para animales de granja</title><desc lang="es">Cala Construcción necesita una nueva oficina de correos. El equipo transforma el superlavadero de coches.</desc></programme>
-<programme start="20260607014500 +0000" stop="20260607020700 +0000" channel="nickjr"><title lang="es">Dora (T3): Ep.13 Corre Cynthia corre / Dora en el espacio</title><desc lang="es">Dora y Botas cuentan con que Carmelo el Cóndor arregle las zapatillas de correr de su amiga a tiempo para la carrera del Bosque Tropical // Dora y Botas rescatan a Tico en el espacio cuando su nave espacial queda destruida.</desc></programme>
-<programme start="20260607020700 +0000" stop="20260607022900 +0000" channel="nickjr"><title lang="es">Blaze y los Monster Machines (T6): Ep.11 ¡Bomberos al rescate!</title><desc lang="es">Blaze se transforma en un camión de bomberos para apagar incendios en Axle City.</desc></programme>
-<programme start="20260607022900 +0000" stop="20260607025000 +0000" channel="nickjr"><title lang="es">Blaze y los Monster Machines (T6): Ep.12 Tráiler Blaze: Reparto de Delfín</title><desc lang="es">Tráiler Blaze debe ayudar a que Flippy, el delfín, regrese junto a su familia en el océano.</desc></programme>
-<programme start="20260607025000 +0000" stop="20260607031300 +0000" channel="nickjr"><title lang="es">Barbapapa - ¡Una gran familia! (T2): Ep.12 La invasión / La guerra de las bromas</title><desc lang="es">Barbalala recive un paquete que contiene unos animalitos rosas a los que llama ''cuchis''. Barbabravo, Barbalala y Barbabello están hartos de que sus hermanos y hermanas se rían de ellos.</desc></programme>
 <programme start="20260607031200 +0000" stop="20260607033800 +0000" channel="nickjr"><title lang="es">Barbapapa - ¡Una gran familia! (T2): Ep.15 Hijo de las estrellas - Parte 1 / Hijo de las estrellas - Parte 2</title><desc lang="es">Barbapapá y Lolita ven un platillo volante acercándose a su casa.// Los Barbapapás se encuentran a bordo de Badabám con la esperanza de encontrar el planeta de Bebé Pies Grandes.</desc></programme>
 <programme start="20260607033800 +0000" stop="20260607220000 +0000" channel="nickjr"><title lang="es">Tim Rex en el espacio (T1): Ep.5 Vaca lunar / El Nebulizador / Bicho espacial</title><desc lang="es">Los hermanos encuentran un juguete perdido y lo devuelven a su dueño. // Kai quiere montar en el nebulizador, pero Tim no lo tiene tan claro. // Tim y Kai intentan fotografiar al bicho espacial.</desc></programme>
 <programme start="20260607040000 +0000" stop="20260607042800 +0000" channel="nickjr"><title lang="es">Blaze y los Monster Machines (T2): Ep.14 Rescate con Esquís-Cohete</title><desc lang="es">La abuelita de Grammy está en la ciudad para ver la carrera de Crusher y Blaze en el Monster Dome.</desc></programme>
@@ -7444,11 +7380,11 @@
 <programme start="20260606130000 +0000" stop="20260606131500 +0000" channel="sexta"><title lang="es">laSexta Deportes Fin de Semana</title><desc lang="es">Un espacio que recoge toda la actualidad deportiva de cada jornada. El programa, presentado por María Martínez, ofrece la más completa información del fútbol, el mejor baloncesto nacional e internacional y la Fórmula 1.</desc></programme>
 <programme start="20260606131500 +0000" stop="20260606133000 +0000" channel="sexta"><title lang="es">laSexta Meteo</title><desc lang="es">Tras el informativo, ''laSexta Meteo'' ofrecerá al espectador una información meteorológica cercana y directa, así como todos los aspectos que afectan al medio ambiente de nuestro planeta.</desc></programme>
 <programme start="20260606133000 +0000" stop="20260606180000 +0000" channel="sexta"><title lang="es">La Roca: Episodio 227</title><desc lang="es">El programa, que cuenta con un gran plantel de colaboradores y protagonistas, llena las tardes de los fines de semana de entretenimiento, humor e información.</desc></programme>
-<programme start="20260606180000 +0000" stop="20260606184400 +0000" channel="sexta"><title lang="es">laSexta Noticias Fin de Semana</title><desc lang="es">Informativo que resume lo más destacado del día de la mano de Ana Cuesta.</desc></programme>
-<programme start="20260606184400 +0000" stop="20260606190100 +0000" channel="sexta"><title lang="es">laSexta Meteo</title><desc lang="es">Tras el informativo, ''laSexta Meteo'' ofrecerá al espectador una información meteorológica cercana y directa, así como todos los aspectos que afectan al medio ambiente de nuestro planeta.</desc></programme>
-<programme start="20260606190100 +0000" stop="20260606192500 +0000" channel="sexta"><title lang="es">laSexta Deportes Fin de Semana</title><desc lang="es">Un espacio que recoge toda la actualidad deportiva de cada jornada. El programa, presentado por María Martínez, ofrece la más completa información del fútbol, el mejor baloncesto nacional e internacional y la Fórmula 1.</desc></programme>
-<programme start="20260606192500 +0000" stop="20260606194000 +0000" channel="sexta"><title lang="es">Sábado Clave</title><desc lang="es">Programa de actualidad y entrevistas críticas con diferentes temáticas de interés social, político y económico presentado por Verónica Sanz.</desc></programme>
-<programme start="20260606194000 +0000" stop="20260606234500 +0000" channel="sexta"><title lang="es">laSexta Xplica</title><desc lang="es">Espacio que busca dar respuesta a los interrogantes presentes en el conjunto de la ciudadanía. En un mundo cada vez más complejo, el programa quiere transmitir de una forma sencilla y pedagógica las claves de la actualidad a una sociedad que demanda respuestas.</desc></programme>
+<programme start="20260606180000 +0000" stop="20260606185000 +0000" channel="sexta"><title lang="es">laSexta Noticias Fin de Semana</title><desc lang="es">Informativo que resume lo más destacado del día de la mano de Ana Cuesta.</desc></programme>
+<programme start="20260606185000 +0000" stop="20260606190000 +0000" channel="sexta"><title lang="es">laSexta Meteo</title><desc lang="es">Tras el informativo, ''laSexta Meteo'' ofrecerá al espectador una información meteorológica cercana y directa, así como todos los aspectos que afectan al medio ambiente de nuestro planeta.</desc></programme>
+<programme start="20260606190000 +0000" stop="20260606191500 +0000" channel="sexta"><title lang="es">laSexta Deportes Fin de Semana</title><desc lang="es">Un espacio que recoge toda la actualidad deportiva de cada jornada. El programa, presentado por María Martínez, ofrece la más completa información del fútbol, el mejor baloncesto nacional e internacional y la Fórmula 1.</desc></programme>
+<programme start="20260606191500 +0000" stop="20260606194500 +0000" channel="sexta"><title lang="es">Sábado Clave</title><desc lang="es">Programa de actualidad y entrevistas críticas con diferentes temáticas de interés social, político y económico presentado por Verónica Sanz.</desc></programme>
+<programme start="20260606194500 +0000" stop="20260606234500 +0000" channel="sexta"><title lang="es">laSexta Xplica</title><desc lang="es">Espacio que busca dar respuesta a los interrogantes presentes en el conjunto de la ciudadanía. En un mundo cada vez más complejo, el programa quiere transmitir de una forma sencilla y pedagógica las claves de la actualidad a una sociedad que demanda respuestas.</desc></programme>
 <programme start="20260606234500 +0000" stop="20260607004500 +0000" channel="sexta"><title lang="es">Equipo de investigación: Millones en juego</title><desc lang="es">El programa emite un reportaje que desvela las claves de un fenómeno desconocido en España: la profesionalización del póker. Jóvenes universitarios que apuestan, juegan, ganan y pierden dinero en jornadas maratonianas. Son organizados y destacan por su inteligencia.</desc></programme>
 <programme start="20260607004500 +0000" stop="20260607013000 +0000" channel="sexta"><title lang="es">Pokerstars casino</title><desc lang="es">El programa trae cada día toda la emoción de su ruleta en vivo, Spin &amp; Win, una versión exclusiva del clásico juego de casino.</desc></programme>
 <programme start="20260607013000 +0000" stop="20260607014500 +0000" channel="sexta"><title lang="es">Mega Casino Live Experience</title><desc lang="es">Mega Casino Live Experience.</desc></programme>
@@ -7566,11 +7502,11 @@
 <programme start="20260606130000 +0000" stop="20260606133500 +0000" channel="t5"><title lang="es">Informativos Telecinco Fin de Semana</title><desc lang="es">María Casado conduce las diferentes ediciones de los informativos del fin de semana del canal con las últimas noticias a nivel nacional e internacional.</desc></programme>
 <programme start="20260606133500 +0000" stop="20260606135000 +0000" channel="t5"><title lang="es">El Desmarque Telecinco fin de semana (T4): Episodio 145</title><desc lang="es">El mundo del deporte es el protagonista de este programa, en el que el periodista Matías Prats Chacón presenta la actualidad y las últimas noticias de la jornada.</desc></programme>
 <programme start="20260606135000 +0000" stop="20260606140000 +0000" channel="t5"><title lang="es">El tiempo</title><desc lang="es">Espacio informativo que ofrece la previsión meteorológica.</desc></programme>
-<programme start="20260606140000 +0000" stop="20260606185800 +0000" channel="t5"><title lang="es">Fiesta: Episodio 50</title><desc lang="es">Magacín presentado por Àlex Blanquer y César Muñoz que se centra en el mundo del corazón y el entretenimiento.</desc></programme>
-<programme start="20260606185800 +0000" stop="20260606192700 +0000" channel="t5"><title lang="es">Informativos Telecinco Fin de Semana</title><desc lang="es">María Casado conduce las diferentes ediciones de los informativos del fin de semana del canal con las últimas noticias a nivel nacional e internacional.</desc></programme>
-<programme start="20260606192700 +0000" stop="20260606194000 +0000" channel="t5"><title lang="es">El Desmarque Telecinco Fin de Semana Noche (T4): Episodio 146</title><desc lang="es">El mundo del deporte es el protagonista de este programa, en el que el periodista Matías Prats Chacón presenta la actualidad y las últimas noticias de la jornada.</desc></programme>
-<programme start="20260606194000 +0000" stop="20260606194600 +0000" channel="t5"><title lang="es">El tiempo</title><desc lang="es">Espacio informativo que ofrece la previsión meteorológica.</desc></programme>
-<programme start="20260606194600 +0000" stop="20260606233000 +0000" channel="t5"><title lang="es">Hay una cosa que te quiero decir: Episodio 5</title><desc lang="es">Reencuentros, amor, sorpresas y lágrimas. Todos estos ingredientes confluyen en este espacio en el que los espectadores podrán recuperar amistades perdidas, declararse a la persona amada, conocer a un famoso o superar las diferencias que han dañando una relación.</desc></programme>
+<programme start="20260606140000 +0000" stop="20260606190000 +0000" channel="t5"><title lang="es">Fiesta: Episodio 50</title><desc lang="es">Magacín presentado por Àlex Blanquer y César Muñoz que se centra en el mundo del corazón y el entretenimiento.</desc></programme>
+<programme start="20260606190000 +0000" stop="20260606193000 +0000" channel="t5"><title lang="es">Informativos Telecinco Fin de Semana</title><desc lang="es">María Casado conduce las diferentes ediciones de los informativos del fin de semana del canal con las últimas noticias a nivel nacional e internacional.</desc></programme>
+<programme start="20260606193000 +0000" stop="20260606194000 +0000" channel="t5"><title lang="es">El Desmarque Telecinco Fin de Semana Noche (T4): Episodio 146</title><desc lang="es">El mundo del deporte es el protagonista de este programa, en el que el periodista Matías Prats Chacón presenta la actualidad y las últimas noticias de la jornada.</desc></programme>
+<programme start="20260606194000 +0000" stop="20260606200000 +0000" channel="t5"><title lang="es">El tiempo</title><desc lang="es">Espacio informativo que ofrece la previsión meteorológica.</desc></programme>
+<programme start="20260606200000 +0000" stop="20260606233000 +0000" channel="t5"><title lang="es">Hay una cosa que te quiero decir: Episodio 5</title><desc lang="es">Reencuentros, amor, sorpresas y lágrimas. Todos estos ingredientes confluyen en este espacio en el que los espectadores podrán recuperar amistades perdidas, declararse a la persona amada, conocer a un famoso o superar las diferencias que han dañando una relación.</desc></programme>
 <programme start="20260606233000 +0000" stop="20260607000000 +0000" channel="t5"><title lang="es">Supervivientes: Resumen diario: Supervivientes 2026: Resumen diario</title><desc lang="es">Programa que incluye los mejores momentos de las aventuras de los concursantes famosos que se encuentran en un lugar recóndito y en condiciones extremas. El espacio muestra su resistencia física y su capacidad de supervivencia.</desc></programme>
 <programme start="20260607000000 +0000" stop="20260607002500 +0000" channel="t5"><title lang="es">Gran Madrid Show</title><desc lang="es">Programa nocturno para que los espectadores puedan conectarse al Casino Gran Madrid desde casa.</desc></programme>
 <programme start="20260607002500 +0000" stop="20260607004500 +0000" channel="t5"><title lang="es">El rey del mando</title><desc lang="es">Programa de zapping.</desc></programme>
