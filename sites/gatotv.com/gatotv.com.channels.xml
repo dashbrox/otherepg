@@ -7,6 +7,7 @@
   <channel site="gatotv.com" site_id="13_de_costa_rica" lang="es" xmltv_id="">13 de Costa Rica</channel>
   <channel site="gatotv.com" site_id="13_de_guatemala" lang="es" xmltv_id="">13 de Guatemala</channel>
   <channel site="gatotv.com" site_id="14_de_mexico" lang="es" xmltv_id="">14 de México</channel>
+  <channel site="gatotv.com" site_id="a_mas_guate" lang="es" xmltv_id="">A+ Guate</channel>
   <channel site="gatotv.com" site_id="adn_noticias" lang="es" xmltv_id="">ADN Noticias</channel>
   <channel site="gatotv.com" site_id="adult_swim_mexico" lang="es" xmltv_id="">Adult Swim México</channel>
   <channel site="gatotv.com" site_id="adult_swim_panregional" lang="es" xmltv_id="">Adult Swim Panregional</channel>
@@ -14,6 +15,7 @@
   <channel site="gatotv.com" site_id="adult_swim_uruguay" lang="es" xmltv_id="">Adult Swim Uruguay</channel>
   <channel site="gatotv.com" site_id="agrotendencia_tv" lang="es" xmltv_id="">Agrotendencia TV</channel>
   <channel site="gatotv.com" site_id="amc_colombia" lang="es" xmltv_id="">AMC Colombia</channel>
+  <channel site="gatotv.com" site_id="amc_living_espana" lang="es" xmltv_id="">AMC Living España</channel>
   <channel site="gatotv.com" site_id="amc_mexico" lang="es" xmltv_id="">AMC México</channel>
   <channel site="gatotv.com" site_id="amc_series_argentina" lang="es" xmltv_id="">AMC Series Argentina</channel>
   <channel site="gatotv.com" site_id="amc_series_costa_rica" lang="es" xmltv_id="">AMC Series Costa Rica</channel>
@@ -29,12 +31,14 @@
   <channel site="gatotv.com" site_id="animal_planet_mexico" lang="es" xmltv_id="">Animal Planet México</channel>
   <channel site="gatotv.com" site_id="animal_planet_panregional" lang="es" xmltv_id="">Animal Planet Panregional</channel>
   <channel site="gatotv.com" site_id="animal_planet_sur" lang="es" xmltv_id="">Animal Planet Sur</channel>
+  <channel site="gatotv.com" site_id="axn_movies_espana" lang="es" xmltv_id="">AXN Movies España</channel>
   <channel site="gatotv.com" site_id="axn_venezuela" lang="es" xmltv_id="">AXN Venezuela</channel>
   <channel site="gatotv.com" site_id="azteca_uno_1h" lang="es" xmltv_id="">Azteca Uno -1 h</channel>
   <channel site="gatotv.com" site_id="azteca_uno_2h" lang="es" xmltv_id="">Azteca Uno -2 h</channel>
   <channel site="gatotv.com" site_id="baby_tv_latinoamerica" lang="es" xmltv_id="">Baby TV Latam.</channel>
   <channel site="gatotv.com" site_id="bandamax" lang="es" xmltv_id="">Bandamax</channel>
   <channel site="gatotv.com" site_id="barca_tv" lang="es" xmltv_id="">Barça TV</channel>
+  <channel site="gatotv.com" site_id="bbc_news_international" lang="es" xmltv_id="">BBC News International</channel>
   <channel site="gatotv.com" site_id="bloomberg" lang="es" xmltv_id="">Bloomberg</channel>
   <channel site="gatotv.com" site_id="capital_colombia" lang="es" xmltv_id="">Capital Colombia</channel>
   <channel site="gatotv.com" site_id="cartoonito_panregional" lang="es" xmltv_id="">Cartoonito Panregional</channel>
@@ -89,7 +93,10 @@
   <channel site="gatotv.com" site_id="film_and_arts" lang="es" xmltv_id="">Film &amp; Arts</channel>
   <channel site="gatotv.com" site_id="foro_tv" lang="es" xmltv_id="">Foro TV</channel>
   <channel site="gatotv.com" site_id="fox_costa_rica" lang="es" xmltv_id="">Fox Costa Rica</channel>
+  <channel site="gatotv.com" site_id="fox_el_salvador" lang="es" xmltv_id="">Fox El Salvador</channel>
   <channel site="gatotv.com" site_id="fox_guatemala" lang="es" xmltv_id="">Fox Guatemala</channel>
+  <channel site="gatotv.com" site_id="fox_honduras" lang="es" xmltv_id="">Fox Honduras</channel>
+  <channel site="gatotv.com" site_id="fox_nicaragua" lang="es" xmltv_id="">Fox Nicaragua</channel>
   <channel site="gatotv.com" site_id="fox_plus_centroamerica" lang="es" xmltv_id="">FOX+ Centroamérica</channel>
   <channel site="gatotv.com" site_id="fox_sports_2_cono_norte" lang="es" xmltv_id="">Fox Sports 2 Cono Norte</channel>
   <channel site="gatotv.com" site_id="fox_sports_3_cono_norte" lang="es" xmltv_id="">Fox Sports 3 Cono Norte</channel>
@@ -147,6 +154,7 @@
   <channel site="gatotv.com" site_id="tr3s" lang="es" xmltv_id="">Tr3s</channel>
   <channel site="gatotv.com" site_id="tudn_centroamerica" lang="es" xmltv_id="">TUDN Centroamérica</channel>
   <channel site="gatotv.com" site_id="tv_agro_centroamerica" lang="es" xmltv_id="">TV Agro C. A.</channel>
+  <channel site="gatotv.com" site_id="tv_azteca_deportes" lang="es" xmltv_id="">TV Azteca Deportes</channel>
   <channel site="gatotv.com" site_id="tve" lang="es" xmltv_id="">TVE Internacional</channel>
   <channel site="gatotv.com" site_id="tvmax" lang="es" xmltv_id="">9 de Panamá</channel>
   <channel site="gatotv.com" site_id="ultra_cine" lang="es" xmltv_id="">Ultra Cine</channel>
@@ -195,7 +203,6 @@
   <channel site="gatotv.com" site_id="azteca_guatemala" lang="es" xmltv_id="AztecaGuatemala.gt@SD">Azteca Guate</channel>
   <channel site="gatotv.com" site_id="azteca_uno" lang="es" xmltv_id="AztecaUno.mx@SD">Azteca Uno</channel>
   <channel site="gatotv.com" site_id="babyfirst_tv" lang="es" xmltv_id="BabyFirst.us@US">BabyFirst TV</channel>
-  <channel site="gatotv.com" site_id="bbc_world_news" lang="es" xmltv_id="BBCNews.uk@LatinAmerica">BBC World News</channel>
   <channel site="gatotv.com" site_id="bein_sport_en_espanol" lang="es" xmltv_id="beINSportsenEspanol.qa@SD">beIN Sports en Español</channel>
   <channel site="gatotv.com" site_id="be_mad" lang="es" xmltv_id="BeMad.es@SD">Be Mad</channel>
   <channel site="gatotv.com" site_id="bet_jams" lang="es" xmltv_id="BETJams.us@SD">BET Jams</channel>
