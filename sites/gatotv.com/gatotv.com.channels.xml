@@ -11,23 +11,10 @@
   <channel site="gatotv.com" site_id="adn_noticias" lang="es" xmltv_id="">ADN Noticias</channel>
   <channel site="gatotv.com" site_id="adult_swim_mexico" lang="es" xmltv_id="">Adult Swim México</channel>
   <channel site="gatotv.com" site_id="adult_swim_panregional" lang="es" xmltv_id="">Adult Swim Panregional</channel>
-  <channel site="gatotv.com" site_id="adult_swim_paraguay" lang="es" xmltv_id="">Adult Swim Paraguay</channel>
-  <channel site="gatotv.com" site_id="adult_swim_uruguay" lang="es" xmltv_id="">Adult Swim Uruguay</channel>
   <channel site="gatotv.com" site_id="agrotendencia_tv" lang="es" xmltv_id="">Agrotendencia TV</channel>
   <channel site="gatotv.com" site_id="amc_colombia" lang="es" xmltv_id="">AMC Colombia</channel>
   <channel site="gatotv.com" site_id="amc_living_espana" lang="es" xmltv_id="">AMC Living España</channel>
   <channel site="gatotv.com" site_id="amc_mexico" lang="es" xmltv_id="">AMC México</channel>
-  <channel site="gatotv.com" site_id="amc_series_argentina" lang="es" xmltv_id="">AMC Series Argentina</channel>
-  <channel site="gatotv.com" site_id="amc_series_costa_rica" lang="es" xmltv_id="">AMC Series Costa Rica</channel>
-  <channel site="gatotv.com" site_id="amc_series_el_salvador" lang="es" xmltv_id="">AMC Series El Salvador</channel>
-  <channel site="gatotv.com" site_id="amc_series_guatemala" lang="es" xmltv_id="">AMC Series Guatemala</channel>
-  <channel site="gatotv.com" site_id="amc_series_honduras" lang="es" xmltv_id="">AMC Series Honduras</channel>
-  <channel site="gatotv.com" site_id="amc_series_mexico" lang="es" xmltv_id="">AMC Series México</channel>
-  <channel site="gatotv.com" site_id="amc_series_nicaragua" lang="es" xmltv_id="">AMC Series Nicaragua</channel>
-  <channel site="gatotv.com" site_id="amc_series_panama" lang="es" xmltv_id="">AMC Series Panamá</channel>
-  <channel site="gatotv.com" site_id="amc_series_paraguay" lang="es" xmltv_id="">AMC Series Paraguay</channel>
-  <channel site="gatotv.com" site_id="amc_series_republica_dominicana" lang="es" xmltv_id="">AMC Series República Dominicana</channel>
-  <channel site="gatotv.com" site_id="amc_series_uruguay" lang="es" xmltv_id="">AMC Series Uruguay</channel>
   <channel site="gatotv.com" site_id="animal_planet_mexico" lang="es" xmltv_id="">Animal Planet México</channel>
   <channel site="gatotv.com" site_id="animal_planet_panregional" lang="es" xmltv_id="">Animal Planet Panregional</channel>
   <channel site="gatotv.com" site_id="animal_planet_sur" lang="es" xmltv_id="">Animal Planet Sur</channel>
@@ -76,15 +63,7 @@
   <channel site="gatotv.com" site_id="espn_5_sudamerica" lang="es" xmltv_id="">ESPN 5 Sur</channel>
   <channel site="gatotv.com" site_id="espn_6_centroamerica_y_republica_dominicana" lang="es" xmltv_id="">ESPN 6 C. A. y R. D.</channel>
   <channel site="gatotv.com" site_id="espn_6_sudamerica" lang="es" xmltv_id="">ESPN 6 Sur</channel>
-  <channel site="gatotv.com" site_id="espn_7_bolivia" lang="es" xmltv_id="">ESPN 7 Bolivia</channel>
-  <channel site="gatotv.com" site_id="espn_7_chile" lang="es" xmltv_id="">ESPN 7 Chile</channel>
-  <channel site="gatotv.com" site_id="espn_7_colombia" lang="es" xmltv_id="">ESPN 7 Colombia</channel>
-  <channel site="gatotv.com" site_id="espn_7_ecuador" lang="es" xmltv_id="">ESPN 7 Ecuador</channel>
-  <channel site="gatotv.com" site_id="espn_7_paraguay" lang="es" xmltv_id="">ESPN 7 Paraguay</channel>
-  <channel site="gatotv.com" site_id="espn_7_peru" lang="es" xmltv_id="">ESPN 7 Perú</channel>
   <channel site="gatotv.com" site_id="espn_7_sudamerica" lang="es" xmltv_id="">ESPN 7 Sudamérica</channel>
-  <channel site="gatotv.com" site_id="espn_7_uruguay" lang="es" xmltv_id="">ESPN 7 Uruguay</channel>
-  <channel site="gatotv.com" site_id="espn_7_venezuela" lang="es" xmltv_id="">ESPN 7 Venezuela</channel>
   <channel site="gatotv.com" site_id="espn_premium_chile" lang="es" xmltv_id="">ESPN Premium Chile</channel>
   <channel site="gatotv.com" site_id="espn_sur" lang="es" xmltv_id="">ESPN Sur</channel>
   <channel site="gatotv.com" site_id="euronews" lang="es" xmltv_id="">Euronews</channel>
