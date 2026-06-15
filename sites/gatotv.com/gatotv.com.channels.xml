@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channels>
-  <channel site="gatotv.com" site_id="5_de_republica_dominicana_telemicro" lang="es" xmltv_id="">Telemicro</channel>
   <channel site="gatotv.com" site_id="5_mexico" lang="es" xmltv_id="">5 de México</channel>
   <channel site="gatotv.com" site_id="9_de_honduras_vica" lang="es" xmltv_id="">9 de Honduras</channel>
   <channel site="gatotv.com" site_id="9_de_mexico" lang="es" xmltv_id="">9 de México</channel>
@@ -151,7 +150,6 @@
   <channel site="gatotv.com" site_id="24_horas_chile" lang="es" xmltv_id="24Horas.cl@SD">24 Horas Chile</channel>
   <channel site="gatotv.com" site_id="24_horas_tve" lang="es" xmltv_id="24Horas.es@SD">24 Horas</channel>
   <channel site="gatotv.com" site_id="m_accion" lang="es" xmltv_id="AccionporMovistarPlusPlus.es@SD">M+ Acción</channel>
-  <channel site="gatotv.com" site_id="adrenalina_sports_network" lang="es" xmltv_id="AdrenalinaSportsNetwork.us@SD">Adrenalina Sports Network</channel>
   <channel site="gatotv.com" site_id="a_y_e_chile" lang="es" xmltv_id="AELatinAmerica.us@Chile">A&amp;E Chile</channel>
   <channel site="gatotv.com" site_id="a_y_e_mexico" lang="es" xmltv_id="AELatinAmerica.us@Mexico">A&amp;E México</channel>
   <channel site="gatotv.com" site_id="a_and_e_panregional" lang="es" xmltv_id="AELatinAmerica.us@Panregional">A&amp;E PAN</channel>
@@ -190,7 +188,6 @@
   <channel site="gatotv.com" site_id="2_de_nicaragua_televicentro" lang="es" xmltv_id="Canal2.ni@SD">2 de Nicaragua</channel>
   <channel site="gatotv.com" site_id="2_de_el_salvador" lang="es" xmltv_id="Canal2.sv@SD">2 de El Salvador</channel>
   <channel site="gatotv.com" site_id="3_de_guatemala" lang="es" xmltv_id="Canal3.gt@SD">3 de Guatemala</channel>
-  <channel site="gatotv.com" site_id="4_de_costa_rica" lang="es" xmltv_id="Canal4.cr@SD">4 de Costa Rica</channel>
   <channel site="gatotv.com" site_id="4_de_el_salvador" lang="es" xmltv_id="Canal4.sv@SD">4 de El Salvador</channel>
   <channel site="gatotv.com" site_id="5_el_lider_honduras" lang="es" xmltv_id="Canal5ElLider.hn@SD">5 de Honduras</channel>
   <channel site="gatotv.com" site_id="6_de_costa_rica" lang="es" xmltv_id="Canal6.cr@SD">6 de Costa Rica</channel>
@@ -208,7 +205,6 @@
   <channel site="gatotv.com" site_id="tro" lang="es" xmltv_id="CanalTRO.co@SD">Tro</channel>
   <channel site="gatotv.com" site_id="caracol_internacional" lang="es" xmltv_id="CaracolInternacional.co@SD">Caracol Internacional</channel>
   <channel site="gatotv.com" site_id="caracol_colombia" lang="es" xmltv_id="CaracolTV.co@SD">Caracol Colombia</channel>
-  <channel site="gatotv.com" site_id="cartoonito_mexico" lang="es" xmltv_id="CartoonitoLatinAmerica.us@Mexico">Cartoonito México</channel>
   <channel site="gatotv.com" site_id="cartoon_network_pacifico" lang="es" xmltv_id="CartoonNetwork.us@West">Cartoon Network Pacífico</channel>
   <channel site="gatotv.com" site_id="cartoon_network_mexico" lang="es" xmltv_id="CartoonNetworkLatinAmerica.us@Mexico">Cartoon Network México</channel>
   <channel site="gatotv.com" site_id="cartoon_network_atlantico_norte" lang="es" xmltv_id="CartoonNetworkLatinAmerica.us@NorthAtlantic">Cartoon Network Atlántico Norte</channel>
