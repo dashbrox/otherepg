@@ -11,41 +11,42 @@
 <channel id="mliuhd"><display-name>M+ LALIGA 2 HDR</display-name><url>https://movistarplus.es</url></channel>
 <channel id="dazmot"><display-name>DAZN MotoGP</display-name><url>https://movistarplus.es</url></channel>
 <channel id="mliguh"><display-name>M+ LALIGA HDR</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mligs3"><display-name>LALIGA TV HYPERMOTION 3</display-name><url>https://movistarplus.es</url></channel>
-<channel id="canar"><display-name>TV Canaria</display-name><url>https://movistarplus.es</url></channel>
-<channel id="dazba"><display-name>DAZN Baloncesto</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mligs2"><display-name>LALIGA TV HYPERMOTION 2</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mligs"><display-name>LALIGA TV HYPERMOTION</display-name><url>https://movistarplus.es</url></channel>
-<channel id="dazb3"><display-name>DAZN Baloncesto 3</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mliga"><display-name>M+ LALIGA</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mlig3"><display-name>M+ LALIGA 4</display-name><url>https://movistarplus.es</url></channel>
-<channel id="axn"><display-name>AXN</display-name><url>https://movistarplus.es</url></channel>
-<channel id="can33"><display-name>33</display-name><url>https://movistarplus.es</url></channel>
-<channel id="dazb2"><display-name>DAZN Baloncesto 2</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mlig2"><display-name>M+ LALIGA 3</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mlig1"><display-name>M+ Fanzone</display-name><url>https://movistarplus.es</url></channel>
-<channel id="dayst"><display-name>Daystar Español HD</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mindi"><display-name>M+ Indie</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mhits"><display-name>M+ Hits</display-name><url>https://movistarplus.es</url></channel>
-<channel id="c33"><display-name>SX3</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cyltv"><display-name>La 7</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mezzo"><display-name>Mezzo</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mezzli"><display-name>Mezzo Live</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cubav"><display-name>Cubavisión</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mellav"><display-name>M+ Vamos 3</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mega"><display-name>Mega</display-name><url>https://movistarplus.es</url></channel>
-<channel id="andatv"><display-name>Andalucía TV</display-name><url>https://movistarplus.es</url></channel>
-<channel id="atress"><display-name>Atreseries</display-name><url>https://movistarplus.es</url></channel>
-<channel id="c4"><display-name>Cuatro</display-name><url>https://movistarplus.es</url></channel>
-<channel id="csurhd"><display-name>Canal Sur HD</display-name><url>https://movistarplus.es</url></channel>
-<channel id="medite"><display-name>La Ocho TV</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mdoc"><display-name>M+ Documentales</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cpdep"><display-name>M+ Deportes</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mcopa"><display-name>Primera Federación</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mclas"><display-name>M+ Clásicos</display-name><url>https://movistarplus.es</url></channel>
-<channel id="btv"><display-name>Betevé</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cpcome"><display-name>M+ Comedia</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mbalct"><display-name>M+ Baloncesto</display-name><url>https://movistarplus.es</url></channel>
+<channel id="ubeat"><display-name>Ubeat</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tvgal"><display-name>TVG -TV Galicia</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tvg2"><display-name>TVG 2</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tvg"><display-name>TVG Europa</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tve"><display-name>LA 1</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tvc"><display-name>TV3 Cat</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tv5"><display-name>TV5MONDE</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tv3cat"><display-name>TV3</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tpa"><display-name>TPA</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tnt"><display-name>Warner TV</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tlesur"><display-name>Telesur</display-name><url>https://movistarplus.es</url></channel>
+<channel id="ten"><display-name>Ten</display-name><url>https://movistarplus.es</url></channel>
+<channel id="telmin"><display-name>Telemadrid Int.</display-name><url>https://movistarplus.es</url></channel>
+<channel id="telmad"><display-name>Telemadrid</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tdep"><display-name>Teledeporte</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tcm"><display-name>TCM</display-name><url>https://movistarplus.es</url></channel>
+<channel id="t5"><display-name>Telecinco</display-name><url>https://movistarplus.es</url></channel>
+<channel id="squi"><display-name>Squirrel</display-name><url>https://movistarplus.es</url></channel>
+<channel id="skysho"><display-name>SkyShowtime 1</display-name><url>https://movistarplus.es</url></channel>
+<channel id="skynw"><display-name>Sky News</display-name><url>https://movistarplus.es</url></channel>
+<channel id="sexta"><display-name>La Sexta</display-name><url>https://movistarplus.es</url></channel>
+<channel id="set"><display-name>AXN Movies</display-name><url>https://movistarplus.es</url></channel>
+<channel id="sci-fi"><display-name>SYFY</display-name><url>https://movistarplus.es</url></channel>
+<channel id="realm"><display-name>Real Madrid TV</display-name><url>https://movistarplus.es</url></channel>
+<channel id="playdc"><display-name>Disney Channel</display-name><url>https://movistarplus.es</url></channel>
+<channel id="pcm"><display-name>Comedy Central</display-name><url>https://movistarplus.es</url></channel>
+<channel id="otra"><display-name>La Otra</display-name><url>https://movistarplus.es</url></channel>
+<channel id="nova"><display-name>Nova</display-name><url>https://movistarplus.es</url></channel>
+<channel id="nickjr"><display-name>NICK JR</display-name><url>https://movistarplus.es</url></channel>
+<channel id="nick"><display-name>Nickelodeon</display-name><url>https://movistarplus.es</url></channel>
+<channel id="neox"><display-name>Neox</display-name><url>https://movistarplus.es</url></channel>
+<channel id="negotv"><display-name>Negocios TV</display-name><url>https://movistarplus.es</url></channel>
+<channel id="nbc"><display-name>CNBC</display-name><url>https://movistarplus.es</url></channel>
+<channel id="nava"><display-name>Navarra TV</display-name><url>https://movistarplus.es</url></channel>
+<channel id="natgw"><display-name>Nat Geo Wild</display-name><url>https://movistarplus.es</url></channel>
+<channel id="natgeo"><display-name>National Geographic</display-name><url>https://movistarplus.es</url></channel>
 <channel id="mvf1"><display-name>DAZN F1</display-name><url>https://movistarplus.es</url></channel>
 <channel id="mvciva"><display-name>M+ Vacaciones</display-name><url>https://movistarplus.es</url></channel>
 <channel id="mv1"><display-name>M+ Estrenos</display-name><url>https://movistarplus.es</url></channel>
@@ -54,52 +55,51 @@
 <channel id="mtv"><display-name>MTV</display-name><url>https://movistarplus.es</url></channel>
 <channel id="mplus"><display-name>Movistar Plus</display-name><url>https://movistarplus.es</url></channel>
 <channel id="morig"><display-name>M+ Originales</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mligs3"><display-name>LALIGA TV HYPERMOTION 3</display-name><url>https://movistarplus.es</url></channel>
+<channel id="canar"><display-name>TV Canaria</display-name><url>https://movistarplus.es</url></channel>
+<channel id="dazba"><display-name>DAZN Baloncesto</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mligs2"><display-name>LALIGA TV HYPERMOTION 2</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mligs"><display-name>LALIGA TV HYPERMOTION</display-name><url>https://movistarplus.es</url></channel>
+<channel id="dazb3"><display-name>DAZN Baloncesto 3</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mliga"><display-name>M+ LALIGA</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mlig2"><display-name>M+ LALIGA 3</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mlig1"><display-name>M+ Fanzone</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mindi"><display-name>M+ Indie</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mhits"><display-name>M+ Hits</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mezzo"><display-name>Mezzo</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mezzli"><display-name>Mezzo Live</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mellav"><display-name>M+ Vamos 3</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mega"><display-name>Mega</display-name><url>https://movistarplus.es</url></channel>
+<channel id="medite"><display-name>La Ocho TV</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mdoc"><display-name>M+ Documentales</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mcopa"><display-name>Primera Federación</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mclas"><display-name>M+ Clásicos</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mbalct"><display-name>M+ Baloncesto</display-name><url>https://movistarplus.es</url></channel>
 <channel id="mbalc2"><display-name>M+ Baloncesto 2</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cpcole"><display-name>M+ Drama</display-name><url>https://movistarplus.es</url></channel>
 <channel id="maxava"><display-name>HBO Max Avances</display-name><url>https://movistarplus.es</url></channel>
 <channel id="m2sd"><display-name>DAZN 2</display-name><url>https://movistarplus.es</url></channel>
-<channel id="arthur"><display-name>M+ Deportes 2</display-name><url>https://movistarplus.es</url></channel>
-<channel id="boing"><display-name>Boing</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cpacci"><display-name>M+ Acción</display-name><url>https://movistarplus.es</url></channel>
 <channel id="m1sd"><display-name>DAZN 1</display-name><url>https://movistarplus.es</url></channel>
 <channel id="la2"><display-name>LA 2</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cosmo"><display-name>COSMO</display-name><url>https://movistarplus.es</url></channel>
 <channel id="inteua"><display-name>1+1 Internacional</display-name><url>https://movistarplus.es</url></channel>
 <channel id="inteco"><display-name>El Toro TV</display-name><url>https://movistarplus.es</url></channel>
-<channel id="bl"><display-name>Bloomberg</display-name><url>https://movistarplus.es</url></channel>
-<channel id="colomb"><display-name>TV Colombia</display-name><url>https://movistarplus.es</url></channel>
 <channel id="iberal"><display-name>Iberalia TV</display-name><url>https://movistarplus.es</url></channel>
 <channel id="ib3"><display-name>IB3</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cnn"><display-name>CNN Int</display-name><url>https://movistarplus.es</url></channel>
 <channel id="golf+"><display-name>M+ Golf</display-name><url>https://movistarplus.es</url></channel>
 <channel id="golf2"><display-name>M+ Golf 2</display-name><url>https://movistarplus.es</url></channel>
-<channel id="24h"><display-name>24 Horas</display-name><url>https://movistarplus.es</url></channel>
-<channel id="aljaze"><display-name>Al Jazeera English</display-name><url>https://movistarplus.es</url></channel>
-<channel id="arirhd"><display-name>Arirang TV HD</display-name><url>https://movistarplus.es</url></channel>
-<channel id="bemad"><display-name>BE MAD</display-name><url>https://movistarplus.es</url></channel>
-<channel id="classd"><display-name>Classica</display-name><url>https://movistarplus.es</url></channel>
 <channel id="gol"><display-name>GOL</display-name><url>https://movistarplus.es</url></channel>
 <channel id="galav"><display-name>Canal de las Estrellas</display-name><url>https://movistarplus.es</url></channel>
-<channel id="clantv"><display-name>Clan TVE</display-name><url>https://movistarplus.es</url></channel>
 <channel id="futrep"><display-name>Canal Fútbol Replay</display-name><url>https://movistarplus.es</url></channel>
 <channel id="freeli"><display-name>M+ Cero</display-name><url>https://movistarplus.es</url></channel>
-<channel id="bbhis"><display-name>BBC History</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cl13"><display-name>Calle 13</display-name><url>https://movistarplus.es</url></channel>
 <channel id="france"><display-name>FRANCE24 (FR)</display-name><url>https://movistarplus.es</url></channel>
 <channel id="foxge"><display-name>STAR Channel</display-name><url>https://movistarplus.es</url></channel>
-<channel id="chile"><display-name>TV Chile</display-name><url>https://movistarplus.es</url></channel>
 <channel id="flix2"><display-name>Canal FlixOlé 2</display-name><url>https://movistarplus.es</url></channel>
 <channel id="flix1"><display-name>Canal FlixOlé 1</display-name><url>https://movistarplus.es</url></channel>
-<channel id="aragtv"><display-name>Aragón TV</display-name><url>https://movistarplus.es</url></channel>
-<channel id="bbgea"><display-name>BBC Top Gear</display-name><url>https://movistarplus.es</url></channel>
-<channel id="chapio"><display-name>M+ Liga de Campeones</display-name><url>https://movistarplus.es</url></channel>
 <channel id="fdfic"><display-name>Factoría de Ficción</display-name><url>https://movistarplus.es</url></channel>
 <channel id="extrem"><display-name>Canal Extremadura Sat</display-name><url>https://movistarplus.es</url></channel>
-<channel id="chap4"><display-name>M+ Liga de Campeones 5</display-name><url>https://movistarplus.es</url></channel>
 <channel id="extre"><display-name>Canal Extremadura</display-name><url>https://movistarplus.es</url></channel>
 <channel id="ewtn"><display-name>EWTN</display-name><url>https://movistarplus.es</url></channel>
-<channel id="bbfoo"><display-name>BBC Food</display-name><url>https://movistarplus.es</url></channel>
-<channel id="chap3"><display-name>M+ Liga de Campeones 4</display-name><url>https://movistarplus.es</url></channel>
+<channel id="etb3"><display-name>etb1ON</display-name><url>https://movistarplus.es</url></channel>
+<channel id="etb2"><display-name>etb2</display-name><url>https://movistarplus.es</url></channel>
 <channel id="etb1"><display-name>etb1</display-name><url>https://movistarplus.es</url></channel>
 <channel id="etb"><display-name>etb2ON</display-name><url>https://movistarplus.es</url></channel>
 <channel id="esp3"><display-name>Esport 3</display-name><url>https://movistarplus.es</url></channel>
@@ -118,67 +118,67 @@
 <channel id="daznl3"><display-name>DAZN MUNDIAL 3</display-name><url>https://movistarplus.es</url></channel>
 <channel id="daznl2"><display-name>DAZN MUNDIAL 2</display-name><url>https://movistarplus.es</url></channel>
 <channel id="dazn4"><display-name>DAZN 4</display-name><url>https://movistarplus.es</url></channel>
-<channel id="etb3"><display-name>etb1ON</display-name><url>https://movistarplus.es</url></channel>
-<channel id="etb2"><display-name>etb2</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mlig3"><display-name>M+ LALIGA 4</display-name><url>https://movistarplus.es</url></channel>
+<channel id="axn"><display-name>AXN</display-name><url>https://movistarplus.es</url></channel>
+<channel id="can33"><display-name>33</display-name><url>https://movistarplus.es</url></channel>
+<channel id="dazb2"><display-name>DAZN Baloncesto 2</display-name><url>https://movistarplus.es</url></channel>
+<channel id="dayst"><display-name>Daystar Español HD</display-name><url>https://movistarplus.es</url></channel>
+<channel id="c33"><display-name>SX3</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cyltv"><display-name>La 7</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cubav"><display-name>Cubavisión</display-name><url>https://movistarplus.es</url></channel>
+<channel id="csurhd"><display-name>Canal Sur HD</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cpdep"><display-name>M+ Deportes</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cpcome"><display-name>M+ Comedia</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cpcole"><display-name>M+ Drama</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cpacci"><display-name>M+ Acción</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cosmo"><display-name>COSMO</display-name><url>https://movistarplus.es</url></channel>
+<channel id="colomb"><display-name>TV Colombia</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cnn"><display-name>CNN Int</display-name><url>https://movistarplus.es</url></channel>
+<channel id="classd"><display-name>Classica</display-name><url>https://movistarplus.es</url></channel>
+<channel id="clantv"><display-name>Clan TVE</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cl13"><display-name>Calle 13</display-name><url>https://movistarplus.es</url></channel>
+<channel id="chile"><display-name>TV Chile</display-name><url>https://movistarplus.es</url></channel>
+<channel id="chapio"><display-name>M+ Liga de Campeones</display-name><url>https://movistarplus.es</url></channel>
+<channel id="chap4"><display-name>M+ Liga de Campeones 5</display-name><url>https://movistarplus.es</url></channel>
+<channel id="chap3"><display-name>M+ Liga de Campeones 4</display-name><url>https://movistarplus.es</url></channel>
 <channel id="chap2"><display-name>M+ Liga de Campeones 3</display-name><url>https://movistarplus.es</url></channel>
-<channel id="a3"><display-name>Antena 3</display-name><url>https://movistarplus.es</url></channel>
-<channel id="aragon"><display-name>Aragón TV Int</display-name><url>https://movistarplus.es</url></channel>
-<channel id="bbdra"><display-name>BBC Series</display-name><url>https://movistarplus.es</url></channel>
 <channel id="chap1"><display-name>M+ Liga de Campeones 2</display-name><url>https://movistarplus.es</url></channel>
 <channel id="cgtnfr"><display-name>CGTN Français HD</display-name><url>https://movistarplus.es</url></channel>
-<channel id="bbclif"><display-name>BBC Lifestyle</display-name><url>https://movistarplus.es</url></channel>
 <channel id="cgtnen"><display-name>CGTN English HD</display-name><url>https://movistarplus.es</url></channel>
 <channel id="cgtndo"><display-name>CGTN Documentary HD</display-name><url>https://movistarplus.es</url></channel>
-<channel id="apunt"><display-name>À Punt</display-name><url>https://movistarplus.es</url></channel>
-<channel id="bbcear"><display-name>BBC Earth</display-name><url>https://movistarplus.es</url></channel>
 <channel id="cgtnd"><display-name>CGTN Documentary</display-name><url>https://movistarplus.es</url></channel>
 <channel id="cctv-e"><display-name>CGTN Español</display-name><url>https://movistarplus.es</url></channel>
-<channel id="bbc"><display-name>BBC News</display-name><url>https://movistarplus.es</url></channel>
 <channel id="cazpes"><display-name>Caza y Pesca</display-name><url>https://movistarplus.es</url></channel>
 <channel id="casman"><display-name>Castilla la Mancha TV</display-name><url>https://movistarplus.es</url></channel>
-<channel id="natgeo"><display-name>National Geographic</display-name><url>https://movistarplus.es</url></channel>
-<channel id="telmad"><display-name>Telemadrid</display-name><url>https://movistarplus.es</url></channel>
-<channel id="playdc"><display-name>Disney Channel</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tvg2"><display-name>TVG 2</display-name><url>https://movistarplus.es</url></channel>
-<channel id="squi"><display-name>Squirrel</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tlesur"><display-name>Telesur</display-name><url>https://movistarplus.es</url></channel>
-<channel id="t5"><display-name>Telecinco</display-name><url>https://movistarplus.es</url></channel>
-<channel id="vam2sd"><display-name>M+ Vamos 2</display-name><url>https://movistarplus.es</url></channel>
-<channel id="usop3"><display-name>M+ Deportes 4</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tv5"><display-name>TV5MONDE</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tnt"><display-name>Warner TV</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tdep"><display-name>Teledeporte</display-name><url>https://movistarplus.es</url></channel>
-<channel id="sexta"><display-name>La Sexta</display-name><url>https://movistarplus.es</url></channel>
-<channel id="sci-fi"><display-name>SYFY</display-name><url>https://movistarplus.es</url></channel>
-<channel id="nova"><display-name>Nova</display-name><url>https://movistarplus.es</url></channel>
-<channel id="nick"><display-name>Nickelodeon</display-name><url>https://movistarplus.es</url></channel>
-<channel id="veo7"><display-name>Veo7</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tve"><display-name>LA 1</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tpa"><display-name>TPA</display-name><url>https://movistarplus.es</url></channel>
-<channel id="skysho"><display-name>SkyShowtime 1</display-name><url>https://movistarplus.es</url></channel>
-<channel id="set"><display-name>AXN Movies</display-name><url>https://movistarplus.es</url></channel>
-<channel id="nava"><display-name>Navarra TV</display-name><url>https://movistarplus.es</url></channel>
+<channel id="andatv"><display-name>Andalucía TV</display-name><url>https://movistarplus.es</url></channel>
+<channel id="atress"><display-name>Atreseries</display-name><url>https://movistarplus.es</url></channel>
+<channel id="c4"><display-name>Cuatro</display-name><url>https://movistarplus.es</url></channel>
+<channel id="btv"><display-name>Betevé</display-name><url>https://movistarplus.es</url></channel>
+<channel id="arthur"><display-name>M+ Deportes 2</display-name><url>https://movistarplus.es</url></channel>
+<channel id="boing"><display-name>Boing</display-name><url>https://movistarplus.es</url></channel>
+<channel id="bl"><display-name>Bloomberg</display-name><url>https://movistarplus.es</url></channel>
+<channel id="bemad"><display-name>BE MAD</display-name><url>https://movistarplus.es</url></channel>
+<channel id="bbhis"><display-name>BBC History</display-name><url>https://movistarplus.es</url></channel>
+<channel id="bbgea"><display-name>BBC Top Gear</display-name><url>https://movistarplus.es</url></channel>
+<channel id="bbfoo"><display-name>BBC Food</display-name><url>https://movistarplus.es</url></channel>
+<channel id="bbdra"><display-name>BBC Series</display-name><url>https://movistarplus.es</url></channel>
+<channel id="bbclif"><display-name>BBC Lifestyle</display-name><url>https://movistarplus.es</url></channel>
+<channel id="bbcear"><display-name>BBC Earth</display-name><url>https://movistarplus.es</url></channel>
+<channel id="bbc"><display-name>BBC News</display-name><url>https://movistarplus.es</url></channel>
+<channel id="24h"><display-name>24 Horas</display-name><url>https://movistarplus.es</url></channel>
+<channel id="aljaze"><display-name>Al Jazeera English</display-name><url>https://movistarplus.es</url></channel>
+<channel id="arirhd"><display-name>Arirang TV HD</display-name><url>https://movistarplus.es</url></channel>
+<channel id="aragtv"><display-name>Aragón TV</display-name><url>https://movistarplus.es</url></channel>
+<channel id="a3"><display-name>Antena 3</display-name><url>https://movistarplus.es</url></channel>
+<channel id="aragon"><display-name>Aragón TV Int</display-name><url>https://movistarplus.es</url></channel>
+<channel id="apunt"><display-name>À Punt</display-name><url>https://movistarplus.es</url></channel>
+<channel id="usop2"><display-name>M+ Deportes 3</display-name><url>https://movistarplus.es</url></channel>
 <channel id="usop11"><display-name>M+ Deportes 5</display-name><url>https://movistarplus.es</url></channel>
 <channel id="ucl"><display-name>UCL</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tvg"><display-name>TVG Europa</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tv3cat"><display-name>TV3</display-name><url>https://movistarplus.es</url></channel>
-<channel id="ten"><display-name>Ten</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tcm"><display-name>TCM</display-name><url>https://movistarplus.es</url></channel>
-<channel id="skynw"><display-name>Sky News</display-name><url>https://movistarplus.es</url></channel>
-<channel id="negotv"><display-name>Negocios TV</display-name><url>https://movistarplus.es</url></channel>
-<channel id="telmin"><display-name>Telemadrid Int.</display-name><url>https://movistarplus.es</url></channel>
-<channel id="otra"><display-name>La Otra</display-name><url>https://movistarplus.es</url></channel>
+<channel id="vam2sd"><display-name>M+ Vamos 2</display-name><url>https://movistarplus.es</url></channel>
+<channel id="veo7"><display-name>Veo7</display-name><url>https://movistarplus.es</url></channel>
+<channel id="usop3"><display-name>M+ Deportes 4</display-name><url>https://movistarplus.es</url></channel>
 <channel id="vamosd"><display-name>M+ Vamos</display-name><url>https://movistarplus.es</url></channel>
-<channel id="pcm"><display-name>Comedy Central</display-name><url>https://movistarplus.es</url></channel>
-<channel id="nbc"><display-name>CNBC</display-name><url>https://movistarplus.es</url></channel>
-<channel id="neox"><display-name>Neox</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tvgal"><display-name>TVG -TV Galicia</display-name><url>https://movistarplus.es</url></channel>
-<channel id="ubeat"><display-name>Ubeat</display-name><url>https://movistarplus.es</url></channel>
-<channel id="realm"><display-name>Real Madrid TV</display-name><url>https://movistarplus.es</url></channel>
-<channel id="nickjr"><display-name>NICK JR</display-name><url>https://movistarplus.es</url></channel>
-<channel id="usop2"><display-name>M+ Deportes 3</display-name><url>https://movistarplus.es</url></channel>
-<channel id="natgw"><display-name>Nat Geo Wild</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tvc"><display-name>TV3 Cat</display-name><url>https://movistarplus.es</url></channel>
 <programme start="20260624040000 +0000" stop="20260624050000 +0000" channel="7tvmur"><title lang="es">El pinchazo</title><desc lang="es">Concurso en el que los concursantes pondrán a prueba sus conocimientos sobre cultura general y música.</desc></programme>
 <programme start="20260624050000 +0000" stop="20260624060000 +0000" channel="7tvmur"><title lang="es">Onda regional Noticias</title><desc lang="es">Toda la actualidad de la región a La 7, con información matinal y resúmenes semanales, conectando radio y TV en un formato dinámico y cercano.</desc></programme>
 <programme start="20260624060000 +0000" stop="20260624110000 +0000" channel="7tvmur"><title lang="es">7Noticias Matinal</title><desc lang="es">Primera edición informativa de la cadena presentada por Marienca Fernández y Tati García.</desc></programme>
@@ -6547,8 +6547,8 @@
 <programme start="20260624143000 +0000" stop="20260624150000 +0000" channel="nbc"><title lang="es">Squawk on the Street</title><desc lang="es">Program which gives viewers all the up-to-the minute news they need from every major market. The show not only reports the headlines of the day, it also puts world-class, top-rated market guests on the air to provide the instant analysis of all the market moving news.</desc></programme>
 <programme start="20260624150000 +0000" stop="20260624153000 +0000" channel="nbc"><title lang="es">Squawk on the Street</title><desc lang="es">Program which gives viewers all the up-to-the minute news they need from every major market. The show not only reports the headlines of the day, it also puts world-class, top-rated market guests on the air to provide the instant analysis of all the market moving news.</desc></programme>
 <programme start="20260624153000 +0000" stop="20260624160000 +0000" channel="nbc"><title lang="es">Squawk on the Street</title><desc lang="es">Program which gives viewers all the up-to-the minute news they need from every major market. The show not only reports the headlines of the day, it also puts world-class, top-rated market guests on the air to provide the instant analysis of all the market moving news.</desc></programme>
-<programme start="20260624160000 +0000" stop="20260624163000 +0000" channel="nbc"><title lang="es">Halftime Report</title><desc lang="es">This program is the place for big investor interviews and fast-paced market analysis. Some experts debate about if you should buy ahead of earnings and if there are future interesting movements in the financial markets.</desc></programme>
-<programme start="20260624163000 +0000" stop="20260624170000 +0000" channel="nbc"><title lang="es">Halftime Report</title><desc lang="es">This program is the place for big investor interviews and fast-paced market analysis. Some experts debate about if you should buy ahead of earnings and if there are future interesting movements in the financial markets.</desc></programme>
+<programme start="20260624160000 +0000" stop="20260624163000 +0000" channel="nbc"><title lang="es">Halftime Report</title><desc lang="es">Hosted by Scott Wapner, Halftime Report infiltrates the trading floor to reveal the key stories pertinent to today's investors. Employing the thoughts and opinions of some of Wall Street's top investors, the show delivers an amalgamation of news updates, financial movements, and national and international business developments, helping to set the blueprint for the remainder of the day.</desc></programme>
+<programme start="20260624163000 +0000" stop="20260624170000 +0000" channel="nbc"><title lang="es">Halftime Report</title><desc lang="es">Hosted by Scott Wapner, Halftime Report infiltrates the trading floor to reveal the key stories pertinent to today's investors. Employing the thoughts and opinions of some of Wall Street's top investors, the show delivers an amalgamation of news updates, financial movements, and national and international business developments, helping to set the blueprint for the remainder of the day.</desc></programme>
 <programme start="20260624170000 +0000" stop="20260624173000 +0000" channel="nbc"><title lang="es">The Exchange</title><desc lang="es">Hosted by anchor Kelly Evans, The Exchange provides today's investors with news updates from the around the world, giving them the knowledge to make the requisite, informed decisions.</desc></programme>
 <programme start="20260624173000 +0000" stop="20260624180000 +0000" channel="nbc"><title lang="es">The Exchange</title><desc lang="es">Hosted by anchor Kelly Evans, The Exchange provides today's investors with news updates from the around the world, giving them the knowledge to make the requisite, informed decisions.</desc></programme>
 <programme start="20260624180000 +0000" stop="20260624183000 +0000" channel="nbc"><title lang="es">Power Lunch</title><desc lang="es">Sue Herera and Tyler Mathisen delve into the economy, the markets, real estate, media, and technology.</desc></programme>
@@ -6560,12 +6560,12 @@
 <programme start="20260624210000 +0000" stop="20260624213000 +0000" channel="nbc"><title lang="es">Fast money</title><desc lang="es">Program that offers the information normally reserved for the Wall Street trading floor.</desc></programme>
 <programme start="20260624213000 +0000" stop="20260624220000 +0000" channel="nbc"><title lang="es">Fast money</title><desc lang="es">Program that offers the information normally reserved for the Wall Street trading floor.</desc></programme>
 <programme start="20260624220000 +0000" stop="20260624230000 +0000" channel="nbc"><title lang="es">U.S. Markets Edition</title><desc lang="es">U.S. Markets Edition delivers key takeaways from the most impactful interviews and insights from CNBC’s programming in the US. As global markets become more interconnected, this program ensures audiences in Asia stay informed on major developments.</desc></programme>
-<programme start="20260624230000 +0000" stop="20260624233000 +0000" channel="nbc"><title lang="es">Squawk Box (Asia)</title><desc lang="es">The jumpstart on the business day for the corporate and financial communities. CNBC's signature show provides viewers with the edge to stay ahead: breaking news, connecting with newsmakers and chasing the hottest stories, as well as the ones that aren't hot.</desc></programme>
-<programme start="20260624233000 +0000" stop="20260625000000 +0000" channel="nbc"><title lang="es">Squawk Box (Asia)</title><desc lang="es">The jumpstart on the business day for the corporate and financial communities. CNBC's signature show provides viewers with the edge to stay ahead: breaking news, connecting with newsmakers and chasing the hottest stories, as well as the ones that aren't hot.</desc></programme>
-<programme start="20260625000000 +0000" stop="20260625003000 +0000" channel="nbc"><title lang="es">Squawk Box (Asia)</title><desc lang="es">The jumpstart on the business day for the corporate and financial communities. CNBC's signature show provides viewers with the edge to stay ahead: breaking news, connecting with newsmakers and chasing the hottest stories, as well as the ones that aren't hot.</desc></programme>
-<programme start="20260625003000 +0000" stop="20260625010000 +0000" channel="nbc"><title lang="es">Squawk Box (Asia)</title><desc lang="es">The jumpstart on the business day for the corporate and financial communities. CNBC's signature show provides viewers with the edge to stay ahead: breaking news, connecting with newsmakers and chasing the hottest stories, as well as the ones that aren't hot.</desc></programme>
-<programme start="20260625010000 +0000" stop="20260625013000 +0000" channel="nbc"><title lang="es">Squawk Box (Asia)</title><desc lang="es">The jumpstart on the business day for the corporate and financial communities. CNBC's signature show provides viewers with the edge to stay ahead: breaking news, connecting with newsmakers and chasing the hottest stories, as well as the ones that aren't hot.</desc></programme>
-<programme start="20260625013000 +0000" stop="20260625020000 +0000" channel="nbc"><title lang="es">Squawk Box (Asia)</title><desc lang="es">The jumpstart on the business day for the corporate and financial communities. CNBC's signature show provides viewers with the edge to stay ahead: breaking news, connecting with newsmakers and chasing the hottest stories, as well as the ones that aren't hot.</desc></programme>
+<programme start="20260624230000 +0000" stop="20260624233000 +0000" channel="nbc"><title lang="es">Squawk Box (Asia)</title><desc lang="es">Anchored by Martin Soong and Sri Jegarajah at the Singapore Exchange (SGX), ''Squawk Box'' is CNBC's flagship show that sets the news agenda and takes viewers through the pre-game and opening of Asia's business trading day, covering the top market moving stories and views from the top CEOs, asset managers and newsmakers.</desc></programme>
+<programme start="20260624233000 +0000" stop="20260625000000 +0000" channel="nbc"><title lang="es">Squawk Box (Asia)</title><desc lang="es">Anchored by Martin Soong and Sri Jegarajah at the Singapore Exchange (SGX), ''Squawk Box'' is CNBC's flagship show that sets the news agenda and takes viewers through the pre-game and opening of Asia's business trading day, covering the top market moving stories and views from the top CEOs, asset managers and newsmakers.</desc></programme>
+<programme start="20260625000000 +0000" stop="20260625003000 +0000" channel="nbc"><title lang="es">Squawk Box (Asia)</title><desc lang="es">Anchored by Martin Soong and Sri Jegarajah at the Singapore Exchange (SGX), ''Squawk Box'' is CNBC's flagship show that sets the news agenda and takes viewers through the pre-game and opening of Asia's business trading day, covering the top market moving stories and views from the top CEOs, asset managers and newsmakers.</desc></programme>
+<programme start="20260625003000 +0000" stop="20260625010000 +0000" channel="nbc"><title lang="es">Squawk Box (Asia)</title><desc lang="es">Anchored by Martin Soong and Sri Jegarajah at the Singapore Exchange (SGX), ''Squawk Box'' is CNBC's flagship show that sets the news agenda and takes viewers through the pre-game and opening of Asia's business trading day, covering the top market moving stories and views from the top CEOs, asset managers and newsmakers.</desc></programme>
+<programme start="20260625010000 +0000" stop="20260625013000 +0000" channel="nbc"><title lang="es">Squawk Box (Asia)</title><desc lang="es">Anchored by Martin Soong and Sri Jegarajah at the Singapore Exchange (SGX), ''Squawk Box'' is CNBC's flagship show that sets the news agenda and takes viewers through the pre-game and opening of Asia's business trading day, covering the top market moving stories and views from the top CEOs, asset managers and newsmakers.</desc></programme>
+<programme start="20260625013000 +0000" stop="20260625020000 +0000" channel="nbc"><title lang="es">Squawk Box (Asia)</title><desc lang="es">Anchored by Martin Soong and Sri Jegarajah at the Singapore Exchange (SGX), ''Squawk Box'' is CNBC's flagship show that sets the news agenda and takes viewers through the pre-game and opening of Asia's business trading day, covering the top market moving stories and views from the top CEOs, asset managers and newsmakers.</desc></programme>
 <programme start="20260625020000 +0000" stop="20260625023000 +0000" channel="nbc"><title lang="es">The China Connection</title><desc lang="es">The China Connection delivers in-depth analysis of China's economy, markets and its relationship with the global landscape. Emily Chan brings you expert insights, exclusive interviews, covering key sectors, trade developments and policy shifts.</desc></programme>
 <programme start="20260625023000 +0000" stop="20260625030000 +0000" channel="nbc"><title lang="es">The China Connection</title><desc lang="es">The China Connection delivers in-depth analysis of China's economy, markets and its relationship with the global landscape. Emily Chan brings you expert insights, exclusive interviews, covering key sectors, trade developments and policy shifts.</desc></programme>
 <programme start="20260625030000 +0000" stop="20260625033000 +0000" channel="nbc"><title lang="es">Inside India</title><desc lang="es">CNBC's Inside India gives you news and market commentary on the emerging powerhouse, businesses and people behind its rise. Sri Jegarajah goes beyond the headlines to give you the edge and insights - this is your gateway to the India story.</desc></programme>
@@ -6594,8 +6594,8 @@
 <programme start="20260625143000 +0000" stop="20260625150000 +0000" channel="nbc"><title lang="es">Squawk on the Street</title><desc lang="es">Program which gives viewers all the up-to-the minute news they need from every major market. The show not only reports the headlines of the day, it also puts world-class, top-rated market guests on the air to provide the instant analysis of all the market moving news.</desc></programme>
 <programme start="20260625150000 +0000" stop="20260625153000 +0000" channel="nbc"><title lang="es">Squawk on the Street</title><desc lang="es">Program which gives viewers all the up-to-the minute news they need from every major market. The show not only reports the headlines of the day, it also puts world-class, top-rated market guests on the air to provide the instant analysis of all the market moving news.</desc></programme>
 <programme start="20260625153000 +0000" stop="20260625160000 +0000" channel="nbc"><title lang="es">Squawk on the Street</title><desc lang="es">Program which gives viewers all the up-to-the minute news they need from every major market. The show not only reports the headlines of the day, it also puts world-class, top-rated market guests on the air to provide the instant analysis of all the market moving news.</desc></programme>
-<programme start="20260625160000 +0000" stop="20260625163000 +0000" channel="nbc"><title lang="es">Halftime Report</title><desc lang="es">This program is the place for big investor interviews and fast-paced market analysis. Some experts debate about if you should buy ahead of earnings and if there are future interesting movements in the financial markets.</desc></programme>
-<programme start="20260625163000 +0000" stop="20260625170000 +0000" channel="nbc"><title lang="es">Halftime Report</title><desc lang="es">This program is the place for big investor interviews and fast-paced market analysis. Some experts debate about if you should buy ahead of earnings and if there are future interesting movements in the financial markets.</desc></programme>
+<programme start="20260625160000 +0000" stop="20260625163000 +0000" channel="nbc"><title lang="es">Halftime Report</title><desc lang="es">Hosted by Scott Wapner, Halftime Report infiltrates the trading floor to reveal the key stories pertinent to today's investors. Employing the thoughts and opinions of some of Wall Street's top investors, the show delivers an amalgamation of news updates, financial movements, and national and international business developments, helping to set the blueprint for the remainder of the day.</desc></programme>
+<programme start="20260625163000 +0000" stop="20260625170000 +0000" channel="nbc"><title lang="es">Halftime Report</title><desc lang="es">Hosted by Scott Wapner, Halftime Report infiltrates the trading floor to reveal the key stories pertinent to today's investors. Employing the thoughts and opinions of some of Wall Street's top investors, the show delivers an amalgamation of news updates, financial movements, and national and international business developments, helping to set the blueprint for the remainder of the day.</desc></programme>
 <programme start="20260625170000 +0000" stop="20260625173000 +0000" channel="nbc"><title lang="es">The Exchange</title><desc lang="es">Hosted by anchor Kelly Evans, The Exchange provides today's investors with news updates from the around the world, giving them the knowledge to make the requisite, informed decisions.</desc></programme>
 <programme start="20260625173000 +0000" stop="20260625180000 +0000" channel="nbc"><title lang="es">The Exchange</title><desc lang="es">Hosted by anchor Kelly Evans, The Exchange provides today's investors with news updates from the around the world, giving them the knowledge to make the requisite, informed decisions.</desc></programme>
 <programme start="20260625180000 +0000" stop="20260625183000 +0000" channel="nbc"><title lang="es">Power Lunch</title><desc lang="es">Sue Herera and Tyler Mathisen delve into the economy, the markets, real estate, media, and technology.</desc></programme>
@@ -6607,12 +6607,12 @@
 <programme start="20260625210000 +0000" stop="20260625213000 +0000" channel="nbc"><title lang="es">Fast money</title><desc lang="es">Program that offers the information normally reserved for the Wall Street trading floor.</desc></programme>
 <programme start="20260625213000 +0000" stop="20260625220000 +0000" channel="nbc"><title lang="es">Fast money</title><desc lang="es">Program that offers the information normally reserved for the Wall Street trading floor.</desc></programme>
 <programme start="20260625220000 +0000" stop="20260625230000 +0000" channel="nbc"><title lang="es">U.S. Markets Edition</title><desc lang="es">U.S. Markets Edition delivers key takeaways from the most impactful interviews and insights from CNBC’s programming in the US. As global markets become more interconnected, this program ensures audiences in Asia stay informed on major developments.</desc></programme>
-<programme start="20260625230000 +0000" stop="20260625233000 +0000" channel="nbc"><title lang="es">Squawk Box (Asia)</title><desc lang="es">The jumpstart on the business day for the corporate and financial communities. CNBC's signature show provides viewers with the edge to stay ahead: breaking news, connecting with newsmakers and chasing the hottest stories, as well as the ones that aren't hot.</desc></programme>
-<programme start="20260625233000 +0000" stop="20260626000000 +0000" channel="nbc"><title lang="es">Squawk Box (Asia)</title><desc lang="es">The jumpstart on the business day for the corporate and financial communities. CNBC's signature show provides viewers with the edge to stay ahead: breaking news, connecting with newsmakers and chasing the hottest stories, as well as the ones that aren't hot.</desc></programme>
-<programme start="20260626000000 +0000" stop="20260626003000 +0000" channel="nbc"><title lang="es">Squawk Box (Asia)</title><desc lang="es">The jumpstart on the business day for the corporate and financial communities. CNBC's signature show provides viewers with the edge to stay ahead: breaking news, connecting with newsmakers and chasing the hottest stories, as well as the ones that aren't hot.</desc></programme>
-<programme start="20260626003000 +0000" stop="20260626010000 +0000" channel="nbc"><title lang="es">Squawk Box (Asia)</title><desc lang="es">The jumpstart on the business day for the corporate and financial communities. CNBC's signature show provides viewers with the edge to stay ahead: breaking news, connecting with newsmakers and chasing the hottest stories, as well as the ones that aren't hot.</desc></programme>
-<programme start="20260626010000 +0000" stop="20260626013000 +0000" channel="nbc"><title lang="es">Squawk Box (Asia)</title><desc lang="es">The jumpstart on the business day for the corporate and financial communities. CNBC's signature show provides viewers with the edge to stay ahead: breaking news, connecting with newsmakers and chasing the hottest stories, as well as the ones that aren't hot.</desc></programme>
-<programme start="20260626013000 +0000" stop="20260626020000 +0000" channel="nbc"><title lang="es">Squawk Box (Asia)</title><desc lang="es">The jumpstart on the business day for the corporate and financial communities. CNBC's signature show provides viewers with the edge to stay ahead: breaking news, connecting with newsmakers and chasing the hottest stories, as well as the ones that aren't hot.</desc></programme>
+<programme start="20260625230000 +0000" stop="20260625233000 +0000" channel="nbc"><title lang="es">Squawk Box (Asia)</title><desc lang="es">Anchored by Martin Soong and Sri Jegarajah at the Singapore Exchange (SGX), ''Squawk Box'' is CNBC's flagship show that sets the news agenda and takes viewers through the pre-game and opening of Asia's business trading day, covering the top market moving stories and views from the top CEOs, asset managers and newsmakers.</desc></programme>
+<programme start="20260625233000 +0000" stop="20260626000000 +0000" channel="nbc"><title lang="es">Squawk Box (Asia)</title><desc lang="es">Anchored by Martin Soong and Sri Jegarajah at the Singapore Exchange (SGX), ''Squawk Box'' is CNBC's flagship show that sets the news agenda and takes viewers through the pre-game and opening of Asia's business trading day, covering the top market moving stories and views from the top CEOs, asset managers and newsmakers.</desc></programme>
+<programme start="20260626000000 +0000" stop="20260626003000 +0000" channel="nbc"><title lang="es">Squawk Box (Asia)</title><desc lang="es">Anchored by Martin Soong and Sri Jegarajah at the Singapore Exchange (SGX), ''Squawk Box'' is CNBC's flagship show that sets the news agenda and takes viewers through the pre-game and opening of Asia's business trading day, covering the top market moving stories and views from the top CEOs, asset managers and newsmakers.</desc></programme>
+<programme start="20260626003000 +0000" stop="20260626010000 +0000" channel="nbc"><title lang="es">Squawk Box (Asia)</title><desc lang="es">Anchored by Martin Soong and Sri Jegarajah at the Singapore Exchange (SGX), ''Squawk Box'' is CNBC's flagship show that sets the news agenda and takes viewers through the pre-game and opening of Asia's business trading day, covering the top market moving stories and views from the top CEOs, asset managers and newsmakers.</desc></programme>
+<programme start="20260626010000 +0000" stop="20260626013000 +0000" channel="nbc"><title lang="es">Squawk Box (Asia)</title><desc lang="es">Anchored by Martin Soong and Sri Jegarajah at the Singapore Exchange (SGX), ''Squawk Box'' is CNBC's flagship show that sets the news agenda and takes viewers through the pre-game and opening of Asia's business trading day, covering the top market moving stories and views from the top CEOs, asset managers and newsmakers.</desc></programme>
+<programme start="20260626013000 +0000" stop="20260626020000 +0000" channel="nbc"><title lang="es">Squawk Box (Asia)</title><desc lang="es">Anchored by Martin Soong and Sri Jegarajah at the Singapore Exchange (SGX), ''Squawk Box'' is CNBC's flagship show that sets the news agenda and takes viewers through the pre-game and opening of Asia's business trading day, covering the top market moving stories and views from the top CEOs, asset managers and newsmakers.</desc></programme>
 <programme start="20260626020000 +0000" stop="20260626023000 +0000" channel="nbc"><title lang="es">The China Connection</title><desc lang="es">The China Connection delivers in-depth analysis of China's economy, markets and its relationship with the global landscape. Emily Chan brings you expert insights, exclusive interviews, covering key sectors, trade developments and policy shifts.</desc></programme>
 <programme start="20260626023000 +0000" stop="20260626030000 +0000" channel="nbc"><title lang="es">The China Connection</title><desc lang="es">The China Connection delivers in-depth analysis of China's economy, markets and its relationship with the global landscape. Emily Chan brings you expert insights, exclusive interviews, covering key sectors, trade developments and policy shifts.</desc></programme>
 <programme start="20260624050000 +0000" stop="20260624083000 +0000" channel="negotv"><title lang="es">Business Connection</title><desc lang="es">El programa despertador de la economía en Europa. Con José Antonio Vizner y los mejores especialistas para entender qué está sucediendo en el mundo de los negocios.</desc></programme>
