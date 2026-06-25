@@ -9,6 +9,8 @@
   <channel site="gatotv.com" site_id="13_de_costa_rica" lang="es" xmltv_id="">13 de Costa Rica</channel>
   <channel site="gatotv.com" site_id="13_de_guatemala" lang="es" xmltv_id="">13 de Guatemala</channel>
   <channel site="gatotv.com" site_id="14_de_mexico" lang="es" xmltv_id="">14 de México</channel>
+  <channel site="gatotv.com" site_id="a3cine" lang="es" xmltv_id="">A3CINE</channel>
+  <channel site="gatotv.com" site_id="a_mas_guate" lang="es" xmltv_id="">A+ Guate</channel>
   <channel site="gatotv.com" site_id="adn_noticias" lang="es" xmltv_id="">ADN Noticias</channel>
   <channel site="gatotv.com" site_id="adrenalina_sports_network" lang="es" xmltv_id="">Adrenalina Sports Network</channel>
   <channel site="gatotv.com" site_id="adult_swim_mexico" lang="es" xmltv_id="">Adult Swim México</channel>
@@ -50,6 +52,7 @@
   <channel site="gatotv.com" site_id="discovery_home_and_health_colombia" lang="es" xmltv_id="">Discovery Home &amp; Health Colombia</channel>
   <channel site="gatotv.com" site_id="discovery_kids_latinoamerica" lang="es" xmltv_id="">Discovery Kids LATAM</channel>
   <channel site="gatotv.com" site_id="discovery_turbo_latinoamerica" lang="es" xmltv_id="">Discovery Turbo LATAM.</channel>
+  <channel site="gatotv.com" site_id="dreamworks_channel_latinoamerica" lang="es" xmltv_id="">DreamWorks Channel LATAM</channel>
   <channel site="gatotv.com" site_id="dw_latinoamerica" lang="es" xmltv_id="">DW Latam.</channel>
   <channel site="gatotv.com" site_id="e_entertainment_television_chile" lang="es" xmltv_id="">E! Entertainment Television Chile</channel>
   <channel site="gatotv.com" site_id="e_entertainment_television_panregional" lang="es" xmltv_id="">E! Entertainment Television Panregional</channel>
