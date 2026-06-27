@@ -1,68 +1,68 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20260627">
 <channel id="7tvmur"><display-name>7 TV Región Murcia</display-name><url>https://movistarplus.es</url></channel>
-<channel id="veo7"><display-name>Veo7</display-name><url>https://movistarplus.es</url></channel>
-<channel id="vamosd"><display-name>M+ Vamos</display-name><url>https://movistarplus.es</url></channel>
-<channel id="vam2sd"><display-name>M+ Vamos 2</display-name><url>https://movistarplus.es</url></channel>
-<channel id="usop11"><display-name>M+ Deportes 5</display-name><url>https://movistarplus.es</url></channel>
-<channel id="usop3"><display-name>M+ Deportes 4</display-name><url>https://movistarplus.es</url></channel>
-<channel id="usop2"><display-name>M+ Deportes 3</display-name><url>https://movistarplus.es</url></channel>
-<channel id="ucl"><display-name>UCL</display-name><url>https://movistarplus.es</url></channel>
-<channel id="ubeat"><display-name>Ubeat</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tvgal"><display-name>TVG -TV Galicia</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tvg2"><display-name>TVG 2</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tvg"><display-name>TVG Europa</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tve"><display-name>LA 1</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tvc"><display-name>TV3 Cat</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tv5"><display-name>TV5MONDE</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tv3cat"><display-name>TV3</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tpa"><display-name>TPA</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tnt"><display-name>Warner TV</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tlesur"><display-name>Telesur</display-name><url>https://movistarplus.es</url></channel>
-<channel id="ten"><display-name>Ten</display-name><url>https://movistarplus.es</url></channel>
-<channel id="telmin"><display-name>Telemadrid Int.</display-name><url>https://movistarplus.es</url></channel>
-<channel id="telmad"><display-name>Telemadrid</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tdep"><display-name>Teledeporte</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tcm"><display-name>TCM</display-name><url>https://movistarplus.es</url></channel>
-<channel id="t5"><display-name>Telecinco</display-name><url>https://movistarplus.es</url></channel>
-<channel id="squi"><display-name>Squirrel</display-name><url>https://movistarplus.es</url></channel>
-<channel id="skysho"><display-name>SkyShowtime 1</display-name><url>https://movistarplus.es</url></channel>
-<channel id="skynw"><display-name>Sky News</display-name><url>https://movistarplus.es</url></channel>
-<channel id="sexta"><display-name>La Sexta</display-name><url>https://movistarplus.es</url></channel>
-<channel id="set"><display-name>AXN Movies</display-name><url>https://movistarplus.es</url></channel>
-<channel id="sci-fi"><display-name>SYFY</display-name><url>https://movistarplus.es</url></channel>
-<channel id="realm"><display-name>Real Madrid TV</display-name><url>https://movistarplus.es</url></channel>
-<channel id="popuhd"><display-name>M+ Wimbledon UHD</display-name><url>https://movistarplus.es</url></channel>
-<channel id="playdc"><display-name>Disney Channel</display-name><url>https://movistarplus.es</url></channel>
-<channel id="pcm"><display-name>Comedy Central</display-name><url>https://movistarplus.es</url></channel>
-<channel id="otra"><display-name>La Otra</display-name><url>https://movistarplus.es</url></channel>
-<channel id="nova"><display-name>Nova</display-name><url>https://movistarplus.es</url></channel>
-<channel id="nickjr"><display-name>NICK JR</display-name><url>https://movistarplus.es</url></channel>
-<channel id="nick"><display-name>Nickelodeon</display-name><url>https://movistarplus.es</url></channel>
-<channel id="neox"><display-name>Neox</display-name><url>https://movistarplus.es</url></channel>
-<channel id="negotv"><display-name>Negocios TV</display-name><url>https://movistarplus.es</url></channel>
-<channel id="nbc"><display-name>CNBC</display-name><url>https://movistarplus.es</url></channel>
-<channel id="nava"><display-name>Navarra TV</display-name><url>https://movistarplus.es</url></channel>
-<channel id="natgw"><display-name>Nat Geo Wild</display-name><url>https://movistarplus.es</url></channel>
-<channel id="natgeo"><display-name>National Geographic</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mvf1"><display-name>DAZN F1</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mvciva"><display-name>M+ Vacaciones</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mv1"><display-name>M+ Estrenos</display-name><url>https://movistarplus.es</url></channel>
-<channel id="multi8"><display-name>M+ Deportes 6</display-name><url>https://movistarplus.es</url></channel>
-<channel id="multi6"><display-name>M+ Deportes 7</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mtv"><display-name>MTV</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mplus"><display-name>Movistar Plus</display-name><url>https://movistarplus.es</url></channel>
-<channel id="morig"><display-name>M+ Originales</display-name><url>https://movistarplus.es</url></channel>
-<channel id="morgul"><display-name>M+ Orgullo</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mliuhd"><display-name>M+ LALIGA 2 HDR</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mliguh"><display-name>M+ LALIGA HDR</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mligs3"><display-name>LALIGA TV HYPERMOTION 3</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mligs2"><display-name>LALIGA TV HYPERMOTION 2</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mligs"><display-name>LALIGA TV HYPERMOTION</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mliga"><display-name>M+ LALIGA</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mlig3"><display-name>DAZN Mundial 6</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mlig2"><display-name>M+ LALIGA 3</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mlig1"><display-name>M+ Fanzone</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mindi"><display-name>M+ Indie</display-name><url>https://movistarplus.es</url></channel>
+<channel id="13tv"><display-name>TRECE</display-name><url>https://movistarplus.es</url></channel>
+<channel id="3_24"><display-name>3CatInfo</display-name><url>https://movistarplus.es</url></channel>
+<channel id="antv"><display-name>Canal Sur Andalucía</display-name><url>https://movistarplus.es</url></channel>
+<channel id="baby"><display-name>Baby TV</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cansur"><display-name>Canal Sur</display-name><url>https://movistarplus.es</url></channel>
+<channel id="dazn3"><display-name>DAZN 3</display-name><url>https://movistarplus.es</url></channel>
+<channel id="dazmot"><display-name>DAZN MotoGP</display-name><url>https://movistarplus.es</url></channel>
+<channel id="canar"><display-name>TV Canaria</display-name><url>https://movistarplus.es</url></channel>
+<channel id="dazba"><display-name>DAZN Baloncesto</display-name><url>https://movistarplus.es</url></channel>
+<channel id="dazb3"><display-name>DAZN Baloncesto 3</display-name><url>https://movistarplus.es</url></channel>
+<channel id="axn"><display-name>AXN</display-name><url>https://movistarplus.es</url></channel>
+<channel id="can33"><display-name>33</display-name><url>https://movistarplus.es</url></channel>
+<channel id="dazb2"><display-name>DAZN Baloncesto 2</display-name><url>https://movistarplus.es</url></channel>
+<channel id="dayst"><display-name>Daystar Español HD</display-name><url>https://movistarplus.es</url></channel>
+<channel id="c33"><display-name>SX3</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cyltv"><display-name>La 7</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cubav"><display-name>Cubavisión</display-name><url>https://movistarplus.es</url></channel>
+<channel id="andatv"><display-name>Andalucía TV</display-name><url>https://movistarplus.es</url></channel>
+<channel id="atress"><display-name>Atreseries</display-name><url>https://movistarplus.es</url></channel>
+<channel id="c4"><display-name>Cuatro</display-name><url>https://movistarplus.es</url></channel>
+<channel id="csurhd"><display-name>Canal Sur HD</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cpdep"><display-name>M+ Deportes</display-name><url>https://movistarplus.es</url></channel>
+<channel id="btv"><display-name>Betevé</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cpcome"><display-name>M+ Comedia</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cpcole"><display-name>M+ Drama</display-name><url>https://movistarplus.es</url></channel>
+<channel id="arthur"><display-name>M+ Deportes 2</display-name><url>https://movistarplus.es</url></channel>
+<channel id="boing"><display-name>Boing</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cpacci"><display-name>M+ Acción</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cosmo"><display-name>COSMO</display-name><url>https://movistarplus.es</url></channel>
+<channel id="bl"><display-name>Bloomberg</display-name><url>https://movistarplus.es</url></channel>
+<channel id="colomb"><display-name>TV Colombia</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cnn"><display-name>CNN Int</display-name><url>https://movistarplus.es</url></channel>
+<channel id="24h"><display-name>24 Horas</display-name><url>https://movistarplus.es</url></channel>
+<channel id="aljaze"><display-name>Al Jazeera English</display-name><url>https://movistarplus.es</url></channel>
+<channel id="arirhd"><display-name>Arirang TV HD</display-name><url>https://movistarplus.es</url></channel>
+<channel id="bemad"><display-name>BE MAD</display-name><url>https://movistarplus.es</url></channel>
+<channel id="classd"><display-name>Classica</display-name><url>https://movistarplus.es</url></channel>
+<channel id="clantv"><display-name>Clan TVE</display-name><url>https://movistarplus.es</url></channel>
+<channel id="bbhis"><display-name>BBC History</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cl13"><display-name>Calle 13</display-name><url>https://movistarplus.es</url></channel>
+<channel id="chile"><display-name>TV Chile</display-name><url>https://movistarplus.es</url></channel>
+<channel id="aragtv"><display-name>Aragón TV</display-name><url>https://movistarplus.es</url></channel>
+<channel id="bbgea"><display-name>BBC Top Gear</display-name><url>https://movistarplus.es</url></channel>
+<channel id="chapio"><display-name>M+ Liga de Campeones</display-name><url>https://movistarplus.es</url></channel>
+<channel id="chap4"><display-name>M+ Liga de Campeones 5</display-name><url>https://movistarplus.es</url></channel>
+<channel id="bbfoo"><display-name>BBC Food</display-name><url>https://movistarplus.es</url></channel>
+<channel id="chap3"><display-name>M+ Liga de Campeones 4</display-name><url>https://movistarplus.es</url></channel>
+<channel id="chap2"><display-name>M+ Liga de Campeones 3</display-name><url>https://movistarplus.es</url></channel>
+<channel id="a3"><display-name>Antena 3</display-name><url>https://movistarplus.es</url></channel>
+<channel id="aragon"><display-name>Aragón TV Int</display-name><url>https://movistarplus.es</url></channel>
+<channel id="bbdra"><display-name>BBC Series</display-name><url>https://movistarplus.es</url></channel>
+<channel id="chap1"><display-name>M+ Liga de Campeones 2</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cgtnfr"><display-name>CGTN Français HD</display-name><url>https://movistarplus.es</url></channel>
+<channel id="bbclif"><display-name>BBC Lifestyle</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cgtnen"><display-name>CGTN English HD</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cgtndo"><display-name>CGTN Documentary HD</display-name><url>https://movistarplus.es</url></channel>
+<channel id="apunt"><display-name>À Punt</display-name><url>https://movistarplus.es</url></channel>
+<channel id="bbcear"><display-name>BBC Earth</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cgtnd"><display-name>CGTN Documentary</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cctv-e"><display-name>CGTN Español</display-name><url>https://movistarplus.es</url></channel>
+<channel id="bbc"><display-name>BBC News</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cazpes"><display-name>Caza y Pesca</display-name><url>https://movistarplus.es</url></channel>
+<channel id="casman"><display-name>Castilla la Mancha TV</display-name><url>https://movistarplus.es</url></channel>
 <channel id="mhits"><display-name>M+ Hits</display-name><url>https://movistarplus.es</url></channel>
 <channel id="mezzo"><display-name>Mezzo</display-name><url>https://movistarplus.es</url></channel>
 <channel id="mezzli"><display-name>Mezzo Live</display-name><url>https://movistarplus.es</url></channel>
@@ -117,69 +117,69 @@
 <channel id="daznl3"><display-name>DAZN MUNDIAL 3</display-name><url>https://movistarplus.es</url></channel>
 <channel id="daznl2"><display-name>DAZN MUNDIAL 2</display-name><url>https://movistarplus.es</url></channel>
 <channel id="dazn4"><display-name>DAZN 4</display-name><url>https://movistarplus.es</url></channel>
-<channel id="dazn3"><display-name>DAZN 3</display-name><url>https://movistarplus.es</url></channel>
-<channel id="dazmot"><display-name>DAZN MotoGP</display-name><url>https://movistarplus.es</url></channel>
-<channel id="dazba"><display-name>DAZN Baloncesto</display-name><url>https://movistarplus.es</url></channel>
-<channel id="dazb3"><display-name>DAZN Baloncesto 3</display-name><url>https://movistarplus.es</url></channel>
-<channel id="dazb2"><display-name>DAZN Baloncesto 2</display-name><url>https://movistarplus.es</url></channel>
-<channel id="dayst"><display-name>Daystar Español HD</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cyltv"><display-name>La 7</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cubav"><display-name>Cubavisión</display-name><url>https://movistarplus.es</url></channel>
-<channel id="csurhd"><display-name>Canal Sur HD</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cpdep"><display-name>M+ Deportes</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cpcome"><display-name>M+ Comedia</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cpcole"><display-name>M+ Drama</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cpacci"><display-name>M+ Acción</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cosmo"><display-name>COSMO</display-name><url>https://movistarplus.es</url></channel>
-<channel id="colomb"><display-name>TV Colombia</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cnn"><display-name>CNN Int</display-name><url>https://movistarplus.es</url></channel>
-<channel id="classd"><display-name>Classica</display-name><url>https://movistarplus.es</url></channel>
-<channel id="clantv"><display-name>Clan TVE</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cl13"><display-name>Calle 13</display-name><url>https://movistarplus.es</url></channel>
-<channel id="chile"><display-name>TV Chile</display-name><url>https://movistarplus.es</url></channel>
-<channel id="chapio"><display-name>M+ Liga de Campeones</display-name><url>https://movistarplus.es</url></channel>
-<channel id="chap4"><display-name>M+ Liga de Campeones 5</display-name><url>https://movistarplus.es</url></channel>
-<channel id="chap3"><display-name>M+ Liga de Campeones 4</display-name><url>https://movistarplus.es</url></channel>
-<channel id="chap2"><display-name>M+ Liga de Campeones 3</display-name><url>https://movistarplus.es</url></channel>
-<channel id="chap1"><display-name>M+ Liga de Campeones 2</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cgtnfr"><display-name>CGTN Français HD</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cgtnen"><display-name>CGTN English HD</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cgtndo"><display-name>CGTN Documentary HD</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cgtnd"><display-name>CGTN Documentary</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cctv-e"><display-name>CGTN Español</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cazpes"><display-name>Caza y Pesca</display-name><url>https://movistarplus.es</url></channel>
-<channel id="casman"><display-name>Castilla la Mancha TV</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cansur"><display-name>Canal Sur</display-name><url>https://movistarplus.es</url></channel>
-<channel id="canar"><display-name>TV Canaria</display-name><url>https://movistarplus.es</url></channel>
-<channel id="can33"><display-name>33</display-name><url>https://movistarplus.es</url></channel>
-<channel id="c33"><display-name>SX3</display-name><url>https://movistarplus.es</url></channel>
-<channel id="c4"><display-name>Cuatro</display-name><url>https://movistarplus.es</url></channel>
-<channel id="btv"><display-name>Betevé</display-name><url>https://movistarplus.es</url></channel>
-<channel id="boing"><display-name>Boing</display-name><url>https://movistarplus.es</url></channel>
-<channel id="bl"><display-name>Bloomberg</display-name><url>https://movistarplus.es</url></channel>
-<channel id="bemad"><display-name>BE MAD</display-name><url>https://movistarplus.es</url></channel>
-<channel id="bbhis"><display-name>BBC History</display-name><url>https://movistarplus.es</url></channel>
-<channel id="bbgea"><display-name>BBC Top Gear</display-name><url>https://movistarplus.es</url></channel>
-<channel id="bbfoo"><display-name>BBC Food</display-name><url>https://movistarplus.es</url></channel>
-<channel id="bbdra"><display-name>BBC Series</display-name><url>https://movistarplus.es</url></channel>
-<channel id="bbclif"><display-name>BBC Lifestyle</display-name><url>https://movistarplus.es</url></channel>
-<channel id="bbcear"><display-name>BBC Earth</display-name><url>https://movistarplus.es</url></channel>
-<channel id="bbc"><display-name>BBC News</display-name><url>https://movistarplus.es</url></channel>
-<channel id="baby"><display-name>Baby TV</display-name><url>https://movistarplus.es</url></channel>
-<channel id="axn"><display-name>AXN</display-name><url>https://movistarplus.es</url></channel>
-<channel id="atress"><display-name>Atreseries</display-name><url>https://movistarplus.es</url></channel>
-<channel id="arthur"><display-name>M+ Deportes 2</display-name><url>https://movistarplus.es</url></channel>
-<channel id="arirhd"><display-name>Arirang TV HD</display-name><url>https://movistarplus.es</url></channel>
-<channel id="aragtv"><display-name>Aragón TV</display-name><url>https://movistarplus.es</url></channel>
-<channel id="aragon"><display-name>Aragón TV Int</display-name><url>https://movistarplus.es</url></channel>
-<channel id="apunt"><display-name>À Punt</display-name><url>https://movistarplus.es</url></channel>
-<channel id="antv"><display-name>Canal Sur Andalucía</display-name><url>https://movistarplus.es</url></channel>
-<channel id="andatv"><display-name>Andalucía TV</display-name><url>https://movistarplus.es</url></channel>
-<channel id="aljaze"><display-name>Al Jazeera English</display-name><url>https://movistarplus.es</url></channel>
-<channel id="a3"><display-name>Antena 3</display-name><url>https://movistarplus.es</url></channel>
-<channel id="3_24"><display-name>3CatInfo</display-name><url>https://movistarplus.es</url></channel>
-<channel id="24h"><display-name>24 Horas</display-name><url>https://movistarplus.es</url></channel>
-<channel id="13tv"><display-name>TRECE</display-name><url>https://movistarplus.es</url></channel>
+<channel id="veo7"><display-name>Veo7</display-name><url>https://movistarplus.es</url></channel>
+<channel id="vamosd"><display-name>M+ Vamos</display-name><url>https://movistarplus.es</url></channel>
+<channel id="vam2sd"><display-name>M+ Vamos 2</display-name><url>https://movistarplus.es</url></channel>
+<channel id="usop11"><display-name>M+ Deportes 5</display-name><url>https://movistarplus.es</url></channel>
+<channel id="usop3"><display-name>M+ Deportes 4</display-name><url>https://movistarplus.es</url></channel>
+<channel id="usop2"><display-name>M+ Deportes 3</display-name><url>https://movistarplus.es</url></channel>
+<channel id="ubeat"><display-name>Ubeat</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tvgal"><display-name>TVG -TV Galicia</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tvg2"><display-name>TVG 2</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tve"><display-name>LA 1</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tvc"><display-name>TV3 Cat</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tv5"><display-name>TV5MONDE</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tpa"><display-name>TPA</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tnt"><display-name>Warner TV</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tlesur"><display-name>Telesur</display-name><url>https://movistarplus.es</url></channel>
+<channel id="telmin"><display-name>Telemadrid Int.</display-name><url>https://movistarplus.es</url></channel>
+<channel id="telmad"><display-name>Telemadrid</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tdep"><display-name>Teledeporte</display-name><url>https://movistarplus.es</url></channel>
+<channel id="t5"><display-name>Telecinco</display-name><url>https://movistarplus.es</url></channel>
+<channel id="squi"><display-name>Squirrel</display-name><url>https://movistarplus.es</url></channel>
+<channel id="skysho"><display-name>SkyShowtime 1</display-name><url>https://movistarplus.es</url></channel>
+<channel id="skynw"><display-name>Sky News</display-name><url>https://movistarplus.es</url></channel>
+<channel id="sexta"><display-name>La Sexta</display-name><url>https://movistarplus.es</url></channel>
+<channel id="set"><display-name>AXN Movies</display-name><url>https://movistarplus.es</url></channel>
+<channel id="popuhd"><display-name>M+ Wimbledon UHD</display-name><url>https://movistarplus.es</url></channel>
+<channel id="playdc"><display-name>Disney Channel</display-name><url>https://movistarplus.es</url></channel>
+<channel id="pcm"><display-name>Comedy Central</display-name><url>https://movistarplus.es</url></channel>
+<channel id="nova"><display-name>Nova</display-name><url>https://movistarplus.es</url></channel>
+<channel id="nickjr"><display-name>NICK JR</display-name><url>https://movistarplus.es</url></channel>
+<channel id="nick"><display-name>Nickelodeon</display-name><url>https://movistarplus.es</url></channel>
+<channel id="negotv"><display-name>Negocios TV</display-name><url>https://movistarplus.es</url></channel>
+<channel id="nbc"><display-name>CNBC</display-name><url>https://movistarplus.es</url></channel>
+<channel id="nava"><display-name>Navarra TV</display-name><url>https://movistarplus.es</url></channel>
+<channel id="natgw"><display-name>Nat Geo Wild</display-name><url>https://movistarplus.es</url></channel>
+<channel id="natgeo"><display-name>National Geographic</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mvf1"><display-name>DAZN F1</display-name><url>https://movistarplus.es</url></channel>
+<channel id="multi8"><display-name>M+ Deportes 6</display-name><url>https://movistarplus.es</url></channel>
+<channel id="multi6"><display-name>M+ Deportes 7</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mtv"><display-name>MTV</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mplus"><display-name>Movistar Plus</display-name><url>https://movistarplus.es</url></channel>
+<channel id="morig"><display-name>M+ Originales</display-name><url>https://movistarplus.es</url></channel>
+<channel id="morgul"><display-name>M+ Orgullo</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mliguh"><display-name>M+ LALIGA HDR</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mligs3"><display-name>LALIGA TV HYPERMOTION 3</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mligs2"><display-name>LALIGA TV HYPERMOTION 2</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mliga"><display-name>M+ LALIGA</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mlig3"><display-name>DAZN Mundial 6</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mlig2"><display-name>M+ LALIGA 3</display-name><url>https://movistarplus.es</url></channel>
+<channel id="ucl"><display-name>UCL</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tvg"><display-name>TVG Europa</display-name><url>https://movistarplus.es</url></channel>
+<channel id="ten"><display-name>Ten</display-name><url>https://movistarplus.es</url></channel>
+<channel id="sci-fi"><display-name>SYFY</display-name><url>https://movistarplus.es</url></channel>
+<channel id="otra"><display-name>La Otra</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mvciva"><display-name>M+ Vacaciones</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mliuhd"><display-name>M+ LALIGA 2 HDR</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mligs"><display-name>LALIGA TV HYPERMOTION</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tv3cat"><display-name>TV3</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tcm"><display-name>TCM</display-name><url>https://movistarplus.es</url></channel>
+<channel id="neox"><display-name>Neox</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mlig1"><display-name>M+ Fanzone</display-name><url>https://movistarplus.es</url></channel>
+<channel id="realm"><display-name>Real Madrid TV</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mv1"><display-name>M+ Estrenos</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mindi"><display-name>M+ Indie</display-name><url>https://movistarplus.es</url></channel>
 <programme start="20260627030000 +0000" stop="20260627220000 +0000" channel="7tvmur"><title lang="es">Corazón Solidario</title><desc lang="es">Corazón Solidario nos invita a hacer un recorrido semana a semana por las asociaciones de la Región de Murcia dando a conocer a sus protagonistas, sus instalaciones, servicios, investigación y muchas historias de corazón.</desc></programme>
 <programme start="20260627040000 +0000" stop="20260627050000 +0000" channel="7tvmur"><title lang="es">Diario de campo</title><desc lang="es">Espacio dedicado al sector agrario como impulsor económico y a la vida en el campo. A través de testimonios en primera persona, el programa aborda temas como la innovación de las empresas agroalimentarias, la apertura de nuevos mercados o las cosechas de los campos.</desc></programme>
 <programme start="20260627050000 +0000" stop="20260627060000 +0000" channel="7tvmur"><title lang="es">Un paseo por</title><desc lang="es">Programa de divulgación cultural en el que se recorre la geografía murciana. El espacio muestra las calles, los centros históricos, culturales y religiosos de la comunidad, así como los lugares con mayor riqueza en biodiversidad.</desc></programme>
@@ -693,44 +693,45 @@
 <programme start="20260628011300 +0000" stop="20260628015400 +0000" channel="aragtv"><title lang="es">ADN aragonés</title><desc lang="es">Un recorrido por la geografía española en busca de los aragoneses que se marcharon de su tierra por distintos motivos. Cada programa presentará una historia diferente, mostrando los motivos que llevaron a los protagonistas a salir de Aragón y como es su día a día.</desc></programme>
 <programme start="20260628015400 +0000" stop="20260628023300 +0000" channel="aragtv"><title lang="es">ADN aragonés</title><desc lang="es">Un recorrido por la geografía española en busca de los aragoneses que se marcharon de su tierra por distintos motivos. Cada programa presentará una historia diferente, mostrando los motivos que llevaron a los protagonistas a salir de Aragón y como es su día a día.</desc></programme>
 <programme start="20260628023300 +0000" stop="20260628031000 +0000" channel="aragtv"><title lang="es">ADN aragonés</title><desc lang="es">Un recorrido por la geografía española en busca de los aragoneses que se marcharon de su tierra por distintos motivos. Cada programa presentará una historia diferente, mostrando los motivos que llevaron a los protagonistas a salir de Aragón y como es su día a día.</desc></programme>
-<programme start="20260628031000 +0000" stop="20260628031500 +0000" channel="aragtv"><title lang="es">Aragón Noticias 2</title><desc lang="es">Informativo vespertino de Aragón TV que ofrece las noticias más destacadas de la actualidad aragonesa, nacional e internacional, así como la información del tiempo y del mundo del deporte.</desc></programme>
-<programme start="20260628031500 +0000" stop="20260628034000 +0000" channel="aragtv"><title lang="es">El campo es nuestro, fin de semana</title><desc lang="es">Programa que muestra el pasado, el presente y el futuro de las tierras de Aragón dando voz a gente con experiencia en el mundo de la agricultura y la ganadería y recogiendo las mejores imágenes de la naturaleza de Aragón.</desc></programme>
-<programme start="20260628034000 +0000" stop="20260628035500 +0000" channel="aragtv"><title lang="es">Aragón deportes 2</title><desc lang="es">Toda la información deportiva de Aragón, sin perder de vista lo que ocurre en España y en el mundo.</desc></programme>
+<programme start="20260628031500 +0000" stop="20260628032500 +0000" channel="aragtv"><title lang="es">El campo es nuestro, fin de semana</title><desc lang="es">Programa que muestra el pasado, el presente y el futuro de las tierras de Aragón dando voz a gente con experiencia en el mundo de la agricultura y la ganadería y recogiendo las mejores imágenes de la naturaleza de Aragón.</desc></programme>
+<programme start="20260628032500 +0000" stop="20260628034000 +0000" channel="aragtv"><title lang="es">Aragón deportes 2</title><desc lang="es">Toda la información deportiva de Aragón, sin perder de vista lo que ocurre en España y en el mundo.</desc></programme>
+<programme start="20260628034000 +0000" stop="20260628035500 +0000" channel="aragtv"><title lang="es">El tiempo 2</title><desc lang="es">Segunda edición del informativo meteorológico de Aragón TV.</desc></programme>
 <programme start="20260628035500 +0000" stop="20260628043000 +0000" channel="aragtv"><title lang="es">Aragón Noticias 2. Edición Fin de Semana</title><desc lang="es">Edición vespertina de los informativos de Aragón TV de fin de semana que repasa la actualidad aragonesa, nacional e internacional, así como la información meteorológica y lo más destacado del deporte.</desc></programme>
-<programme start="20260628035500 +0000" stop="20260628220000 +0000" channel="aragtv"><title lang="es">El tiempo 2</title><desc lang="es">Segunda edición del informativo meteorológico de Aragón TV.</desc></programme>
+<programme start="20260628035500 +0000" stop="20260628220000 +0000" channel="aragtv"><title lang="es">EuroNews</title><desc lang="es">Conexión con EuroNews, el canal informativo que transmite noticias de todo el mundo desde una perspectiva europea y en siete idiomas. EuroNews emite simultáneamente en inglés, francés, alemán, italiano, portugués, español y ruso.</desc></programme>
 <programme start="20260628043000 +0000" stop="20260628044500 +0000" channel="aragtv"><title lang="es">Aragón deportes 2</title><desc lang="es">Toda la información deportiva de Aragón, sin perder de vista lo que ocurre en España y en el mundo.</desc></programme>
 <programme start="20260628044500 +0000" stop="20260628050000 +0000" channel="aragtv"><title lang="es">El tiempo 2</title><desc lang="es">Segunda edición del informativo meteorológico de Aragón TV.</desc></programme>
 <programme start="20260628050000 +0000" stop="20260628053000 +0000" channel="aragtv"><title lang="es">EuroNews</title><desc lang="es">Conexión con EuroNews, el canal informativo que transmite noticias de todo el mundo desde una perspectiva europea y en siete idiomas. EuroNews emite simultáneamente en inglés, francés, alemán, italiano, portugués, español y ruso.</desc></programme>
 <programme start="20260628053000 +0000" stop="20260628055500 +0000" channel="aragtv"><title lang="es">Charrín Charrán</title><desc lang="es">Magazín de actualidad presentado por Silvia Cebolla destinado a difundir la cultura y la lengua aragonesas. El programa, el primero en emitirse en lengua aragonesa, ofrece reportajes y entrevistas sobre asuntos sociales y culturales.</desc></programme>
 <programme start="20260628055500 +0000" stop="20260628062500 +0000" channel="aragtv"><title lang="es">Tren de vida. A Galicia voy</title><desc lang="es">Programa de entretenimiento que toma como punto de partida a conexión de Madrid con la ciudad de Orense en tren para comenzar el viaje por Galicia de la mano de su presentador, Óscar Martínez. Viajan con él siete personajes de la vida cultural y social de Madrid.</desc></programme>
 <programme start="20260628062500 +0000" stop="20260628071000 +0000" channel="aragtv"><title lang="es">Animales: amigos increíbles: Un amigo en apuros</title><desc lang="es">Dos dálmatas ayudan a una cebra huérfana en su regreso a la naturaleza, y un par de diminutos carriceros crían a un enorme polluelo de cuco.</desc></programme>
-<programme start="20260628071000 +0000" stop="20260628074500 +0000" channel="aragtv"><title lang="es">Tempero</title><desc lang="es">Espacio sobre los diferentes aspectos del mundo de la agricultura, la ganadería y las industrias agroalimentarias de Aragón. El programa ofrece reportajes con el fin de informar y divulgar de una manera amena y directa.</desc></programme>
-<programme start="20260628074500 +0000" stop="20260628080500 +0000" channel="aragtv"><title lang="es">Fue Objetivo</title><desc lang="es">Espacio de reportajes que profundiza en diferentes asuntos que fueron noticia en esta época hace años.</desc></programme>
-<programme start="20260628080500 +0000" stop="20260628081500 +0000" channel="aragtv"><title lang="es">Segunda oportunidad</title><desc lang="es">Programa que sigue la vida de personas que han realizado un cambio de rumbo radical en sus vidas, apostando por el medio rural como una vía de volver al contacto con sus sueños, con sus orígenes y sus proyectos de vida.</desc></programme>
-<programme start="20260628081500 +0000" stop="20260628090300 +0000" channel="aragtv"><title lang="es">Unidad móvil: Balnearios de Aragón</title><desc lang="es">Espacio de reportajes de actualidad que sale a la calle para contar historias reales, protagonizadas por ciudadanos de a pie. El programa cuenta con un equipo de reporteros callejeros dispuestos a contar historias del día a día.</desc></programme>
-<programme start="20260628090300 +0000" stop="20260628100000 +0000" channel="aragtv"><title lang="es">Unidad móvil</title><desc lang="es">Espacio de reportajes de actualidad que sale a la calle para contar historias reales, protagonizadas por ciudadanos de a pie. El programa cuenta con un equipo de reporteros callejeros dispuestos a contar historias del día a día.</desc></programme>
-<programme start="20260628100000 +0000" stop="20260628105000 +0000" channel="aragtv"><title lang="es">Campeonato de España de Ciclismo en Ruta (T2026): Fondo Élite UCI - Élite Hombres</title><desc lang="es">Los Campeonatos de España de Ciclismo en Ruta 2026 se consolidan como la gran cita del ciclismo nacional de carretera, celebrándose entre el 25 y el 28 de junio. En esta ocasión, el epicentro de la competición es la localidad oscense de Sabiñánigo (Aragón).</desc></programme>
+<programme start="20260628071000 +0000" stop="20260628074000 +0000" channel="aragtv"><title lang="es">Tempero</title><desc lang="es">Espacio sobre los diferentes aspectos del mundo de la agricultura, la ganadería y las industrias agroalimentarias de Aragón. El programa ofrece reportajes con el fin de informar y divulgar de una manera amena y directa.</desc></programme>
+<programme start="20260628074000 +0000" stop="20260628080500 +0000" channel="aragtv"><title lang="es">Fue Objetivo</title><desc lang="es">Espacio de reportajes que profundiza en diferentes asuntos que fueron noticia en esta época hace años.</desc></programme>
+<programme start="20260628080500 +0000" stop="20260628081000 +0000" channel="aragtv"><title lang="es">Segunda oportunidad</title><desc lang="es">Programa que sigue la vida de personas que han realizado un cambio de rumbo radical en sus vidas, apostando por el medio rural como una vía de volver al contacto con sus sueños, con sus orígenes y sus proyectos de vida.</desc></programme>
+<programme start="20260628081000 +0000" stop="20260628085800 +0000" channel="aragtv"><title lang="es">Unidad móvil: Balnearios de Aragón</title><desc lang="es">Espacio de reportajes de actualidad que sale a la calle para contar historias reales, protagonizadas por ciudadanos de a pie. El programa cuenta con un equipo de reporteros callejeros dispuestos a contar historias del día a día.</desc></programme>
+<programme start="20260628085800 +0000" stop="20260628100000 +0000" channel="aragtv"><title lang="es">Unidad móvil</title><desc lang="es">Espacio de reportajes de actualidad que sale a la calle para contar historias reales, protagonizadas por ciudadanos de a pie. El programa cuenta con un equipo de reporteros callejeros dispuestos a contar historias del día a día.</desc></programme>
+<programme start="20260628100000 +0000" stop="20260628105000 +0000" channel="aragtv"><title lang="es">Campeonato españa ciclismo en ruta: ruta élite masculino</title><desc lang="es">Campeonato españa ciclismo en ruta: ruta élite masculino.</desc></programme>
 <programme start="20260628105000 +0000" stop="20260628120000 +0000" channel="aragtv"><title lang="es">Sopa de letras zagales: Final</title><desc lang="es">El plató de &apos;&apos;Sopa de letras&apos;&apos; recibe la visita de niños y niños de quinto y sexto de primaria, quiénes se enfrentan al icónico tablero. Con preguntas de cultura general, los equipos deben encontrar las respuestas lo más rápido posible.</desc></programme>
 <programme start="20260628120000 +0000" stop="20260628123000 +0000" channel="aragtv"><title lang="es">Aragón Noticias 1. Edición Fin de Semana</title><desc lang="es">Edición de fin de semana de los informativos de Aragón TV que repasa la actualidad aragonesa, nacional e internacional, así como la información meteorológica y lo más destacado del deporte.</desc></programme>
 <programme start="20260628123000 +0000" stop="20260628124500 +0000" channel="aragtv"><title lang="es">El tiempo 1</title><desc lang="es">Primera edición del informativo meteorológico de Aragón TV.</desc></programme>
 <programme start="20260628124500 +0000" stop="20260628125500 +0000" channel="aragtv"><title lang="es">Aragón deportes 1</title><desc lang="es">Toda la información deportiva de Aragón, sin perder de vista lo que ocurre en España y en el mundo.</desc></programme>
-<programme start="20260628125500 +0000" stop="20260628131500 +0000" channel="aragtv"><title lang="es">Campeonato de España de Ciclismo en Ruta (T2026): Fondo Élite UCI - Élite Hombres</title><desc lang="es">Los Campeonatos de España de Ciclismo en Ruta 2026 se consolidan como la gran cita del ciclismo nacional de carretera, celebrándose entre el 25 y el 28 de junio. En esta ocasión, el epicentro de la competición es la localidad oscense de Sabiñánigo (Aragón).</desc></programme>
-<programme start="20260628131500 +0000" stop="20260628140500 +0000" channel="aragtv"><title lang="es">El campo es nuestro, fin de semana</title><desc lang="es">Programa que muestra el pasado, el presente y el futuro de las tierras de Aragón dando voz a gente con experiencia en el mundo de la agricultura y la ganadería y recogiendo las mejores imágenes de la naturaleza de Aragón.</desc></programme>
-<programme start="20260628140500 +0000" stop="20260628160000 +0000" channel="aragtv"><title lang="es">Inspectora Marleau (T8): Ep.3 A Contracorriente</title><desc lang="es">Serie francesa protagonizada por la Inspectora Marleau, una policía con un talento excepcional para descubrir a los culpables de los casos que investiga.</desc></programme>
-<programme start="20260628160000 +0000" stop="20260628160500 +0000" channel="aragtv"><title lang="es">Doc Martin (T2): Ep.2 In loco</title><desc lang="es">El exitoso cirujano, el Dr. Martin Ellingham abandona abruptamente su práctica en Londres para convertirse en el médico general de una villa pescadora de Portwenn en donde pasó sus festivos durante su juventud, pero su auto lujoso llama la atención.</desc></programme>
-<programme start="20260628160500 +0000" stop="20260628165500 +0000" channel="aragtv"><title lang="es">Doc Martin (T2): Ep.1 Perros viejos</title><desc lang="es">El exitoso cirujano, el Dr. Martin Ellingham abandona abruptamente su práctica en Londres para convertirse en el médico general de una villa pescadora de Portwenn en donde pasó sus festivos durante su juventud, pero su auto lujoso llama la atención.</desc></programme>
-<programme start="20260628165500 +0000" stop="20260628170000 +0000" channel="aragtv"><title lang="es">Somos porque fuimos</title><desc lang="es">La mejor manera de enfrentar el futuro de una comunidad es entender el pasado para explicar el presente. La mejor forma de hacerlo es a través de los hitos que han forjado la identidad de cada pueblo. Este espacio da voz a los que saben y a quienes lo viven.</desc></programme>
-<programme start="20260628170000 +0000" stop="20260628175500 +0000" channel="aragtv"><title lang="es">Pequeños Pueblos Vivos: Belchite</title><desc lang="es">Programa que explora la vida en los pueblos aragoneses a través de las experiencias de aquellos que han elegido estos lugares como su hogar. A través de sus historias, el espacio ofrece una ventana a la rica historia y tradición de estos enclaves rurales.</desc></programme>
-<programme start="20260628175500 +0000" stop="20260628183000 +0000" channel="aragtv"><title lang="es">Objetivo</title><desc lang="es">Espacio de reportajes que afronta desde todos los puntos de vista los asuntos que marcan la actualidad aragonesa. La periodista y coordinadora de informativos, Inma Otal, es la presentadora del programa.</desc></programme>
+<programme start="20260628125500 +0000" stop="20260628131500 +0000" channel="aragtv"><title lang="es">Ciclismo</title></programme>
+<programme start="20260628131500 +0000" stop="20260628135500 +0000" channel="aragtv"><title lang="es">El campo es nuestro, fin de semana</title><desc lang="es">Programa que muestra el pasado, el presente y el futuro de las tierras de Aragón dando voz a gente con experiencia en el mundo de la agricultura y la ganadería y recogiendo las mejores imágenes de la naturaleza de Aragón.</desc></programme>
+<programme start="20260628135500 +0000" stop="20260628154000 +0000" channel="aragtv"><title lang="es">Inspectora Marleau (T8): Ep.3 A Contracorriente</title><desc lang="es">Serie francesa protagonizada por la Inspectora Marleau, una policía con un talento excepcional para descubrir a los culpables de los casos que investiga.</desc></programme>
+<programme start="20260628154000 +0000" stop="20260628162500 +0000" channel="aragtv"><title lang="es">Doc Martin (T2): Ep.1 Perros viejos</title><desc lang="es">El exitoso cirujano, el Dr. Martin Ellingham abandona abruptamente su práctica en Londres para convertirse en el médico general de una villa pescadora de Portwenn en donde pasó sus festivos durante su juventud, pero su auto lujoso llama la atención.</desc></programme>
+<programme start="20260628162500 +0000" stop="20260628170000 +0000" channel="aragtv"><title lang="es">Doc Martin (T2): Ep.2 In loco</title><desc lang="es">El exitoso cirujano, el Dr. Martin Ellingham abandona abruptamente su práctica en Londres para convertirse en el médico general de una villa pescadora de Portwenn en donde pasó sus festivos durante su juventud, pero su auto lujoso llama la atención.</desc></programme>
+<programme start="20260628170000 +0000" stop="20260628171500 +0000" channel="aragtv"><title lang="es">Pequeños Pueblos Vivos: Belchite</title><desc lang="es">Programa que explora la vida en los pueblos aragoneses a través de las experiencias de aquellos que han elegido estos lugares como su hogar. A través de sus historias, el espacio ofrece una ventana a la rica historia y tradición de estos enclaves rurales.</desc></programme>
+<programme start="20260628171500 +0000" stop="20260628180000 +0000" channel="aragtv"><title lang="es">Somos porque fuimos</title><desc lang="es">La mejor manera de enfrentar el futuro de una comunidad es entender el pasado para explicar el presente. La mejor forma de hacerlo es a través de los hitos que han forjado la identidad de cada pueblo. Este espacio da voz a los que saben y a quienes lo viven.</desc></programme>
+<programme start="20260628180000 +0000" stop="20260628183000 +0000" channel="aragtv"><title lang="es">Objetivo</title><desc lang="es">Espacio de reportajes que afronta desde todos los puntos de vista los asuntos que marcan la actualidad aragonesa. La periodista y coordinadora de informativos, Inma Otal, es la presentadora del programa.</desc></programme>
 <programme start="20260628183000 +0000" stop="20260628190000 +0000" channel="aragtv"><title lang="es">Aragón Noticias 2. Edición Fin de Semana</title><desc lang="es">Edición vespertina de los informativos de Aragón TV de fin de semana que repasa la actualidad aragonesa, nacional e internacional, así como la información meteorológica y lo más destacado del deporte.</desc></programme>
 <programme start="20260628190000 +0000" stop="20260628191500 +0000" channel="aragtv"><title lang="es">Aragón deportes 2</title><desc lang="es">Toda la información deportiva de Aragón, sin perder de vista lo que ocurre en España y en el mundo.</desc></programme>
 <programme start="20260628191500 +0000" stop="20260628193000 +0000" channel="aragtv"><title lang="es">El tiempo 2</title><desc lang="es">Segunda edición del informativo meteorológico de Aragón TV.</desc></programme>
 <programme start="20260628193000 +0000" stop="20260628211000 +0000" channel="aragtv"><title lang="es">Certamen de Jota Aragonesa La Dolores: IV edición: categoría adultos</title><desc lang="es">Certamen creado por parte de la Asociación Cultural La Dolores, con el objetivo de promocionar la jota y las numerosas e importantes voces que se han forjado en en Calatayud.</desc></programme>
 <programme start="20260628211000 +0000" stop="20260628233700 +0000" channel="aragtv"><title lang="es">Dándolo todo</title><desc lang="es">Concurso que explota las habilidades artísticas de los aragoneses, presentado por David Marqueta. Juzgados por un tribunal experto, los concursantes deberán pasar toda una serie de pruebas y demostrar el jotero que llevan dentro para ganar el premio semanal.</desc></programme>
-<programme start="20260628233700 +0000" stop="20260629015000 +0000" channel="aragtv"><title lang="es">Dándolo todo: Dándolo Todo Jota</title><desc lang="es">Concurso que explota las habilidades artísticas de los aragoneses, presentado por David Marqueta. Juzgados por un tribunal experto, los concursantes deberán pasar toda una serie de pruebas y demostrar el artista que llevan dentro para ganar el premio semanal.</desc></programme>
-<programme start="20260629015000 +0000" stop="20260629022500 +0000" channel="aragtv"><title lang="es">Tempero</title><desc lang="es">Espacio sobre los diferentes aspectos del mundo de la agricultura, la ganadería y las industrias agroalimentarias de Aragón. El programa ofrece reportajes con el fin de informar y divulgar de una manera amena y directa.</desc></programme>
-<programme start="20260629022500 +0000" stop="20260629024000 +0000" channel="aragtv"><title lang="es">El campo es nuestro, fin de semana</title><desc lang="es">Programa que muestra el pasado, el presente y el futuro de las tierras de Aragón dando voz a gente con experiencia en el mundo de la agricultura y la ganadería y recogiendo las mejores imágenes de la naturaleza de Aragón.</desc></programme>
-<programme start="20260629024000 +0000" stop="20260629031000 +0000" channel="aragtv"><title lang="es">Tempero</title><desc lang="es">Espacio sobre los diferentes aspectos del mundo de la agricultura, la ganadería y las industrias agroalimentarias de Aragón. El programa ofrece reportajes con el fin de informar y divulgar de una manera amena y directa.</desc></programme>
+<programme start="20260628233700 +0000" stop="20260629013500 +0000" channel="aragtv"><title lang="es">Dándolo todo: Dándolo Todo Jota</title><desc lang="es">Concurso que explota las habilidades artísticas de los aragoneses, presentado por David Marqueta. Juzgados por un tribunal experto, los concursantes deberán pasar toda una serie de pruebas y demostrar el artista que llevan dentro para ganar el premio semanal.</desc></programme>
+<programme start="20260629013500 +0000" stop="20260629021000 +0000" channel="aragtv"><title lang="es">Tempero</title><desc lang="es">Espacio sobre los diferentes aspectos del mundo de la agricultura, la ganadería y las industrias agroalimentarias de Aragón. El programa ofrece reportajes con el fin de informar y divulgar de una manera amena y directa.</desc></programme>
+<programme start="20260629021000 +0000" stop="20260629024000 +0000" channel="aragtv"><title lang="es">El campo es nuestro, fin de semana</title><desc lang="es">Programa que muestra el pasado, el presente y el futuro de las tierras de Aragón dando voz a gente con experiencia en el mundo de la agricultura y la ganadería y recogiendo las mejores imágenes de la naturaleza de Aragón.</desc></programme>
+<programme start="20260629024000 +0000" stop="20260629025000 +0000" channel="aragtv"><title lang="es">Tempero</title><desc lang="es">Espacio sobre los diferentes aspectos del mundo de la agricultura, la ganadería y las industrias agroalimentarias de Aragón. El programa ofrece reportajes con el fin de informar y divulgar de una manera amena y directa.</desc></programme>
+<programme start="20260629025000 +0000" stop="20260629031500 +0000" channel="aragtv"><title lang="es">Aragón Noticias 2</title><desc lang="es">Informativo vespertino de Aragón TV que ofrece las noticias más destacadas de la actualidad aragonesa, nacional e internacional, así como la información del tiempo y del mundo del deporte.</desc></programme>
 <programme start="20260627040000 +0000" stop="20260627220000 +0000" channel="arirhd"><title lang="es">Arirang TV HD</title></programme>
 <programme start="20260628040000 +0000" stop="20260628220000 +0000" channel="arirhd"><title lang="es">Arirang TV HD</title></programme>
 <programme start="20260627060000 +0000" stop="20260627130500 +0000" channel="arthur"><title lang="es">M+ Deportes 2</title></programme>
@@ -3066,13 +3067,11 @@
 <programme start="20260627053100 +0000" stop="20260627060000 +0000" channel="cpdep"><title lang="es">ATP Tour This Week (T2026): Episodio 24</title><desc lang="es">ATP Tour This Week</desc></programme>
 <programme start="20260627060000 +0000" stop="20260627063000 +0000" channel="cpdep"><title lang="es">MLB Plays of the Week (T2026): Episodio 12</title><desc lang="es">Las mejores jugadas de la Major League Baseball, resumidas en media hora con la magníficas narraciones originales de las cadenas de EEUU. El verdadero pasatiempo nacional...</desc></programme>
 <programme start="20260627063000 +0000" stop="20260627070000 +0000" channel="cpdep"><title lang="es">Vela Panorama (T2026): Motonáutica. Burriana</title><desc lang="es">Las mejores competiciones vinculadas a la vela y el mar.</desc></programme>
-<programme start="20260627070000 +0000" stop="20260627083000 +0000" channel="cpdep"><title lang="es">Premier Padel Valladolid P2 (T2026): Triay/Brea - Sánchez/Ustero</title><desc lang="es">Vive en Movistar Plus cómo se desarrolla el deporte de raqueta de más rápido crecimiento del mundo en 25 torneos y 18 países durante la temporada Premier Padel 2024, que comienza con la Ronda de Riad, en Arabia Saudí.</desc></programme>
-<programme start="20260627083000 +0000" stop="20260627110000 +0000" channel="cpdep"><title lang="es">Premier Padel Valladolid P2 (T2026): Rodríguez/Dal Pozzo - Josemaría/González</title><desc lang="es">Vive en Movistar Plus cómo se desarrolla el deporte de raqueta de más rápido crecimiento del mundo en 25 torneos y 18 países durante la temporada Premier Padel 2024, que comienza con la Ronda de Riad, en Arabia Saudí.</desc></programme>
-<programme start="20260627110000 +0000" stop="20260627115700 +0000" channel="cpdep"><title lang="es">Highlights ATP (T2026): Londres</title><desc lang="es">Repaso de los mejores puntos, todas las imágenes y los grandes momentos de los torneos de ATP</desc></programme>
-<programme start="20260627115700 +0000" stop="20260627140500 +0000" channel="cpdep"><title lang="es">The Gallagher PREM Rugby (T25/26): Northampton - Exeter Chiefs</title><desc lang="es">Northampton Saints y Exeter Chiefs han seguido diferentes caminos esta temporada, pero ahora se juegan la corona inglesa en Twickenham por la final de la Gallagher PREM.</desc></programme>
-<programme start="20260627140500 +0000" stop="20260627142300 +0000" channel="cpdep"><title lang="es">En estado puro (T2026): Episodio 26</title><desc lang="es">Únete a nosotros en un emocionante viaje a través de los deportes de acción y el turismo de aventura. En nuestro programa, los amantes de los deportes extremos y la naturaleza explorarán nuevos destinos de la mano de los mejores expertos en cada disciplina. Te mantendremos informado sobre las mejores competiciones nacionales e internacionales, descubrirás las últimas novedades en equipamiento deportivo, recibirás consejos de entrenamiento y te inspirarás con historias de profesionales del sector.</desc></programme>
-<programme start="20260627142300 +0000" stop="20260627152000 +0000" channel="cpdep"><title lang="es">Película Oficial de Wimbledon 2025</title><desc lang="es">Película Oficial de Wimbledon 2025</desc></programme>
-<programme start="20260627152000 +0000" stop="20260627160000 +0000" channel="cpdep"><title lang="es">Gracias, Carolina. Una mirada hacia delante</title><desc lang="es">Carolina Marín, campeona europea, mundial y olímpica de bádminton, se sienta con Amaya Valdemoro, la mejor jugadora de la historia del baloncesto español, para reflexionar sobre su nueva vida tras anunciar la retirada. Dos mujeres, deportistas de elite y pioneras, conversan además sobre causas y consecuencias de unas carreras llenas de esfuerzo, sacrificios, obstáculos y, por supuesto, éxitos.</desc></programme>
+<programme start="20260627070000 +0000" stop="20260627091000 +0000" channel="cpdep"><title lang="es">Premier Padel Valladolid P2 (T2026): Triay/Brea - Sánchez/Ustero</title><desc lang="es">Vive en Movistar Plus cómo se desarrolla el deporte de raqueta de más rápido crecimiento del mundo en 25 torneos y 18 países durante la temporada Premier Padel 2024, que comienza con la Ronda de Riad, en Arabia Saudí.</desc></programme>
+<programme start="20260627091000 +0000" stop="20260627114900 +0000" channel="cpdep"><title lang="es">Premier Padel Valladolid P2 (T2026): Rodríguez/Dal Pozzo - Josemaría/González</title><desc lang="es">Vive en Movistar Plus cómo se desarrolla el deporte de raqueta de más rápido crecimiento del mundo en 25 torneos y 18 países durante la temporada Premier Padel 2024, que comienza con la Ronda de Riad, en Arabia Saudí.</desc></programme>
+<programme start="20260627114900 +0000" stop="20260627124600 +0000" channel="cpdep"><title lang="es">Highlights ATP (T2026): Londres</title><desc lang="es">Repaso de los mejores puntos, todas las imágenes y los grandes momentos de los torneos de ATP</desc></programme>
+<programme start="20260627124600 +0000" stop="20260627150100 +0000" channel="cpdep"><title lang="es">The Gallagher PREM Rugby (T25/26): Northampton - Exeter Chiefs</title><desc lang="es">Northampton Saints y Exeter Chiefs han seguido diferentes caminos esta temporada, pero ahora se juegan la corona inglesa en Twickenham por la final de la Gallagher PREM.</desc></programme>
+<programme start="20260627150100 +0000" stop="20260627160000 +0000" channel="cpdep"><title lang="es">Película Oficial de Wimbledon 2025</title><desc lang="es">Película Oficial de Wimbledon 2025</desc></programme>
 <programme start="20260627160000 +0000" stop="20260627173000 +0000" channel="cpdep"><title lang="es">Premier Padel Valladolid P2 (T2026): Coello/Tapia - Lebron/Augsburger</title><desc lang="es">Vive en Movistar Plus cómo se desarrolla el deporte de raqueta de más rápido crecimiento del mundo en 25 torneos y 18 países durante la temporada Premier Padel 2024, que comienza con la Ronda de Riad, en Arabia Saudí.</desc></programme>
 <programme start="20260627173000 +0000" stop="20260627200000 +0000" channel="cpdep"><title lang="es">Premier Padel Valladolid P2 (T2026): Guerrero/Leal - Galan/Chingotto</title><desc lang="es">Vive en Movistar Plus cómo se desarrolla el deporte de raqueta de más rápido crecimiento del mundo en 25 torneos y 18 países durante la temporada Premier Padel 2024, que comienza con la Ronda de Riad, en Arabia Saudí.</desc></programme>
 <programme start="20260627200000 +0000" stop="20260627220000 +0000" channel="cpdep"><title lang="es">Torneo de Eastbourne (T2026): Bergs - Humbert</title><desc lang="es">Los torneos ATP 250 son el nivel más bajo de los torneos anuales de tenis masculino en el ATP Tour principal, después de los cuatro torneos Grand Slam, ATP Finals, ATP Torneos Masters 1000 y torneos ATP 500.</desc></programme>
@@ -5227,8 +5226,7 @@
 <programme start="20260627040700 +0000" stop="20260627043500 +0000" channel="golf+"><title lang="es">Locos por el golf (T2026): Episodio 24</title><desc lang="es">Wyndham Clark, el incómodo público de Nueva York, la magia del malagueño Angel Hidalgo...La 126ª edición del US Open nos dejó historias y detalles que Lidia y Carlos analizarán con rigor y humor.</desc></programme>
 <programme start="20260627043500 +0000" stop="20260627053000 +0000" channel="golf+"><title lang="es">Sueños de Golf (T2026): La Escuela del LPGA, el último examen</title><desc lang="es">Dura, larga, tensa, exigente...cualquiera de estos calificativos definen lo que es la fase final de la Escuela de la LPGA, donde rookies y veteranas luchan por esa ansiada tarjeta del LPGA. 3 españolas fueron este año a Alabama a pasar &quot;El último examen&quot;</desc></programme>
 <programme start="20260627053000 +0000" stop="20260627073000 +0000" channel="golf+"><title lang="es">Ladies PGA (T2026): KPMG Women&apos;s PGA Championship. Jornada 2</title><desc lang="es">El mítico Hazeltine National acoge el tercer major femenino del año con Nelly Korda buscando el imposible de seguir su camino hacia el Grand Slam femenino y con 5 españolas en liza.</desc></programme>
-<programme start="20260627073000 +0000" stop="20260627105900 +0000" channel="golf+"><title lang="es">The R&amp;A (T2026): The Women&apos;s Amateur Championship. Final 1</title><desc lang="es">La 123ª edición de este prestigioso evento amateur se disputa en Muirfield, Escocia. 143 jugadoras, entre ellas, 9 españolas. Paula Martín, nº2 del ranking mundial amateur, defiende título.</desc></programme>
-<programme start="20260627105900 +0000" stop="20260627113000 +0000" channel="golf+"><title lang="es">Locos por el golf (T2026): Episodio 24</title><desc lang="es">Wyndham Clark, el incómodo público de Nueva York, la magia del malagueño Angel Hidalgo...La 126ª edición del US Open nos dejó historias y detalles que Lidia y Carlos analizarán con rigor y humor.</desc></programme>
+<programme start="20260627073000 +0000" stop="20260627113000 +0000" channel="golf+"><title lang="es">The R&amp;A (T2026): The Women&apos;s Amateur Championship. Final 1</title><desc lang="es">La 123ª edición de este prestigioso evento amateur se disputa en Muirfield, Escocia. 143 jugadoras, entre ellas, 9 españolas. Paula Martín, nº2 del ranking mundial amateur, defiende título.</desc></programme>
 <programme start="20260627113000 +0000" stop="20260627120000 +0000" channel="golf+"><title lang="es">DP World Tour (T25/26): DS Automobiles 83° Open d&apos;Italia. Jornada 3. VO</title><desc lang="es">La Armada Española (17 jugadores) ha viajado hasta Turín en busca del premio extra: un billete para el Open Championship, el último major del año.</desc></programme>
 <programme start="20260627120000 +0000" stop="20260627160000 +0000" channel="golf+"><title lang="es">DP World Tour (T25/26): DS Automobiles 83° Open d&apos;Italia. Jornada 3</title><desc lang="es">La Armada Española (17 jugadores) ha viajado hasta Turín en busca del premio extra: un billete para el Open Championship, el último major del año.</desc></programme>
 <programme start="20260627160000 +0000" stop="20260627162500 +0000" channel="golf+"><title lang="es">Torneos Profesionales (T2026): Alps de Andalucía-Roquetas de Mar</title><desc lang="es">Desde Catalunya hasta la Gomera, los Torneos Profesionales de golf recorren toda la geografía española. En Movistar Golf analizamos al detalle las diferentes competiciones profesionales que se celebran en España.</desc></programme>
@@ -6498,23 +6496,23 @@
 <programme start="20260627042500 +0000" stop="20260627062000 +0000" channel="mvf1"><title lang="es">Mundial de Fórmula 1 (T2023): GP de España: Carrera</title><desc lang="es">Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2023 promete más emoción y espectáculo que nunca.</desc></programme>
 <programme start="20260627062000 +0000" stop="20260627064500 +0000" channel="mvf1"><title lang="es">True Driver (T2024): Ayrton Senna: 30 años de Eterna Leyenda</title><desc lang="es">En 2024 se cumplen 30 años del fallecimiento de Ayrton Senna. El mito del automovilismo perdió la vida en el circuito de Imola en un accidente que conmocionó al mundo. Su legado continúa vivo y sigue inspirando a todos los pilotos que sueñan con estar en la F1.</desc></programme>
 <programme start="20260627064500 +0000" stop="20260627080000 +0000" channel="mvf1"><title lang="es">Mundial F1 - GP de Austria (T2026): Libres 2</title><desc lang="es">Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc></programme>
-<programme start="20260627080000 +0000" stop="20260627090000 +0000" channel="mvf1"><title lang="es">Campeonato F3 de la FIA - Austria (T2026): Sprint Race</title><desc lang="es">La F3 Series es un campeonato de automovilismo de velocidad que se disputa desde el año 2010 como un escalón por debajo de la categoría de monoplazas F2. Se trata de una excelente cantera para jóvenes que sueñen con competir algún día en la Fórmula 1.</desc></programme>
-<programme start="20260627090000 +0000" stop="20260627091800 +0000" channel="mvf1"><title lang="es">Código F1 (T2026): Japón</title><desc lang="es">Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición.</desc></programme>
+<programme start="20260627080000 +0000" stop="20260627085500 +0000" channel="mvf1"><title lang="es">Campeonato F3 de la FIA - Austria (T2026): Sprint Race</title><desc lang="es">La F3 Series es un campeonato de automovilismo de velocidad que se disputa desde el año 2010 como un escalón por debajo de la categoría de monoplazas F2. Se trata de una excelente cantera para jóvenes que sueñen con competir algún día en la Fórmula 1.</desc></programme>
+<programme start="20260627085500 +0000" stop="20260627091800 +0000" channel="mvf1"><title lang="es">Código F1 (T2026): Japón</title><desc lang="es">Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición.</desc></programme>
 <programme start="20260627091800 +0000" stop="20260627101000 +0000" channel="mvf1"><title lang="es">Porsche Supercup - Austria Clasificación (T2026)</title><desc lang="es">Desde 1993, la Supercopa Porsche se disputa como complemento al Mundial de Fórmula 1. Es la competición monomarca más veloz, en la que equipos profesionales y pilotos corren bajo las mismas condiciones técnicas y con el mismo coche, un potente Porsche 911 GT3 Cup.</desc></programme>
-<programme start="20260627101000 +0000" stop="20260627102500 +0000" channel="mvf1"><title lang="es">Mundial F1 - GP de Austria (T2026): Previo Libres 3</title><desc lang="es">Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc></programme>
-<programme start="20260627102500 +0000" stop="20260627114000 +0000" channel="mvf1"><title lang="es">Mundial F1 - GP de Austria (T2026): Libres 3</title><desc lang="es">Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc></programme>
+<programme start="20260627101000 +0000" stop="20260627102700 +0000" channel="mvf1"><title lang="es">Mundial F1 - GP de Austria (T2026): Previo Libres 3</title><desc lang="es">Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc></programme>
+<programme start="20260627102700 +0000" stop="20260627114000 +0000" channel="mvf1"><title lang="es">Mundial F1 - GP de Austria (T2026): Libres 3</title><desc lang="es">Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc></programme>
 <programme start="20260627114000 +0000" stop="20260627121000 +0000" channel="mvf1"><title lang="es">Mundial F1 - GP de Austria (T2026): Post Libres 3</title><desc lang="es">Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc></programme>
-<programme start="20260627121000 +0000" stop="20260627131000 +0000" channel="mvf1"><title lang="es">Campeonato F2 de la FIA - Austria (T2026): Sprint Race</title><desc lang="es">Las Fórmula 2 es la antesala de la Fórmula 1 y prepara a jóvenes pilotos para sobresalir después en la categoría reina. Un campeonato que finalizará en el trazado árabe de Yas Marina el 26 de noviembre, después de celebrar 22 carreras en 11 prestigiosos circuitos.</desc></programme>
-<programme start="20260627131000 +0000" stop="20260627133000 +0000" channel="mvf1"><title lang="es">Código F1 (T2026): Japón</title><desc lang="es">Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición.</desc></programme>
+<programme start="20260627121000 +0000" stop="20260627131100 +0000" channel="mvf1"><title lang="es">Campeonato F2 de la FIA - Austria (T2026): Sprint Race</title><desc lang="es">Las Fórmula 2 es la antesala de la Fórmula 1 y prepara a jóvenes pilotos para sobresalir después en la categoría reina. Un campeonato que finalizará en el trazado árabe de Yas Marina el 26 de noviembre, después de celebrar 22 carreras en 11 prestigiosos circuitos.</desc></programme>
+<programme start="20260627131100 +0000" stop="20260627133000 +0000" channel="mvf1"><title lang="es">Código F1 (T2026): Japón</title><desc lang="es">Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición.</desc></programme>
 <programme start="20260627133000 +0000" stop="20260627135500 +0000" channel="mvf1"><title lang="es">Mundial F1 - GP de Austria (T2026): Previo Clasificación</title><desc lang="es">Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc></programme>
 <programme start="20260627135500 +0000" stop="20260627150000 +0000" channel="mvf1"><title lang="es">Mundial F1 - GP de Austria (T2026): Clasificación</title><desc lang="es">Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc></programme>
 <programme start="20260627150000 +0000" stop="20260627160000 +0000" channel="mvf1"><title lang="es">Mundial F1 - GP de Austria (T2026): El Post de la Clasificación</title><desc lang="es">Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc></programme>
 <programme start="20260627160000 +0000" stop="20260627162500 +0000" channel="mvf1"><title lang="es">Código F1 (T2026): Barcelona</title><desc lang="es">Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición.</desc></programme>
-<programme start="20260627162500 +0000" stop="20260627174000 +0000" channel="mvf1"><title lang="es">Campeonato F2 de la FIA - Austria (T2026): Sprint Race</title><desc lang="es">Las Fórmula 2 es la antesala de la Fórmula 1 y prepara a jóvenes pilotos para sobresalir después en la categoría reina. Un campeonato que finalizará en el trazado árabe de Yas Marina el 26 de noviembre, después de celebrar 22 carreras en 11 prestigiosos circuitos.</desc></programme>
-<programme start="20260627174000 +0000" stop="20260627180500 +0000" channel="mvf1"><title lang="es">True Driver (T2024): Ayrton Senna: 30 años de Eterna Leyenda</title><desc lang="es">En 2024 se cumplen 30 años del fallecimiento de Ayrton Senna. El mito del automovilismo perdió la vida en el circuito de Imola en un accidente que conmocionó al mundo. Su legado continúa vivo y sigue inspirando a todos los pilotos que sueñan con estar en la F1.</desc></programme>
-<programme start="20260627180500 +0000" stop="20260627190500 +0000" channel="mvf1"><title lang="es">Mundial F1 - GP de Austria (T2026): Libres 3</title><desc lang="es">Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc></programme>
-<programme start="20260627190500 +0000" stop="20260627194500 +0000" channel="mvf1"><title lang="es">Gearbox (T2026): Episodio 24</title><desc lang="es">Los fanáticos de la conducción tienen una cita en Gearbox, donde los volantes del presente, del pasado y del futuro se ponen en las manos de los mejores expertos.</desc></programme>
-<programme start="20260627194500 +0000" stop="20260627204500 +0000" channel="mvf1"><title lang="es">Mundial F1 - GP de Austria (T2026): Clasificación</title><desc lang="es">Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc></programme>
+<programme start="20260627162500 +0000" stop="20260627172500 +0000" channel="mvf1"><title lang="es">Campeonato F2 de la FIA - Austria (T2026): Sprint Race</title><desc lang="es">Las Fórmula 2 es la antesala de la Fórmula 1 y prepara a jóvenes pilotos para sobresalir después en la categoría reina. Un campeonato que finalizará en el trazado árabe de Yas Marina el 26 de noviembre, después de celebrar 22 carreras en 11 prestigiosos circuitos.</desc></programme>
+<programme start="20260627172500 +0000" stop="20260627175000 +0000" channel="mvf1"><title lang="es">True Driver (T2024): Ayrton Senna: 30 años de Eterna Leyenda</title><desc lang="es">En 2024 se cumplen 30 años del fallecimiento de Ayrton Senna. El mito del automovilismo perdió la vida en el circuito de Imola en un accidente que conmocionó al mundo. Su legado continúa vivo y sigue inspirando a todos los pilotos que sueñan con estar en la F1.</desc></programme>
+<programme start="20260627175000 +0000" stop="20260627190000 +0000" channel="mvf1"><title lang="es">Mundial F1 - GP de Austria (T2026): Libres 3</title><desc lang="es">Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc></programme>
+<programme start="20260627190000 +0000" stop="20260627194000 +0000" channel="mvf1"><title lang="es">Gearbox (T2026): Episodio 24</title><desc lang="es">Los fanáticos de la conducción tienen una cita en Gearbox, donde los volantes del presente, del pasado y del futuro se ponen en las manos de los mejores expertos.</desc></programme>
+<programme start="20260627194000 +0000" stop="20260627204500 +0000" channel="mvf1"><title lang="es">Mundial F1 - GP de Austria (T2026): Clasificación</title><desc lang="es">Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc></programme>
 <programme start="20260627204500 +0000" stop="20260627225000 +0000" channel="mvf1"><title lang="es">Mundial F1 - GP de Barcelona. Catalunya (T2026): Carrera</title><desc lang="es">Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc></programme>
 <programme start="20260627225000 +0000" stop="20260627231500 +0000" channel="mvf1"><title lang="es">Código F1 (T2026): Barcelona</title><desc lang="es">Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición.</desc></programme>
 <programme start="20260627231500 +0000" stop="20260628010000 +0000" channel="mvf1"><title lang="es">Mundial F1 - GP de Austria (T2026): Box, Box</title><desc lang="es">Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc></programme>
