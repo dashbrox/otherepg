@@ -108,6 +108,7 @@
   <channel site="movistarplus.es" site_id="m2sd" lang="es" xmltv_id="">DAZN 2</channel>
   <channel site="movistarplus.es" site_id="maxava" lang="es" xmltv_id="">HBO Max Avances</channel>
   <channel site="movistarplus.es" site_id="mbalc2" lang="es" xmltv_id="">M+ Baloncesto 2</channel>
+  <channel site="movistarplus.es" site_id="mbalc3" lang="es" xmltv_id="">M+ Baloncesto 3</channel>
   <channel site="movistarplus.es" site_id="mbalct" lang="es" xmltv_id="">M+ Baloncesto</channel>
   <channel site="movistarplus.es" site_id="mclas" lang="es" xmltv_id="">M+ Clásicos</channel>
   <channel site="movistarplus.es" site_id="mcopa" lang="es" xmltv_id="">Primera Federación</channel>
