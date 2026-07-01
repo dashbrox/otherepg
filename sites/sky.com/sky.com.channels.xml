@@ -303,8 +303,8 @@
   <channel site="sky.com" site_id="4039" lang="en" xmltv_id="NickJr.uk@HD">Nick Jr. HD</channel>
   <channel site="sky.com" site_id="5089" lang="en" xmltv_id="NickJr.uk@Plus1">Nick Jr+1</channel>
   <channel site="sky.com" site_id="1857" lang="en" xmltv_id="NickJr.uk@SD">Nick Jr.</channel>
-  <channel site="sky.com" site_id="5192" lang="en" xmltv_id="NickJrToo.ie@SD">Nick Jr. Too</channel>
-  <channel site="sky.com" site_id="4340" lang="en" xmltv_id="NickJrToo.uk@SD">Nick Jr. PAW Patrol</channel>
+  <channel site="sky.com" site_id="5192" lang="en" xmltv_id="NickJrToo.ie@SD">NickJrPAWPatrol</channel>
+  <channel site="sky.com" site_id="4340" lang="en" xmltv_id="NickJrToo.uk@SD">NickJrPAWPatrol</channel>
   <channel site="sky.com" site_id="5527" lang="en" xmltv_id="Nicktoons.ie@SD">Nicktoons</channel>
   <channel site="sky.com" site_id="1849" lang="en" xmltv_id="Nicktoons.uk@SD">Nicktoons</channel>
   <channel site="sky.com" site_id="3715" lang="en" xmltv_id="NoorTV.uk@SD">Noor TV</channel>
