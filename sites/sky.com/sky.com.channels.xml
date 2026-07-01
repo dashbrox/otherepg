@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channels>
+  <channel site="sky.com" site_id="1005" lang="en" xmltv_id="">Times Radio</channel>
   <channel site="sky.com" site_id="1015" lang="en" xmltv_id="">Really+1</channel>
   <channel site="sky.com" site_id="1035" lang="en" xmltv_id="">SkySpBoxOffHD</channel>
   <channel site="sky.com" site_id="1070" lang="en" xmltv_id="">GTC Punjabi</channel>
@@ -303,7 +304,7 @@
   <channel site="sky.com" site_id="5089" lang="en" xmltv_id="NickJr.uk@Plus1">Nick Jr+1</channel>
   <channel site="sky.com" site_id="1857" lang="en" xmltv_id="NickJr.uk@SD">Nick Jr.</channel>
   <channel site="sky.com" site_id="5192" lang="en" xmltv_id="NickJrToo.ie@SD">Nick Jr. Too</channel>
-  <channel site="sky.com" site_id="4340" lang="en" xmltv_id="NickJrToo.uk@SD">Nick Jr. Too</channel>
+  <channel site="sky.com" site_id="4340" lang="en" xmltv_id="NickJrToo.uk@SD">Nick Jr. PAW Patrol</channel>
   <channel site="sky.com" site_id="5527" lang="en" xmltv_id="Nicktoons.ie@SD">Nicktoons</channel>
   <channel site="sky.com" site_id="1849" lang="en" xmltv_id="Nicktoons.uk@SD">Nicktoons</channel>
   <channel site="sky.com" site_id="3715" lang="en" xmltv_id="NoorTV.uk@SD">Noor TV</channel>
@@ -455,13 +456,9 @@
   <channel site="sky.com" site_id="5450" lang="en" xmltv_id="TLC.uk@SD">TLC</channel>
   <channel site="sky.com" site_id="1120" lang="en" xmltv_id="TNTSports1.uk@HD">TNTSports1 HD</channel>
   <channel site="sky.com" site_id="3625" lang="en" xmltv_id="TNTSports1.uk@HD">TNTSports1 HD</channel>
-  <channel site="sky.com" site_id="3661" lang="en" xmltv_id="TNTSports1.uk@SD">TNT Sports 1</channel>
   <channel site="sky.com" site_id="3627" lang="en" xmltv_id="TNTSports2.uk@HD">TNTSports2 HD</channel>
-  <channel site="sky.com" site_id="3663" lang="en" xmltv_id="TNTSports2.uk@SD">TNT Sports 2</channel>
   <channel site="sky.com" site_id="3629" lang="en" xmltv_id="TNTSports3.uk@HD">TNTSports3 HD</channel>
-  <channel site="sky.com" site_id="5032" lang="en" xmltv_id="TNTSports3.uk@SD">TNT Sports 3</channel>
   <channel site="sky.com" site_id="4040" lang="en" xmltv_id="TNTSports4.uk@HD">TNTSports4 HD</channel>
-  <channel site="sky.com" site_id="3141" lang="en" xmltv_id="TNTSports4.uk@SD">TNT Sports 4</channel>
   <channel site="sky.com" site_id="1099" lang="en" xmltv_id="TNTSportsBoxOffice2.uk@HD">TNTSBoxOff2HD</channel>
   <channel site="sky.com" site_id="1210" lang="en" xmltv_id="TNTSportsBoxOffice.uk@HD">TNTSBoxOffHD</channel>
   <channel site="sky.com" site_id="1872" lang="en" xmltv_id="TogetherTV.uk@SD">Together</channel>
