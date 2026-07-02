@@ -6,6 +6,7 @@
 <channel id="5_mexico"><display-name>5 de México</display-name><url>https://gatotv.com</url></channel>
 <channel id="9_de_mexico"><display-name>9 de México</display-name><url>https://gatotv.com</url></channel>
 <channel id="9_de_honduras_vica"><display-name>9 de Honduras</display-name><url>https://gatotv.com</url></channel>
+<channel id="WORODT1.pr@SD"><display-name>13 de Puerto Rico</display-name><url>https://gatotv.com</url></channel>
 <channel id="WOBI.ar@SD"><display-name>WOBI</display-name><icon src="https://i.imgur.com/uW4WIvC.png"/><url>https://gatotv.com</url></channel>
 <channel id="WKAQDT2.pr@SD"><display-name>Punto 2</display-name><url>https://gatotv.com</url></channel>
 <channel id="WIPRDT1.pr@SD"><display-name>WIPR</display-name><url>https://gatotv.com</url></channel>
@@ -457,11 +458,10 @@
 <channel id="14_de_mexico"><display-name>14 de México</display-name><url>https://gatotv.com</url></channel>
 <channel id="13_de_guatemala"><display-name>13 de Guatemala</display-name><url>https://gatotv.com</url></channel>
 <channel id="Zoom.co@SD"><display-name>ZOOM Colombia</display-name><icon src="https://i.imgur.com/euy5zp6.png"/><url>https://gatotv.com</url></channel>
-<channel id="ZonaLatina.cl@SD"><display-name>Zona Latina</display-name><icon src="https://i.imgur.com/lMyZZtk.png"/><url>https://gatotv.com</url></channel>
 <channel id="XEIPNTDT.mx@SD"><display-name>11 de México</display-name><icon src="https://i.imgur.com/K0351vF.png"/><url>https://gatotv.com</url></channel>
 <channel id="XEIMTTDT2.mx@SD"><display-name>22 de México</display-name><icon src="https://i.imgur.com/MeIfhXp.png"/><url>https://gatotv.com</url></channel>
 <channel id="XEFBTDT.mx@SD"><display-name>4 de Monterrey</display-name><icon src="https://i.imgur.com/21AF8UI.png"/><url>https://gatotv.com</url></channel>
-<channel id="WORODT1.pr@SD"><display-name>13 de Puerto Rico</display-name><url>https://gatotv.com</url></channel>
+<channel id="ZonaLatina.cl@SD"><display-name>Zona Latina</display-name><icon src="https://i.imgur.com/lMyZZtk.png"/><url>https://gatotv.com</url></channel>
 <programme start="20260702050000 +0000" stop="20260702060000 +0000" channel="4_de_costa_rica"><title lang="es">Fear the Walking Dead</title><desc lang="es">En los Ángeles California, dos familias deben afrontar el comienzo del apocalipsis zombi donde buscan la manera de sobrevivir al caos de la ciudad.</desc><image>https://imagenes.gatotv.com/categorias/programas/miniatura/fear_the_walking_dead.jpg</image></programme>
 <programme start="20260702060000 +0000" stop="20260702070000 +0000" channel="4_de_costa_rica"><title lang="es">Velvet</title></programme>
 <programme start="20260702070000 +0000" stop="20260702100000 +0000" channel="4_de_costa_rica"><title lang="es">Canal 4 Costa Rica</title></programme>
@@ -567,28 +567,9 @@
 <programme start="20260704010000 +0000" stop="20260704020000 +0000" channel="5_mexico"><title lang="es">Canal 5</title></programme>
 <programme start="20260704020000 +0000" stop="20260704040000 +0000" channel="5_mexico"><title lang="es">Me caigo de risa</title></programme>
 <programme start="20260704040000 +0000" stop="20260704053000 +0000" channel="5_mexico"><title lang="es">La jugada del veranoEn Vivo</title></programme>
-<programme start="20260702050000 +0000" stop="20260702060000 +0000" channel="6_de_costa_rica"><title lang="es">Noticias Repretel</title></programme>
-<programme start="20260702060000 +0000" stop="20260702071500 +0000" channel="6_de_costa_rica"><title lang="es">Mujer, casos de la vida real</title></programme>
-<programme start="20260702071500 +0000" stop="20260702080000 +0000" channel="6_de_costa_rica"><title lang="es">Mujer, casos de la vida real</title></programme>
-<programme start="20260702080000 +0000" stop="20260702084500 +0000" channel="6_de_costa_rica"><title lang="es">La Rosa de Guadalupe</title></programme>
-<programme start="20260702084500 +0000" stop="20260702100000 +0000" channel="6_de_costa_rica"><title lang="es">Mujeres al Límite</title></programme>
-<programme start="20260702100000 +0000" stop="20260702111500 +0000" channel="6_de_costa_rica"><title lang="es">Secretos al desnudo</title></programme>
-<programme start="20260702111500 +0000" stop="20260702120000 +0000" channel="6_de_costa_rica"><title lang="es">Como dice el dicho</title></programme>
-<programme start="20260702120000 +0000" stop="20260702125000 +0000" channel="6_de_costa_rica"><title lang="es">Legado de Amor</title></programme>
-<programme start="20260702125000 +0000" stop="20260702150000 +0000" channel="6_de_costa_rica"><title lang="es">Noticias Repretel</title></programme>
-<programme start="20260702150000 +0000" stop="20260702180000 +0000" channel="6_de_costa_rica"><title lang="es">Giros</title></programme>
-<programme start="20260702180000 +0000" stop="20260702185500 +0000" channel="6_de_costa_rica"><title lang="es">El privilegio de amar</title></programme>
-<programme start="20260702185500 +0000" stop="20260702210000 +0000" channel="6_de_costa_rica"><title lang="es">Noticias Repretel</title></programme>
-<programme start="20260702210000 +0000" stop="20260702220000 +0000" channel="6_de_costa_rica"><title lang="es">Perdoname</title></programme>
-<programme start="20260702220000 +0000" stop="20260702230000 +0000" channel="6_de_costa_rica"><title lang="es">Como dice el dicho</title></programme>
-<programme start="20260702230000 +0000" stop="20260703000000 +0000" channel="6_de_costa_rica"><title lang="es">Caso Cerrado</title></programme>
-<programme start="20260703000000 +0000" stop="20260703015500 +0000" channel="6_de_costa_rica"><title lang="es">La Rosa de Guadalupe</title></programme>
-<programme start="20260703015500 +0000" stop="20260703030000 +0000" channel="6_de_costa_rica"><title lang="es">Noticias Repretel</title></programme>
-<programme start="20260703030000 +0000" stop="20260703040000 +0000" channel="6_de_costa_rica"><title lang="es">Fruto prohíbido</title></programme>
-<programme start="20260703040000 +0000" stop="20260703050000 +0000" channel="6_de_costa_rica"><title lang="es">Todo por mi familia</title></programme>
 <programme start="20260703050000 +0000" stop="20260703060000 +0000" channel="6_de_costa_rica"><title lang="es">Noticias Repretel</title></programme>
-<programme start="20260703060000 +0000" stop="20260703071500 +0000" channel="6_de_costa_rica"><title lang="es">Mujer, casos de la vida real</title></programme>
-<programme start="20260703071500 +0000" stop="20260703080000 +0000" channel="6_de_costa_rica"><title lang="es">Mujer, casos de la vida real</title></programme>
+<programme start="20260703060000 +0000" stop="20260703071500 +0000" channel="6_de_costa_rica"><title lang="es">Mujer Casos de la Vida Real</title></programme>
+<programme start="20260703071500 +0000" stop="20260703080000 +0000" channel="6_de_costa_rica"><title lang="es">Mujer Casos de la Vida Real</title></programme>
 <programme start="20260703080000 +0000" stop="20260703084500 +0000" channel="6_de_costa_rica"><title lang="es">La Rosa de Guadalupe</title></programme>
 <programme start="20260703084500 +0000" stop="20260703100000 +0000" channel="6_de_costa_rica"><title lang="es">Mujeres al Límite</title></programme>
 <programme start="20260703100000 +0000" stop="20260703111500 +0000" channel="6_de_costa_rica"><title lang="es">Secretos al desnudo</title></programme>
@@ -701,22 +682,6 @@
 <programme start="20260703020000 +0000" stop="20260703030000 +0000" channel="13_de_costa_rica"><title lang="es">El abogado en su casa</title></programme>
 <programme start="20260703030000 +0000" stop="20260703040000 +0000" channel="13_de_costa_rica"><title lang="es">Él y ella</title></programme>
 <programme start="20260703040000 +0000" stop="20260703070000 +0000" channel="13_de_costa_rica"><title lang="es">Arte 13</title></programme>
-<programme start="20260703040000 +0000" stop="20260703070000 +0000" channel="13_de_costa_rica"><title lang="es">Arte 13</title></programme>
-<programme start="20260703070000 +0000" stop="20260703073000 +0000" channel="13_de_costa_rica"><title lang="es">Trece Noticias - Emisión nocturna</title></programme>
-<programme start="20260703073000 +0000" stop="20260703130000 +0000" channel="13_de_costa_rica"><title lang="es">Fin de transmisión</title></programme>
-<programme start="20260703130000 +0000" stop="20260703133000 +0000" channel="13_de_costa_rica"><title lang="es">Santo Rosario</title></programme>
-<programme start="20260703133000 +0000" stop="20260703143000 +0000" channel="13_de_costa_rica"><title lang="es">Trece Noticias - Emisión matutina</title></programme>
-<programme start="20260703143000 +0000" stop="20260703150000 +0000" channel="13_de_costa_rica"><title lang="es">NCC Salud</title></programme>
-<programme start="20260703150000 +0000" stop="20260703160000 +0000" channel="13_de_costa_rica"><title lang="es">Consulta en directo</title></programme>
-<programme start="20260703160000 +0000" stop="20260703163000 +0000" channel="13_de_costa_rica"><title lang="es">En forma</title></programme>
-<programme start="20260703163000 +0000" stop="20260703183000 +0000" channel="13_de_costa_rica"><title lang="es">Su lado positivo</title></programme>
-<programme start="20260703183000 +0000" stop="20260703200000 +0000" channel="13_de_costa_rica"><title lang="es">Trece Noticias - Emisión meridiana</title></programme>
-<programme start="20260703200000 +0000" stop="20260703203000 +0000" channel="13_de_costa_rica"><title lang="es">Patrimonio mundial</title></programme>
-<programme start="20260703203000 +0000" stop="20260703210000 +0000" channel="13_de_costa_rica"><title lang="es">Sin escalas</title></programme>
-<programme start="20260703210000 +0000" stop="20260703220000 +0000" channel="13_de_costa_rica"><title lang="es">Dominio documental</title></programme>
-<programme start="20260703220000 +0000" stop="20260703230000 +0000" channel="13_de_costa_rica"><title lang="es">Santa misa desde la Catedral</title></programme>
-<programme start="20260703230000 +0000" stop="20260704000000 +0000" channel="13_de_costa_rica"><title lang="es">360 Revista musical</title></programme>
-<programme start="20260704000000 +0000" stop="20260704010000 +0000" channel="13_de_costa_rica"><title lang="es">Consulta en directo</title></programme>
 <programme start="20260703050000 +0000" stop="20260703055000 +0000" channel="UniversalTVLatinAmerica.us@Mexico"><title lang="es">The Rookie</title><image>https://imagenes.gatotv.com/categorias/programas/miniatura/the_rookie.jpg</image></programme>
 <programme start="20260703055000 +0000" stop="20260703064000 +0000" channel="UniversalTVLatinAmerica.us@Mexico"><title lang="es">Chicago PD</title><image>https://imagenes.gatotv.com/categorias/programas/miniatura/chicago_p_d.jpg</image></programme>
 <programme start="20260703064000 +0000" stop="20260703073000 +0000" channel="UniversalTVLatinAmerica.us@Mexico"><title lang="es">Chicago PD</title><image>https://imagenes.gatotv.com/categorias/programas/miniatura/chicago_p_d.jpg</image></programme>
@@ -801,6 +766,11 @@
 <programme start="20260703230000 +0000" stop="20260703235000 +0000" channel="UniversalTVLatinAmerica.us@Panregional"><title lang="es">Chicago Fire</title><image>https://imagenes.gatotv.com/categorias/programas/miniatura/chicago_fire.jpg</image></programme>
 <programme start="20260703235000 +0000" stop="20260704004000 +0000" channel="UniversalTVLatinAmerica.us@Panregional"><title lang="es">Chicago Fire</title><image>https://imagenes.gatotv.com/categorias/programas/miniatura/chicago_fire.jpg</image></programme>
 <programme start="20260704004000 +0000" stop="20260704013000 +0000" channel="UniversalTVLatinAmerica.us@Panregional"><title lang="es">Maratón La ley y el orden UVE</title></programme>
+<programme start="20260704013000 +0000" stop="20260704022000 +0000" channel="UniversalTVLatinAmerica.us@Panregional"><title lang="es">Maratón La ley y el orden UVE</title></programme>
+<programme start="20260704022000 +0000" stop="20260704031000 +0000" channel="UniversalTVLatinAmerica.us@Panregional"><title lang="es">Maratón La ley y el orden UVE</title></programme>
+<programme start="20260704031000 +0000" stop="20260704040000 +0000" channel="UniversalTVLatinAmerica.us@Panregional"><title lang="es">The Irrational</title><image>https://imagenes.gatotv.com/categorias/programas/miniatura/the_irrational.jpg</image></programme>
+<programme start="20260704040000 +0000" stop="20260704045000 +0000" channel="UniversalTVLatinAmerica.us@Panregional"><title lang="es">Chicago P.D.</title><image>https://imagenes.gatotv.com/categorias/programas/miniatura/chicago_p_d.jpg</image></programme>
+<programme start="20260704045000 +0000" stop="20260704054000 +0000" channel="UniversalTVLatinAmerica.us@Panregional"><title lang="es">Chicago P.D.</title><image>https://imagenes.gatotv.com/categorias/programas/miniatura/chicago_p_d.jpg</image></programme>
 <programme start="20260702050000 +0000" stop="20260702060000 +0000" channel="UnivisionTlnovelas.us@SD"><title lang="es">El Color de la Pasión</title></programme>
 <programme start="20260702060000 +0000" stop="20260702070000 +0000" channel="UnivisionTlnovelas.us@SD"><title lang="es">Amarte Es Mi Pecado</title></programme>
 <programme start="20260702070000 +0000" stop="20260702080000 +0000" channel="UnivisionTlnovelas.us@SD"><title lang="es">Amo Despertar Contigo</title></programme>
@@ -888,8 +858,8 @@
 <programme start="20260703210000 +0000" stop="20260703220000 +0000" channel="VamosporMovistarPlusPlus.es@SD"><title lang="es">Los otros de Brunete</title></programme>
 <programme start="20260703220000 +0000" stop="20260704000000 +0000" channel="VamosporMovistarPlusPlus.es@SD"><title lang="es">Wimbledon 2026</title></programme>
 <programme start="20260704000000 +0000" stop="20260704015000 +0000" channel="VamosporMovistarPlusPlus.es@SD"><title lang="es">Premier Padel</title></programme>
-<programme start="20260704015000 +0000" stop="20260704034000 +0000" channel="VamosporMovistarPlusPlus.es@SD"><title lang="es">Top 14</title></programme>
-<programme start="20260704034000 +0000" stop="20260704053000 +0000" channel="VamosporMovistarPlusPlus.es@SD"><title lang="es">FIBA Copa del Mundo Clasificatorios</title></programme>
+<programme start="20260704015000 +0000" stop="20260704035500 +0000" channel="VamosporMovistarPlusPlus.es@SD"><title lang="es">Top 14</title></programme>
+<programme start="20260704035500 +0000" stop="20260704054500 +0000" channel="VamosporMovistarPlusPlus.es@SD"><title lang="es">FIBA Copa del Mundo Clasificatorios</title></programme>
 <programme start="20260702050000 +0000" stop="20260702053000 +0000" channel="VePlus.ve@US"><title lang="es">El amor las vuelve locas</title></programme>
 <programme start="20260702053000 +0000" stop="20260702060000 +0000" channel="VePlus.ve@US"><title lang="es">El amor las vuelve locas</title></programme>
 <programme start="20260702060000 +0000" stop="20260702063000 +0000" channel="VePlus.ve@US"><title lang="es">¿Quién tiene la razón?</title></programme>
@@ -1180,9 +1150,9 @@
 <programme start="20260703003000 +0000" stop="20260703010000 +0000" channel="VivaNicaraguaCanal13.ni@SD"><title lang="es">Malcolm el del medio</title></programme>
 <programme start="20260703010000 +0000" stop="20260703030000 +0000" channel="VivaNicaraguaCanal13.ni@SD"><title lang="es">Radio Pirata</title></programme>
 <programme start="20260703030000 +0000" stop="20260703050000 +0000" channel="VivaNicaraguaCanal13.ni@SD"><title lang="es">El Viaje más Largo</title><desc lang="es">Sophia y Luke, Ruth e Ira son dos parejas que cuentan dos historias de romance de dos épocas diferentes, pero a la vez iguales.</desc><image>https://imagenes.gatotv.com/categorias/peliculas/miniatura/el_viaje_mas_largo.jpg</image></programme>
-<programme start="20260703050000 +0000" stop="20260703070000 +0000" channel="VivaNicaraguaCanal13.ni@SD"><title lang="es">Terremoto la falla de San Andrés</title></programme>
+<programme start="20260703050000 +0000" stop="20260703070000 +0000" channel="VivaNicaraguaCanal13.ni@SD"><title lang="es">Terremoto: La falla de San Andrés</title></programme>
 <programme start="20260703070000 +0000" stop="20260703090000 +0000" channel="VivaNicaraguaCanal13.ni@SD"><title lang="es">El Viaje más Largo</title><desc lang="es">Sophia y Luke, Ruth e Ira son dos parejas que cuentan dos historias de romance de dos épocas diferentes, pero a la vez iguales.</desc><image>https://imagenes.gatotv.com/categorias/peliculas/miniatura/el_viaje_mas_largo.jpg</image></programme>
-<programme start="20260703090000 +0000" stop="20260703110000 +0000" channel="VivaNicaraguaCanal13.ni@SD"><title lang="es">Terremoto la falla de San Andrés</title></programme>
+<programme start="20260703090000 +0000" stop="20260703110000 +0000" channel="VivaNicaraguaCanal13.ni@SD"><title lang="es">Terremoto: La falla de San Andrés</title></programme>
 <programme start="20260703110000 +0000" stop="20260703130000 +0000" channel="VivaNicaraguaCanal13.ni@SD"><title lang="es">Música retro</title></programme>
 <programme start="20260703130000 +0000" stop="20260703140000 +0000" channel="VivaNicaraguaCanal13.ni@SD"><title lang="es">Campo pagado</title></programme>
 <programme start="20260703140000 +0000" stop="20260703180000 +0000" channel="VivaNicaraguaCanal13.ni@SD"><title lang="es">Viva la vida</title></programme>
@@ -1198,6 +1168,8 @@
 <programme start="20260703230000 +0000" stop="20260704000000 +0000" channel="VivaNicaraguaCanal13.ni@SD"><title lang="es">Campo pagado</title></programme>
 <programme start="20260704000000 +0000" stop="20260704003000 +0000" channel="VivaNicaraguaCanal13.ni@SD"><title lang="es">Lo que se vive</title></programme>
 <programme start="20260704003000 +0000" stop="20260704010000 +0000" channel="VivaNicaraguaCanal13.ni@SD"><title lang="es">Malcolm el del medio</title></programme>
+<programme start="20260704010000 +0000" stop="20260704030000 +0000" channel="VivaNicaraguaCanal13.ni@SD"><title lang="es">La muerte le sienta bien</title></programme>
+<programme start="20260704030000 +0000" stop="20260704050000 +0000" channel="VivaNicaraguaCanal13.ni@SD"><title lang="es">Pesadilla en la calle Elm</title></programme>
 <programme start="20260702050000 +0000" stop="20260702060000 +0000" channel="VTV.hn@SD"><title lang="es">¿Dónde está Elisa?</title></programme>
 <programme start="20260702060000 +0000" stop="20260702070000 +0000" channel="VTV.hn@SD"><title lang="es">Fear the Walking Dead</title><desc lang="es">En los Ángeles California, dos familias deben afrontar el comienzo del apocalipsis zombi donde buscan la manera de sobrevivir al caos de la ciudad.</desc><image>https://imagenes.gatotv.com/categorias/programas/miniatura/fear_the_walking_dead.jpg</image></programme>
 <programme start="20260702070000 +0000" stop="20260702080000 +0000" channel="VTV.hn@SD"><title lang="es">El show del problema</title></programme>
@@ -1405,9 +1377,11 @@
 <programme start="20260703200200 +0000" stop="20260703215600 +0000" channel="WarnerChannel.us@Panregional"><title lang="es">Arma mortal</title></programme>
 <programme start="20260703215600 +0000" stop="20260703235600 +0000" channel="WarnerChannel.us@Panregional"><title lang="es">Arma mortal 2</title></programme>
 <programme start="20260703235600 +0000" stop="20260704015000 +0000" channel="WarnerChannel.us@Panregional"><title lang="es">El Último Boy Scout</title></programme>
+<programme start="20260704015000 +0000" stop="20260704040000 +0000" channel="WarnerChannel.us@Panregional"><title lang="es">Constantine</title></programme>
+<programme start="20260704040000 +0000" stop="20260704060300 +0000" channel="WarnerChannel.us@Panregional"><title lang="es">Kong La isla calavera</title></programme>
 <programme start="20260702050000 +0000" stop="20260702060000 +0000" channel="WillaxTV.pe@SD"><title lang="es">Caso Cerrado</title></programme>
-<programme start="20260702060000 +0000" stop="20260702063500 +0000" channel="WillaxTV.pe@SD"><title lang="es">Camotillo el tinterillo / Bio nutrition</title></programme>
-<programme start="20260702063500 +0000" stop="20260702113000 +0000" channel="WillaxTV.pe@SD"><title lang="es">Nutrisa</title></programme>
+<programme start="20260702060000 +0000" stop="20260702063000 +0000" channel="WillaxTV.pe@SD"><title lang="es">Camotillo el tinterillo / Bio nutrition</title></programme>
+<programme start="20260702063000 +0000" stop="20260702113000 +0000" channel="WillaxTV.pe@SD"><title lang="es">Nutrisa</title></programme>
 <programme start="20260702113000 +0000" stop="20260702120000 +0000" channel="WillaxTV.pe@SD"><title lang="es">UDM</title></programme>
 <programme start="20260702120000 +0000" stop="20260702130000 +0000" channel="WillaxTV.pe@SD"><title lang="es">Al dia con Willax Nacional</title></programme>
 <programme start="20260702130000 +0000" stop="20260702150000 +0000" channel="WillaxTV.pe@SD"><title lang="es">Al Día con Willax</title></programme>
@@ -1423,9 +1397,10 @@
 <programme start="20260703015500 +0000" stop="20260703025500 +0000" channel="WillaxTV.pe@SD"><title lang="es">Contracorriente</title></programme>
 <programme start="20260703025500 +0000" stop="20260703040000 +0000" channel="WillaxTV.pe@SD"><title lang="es">Beto a Saber</title></programme>
 <programme start="20260703040000 +0000" stop="20260703050000 +0000" channel="WillaxTV.pe@SD"><title lang="es">Ahora y en la hora</title></programme>
-<programme start="20260703050000 +0000" stop="20260703060000 +0000" channel="WillaxTV.pe@SD"><title lang="es">Caso Cerrado</title></programme>
-<programme start="20260703060000 +0000" stop="20260703063500 +0000" channel="WillaxTV.pe@SD"><title lang="es">Camotillo el tinterillo / Bio nutrition</title></programme>
-<programme start="20260703063500 +0000" stop="20260703113000 +0000" channel="WillaxTV.pe@SD"><title lang="es">Nutrisa</title></programme>
+<programme start="20260703050000 +0000" stop="20260703055500 +0000" channel="WillaxTV.pe@SD"><title lang="es">Caso Cerrado</title></programme>
+<programme start="20260703055500 +0000" stop="20260703060000 +0000" channel="WillaxTV.pe@SD"><title lang="es">Camotillo, el Tinterillo</title></programme>
+<programme start="20260703060000 +0000" stop="20260703063000 +0000" channel="WillaxTV.pe@SD"><title lang="es">Camotillo el tinterillo / Bio nutrition</title></programme>
+<programme start="20260703063000 +0000" stop="20260703113000 +0000" channel="WillaxTV.pe@SD"><title lang="es">Nutrisa</title></programme>
 <programme start="20260703113000 +0000" stop="20260703120000 +0000" channel="WillaxTV.pe@SD"><title lang="es">UDM</title></programme>
 <programme start="20260703120000 +0000" stop="20260703130000 +0000" channel="WillaxTV.pe@SD"><title lang="es">Al dia con Willax Nacional</title></programme>
 <programme start="20260703130000 +0000" stop="20260703150000 +0000" channel="WillaxTV.pe@SD"><title lang="es">Al Día con Willax</title></programme>
@@ -1615,4 +1590,37 @@
 <programme start="20260704033000 +0000" stop="20260704040000 +0000" channel="WOBI.ar@SD"><title lang="es">Ideas on stage WOD Madrid</title></programme>
 <programme start="20260704040000 +0000" stop="20260704043000 +0000" channel="WOBI.ar@SD"><title lang="es">Mark it entertainment</title></programme>
 <programme start="20260704043000 +0000" stop="20260704050000 +0000" channel="WOBI.ar@SD"><title lang="es">Spotlight Rachel Botsman</title></programme>
+<programme start="20260702050000 +0000" stop="20260702070000 +0000" channel="WORODT1.pr@SD"><title lang="es">Misa Diaria Local</title></programme>
+<programme start="20260702070000 +0000" stop="20260702080000 +0000" channel="WORODT1.pr@SD"><title lang="es">Satélite EWTN</title></programme>
+<programme start="20260702080000 +0000" stop="20260702090000 +0000" channel="WORODT1.pr@SD"><title lang="es">Satélite EWTN</title></programme>
+<programme start="20260702090000 +0000" stop="20260702103000 +0000" channel="WORODT1.pr@SD"><title lang="es">Satélite EWTN</title></programme>
+<programme start="20260702103000 +0000" stop="20260702110000 +0000" channel="WORODT1.pr@SD"><title lang="es">Santo Rosario</title></programme>
+<programme start="20260702110000 +0000" stop="20260702120000 +0000" channel="WORODT1.pr@SD"><title lang="es">Misa Diaria Local</title></programme>
+<programme start="20260702120000 +0000" stop="20260702130000 +0000" channel="WORODT1.pr@SD"><title lang="es">Alianza al día</title></programme>
+<programme start="20260702130000 +0000" stop="20260702140000 +0000" channel="WORODT1.pr@SD"><title lang="es">Contigo siempre</title></programme>
+<programme start="20260702140000 +0000" stop="20260702150000 +0000" channel="WORODT1.pr@SD"><title lang="es">Mi Gente</title></programme>
+<programme start="20260702150000 +0000" stop="20260702153000 +0000" channel="WORODT1.pr@SD"><title lang="es">Acércate a la fuente</title></programme>
+<programme start="20260702153000 +0000" stop="20260702160000 +0000" channel="WORODT1.pr@SD"><title lang="es">¿De qué se trata?</title></programme>
+<programme start="20260702160000 +0000" stop="20260702163000 +0000" channel="WORODT1.pr@SD"><title lang="es">Saboreando la palabra</title></programme>
+<programme start="20260702163000 +0000" stop="20260702170000 +0000" channel="WORODT1.pr@SD"><title lang="es">Palabras con sabiduría</title></programme>
+<programme start="20260702170000 +0000" stop="20260702180000 +0000" channel="WORODT1.pr@SD"><title lang="es">Misa Diaria Local</title></programme>
+<programme start="20260702180000 +0000" stop="20260702183000 +0000" channel="WORODT1.pr@SD"><title lang="es">Una Ventana a la Fe</title></programme>
+<programme start="20260702183000 +0000" stop="20260702185800 +0000" channel="WORODT1.pr@SD"><title lang="es">María de la Iglesia</title></programme>
+<programme start="20260702185800 +0000" stop="20260702190000 +0000" channel="WORODT1.pr@SD"><title lang="es">Minuto Informativo</title></programme>
+<programme start="20260702190000 +0000" stop="20260702200000 +0000" channel="WORODT1.pr@SD"><title lang="es">Mundo natural</title></programme>
+<programme start="20260702200000 +0000" stop="20260702203000 +0000" channel="WORODT1.pr@SD"><title lang="es">Coronilla de la Divina Misericordia</title></programme>
+<programme start="20260702203000 +0000" stop="20260702205800 +0000" channel="WORODT1.pr@SD"><title lang="es">Aviva</title></programme>
+<programme start="20260702205800 +0000" stop="20260702210000 +0000" channel="WORODT1.pr@SD"><title lang="es">Minuto Informativo</title></programme>
+<programme start="20260702210000 +0000" stop="20260702212800 +0000" channel="WORODT1.pr@SD"><title lang="es">123 Shabum</title></programme>
+<programme start="20260702212800 +0000" stop="20260702213000 +0000" channel="WORODT1.pr@SD"><title lang="es">Minuto Informativo</title></programme>
+<programme start="20260702213000 +0000" stop="20260702215800 +0000" channel="WORODT1.pr@SD"><title lang="es">Palabras con sabiduría</title></programme>
+<programme start="20260702215800 +0000" stop="20260702220000 +0000" channel="WORODT1.pr@SD"><title lang="es">Dios es mi guía</title></programme>
+<programme start="20260702220000 +0000" stop="20260702230000 +0000" channel="WORODT1.pr@SD"><title lang="es">Misa Diaria Local</title></programme>
+<programme start="20260702230000 +0000" stop="20260703000000 +0000" channel="WORODT1.pr@SD"><title lang="es">Noticias 13</title></programme>
+<programme start="20260703000000 +0000" stop="20260703010000 +0000" channel="WORODT1.pr@SD"><title lang="es">Alianza al día</title></programme>
+<programme start="20260703010000 +0000" stop="20260703020000 +0000" channel="WORODT1.pr@SD"><title lang="es">Contigo siempre</title></programme>
+<programme start="20260703020000 +0000" stop="20260703030000 +0000" channel="WORODT1.pr@SD"><title lang="es">Mi Gente</title></programme>
+<programme start="20260703030000 +0000" stop="20260703033000 +0000" channel="WORODT1.pr@SD"><title lang="es">Saboreando la palabra</title></programme>
+<programme start="20260703033000 +0000" stop="20260703040000 +0000" channel="WORODT1.pr@SD"><title lang="es">María de la Iglesia</title></programme>
+<programme start="20260703040000 +0000" stop="20260703050000 +0000" channel="WORODT1.pr@SD"><title lang="es">Noticias 13</title></programme>
 </tv>
