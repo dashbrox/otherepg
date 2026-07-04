@@ -462,6 +462,36 @@
 <channel id="6_de_costa_rica"><display-name>6 de Costa Rica</display-name><url>https://gatotv.com</url></channel>
 <channel id="5_mexico"><display-name>5 de México</display-name><url>https://gatotv.com</url></channel>
 <channel id="5_de_republica_dominicana_telemicro"><display-name>Telemicro</display-name><url>https://gatotv.com</url></channel>
+<programme start="20260704050000 +0000" stop="20260704060000 +0000" channel="4_de_costa_rica"><title lang="es">Fear the Walking Dead</title><desc lang="es">En los Ángeles California, dos familias deben afrontar el comienzo del apocalipsis zombi donde buscan la manera de sobrevivir al caos de la ciudad.</desc><image>https://imagenes.gatotv.com/categorias/programas/miniatura/fear_the_walking_dead.jpg</image></programme>
+<programme start="20260704060000 +0000" stop="20260704070000 +0000" channel="4_de_costa_rica"><title lang="es">Velvet</title></programme>
+<programme start="20260704070000 +0000" stop="20260704100000 +0000" channel="4_de_costa_rica"><title lang="es">Canal 4 Costa Rica</title></programme>
+<programme start="20260704100000 +0000" stop="20260704130000 +0000" channel="4_de_costa_rica"><title lang="es">Canal 4 Costa Rica</title></programme>
+<programme start="20260704130000 +0000" stop="20260704140000 +0000" channel="4_de_costa_rica"><title lang="es">Canal 4 Costa Rica</title></programme>
+<programme start="20260704140000 +0000" stop="20260704170000 +0000" channel="4_de_costa_rica"><title lang="es">Fuera del aire</title></programme>
+<programme start="20260704170000 +0000" stop="20260704180000 +0000" channel="4_de_costa_rica"><title lang="es">Yo no me llamo Natacha</title></programme>
+<programme start="20260704180000 +0000" stop="20260704194500 +0000" channel="4_de_costa_rica"><title lang="es">Aventuras en el tiempo</title></programme>
+<programme start="20260704194500 +0000" stop="20260704213000 +0000" channel="4_de_costa_rica"><title lang="es">María Belén</title></programme>
+<programme start="20260704213000 +0000" stop="20260705010000 +0000" channel="4_de_costa_rica"><title lang="es">America&apos;s Next Top Model</title></programme>
+<programme start="20260705010000 +0000" stop="20260705020000 +0000" channel="4_de_costa_rica"><title lang="es">Los misterios de laura</title></programme>
+<programme start="20260705020000 +0000" stop="20260705031500 +0000" channel="4_de_costa_rica"><title lang="es">Clase 406</title></programme>
+<programme start="20260705031500 +0000" stop="20260705041500 +0000" channel="4_de_costa_rica"><title lang="es">Aguila roja</title></programme>
+<programme start="20260705041500 +0000" stop="20260705051500 +0000" channel="4_de_costa_rica"><title lang="es">Extant</title></programme>
+<programme start="20260705041500 +0000" stop="20260705051500 +0000" channel="4_de_costa_rica"><title lang="es">Extant</title></programme>
+<programme start="20260705051500 +0000" stop="20260705061500 +0000" channel="4_de_costa_rica"><title lang="es">True Justice</title></programme>
+<programme start="20260705061500 +0000" stop="20260705070000 +0000" channel="4_de_costa_rica"><title lang="es">La Camorra</title></programme>
+<programme start="20260705070000 +0000" stop="20260705100000 +0000" channel="4_de_costa_rica"><title lang="es">Canal 4 Costa Rica</title></programme>
+<programme start="20260705100000 +0000" stop="20260705130000 +0000" channel="4_de_costa_rica"><title lang="es">Canal 4 Costa Rica</title></programme>
+<programme start="20260705130000 +0000" stop="20260705140000 +0000" channel="4_de_costa_rica"><title lang="es">Canal 4 Costa Rica</title></programme>
+<programme start="20260705140000 +0000" stop="20260705170000 +0000" channel="4_de_costa_rica"><title lang="es">Fuera del aire</title></programme>
+<programme start="20260705170000 +0000" stop="20260705173000 +0000" channel="4_de_costa_rica"><title lang="es">Yo no me llamo Natacha</title></programme>
+<programme start="20260705173000 +0000" stop="20260705180000 +0000" channel="4_de_costa_rica"><title lang="es">Salud y algo más</title></programme>
+<programme start="20260705180000 +0000" stop="20260705194500 +0000" channel="4_de_costa_rica"><title lang="es">Aventuras en el tiempo</title></programme>
+<programme start="20260705194500 +0000" stop="20260705213000 +0000" channel="4_de_costa_rica"><title lang="es">María Belén</title></programme>
+<programme start="20260705213000 +0000" stop="20260706010000 +0000" channel="4_de_costa_rica"><title lang="es">Survivor</title></programme>
+<programme start="20260706010000 +0000" stop="20260706020000 +0000" channel="4_de_costa_rica"><title lang="es">Los misterios de laura</title></programme>
+<programme start="20260706020000 +0000" stop="20260706031500 +0000" channel="4_de_costa_rica"><title lang="es">Clase 406</title></programme>
+<programme start="20260706031500 +0000" stop="20260706041500 +0000" channel="4_de_costa_rica"><title lang="es">Aguila roja</title></programme>
+<programme start="20260706041500 +0000" stop="20260706051500 +0000" channel="4_de_costa_rica"><title lang="es">Extant</title></programme>
 <programme start="20260704050000 +0000" stop="20260704053000 +0000" channel="5_de_republica_dominicana_telemicro"><title lang="es">Noticiero Univisión</title></programme>
 <programme start="20260704053000 +0000" stop="20260704063000 +0000" channel="5_de_republica_dominicana_telemicro"><title lang="es">Primer impacto</title></programme>
 <programme start="20260704063000 +0000" stop="20260704073000 +0000" channel="5_de_republica_dominicana_telemicro"><title lang="es">De Extremo a Extremo</title></programme>
@@ -25286,6 +25316,400 @@
 <programme start="20260705033000 +0000" stop="20260705040000 +0000" channel="WOBI.ar@SD"><title lang="es">Ideas on stage WLF Medellín</title></programme>
 <programme start="20260705040000 +0000" stop="20260705043000 +0000" channel="WOBI.ar@SD"><title lang="es">Mark It Storytelling</title></programme>
 <programme start="20260705043000 +0000" stop="20260705050000 +0000" channel="WOBI.ar@SD"><title lang="es">Spotlight Gustavo Santaolalla</title></programme>
+<programme start="20260705050000 +0000" stop="20260705053000 +0000" channel="WOBI.ar@SD"><title lang="es">Ad factory Don&apos;t panic</title></programme>
+<programme start="20260705053000 +0000" stop="20260705060000 +0000" channel="WOBI.ar@SD"><title lang="es">Innovation Lab Google</title></programme>
+<programme start="20260705060000 +0000" stop="20260705070000 +0000" channel="WOBI.ar@SD"><title lang="es">Revolution Jeans</title></programme>
+<programme start="20260705070000 +0000" stop="20260705073000 +0000" channel="WOBI.ar@SD"><title lang="es">World innovation enterprises</title></programme>
+<programme start="20260705073000 +0000" stop="20260705080000 +0000" channel="WOBI.ar@SD"><title lang="es">Wobinterviews</title></programme>
+<programme start="20260705080000 +0000" stop="20260705083000 +0000" channel="WOBI.ar@SD"><title lang="es">Design X Ray</title></programme>
+<programme start="20260705083000 +0000" stop="20260705090000 +0000" channel="WOBI.ar@SD"><title lang="es">Experts in Seven</title></programme>
+<programme start="20260705090000 +0000" stop="20260705093000 +0000" channel="WOBI.ar@SD"><title lang="es">Ideas on stage WBF México</title></programme>
+<programme start="20260705093000 +0000" stop="20260705100000 +0000" channel="WOBI.ar@SD"><title lang="es">Ideas on stage WLF Medellín</title></programme>
+<programme start="20260705100000 +0000" stop="20260705103000 +0000" channel="WOBI.ar@SD"><title lang="es">Mark It Storytelling</title></programme>
+<programme start="20260705103000 +0000" stop="20260705110000 +0000" channel="WOBI.ar@SD"><title lang="es">Spotlight Gustavo Santaolalla</title></programme>
+<programme start="20260705110000 +0000" stop="20260705113000 +0000" channel="WOBI.ar@SD"><title lang="es">Ad factory Don&apos;t panic</title></programme>
+<programme start="20260705113000 +0000" stop="20260705120000 +0000" channel="WOBI.ar@SD"><title lang="es">Innovation Lab Google</title></programme>
+<programme start="20260705120000 +0000" stop="20260705130000 +0000" channel="WOBI.ar@SD"><title lang="es">Revolution Jeans</title></programme>
+<programme start="20260705130000 +0000" stop="20260705133000 +0000" channel="WOBI.ar@SD"><title lang="es">World innovation enterprises</title></programme>
+<programme start="20260705133000 +0000" stop="20260705140000 +0000" channel="WOBI.ar@SD"><title lang="es">Wobinterviews</title></programme>
+<programme start="20260705140000 +0000" stop="20260705143000 +0000" channel="WOBI.ar@SD"><title lang="es">Design X Ray</title></programme>
+<programme start="20260705143000 +0000" stop="20260705150000 +0000" channel="WOBI.ar@SD"><title lang="es">Experts in Seven</title></programme>
+<programme start="20260705150000 +0000" stop="20260705153000 +0000" channel="WOBI.ar@SD"><title lang="es">Ideas on stage WBF México</title></programme>
+<programme start="20260705153000 +0000" stop="20260705160000 +0000" channel="WOBI.ar@SD"><title lang="es">Ideas on stage WLF Medellín</title></programme>
+<programme start="20260705160000 +0000" stop="20260705163000 +0000" channel="WOBI.ar@SD"><title lang="es">Mark It Storytelling</title></programme>
+<programme start="20260705163000 +0000" stop="20260705170000 +0000" channel="WOBI.ar@SD"><title lang="es">Spotlight Gustavo Santaolalla</title></programme>
+<programme start="20260705170000 +0000" stop="20260705173000 +0000" channel="WOBI.ar@SD"><title lang="es">Ad factory Don&apos;t panic</title></programme>
+<programme start="20260705173000 +0000" stop="20260705180000 +0000" channel="WOBI.ar@SD"><title lang="es">Innovation Lab Google</title></programme>
+<programme start="20260705180000 +0000" stop="20260705190000 +0000" channel="WOBI.ar@SD"><title lang="es">Revolution Jeans</title></programme>
+<programme start="20260705190000 +0000" stop="20260705193000 +0000" channel="WOBI.ar@SD"><title lang="es">World innovation enterprises</title></programme>
+<programme start="20260705193000 +0000" stop="20260705200000 +0000" channel="WOBI.ar@SD"><title lang="es">Wobinterviews</title></programme>
+<programme start="20260705200000 +0000" stop="20260705203000 +0000" channel="WOBI.ar@SD"><title lang="es">Design X Ray</title></programme>
+<programme start="20260705203000 +0000" stop="20260705210000 +0000" channel="WOBI.ar@SD"><title lang="es">Experts in Seven</title></programme>
+<programme start="20260705210000 +0000" stop="20260705213000 +0000" channel="WOBI.ar@SD"><title lang="es">Ideas on stage WBF México</title></programme>
+<programme start="20260705213000 +0000" stop="20260705220000 +0000" channel="WOBI.ar@SD"><title lang="es">Ideas on stage WLF Medellín</title></programme>
+<programme start="20260705220000 +0000" stop="20260705223000 +0000" channel="WOBI.ar@SD"><title lang="es">Mark It Storytelling</title></programme>
+<programme start="20260705223000 +0000" stop="20260705230000 +0000" channel="WOBI.ar@SD"><title lang="es">Spotlight Gustavo Santaolalla</title></programme>
+<programme start="20260705230000 +0000" stop="20260705233000 +0000" channel="WOBI.ar@SD"><title lang="es">Ad factory MBA</title></programme>
+<programme start="20260705233000 +0000" stop="20260706000000 +0000" channel="WOBI.ar@SD"><title lang="es">Innovation Lab Sillicon V</title></programme>
+<programme start="20260706000000 +0000" stop="20260706010000 +0000" channel="WOBI.ar@SD"><title lang="es">Revolution Tea</title></programme>
+<programme start="20260706010000 +0000" stop="20260706013000 +0000" channel="WOBI.ar@SD"><title lang="es">World innovation enterprises</title></programme>
+<programme start="20260706013000 +0000" stop="20260706020000 +0000" channel="WOBI.ar@SD"><title lang="es">Wobinterviews</title></programme>
+<programme start="20260706020000 +0000" stop="20260706023000 +0000" channel="WOBI.ar@SD"><title lang="es">Design X Ray</title></programme>
+<programme start="20260706023000 +0000" stop="20260706030000 +0000" channel="WOBI.ar@SD"><title lang="es">Experts in Seven</title></programme>
+<programme start="20260706030000 +0000" stop="20260706033000 +0000" channel="WOBI.ar@SD"><title lang="es">Ideas on stage WBF Madrid</title></programme>
+<programme start="20260706033000 +0000" stop="20260706040000 +0000" channel="WOBI.ar@SD"><title lang="es">Ideas on stage WLF Medellín</title></programme>
+<programme start="20260706040000 +0000" stop="20260706043000 +0000" channel="WOBI.ar@SD"><title lang="es">Mark it Digital Marketing</title></programme>
+<programme start="20260706043000 +0000" stop="20260706050000 +0000" channel="WOBI.ar@SD"><title lang="es">Spotlight lindstrom</title></programme>
+<programme start="20260704050000 +0000" stop="20260704070000 +0000" channel="WORODT1.pr@SD"><title lang="es">Misa Diaria Local</title></programme>
+<programme start="20260704070000 +0000" stop="20260704080000 +0000" channel="WORODT1.pr@SD"><title lang="es">Satélite EWTN</title></programme>
+<programme start="20260704080000 +0000" stop="20260704090000 +0000" channel="WORODT1.pr@SD"><title lang="es">Satélite EWTN</title></programme>
+<programme start="20260704090000 +0000" stop="20260704103000 +0000" channel="WORODT1.pr@SD"><title lang="es">Satélite EWTN</title></programme>
+<programme start="20260704103000 +0000" stop="20260704110000 +0000" channel="WORODT1.pr@SD"><title lang="es">Santo Rosario</title></programme>
+<programme start="20260704110000 +0000" stop="20260704120000 +0000" channel="WORODT1.pr@SD"><title lang="es">Misa Diaria Local</title></programme>
+<programme start="20260704120000 +0000" stop="20260704123000 +0000" channel="WORODT1.pr@SD"><title lang="es">Programa Pagado</title></programme>
+<programme start="20260704123000 +0000" stop="20260704130000 +0000" channel="WORODT1.pr@SD"><title lang="es">Mundo natural</title></programme>
+<programme start="20260704130000 +0000" stop="20260704133000 +0000" channel="WORODT1.pr@SD"><title lang="es">Mundo natural</title></programme>
+<programme start="20260704133000 +0000" stop="20260704140000 +0000" channel="WORODT1.pr@SD"><title lang="es">123 Shabum</title></programme>
+<programme start="20260704140000 +0000" stop="20260704150000 +0000" channel="WORODT1.pr@SD"><title lang="es">Misa</title></programme>
+<programme start="20260704150000 +0000" stop="20260704153000 +0000" channel="WORODT1.pr@SD"><title lang="es">Nací para orar</title></programme>
+<programme start="20260704153000 +0000" stop="20260704160000 +0000" channel="WORODT1.pr@SD"><title lang="es">Acércate a la fuente</title></programme>
+<programme start="20260704160000 +0000" stop="20260704163000 +0000" channel="WORODT1.pr@SD"><title lang="es">Mundo natural</title></programme>
+<programme start="20260704163000 +0000" stop="20260704170000 +0000" channel="WORODT1.pr@SD"><title lang="es">Mundo natural</title></programme>
+<programme start="20260704170000 +0000" stop="20260704180000 +0000" channel="WORODT1.pr@SD"><title lang="es">Misa Diaria Local</title></programme>
+<programme start="20260704180000 +0000" stop="20260704183000 +0000" channel="WORODT1.pr@SD"><title lang="es">Mundo natural</title></programme>
+<programme start="20260704183000 +0000" stop="20260704190000 +0000" channel="WORODT1.pr@SD"><title lang="es">Mundo natural</title></programme>
+<programme start="20260704190000 +0000" stop="20260704193000 +0000" channel="WORODT1.pr@SD"><title lang="es">Mundo natural</title></programme>
+<programme start="20260704193000 +0000" stop="20260704200000 +0000" channel="WORODT1.pr@SD"><title lang="es">Mundo natural</title></programme>
+<programme start="20260704200000 +0000" stop="20260704203000 +0000" channel="WORODT1.pr@SD"><title lang="es">Coronilla de la Divina Misericordia</title></programme>
+<programme start="20260704203000 +0000" stop="20260704210000 +0000" channel="WORODT1.pr@SD"><title lang="es">Saboreando la palabra</title></programme>
+<programme start="20260704210000 +0000" stop="20260704213000 +0000" channel="WORODT1.pr@SD"><title lang="es">¿De qué se trata?</title></programme>
+<programme start="20260704213000 +0000" stop="20260704220000 +0000" channel="WORODT1.pr@SD"><title lang="es">La barca</title></programme>
+<programme start="20260704220000 +0000" stop="20260704230000 +0000" channel="WORODT1.pr@SD"><title lang="es">Misa Diaria Local</title></programme>
+<programme start="20260704230000 +0000" stop="20260704233000 +0000" channel="WORODT1.pr@SD"><title lang="es">Programa Pagado</title></programme>
+<programme start="20260704233000 +0000" stop="20260705000000 +0000" channel="WORODT1.pr@SD"><title lang="es">Aviva</title></programme>
+<programme start="20260705000000 +0000" stop="20260705003000 +0000" channel="WORODT1.pr@SD"><title lang="es">Muevete al Cooperativismo</title></programme>
+<programme start="20260705003000 +0000" stop="20260705010000 +0000" channel="WORODT1.pr@SD"><title lang="es">Palabras con sabiduría</title></programme>
+<programme start="20260705010000 +0000" stop="20260705020000 +0000" channel="WORODT1.pr@SD"><title lang="es">Cantos del alma</title></programme>
+<programme start="20260705020000 +0000" stop="20260705023000 +0000" channel="WORODT1.pr@SD"><title lang="es">La barca</title></programme>
+<programme start="20260705023000 +0000" stop="20260705030000 +0000" channel="WORODT1.pr@SD"><title lang="es">¿De qué se trata?</title></programme>
+<programme start="20260705030000 +0000" stop="20260705033000 +0000" channel="WORODT1.pr@SD"><title lang="es">Acércate a la fuente</title></programme>
+<programme start="20260705033000 +0000" stop="20260705040000 +0000" channel="WORODT1.pr@SD"><title lang="es">Nací para orar</title></programme>
+<programme start="20260705040000 +0000" stop="20260705043000 +0000" channel="WORODT1.pr@SD"><title lang="es">Aviva</title></programme>
+<programme start="20260705043000 +0000" stop="20260705050000 +0000" channel="WORODT1.pr@SD"><title lang="es">Saboreando la palabra</title></programme>
+<programme start="20260705050000 +0000" stop="20260705060000 +0000" channel="WORODT1.pr@SD"><title lang="es">Misa Diaria Local</title></programme>
+<programme start="20260705060000 +0000" stop="20260705103000 +0000" channel="WORODT1.pr@SD"><title lang="es">Satélite EWTN</title></programme>
+<programme start="20260705103000 +0000" stop="20260705110000 +0000" channel="WORODT1.pr@SD"><title lang="es">Santo Rosario</title></programme>
+<programme start="20260705110000 +0000" stop="20260705120000 +0000" channel="WORODT1.pr@SD"><title lang="es">Misa Diaria Local</title></programme>
+<programme start="20260705120000 +0000" stop="20260705123000 +0000" channel="WORODT1.pr@SD"><title lang="es">Ecclesia</title></programme>
+<programme start="20260705123000 +0000" stop="20260705130000 +0000" channel="WORODT1.pr@SD"><title lang="es">Aviva</title></programme>
+<programme start="20260705130000 +0000" stop="20260705140000 +0000" channel="WORODT1.pr@SD"><title lang="es">El Pan de la Palabra</title></programme>
+<programme start="20260705140000 +0000" stop="20260705150000 +0000" channel="WORODT1.pr@SD"><title lang="es">Misa Local</title></programme>
+<programme start="20260705150000 +0000" stop="20260705153000 +0000" channel="WORODT1.pr@SD"><title lang="es">La barca</title></programme>
+<programme start="20260705153000 +0000" stop="20260705160000 +0000" channel="WORODT1.pr@SD"><title lang="es">¿De qué se trata?</title></programme>
+<programme start="20260705160000 +0000" stop="20260705163000 +0000" channel="WORODT1.pr@SD"><title lang="es">Nací para orar</title></programme>
+<programme start="20260705163000 +0000" stop="20260705170000 +0000" channel="WORODT1.pr@SD"><title lang="es">Palabras con sabiduría</title></programme>
+<programme start="20260705170000 +0000" stop="20260705180000 +0000" channel="WORODT1.pr@SD"><title lang="es">Misa Diaria Local</title></programme>
+<programme start="20260705180000 +0000" stop="20260705183000 +0000" channel="WORODT1.pr@SD"><title lang="es">Mundo natural</title></programme>
+<programme start="20260705183000 +0000" stop="20260705190000 +0000" channel="WORODT1.pr@SD"><title lang="es">Mundo natural</title></programme>
+<programme start="20260705190000 +0000" stop="20260705193000 +0000" channel="WORODT1.pr@SD"><title lang="es">Mundo natural</title></programme>
+<programme start="20260705193000 +0000" stop="20260705200000 +0000" channel="WORODT1.pr@SD"><title lang="es">Mundo natural</title></programme>
+<programme start="20260705200000 +0000" stop="20260705203000 +0000" channel="WORODT1.pr@SD"><title lang="es">Coronilla de la Divina Misericordia</title></programme>
+<programme start="20260705203000 +0000" stop="20260705210000 +0000" channel="WORODT1.pr@SD"><title lang="es">María de la Iglesia</title></programme>
+<programme start="20260705210000 +0000" stop="20260705213000 +0000" channel="WORODT1.pr@SD"><title lang="es">Programa Pagado</title></programme>
+<programme start="20260705213000 +0000" stop="20260705220000 +0000" channel="WORODT1.pr@SD"><title lang="es">Programa Pagado</title></programme>
+<programme start="20260705220000 +0000" stop="20260705230000 +0000" channel="WORODT1.pr@SD"><title lang="es">Misa Diaria Local</title></programme>
+<programme start="20260705230000 +0000" stop="20260706000000 +0000" channel="WORODT1.pr@SD"><title lang="es">Cantos del alma</title></programme>
+<programme start="20260706000000 +0000" stop="20260706003000 +0000" channel="WORODT1.pr@SD"><title lang="es">Muevete al Cooperativismo</title></programme>
+<programme start="20260706003000 +0000" stop="20260706010000 +0000" channel="WORODT1.pr@SD"><title lang="es">Saboreando la palabra</title></programme>
+<programme start="20260706010000 +0000" stop="20260706020000 +0000" channel="WORODT1.pr@SD"><title lang="es">Salud Financiera</title></programme>
+<programme start="20260706020000 +0000" stop="20260706030000 +0000" channel="WORODT1.pr@SD"><title lang="es">En su presencia</title></programme>
+<programme start="20260706030000 +0000" stop="20260706033000 +0000" channel="WORODT1.pr@SD"><title lang="es">Palabras con sabiduría</title></programme>
+<programme start="20260706033000 +0000" stop="20260706040000 +0000" channel="WORODT1.pr@SD"><title lang="es">La barca</title></programme>
+<programme start="20260706040000 +0000" stop="20260706043000 +0000" channel="WORODT1.pr@SD"><title lang="es">¿De qué se trata?</title></programme>
+<programme start="20260706043000 +0000" stop="20260706050000 +0000" channel="WORODT1.pr@SD"><title lang="es">Aviva</title></programme>
+<programme start="20260704050000 +0000" stop="20260704060000 +0000" channel="XEFBTDT.mx@SD"><title lang="es">Cecy contigo</title></programme>
+<programme start="20260704060000 +0000" stop="20260704070000 +0000" channel="XEFBTDT.mx@SD"><title lang="es">íconos del espectáculo</title></programme>
+<programme start="20260704070000 +0000" stop="20260704073000 +0000" channel="XEFBTDT.mx@SD"><title lang="es">Inova</title></programme>
+<programme start="20260704073000 +0000" stop="20260704090000 +0000" channel="XEFBTDT.mx@SD"><title lang="es">Las noticias con Gregorio Martínez y Anasofía Contreras</title></programme>
+<programme start="20260704090000 +0000" stop="20260704093000 +0000" channel="XEFBTDT.mx@SD"><title lang="es">CV directo</title></programme>
+<programme start="20260704093000 +0000" stop="20260704100000 +0000" channel="XEFBTDT.mx@SD"><title lang="es">CV directo</title></programme>
+<programme start="20260704100000 +0000" stop="20260704103000 +0000" channel="XEFBTDT.mx@SD"><title lang="es">CV directo</title></programme>
+<programme start="20260704103000 +0000" stop="20260704110000 +0000" channel="XEFBTDT.mx@SD"><title lang="es">CV directo</title></programme>
+<programme start="20260704110000 +0000" stop="20260704113000 +0000" channel="XEFBTDT.mx@SD"><title lang="es">CV directo</title></programme>
+<programme start="20260704113000 +0000" stop="20260704114500 +0000" channel="XEFBTDT.mx@SD"><title lang="es">Gobierno RTC Estado</title></programme>
+<programme start="20260704114500 +0000" stop="20260704121500 +0000" channel="XEFBTDT.mx@SD"><title lang="es">CV directo</title></programme>
+<programme start="20260704121500 +0000" stop="20260704130000 +0000" channel="XEFBTDT.mx@SD"><title lang="es">CV directo</title></programme>
+<programme start="20260704130000 +0000" stop="20260704140000 +0000" channel="XEFBTDT.mx@SD"><title lang="es">Reportajes de Alvarado</title></programme>
+<programme start="20260704140000 +0000" stop="20260704170000 +0000" channel="XEFBTDT.mx@SD"><title lang="es">Las noticias con Hugo Aranda</title></programme>
+<programme start="20260704170000 +0000" stop="20260704180000 +0000" channel="XEFBTDT.mx@SD"><title lang="es">En la cocina con Gerónimo</title></programme>
+<programme start="20260704180000 +0000" stop="20260704190000 +0000" channel="XEFBTDT.mx@SD"><title lang="es">Reportajes de Alvarado</title></programme>
+<programme start="20260704190000 +0000" stop="20260704193000 +0000" channel="XEFBTDT.mx@SD"><title lang="es">¡Todos en acción!</title></programme>
+<programme start="20260704193000 +0000" stop="20260704203000 +0000" channel="XEFBTDT.mx@SD"><title lang="es">Sanando dudas</title></programme>
+<programme start="20260704203000 +0000" stop="20260704210000 +0000" channel="XEFBTDT.mx@SD"><title lang="es">No hay silencio</title></programme>
+<programme start="20260704210000 +0000" stop="20260704220000 +0000" channel="XEFBTDT.mx@SD"><title lang="es">Playmakers</title></programme>
+<programme start="20260704220000 +0000" stop="20260705020000 +0000" channel="XEFBTDT.mx@SD"><title lang="es">Los enredos de una gallega</title></programme>
+<programme start="20260705020000 +0000" stop="20260705030000 +0000" channel="XEFBTDT.mx@SD"><title lang="es">Las Noticias Con Angel Giner</title></programme>
+<programme start="20260705030000 +0000" stop="20260705040000 +0000" channel="XEFBTDT.mx@SD"><title lang="es">íconos del espectáculo</title></programme>
+<programme start="20260705040000 +0000" stop="20260705050000 +0000" channel="XEFBTDT.mx@SD"><title lang="es">Pasión futbolera</title></programme>
+<programme start="20260705050000 +0000" stop="20260705063000 +0000" channel="XEFBTDT.mx@SD"><title lang="es">El Pistolero Desconocido</title></programme>
+<programme start="20260705063000 +0000" stop="20260705070000 +0000" channel="XEFBTDT.mx@SD"><title lang="es">Camino, Verdad y Vida</title></programme>
+<programme start="20260705070000 +0000" stop="20260705080000 +0000" channel="XEFBTDT.mx@SD"><title lang="es">Vamonos Riendo</title></programme>
+<programme start="20260705080000 +0000" stop="20260705090000 +0000" channel="XEFBTDT.mx@SD"><title lang="es">La parrilla del fuego</title></programme>
+<programme start="20260705090000 +0000" stop="20260705093000 +0000" channel="XEFBTDT.mx@SD"><title lang="es">CV directo</title></programme>
+<programme start="20260705093000 +0000" stop="20260705100000 +0000" channel="XEFBTDT.mx@SD"><title lang="es">CV directo</title></programme>
+<programme start="20260705100000 +0000" stop="20260705103000 +0000" channel="XEFBTDT.mx@SD"><title lang="es">CV directo</title></programme>
+<programme start="20260705103000 +0000" stop="20260705110000 +0000" channel="XEFBTDT.mx@SD"><title lang="es">CV directo</title></programme>
+<programme start="20260705110000 +0000" stop="20260705113000 +0000" channel="XEFBTDT.mx@SD"><title lang="es">CV directo</title></programme>
+<programme start="20260705113000 +0000" stop="20260705114500 +0000" channel="XEFBTDT.mx@SD"><title lang="es">Gobierno RTC Estado</title></programme>
+<programme start="20260705114500 +0000" stop="20260705120000 +0000" channel="XEFBTDT.mx@SD"><title lang="es">En la cocina con Gerónimo</title></programme>
+<programme start="20260705120000 +0000" stop="20260705123000 +0000" channel="XEFBTDT.mx@SD"><title lang="es">CV directo</title></programme>
+<programme start="20260705123000 +0000" stop="20260705130000 +0000" channel="XEFBTDT.mx@SD"><title lang="es">CV directo</title></programme>
+<programme start="20260705130000 +0000" stop="20260705140000 +0000" channel="XEFBTDT.mx@SD"><title lang="es">Reportajes de Alvarado</title></programme>
+<programme start="20260705140000 +0000" stop="20260705170000 +0000" channel="XEFBTDT.mx@SD"><title lang="es">Las noticias con Hugo Aranda</title></programme>
+<programme start="20260705170000 +0000" stop="20260705180000 +0000" channel="XEFBTDT.mx@SD"><title lang="es">Zona de anotación</title></programme>
+<programme start="20260705180000 +0000" stop="20260705190000 +0000" channel="XEFBTDT.mx@SD"><title lang="es">La parrilla del fuego</title></programme>
+<programme start="20260705190000 +0000" stop="20260705210000 +0000" channel="XEFBTDT.mx@SD"><title lang="es">Proyectese</title></programme>
+<programme start="20260705210000 +0000" stop="20260705213000 +0000" channel="XEFBTDT.mx@SD"><title lang="es">íconos del espectáculo</title></programme>
+<programme start="20260705213000 +0000" stop="20260705220000 +0000" channel="XEFBTDT.mx@SD"><title lang="es">Manu a mano</title></programme>
+<programme start="20260705220000 +0000" stop="20260705230000 +0000" channel="XEFBTDT.mx@SD"><title lang="es">Misa Catedral de Monterrey</title></programme>
+<programme start="20260705230000 +0000" stop="20260706004500 +0000" channel="XEFBTDT.mx@SD"><title lang="es">El Pistolero Desconocido</title></programme>
+<programme start="20260706004500 +0000" stop="20260706020000 +0000" channel="XEFBTDT.mx@SD"><title lang="es">Mi querido capitán</title></programme>
+<programme start="20260706020000 +0000" stop="20260706030000 +0000" channel="XEFBTDT.mx@SD"><title lang="es">Las Noticias Con Angel Giner</title></programme>
+<programme start="20260706030000 +0000" stop="20260706040000 +0000" channel="XEFBTDT.mx@SD"><title lang="es">Vamonos Riendo</title></programme>
+<programme start="20260706040000 +0000" stop="20260706050000 +0000" channel="XEFBTDT.mx@SD"><title lang="es">La peña futbolistica</title></programme>
+<programme start="20260704050000 +0000" stop="20260704053000 +0000" channel="XEIMTTDT2.mx@SD"><title lang="es">¡Llegamos Todas!</title></programme>
+<programme start="20260704053000 +0000" stop="20260704073000 +0000" channel="XEIMTTDT2.mx@SD"><title lang="es">Festival Tercer tiempo</title></programme>
+<programme start="20260704073000 +0000" stop="20260704083000 +0000" channel="XEIMTTDT2.mx@SD"><title lang="es">Culturas VeintidósEn Vivo</title></programme>
+<programme start="20260704083000 +0000" stop="20260704093000 +0000" channel="XEIMTTDT2.mx@SD"><title lang="es">El Sol a mi Lado</title></programme>
+<programme start="20260704093000 +0000" stop="20260704113000 +0000" channel="XEIMTTDT2.mx@SD"><title lang="es">Festival Tercer tiempo</title></programme>
+<programme start="20260704113000 +0000" stop="20260704120000 +0000" channel="XEIMTTDT2.mx@SD"><title lang="es">Supernova</title></programme>
+<programme start="20260704120000 +0000" stop="20260704133000 +0000" channel="XEIMTTDT2.mx@SD"><title lang="es">CV Shopping</title></programme>
+<programme start="20260704133000 +0000" stop="20260704143000 +0000" channel="XEIMTTDT2.mx@SD"><title lang="es">Atlántico Sur</title></programme>
+<programme start="20260704143000 +0000" stop="20260704153000 +0000" channel="XEIMTTDT2.mx@SD"><title lang="es">Derecho de Réplica</title></programme>
+<programme start="20260704153000 +0000" stop="20260704163000 +0000" channel="XEIMTTDT2.mx@SD"><title lang="es">Consulta directa</title></programme>
+<programme start="20260704163000 +0000" stop="20260704173000 +0000" channel="XEIMTTDT2.mx@SD"><title lang="es">La Hora Nacional</title></programme>
+<programme start="20260704173000 +0000" stop="20260704180000 +0000" channel="XEIMTTDT2.mx@SD"><title lang="es">Los alimentos terrenales</title></programme>
+<programme start="20260704180000 +0000" stop="20260704200000 +0000" channel="XEIMTTDT2.mx@SD"><title lang="es">Clic-Clac!</title></programme>
+<programme start="20260704200000 +0000" stop="20260704220000 +0000" channel="XEIMTTDT2.mx@SD"><title lang="es">Clic-Clac!</title></programme>
+<programme start="20260704220000 +0000" stop="20260704230000 +0000" channel="XEIMTTDT2.mx@SD"><title lang="es">Clic-Clac!</title></programme>
+<programme start="20260704230000 +0000" stop="20260705003000 +0000" channel="XEIMTTDT2.mx@SD"><title lang="es">Escenarios</title></programme>
+<programme start="20260705003000 +0000" stop="20260705010000 +0000" channel="XEIMTTDT2.mx@SD"><title lang="es">Más allá del balón</title></programme>
+<programme start="20260705010000 +0000" stop="20260705013000 +0000" channel="XEIMTTDT2.mx@SD"><title lang="es">En el mismo lugar</title></programme>
+<programme start="20260705013000 +0000" stop="20260705020000 +0000" channel="XEIMTTDT2.mx@SD"><title lang="es">En la cancha del goloso</title></programme>
+<programme start="20260705020000 +0000" stop="20260705030000 +0000" channel="XEIMTTDT2.mx@SD"><title lang="es">Léemelo</title></programme>
+<programme start="20260705030000 +0000" stop="20260705040000 +0000" channel="XEIMTTDT2.mx@SD"><title lang="es">La Dichosa Palabra</title></programme>
+<programme start="20260705040000 +0000" stop="20260705050000 +0000" channel="XEIMTTDT2.mx@SD"><title lang="es">Honores Policiales</title></programme>
+<programme start="20260705050000 +0000" stop="20260705063000 +0000" channel="XEIMTTDT2.mx@SD"><title lang="es">¿Qué sabes tú de amor?</title></programme>
+<programme start="20260705063000 +0000" stop="20260705073000 +0000" channel="XEIMTTDT2.mx@SD"><title lang="es">Shorts México</title></programme>
+<programme start="20260705073000 +0000" stop="20260705083000 +0000" channel="XEIMTTDT2.mx@SD"><title lang="es">Honores Policiales</title></programme>
+<programme start="20260705083000 +0000" stop="20260705090000 +0000" channel="XEIMTTDT2.mx@SD"><title lang="es">En la cancha del goloso</title></programme>
+<programme start="20260705090000 +0000" stop="20260705093000 +0000" channel="XEIMTTDT2.mx@SD"><title lang="es">En el mismo lugar</title></programme>
+<programme start="20260705093000 +0000" stop="20260705110000 +0000" channel="XEIMTTDT2.mx@SD"><title lang="es">¿Qué sabes tú de amor?</title></programme>
+<programme start="20260705110000 +0000" stop="20260705120000 +0000" channel="XEIMTTDT2.mx@SD"><title lang="es">En el mismo lugar</title></programme>
+<programme start="20260705120000 +0000" stop="20260705133000 +0000" channel="XEIMTTDT2.mx@SD"><title lang="es">CV Shopping</title></programme>
+<programme start="20260705133000 +0000" stop="20260705143000 +0000" channel="XEIMTTDT2.mx@SD"><title lang="es">Entre México y Cuba</title></programme>
+<programme start="20260705143000 +0000" stop="20260705153000 +0000" channel="XEIMTTDT2.mx@SD"><title lang="es">Una historia de vasconia</title></programme>
+<programme start="20260705153000 +0000" stop="20260705190000 +0000" channel="XEIMTTDT2.mx@SD"><title lang="es">Clic-Clac!</title></programme>
+<programme start="20260705190000 +0000" stop="20260705213000 +0000" channel="XEIMTTDT2.mx@SD"><title lang="es">OFUNAM</title></programme>
+<programme start="20260705213000 +0000" stop="20260705223000 +0000" channel="XEIMTTDT2.mx@SD"><title lang="es">¡Qué lindo es mi México!</title></programme>
+<programme start="20260705223000 +0000" stop="20260705233000 +0000" channel="XEIMTTDT2.mx@SD"><title lang="es">Música Hecha en México</title></programme>
+<programme start="20260705233000 +0000" stop="20260706000000 +0000" channel="XEIMTTDT2.mx@SD"><title lang="es">Resonante</title></programme>
+<programme start="20260706000000 +0000" stop="20260706010000 +0000" channel="XEIMTTDT2.mx@SD"><title lang="es">Jazz, boleros y algo más</title></programme>
+<programme start="20260706010000 +0000" stop="20260706020000 +0000" channel="XEIMTTDT2.mx@SD"><title lang="es">El Cancionero y sus Amigos</title></programme>
+<programme start="20260706020000 +0000" stop="20260706030000 +0000" channel="XEIMTTDT2.mx@SD"><title lang="es">El Sol a mi Lado</title></programme>
+<programme start="20260706030000 +0000" stop="20260706033000 +0000" channel="XEIMTTDT2.mx@SD"><title lang="es">México Mundial</title></programme>
+<programme start="20260706033000 +0000" stop="20260706043000 +0000" channel="XEIMTTDT2.mx@SD"><title lang="es">De la Revolución Cubana</title></programme>
+<programme start="20260706043000 +0000" stop="20260706060000 +0000" channel="XEIMTTDT2.mx@SD"><title lang="es">Mariana, Mariana</title></programme>
+<programme start="20260704050000 +0000" stop="20260704050300 +0000" channel="XEIPNTDT.mx@SD"><title lang="es">Cada hora en la hora</title></programme>
+<programme start="20260704050300 +0000" stop="20260704060000 +0000" channel="XEIPNTDT.mx@SD"><title lang="es">Noche, Boleros y Son</title></programme>
+<programme start="20260704060000 +0000" stop="20260704065500 +0000" channel="XEIPNTDT.mx@SD"><title lang="es">Noticiario medianoche</title></programme>
+<programme start="20260704065500 +0000" stop="20260704070000 +0000" channel="XEIPNTDT.mx@SD"><title lang="es">Radio, Televisión, y Cinematografía</title></programme>
+<programme start="20260704070000 +0000" stop="20260704070200 +0000" channel="XEIPNTDT.mx@SD"><title lang="es">Himno Nacional</title></programme>
+<programme start="20260704070200 +0000" stop="20260704084500 +0000" channel="XEIPNTDT.mx@SD"><title lang="es">Película</title></programme>
+<programme start="20260704084500 +0000" stop="20260704090000 +0000" channel="XEIPNTDT.mx@SD"><title lang="es">Big Cities</title></programme>
+<programme start="20260704090000 +0000" stop="20260704100000 +0000" channel="XEIPNTDT.mx@SD"><title lang="es">Añoranzas</title></programme>
+<programme start="20260704100000 +0000" stop="20260704110000 +0000" channel="XEIPNTDT.mx@SD"><title lang="es">Conversando Con Cristina Pacheco</title></programme>
+<programme start="20260704110000 +0000" stop="20260704113000 +0000" channel="XEIPNTDT.mx@SD"><title lang="es">Creación y oficio</title></programme>
+<programme start="20260704113000 +0000" stop="20260704120000 +0000" channel="XEIPNTDT.mx@SD"><title lang="es">Crónicas y relatos de México</title></programme>
+<programme start="20260704120000 +0000" stop="20260704123000 +0000" channel="XEIPNTDT.mx@SD"><title lang="es">Lugares Secretos</title></programme>
+<programme start="20260704123000 +0000" stop="20260704130000 +0000" channel="XEIPNTDT.mx@SD"><title lang="es">Actívate</title></programme>
+<programme start="20260704130000 +0000" stop="20260704130200 +0000" channel="XEIPNTDT.mx@SD"><title lang="es">Himno Nacional</title></programme>
+<programme start="20260704130200 +0000" stop="20260704133000 +0000" channel="XEIPNTDT.mx@SD"><title lang="es">Pie rojo</title></programme>
+<programme start="20260704133000 +0000" stop="20260704134500 +0000" channel="XEIPNTDT.mx@SD"><title lang="es">Futboleros</title></programme>
+<programme start="20260704134500 +0000" stop="20260704140000 +0000" channel="XEIPNTDT.mx@SD"><title lang="es">Daniel Tigre y su Vecindad</title></programme>
+<programme start="20260704140000 +0000" stop="20260704143000 +0000" channel="XEIPNTDT.mx@SD"><title lang="es">Alma</title></programme>
+<programme start="20260704143000 +0000" stop="20260704150000 +0000" channel="XEIPNTDT.mx@SD"><title lang="es">Mi lugar</title></programme>
+<programme start="20260704150000 +0000" stop="20260704153000 +0000" channel="XEIPNTDT.mx@SD"><title lang="es">Código Lyoko</title></programme>
+<programme start="20260704153000 +0000" stop="20260704160000 +0000" channel="XEIPNTDT.mx@SD"><title lang="es">El escuadrón de lo increíble</title></programme>
+<programme start="20260704160000 +0000" stop="20260704163000 +0000" channel="XEIPNTDT.mx@SD"><title lang="es">El vacío</title></programme>
+<programme start="20260704163000 +0000" stop="20260704170000 +0000" channel="XEIPNTDT.mx@SD"><title lang="es">Averiguando cosas</title></programme>
+<programme start="20260704170000 +0000" stop="20260704173000 +0000" channel="XEIPNTDT.mx@SD"><title lang="es">Últimas especies</title></programme>
+<programme start="20260704173000 +0000" stop="20260704180000 +0000" channel="XEIPNTDT.mx@SD"><title lang="es">El escritor fantasma</title></programme>
+<programme start="20260704180000 +0000" stop="20260704190000 +0000" channel="XEIPNTDT.mx@SD"><title lang="es">A+A</title></programme>
+<programme start="20260704190000 +0000" stop="20260704194500 +0000" channel="XEIPNTDT.mx@SD"><title lang="es">El Tiempo y Él son Perfectos</title></programme>
+<programme start="20260704194500 +0000" stop="20260704203000 +0000" channel="XEIPNTDT.mx@SD"><title lang="es">El Tiempo y Él son Perfectos</title></programme>
+<programme start="20260704203000 +0000" stop="20260704210000 +0000" channel="XEIPNTDT.mx@SD"><title lang="es">M/Aquí</title></programme>
+<programme start="20260704210000 +0000" stop="20260705020000 +0000" channel="XEIPNTDT.mx@SD"><title lang="es">Conciertos Osipn</title></programme>
+<programme start="20260705020000 +0000" stop="20260705030000 +0000" channel="XEIPNTDT.mx@SD"><title lang="es">Tap: Taller De Actores Profesionales</title></programme>
+<programme start="20260705030000 +0000" stop="20260705033000 +0000" channel="XEIPNTDT.mx@SD"><title lang="es">Once Lab</title></programme>
+<programme start="20260705033000 +0000" stop="20260705040000 +0000" channel="XEIPNTDT.mx@SD"><title lang="es">Aquí nos tocó vivir</title></programme>
+<programme start="20260705040000 +0000" stop="20260705050000 +0000" channel="XEIPNTDT.mx@SD"><title lang="es">Largo aliento</title></programme>
+<programme start="20260705050000 +0000" stop="20260705070000 +0000" channel="XEIPNTDT.mx@SD"><title lang="es">Noche, Boleros y Son</title></programme>
+<programme start="20260705070000 +0000" stop="20260705080000 +0000" channel="XEIPNTDT.mx@SD"><title lang="es">Himno Nacional</title></programme>
+<programme start="20260705080000 +0000" stop="20260705090000 +0000" channel="XEIPNTDT.mx@SD"><title lang="es">Foro Once</title></programme>
+<programme start="20260705090000 +0000" stop="20260705093000 +0000" channel="XEIPNTDT.mx@SD"><title lang="es">Crónicas y relatos de México</title></programme>
+<programme start="20260705093000 +0000" stop="20260705123000 +0000" channel="XEIPNTDT.mx@SD"><title lang="es">Aprender a Envejecer</title></programme>
+<programme start="20260705123000 +0000" stop="20260705130000 +0000" channel="XEIPNTDT.mx@SD"><title lang="es">Actívate</title></programme>
+<programme start="20260705130000 +0000" stop="20260705130200 +0000" channel="XEIPNTDT.mx@SD"><title lang="es">Himno Nacional</title></programme>
+<programme start="20260705130200 +0000" stop="20260705133000 +0000" channel="XEIPNTDT.mx@SD"><title lang="es">Pie rojo</title></programme>
+<programme start="20260705133000 +0000" stop="20260705134500 +0000" channel="XEIPNTDT.mx@SD"><title lang="es">Futboleros</title></programme>
+<programme start="20260705134500 +0000" stop="20260705140000 +0000" channel="XEIPNTDT.mx@SD"><title lang="es">Daniel Tigre y su Vecindad</title></programme>
+<programme start="20260705140000 +0000" stop="20260705143000 +0000" channel="XEIPNTDT.mx@SD"><title lang="es">Alma</title></programme>
+<programme start="20260705143000 +0000" stop="20260705150000 +0000" channel="XEIPNTDT.mx@SD"><title lang="es">Mi lugar</title></programme>
+<programme start="20260705150000 +0000" stop="20260705153000 +0000" channel="XEIPNTDT.mx@SD"><title lang="es">Código Lyoko</title></programme>
+<programme start="20260705153000 +0000" stop="20260705160000 +0000" channel="XEIPNTDT.mx@SD"><title lang="es">El escuadrón de lo increíble</title></programme>
+<programme start="20260705160000 +0000" stop="20260705163000 +0000" channel="XEIPNTDT.mx@SD"><title lang="es">Un día en ON</title></programme>
+<programme start="20260705163000 +0000" stop="20260705180000 +0000" channel="XEIPNTDT.mx@SD"><title lang="es">80 Millones</title></programme>
+<programme start="20260705180000 +0000" stop="20260705210000 +0000" channel="XEIPNTDT.mx@SD"><title lang="es">Aprender a Envejecer</title></programme>
+<programme start="20260705210000 +0000" stop="20260705220000 +0000" channel="XEIPNTDT.mx@SD"><title lang="es">Conversando Con Cristina Pacheco</title></programme>
+<programme start="20260705220000 +0000" stop="20260705230000 +0000" channel="XEIPNTDT.mx@SD"><title lang="es">Foro Once</title></programme>
+<programme start="20260705230000 +0000" stop="20260705233000 +0000" channel="XEIPNTDT.mx@SD"><title lang="es">Diario de Viaje Canadá</title></programme>
+<programme start="20260705233000 +0000" stop="20260706020000 +0000" channel="XEIPNTDT.mx@SD"><title lang="es">Ecos indígenas: La voz de la diversidad</title></programme>
+<programme start="20260706020000 +0000" stop="20260706023000 +0000" channel="XEIPNTDT.mx@SD"><title lang="es">Hagamos que suceda</title></programme>
+<programme start="20260706023000 +0000" stop="20260706030000 +0000" channel="XEIPNTDT.mx@SD"><title lang="es">El Mitote Librero</title></programme>
+<programme start="20260706030000 +0000" stop="20260706033000 +0000" channel="XEIPNTDT.mx@SD"><title lang="es">Once noticias, fin de semana</title></programme>
+<programme start="20260706033000 +0000" stop="20260706040000 +0000" channel="XEIPNTDT.mx@SD"><title lang="es">Acá los paisanos</title></programme>
+<programme start="20260706040000 +0000" stop="20260706050000 +0000" channel="XEIPNTDT.mx@SD"><title lang="es">Poldark</title></programme>
+<programme start="20260704043000 +0000" stop="20260704063000 +0000" channel="ZonaLatina.cl@SD"><title lang="es">Que te lo digo</title></programme>
+<programme start="20260704063000 +0000" stop="20260704073000 +0000" channel="ZonaLatina.cl@SD"><title lang="es">Encantadas</title></programme>
+<programme start="20260704073000 +0000" stop="20260704093000 +0000" channel="ZonaLatina.cl@SD"><title lang="es">Zona de Estrellas</title></programme>
+<programme start="20260704093000 +0000" stop="20260704100000 +0000" channel="ZonaLatina.cl@SD"><title lang="es">Videos musicales</title></programme>
+<programme start="20260704100000 +0000" stop="20260704110000 +0000" channel="ZonaLatina.cl@SD"><title lang="es">Encantadas</title></programme>
+<programme start="20260704110000 +0000" stop="20260704130000 +0000" channel="ZonaLatina.cl@SD"><title lang="es">Que te lo digo</title></programme>
+<programme start="20260704130000 +0000" stop="20260704140000 +0000" channel="ZonaLatina.cl@SD"><title lang="es">Bloque de Dos</title></programme>
+<programme start="20260704140000 +0000" stop="20260704150000 +0000" channel="ZonaLatina.cl@SD"><title lang="es">Encantadas</title></programme>
+<programme start="20260704150000 +0000" stop="20260704170000 +0000" channel="ZonaLatina.cl@SD"><title lang="es">Zona de Estrellas</title></programme>
+<programme start="20260704170000 +0000" stop="20260704173000 +0000" channel="ZonaLatina.cl@SD"><title lang="es">Videos musicales</title></programme>
+<programme start="20260704173000 +0000" stop="20260704193000 +0000" channel="ZonaLatina.cl@SD"><title lang="es">Que te lo digo</title></programme>
+<programme start="20260704193000 +0000" stop="20260704203000 +0000" channel="ZonaLatina.cl@SD"><title lang="es">Encantadas</title></programme>
+<programme start="20260704203000 +0000" stop="20260704213000 +0000" channel="ZonaLatina.cl@SD"><title lang="es">Bloque de Dos</title></programme>
+<programme start="20260704213000 +0000" stop="20260704233000 +0000" channel="ZonaLatina.cl@SD"><title lang="es">Zona de Estrellas</title></programme>
+<programme start="20260704233000 +0000" stop="20260705003000 +0000" channel="ZonaLatina.cl@SD"><title lang="es">Encantadas</title></programme>
+<programme start="20260705003000 +0000" stop="20260705023000 +0000" channel="ZonaLatina.cl@SD"><title lang="es">Que te lo digo</title></programme>
+<programme start="20260705023000 +0000" stop="20260705043000 +0000" channel="ZonaLatina.cl@SD"><title lang="es">Zona de Estrellas</title></programme>
+<programme start="20260705043000 +0000" stop="20260705063000 +0000" channel="ZonaLatina.cl@SD"><title lang="es">Que te lo digo</title></programme>
+<programme start="20260705043000 +0000" stop="20260705063000 +0000" channel="ZonaLatina.cl@SD"><title lang="es">Que te lo digo</title></programme>
+<programme start="20260705063000 +0000" stop="20260705073000 +0000" channel="ZonaLatina.cl@SD"><title lang="es">Encantadas</title></programme>
+<programme start="20260705073000 +0000" stop="20260705083000 +0000" channel="ZonaLatina.cl@SD"><title lang="es">Bloque de Dos</title></programme>
+<programme start="20260705083000 +0000" stop="20260705090000 +0000" channel="ZonaLatina.cl@SD"><title lang="es">Videos musicales</title></programme>
+<programme start="20260705090000 +0000" stop="20260705100000 +0000" channel="ZonaLatina.cl@SD"><title lang="es">Videos musicales</title></programme>
+<programme start="20260705100000 +0000" stop="20260705110000 +0000" channel="ZonaLatina.cl@SD"><title lang="es">Encantadas</title></programme>
+<programme start="20260705110000 +0000" stop="20260705130000 +0000" channel="ZonaLatina.cl@SD"><title lang="es">Que te lo digo</title></programme>
+<programme start="20260705130000 +0000" stop="20260705150000 +0000" channel="ZonaLatina.cl@SD"><title lang="es">Zona de Estrellas</title></programme>
+<programme start="20260705150000 +0000" stop="20260705153000 +0000" channel="ZonaLatina.cl@SD"><title lang="es">Videos musicales</title></programme>
+<programme start="20260705153000 +0000" stop="20260705163000 +0000" channel="ZonaLatina.cl@SD"><title lang="es">Bloque de Dos</title></programme>
+<programme start="20260705163000 +0000" stop="20260705173000 +0000" channel="ZonaLatina.cl@SD"><title lang="es">Encantadas</title></programme>
+<programme start="20260705173000 +0000" stop="20260705193000 +0000" channel="ZonaLatina.cl@SD"><title lang="es">Zona de Estrellas</title></programme>
+<programme start="20260705193000 +0000" stop="20260705203000 +0000" channel="ZonaLatina.cl@SD"><title lang="es">Encantadas</title></programme>
+<programme start="20260705203000 +0000" stop="20260705210000 +0000" channel="ZonaLatina.cl@SD"><title lang="es">Videos musicales</title></programme>
+<programme start="20260705210000 +0000" stop="20260705230000 +0000" channel="ZonaLatina.cl@SD"><title lang="es">Que te lo digo</title></programme>
+<programme start="20260705230000 +0000" stop="20260706000000 +0000" channel="ZonaLatina.cl@SD"><title lang="es">Bloque de Dos</title></programme>
+<programme start="20260706000000 +0000" stop="20260706010000 +0000" channel="ZonaLatina.cl@SD"><title lang="es">Encantadas</title></programme>
+<programme start="20260706010000 +0000" stop="20260706020000 +0000" channel="ZonaLatina.cl@SD"><title lang="es">Encantadas</title></programme>
+<programme start="20260706020000 +0000" stop="20260706040000 +0000" channel="ZonaLatina.cl@SD"><title lang="es">Que te lo digo</title></programme>
+<programme start="20260706040000 +0000" stop="20260706060000 +0000" channel="ZonaLatina.cl@SD"><title lang="es">Zona de Estrellas</title></programme>
+<programme start="20260704050000 +0000" stop="20260704060000 +0000" channel="Zoom.co@SD"><title lang="es">Documental</title></programme>
+<programme start="20260704060000 +0000" stop="20260704063000 +0000" channel="Zoom.co@SD"><title lang="es">Documental</title></programme>
+<programme start="20260704063000 +0000" stop="20260704070000 +0000" channel="Zoom.co@SD"><title lang="es">NCC Salud</title></programme>
+<programme start="20260704070000 +0000" stop="20260704073000 +0000" channel="Zoom.co@SD"><title lang="es">Valor argentino</title></programme>
+<programme start="20260704073000 +0000" stop="20260704080000 +0000" channel="Zoom.co@SD"><title lang="es">México Biocultural</title></programme>
+<programme start="20260704080000 +0000" stop="20260704083000 +0000" channel="Zoom.co@SD"><title lang="es">Fuerza latina</title></programme>
+<programme start="20260704083000 +0000" stop="20260704090000 +0000" channel="Zoom.co@SD"><title lang="es">Documental</title></programme>
+<programme start="20260704090000 +0000" stop="20260704100000 +0000" channel="Zoom.co@SD"><title lang="es">Encuadre Iberoamericano</title></programme>
+<programme start="20260704100000 +0000" stop="20260704110000 +0000" channel="Zoom.co@SD"><title lang="es">Foros Andina Link 2026</title></programme>
+<programme start="20260704110000 +0000" stop="20260704113000 +0000" channel="Zoom.co@SD"><title lang="es">Zoom</title></programme>
+<programme start="20260704113000 +0000" stop="20260704120000 +0000" channel="Zoom.co@SD"><title lang="es">Revolucionar-IA</title></programme>
+<programme start="20260704120000 +0000" stop="20260704130000 +0000" channel="Zoom.co@SD"><title lang="es">Una historia de vasconia</title></programme>
+<programme start="20260704130000 +0000" stop="20260704131500 +0000" channel="Zoom.co@SD"><title lang="es">La UIS que queremos</title></programme>
+<programme start="20260704131500 +0000" stop="20260704133000 +0000" channel="Zoom.co@SD"><title lang="es">Ecos de gigantes</title></programme>
+<programme start="20260704133000 +0000" stop="20260704140000 +0000" channel="Zoom.co@SD"><title lang="es">La raíz doble Sabores periféricos</title></programme>
+<programme start="20260704140000 +0000" stop="20260704143000 +0000" channel="Zoom.co@SD"><title lang="es">NCC Salud</title></programme>
+<programme start="20260704143000 +0000" stop="20260704150000 +0000" channel="Zoom.co@SD"><title lang="es">Revolucionar-IA</title></programme>
+<programme start="20260704150000 +0000" stop="20260704153000 +0000" channel="Zoom.co@SD"><title lang="es">Valor argentino</title></programme>
+<programme start="20260704153000 +0000" stop="20260704160000 +0000" channel="Zoom.co@SD"><title lang="es">México Biocultural</title></programme>
+<programme start="20260704160000 +0000" stop="20260704163000 +0000" channel="Zoom.co@SD"><title lang="es">Viva la U</title></programme>
+<programme start="20260704163000 +0000" stop="20260704170000 +0000" channel="Zoom.co@SD"><title lang="es">Documental</title></programme>
+<programme start="20260704170000 +0000" stop="20260704180000 +0000" channel="Zoom.co@SD"><title lang="es">Agua, aire, tierra, fuego Cartografía del conflicto ambiental</title></programme>
+<programme start="20260704180000 +0000" stop="20260704190000 +0000" channel="Zoom.co@SD"><title lang="es">Documental</title></programme>
+<programme start="20260704190000 +0000" stop="20260704193000 +0000" channel="Zoom.co@SD"><title lang="es">Zoom</title></programme>
+<programme start="20260704193000 +0000" stop="20260704200000 +0000" channel="Zoom.co@SD"><title lang="es">Entrevista RT</title></programme>
+<programme start="20260704200000 +0000" stop="20260704203000 +0000" channel="Zoom.co@SD"><title lang="es">La lista de Erick</title></programme>
+<programme start="20260704203000 +0000" stop="20260704210000 +0000" channel="Zoom.co@SD"><title lang="es">Visión futuro</title></programme>
+<programme start="20260704210000 +0000" stop="20260704211500 +0000" channel="Zoom.co@SD"><title lang="es">La UIS que queremos</title></programme>
+<programme start="20260704211500 +0000" stop="20260704213000 +0000" channel="Zoom.co@SD"><title lang="es">Ecos de gigantes</title></programme>
+<programme start="20260704213000 +0000" stop="20260704220000 +0000" channel="Zoom.co@SD"><title lang="es">Historias de Mujeres</title></programme>
+<programme start="20260704220000 +0000" stop="20260704223000 +0000" channel="Zoom.co@SD"><title lang="es">Hablando con Clara</title></programme>
+<programme start="20260704223000 +0000" stop="20260704230000 +0000" channel="Zoom.co@SD"><title lang="es">Documental</title></programme>
+<programme start="20260704230000 +0000" stop="20260704231000 +0000" channel="Zoom.co@SD"><title lang="es">Gatipedia</title></programme>
+<programme start="20260704231000 +0000" stop="20260704232000 +0000" channel="Zoom.co@SD"><title lang="es">Exploramundos</title></programme>
+<programme start="20260704232000 +0000" stop="20260704233000 +0000" channel="Zoom.co@SD"><title lang="es">Inteligencia animal</title></programme>
+<programme start="20260704233000 +0000" stop="20260705000000 +0000" channel="Zoom.co@SD"><title lang="es">Documental</title></programme>
+<programme start="20260705000000 +0000" stop="20260705003000 +0000" channel="Zoom.co@SD"><title lang="es">Noticiero Científico y Cultural Iberoamericano</title></programme>
+<programme start="20260705003000 +0000" stop="20260705010000 +0000" channel="Zoom.co@SD"><title lang="es">Documental</title></programme>
+<programme start="20260705010000 +0000" stop="20260705013000 +0000" channel="Zoom.co@SD"><title lang="es">Documental</title></programme>
+<programme start="20260705013000 +0000" stop="20260705020000 +0000" channel="Zoom.co@SD"><title lang="es">Revolucionar-IA</title></programme>
+<programme start="20260705020000 +0000" stop="20260705023000 +0000" channel="Zoom.co@SD"><title lang="es">Documental</title></programme>
+<programme start="20260705023000 +0000" stop="20260705024500 +0000" channel="Zoom.co@SD"><title lang="es">Charlas universidad militar Nueva Granada</title></programme>
+<programme start="20260705024500 +0000" stop="20260705025000 +0000" channel="Zoom.co@SD"><title lang="es">Conexión Planeta</title></programme>
+<programme start="20260705025000 +0000" stop="20260705030000 +0000" channel="Zoom.co@SD"><title lang="es">Inteligencia animal</title></programme>
+<programme start="20260705030000 +0000" stop="20260705040000 +0000" channel="Zoom.co@SD"><title lang="es">Documental</title></programme>
+<programme start="20260705040000 +0000" stop="20260705043000 +0000" channel="Zoom.co@SD"><title lang="es">Artka</title></programme>
+<programme start="20260705043000 +0000" stop="20260705060000 +0000" channel="Zoom.co@SD"><title lang="es">De Película</title></programme>
+<programme start="20260705043000 +0000" stop="20260705060000 +0000" channel="Zoom.co@SD"><title lang="es">De Película</title></programme>
+<programme start="20260705060000 +0000" stop="20260705063000 +0000" channel="Zoom.co@SD"><title lang="es">NCC Salud</title></programme>
+<programme start="20260705063000 +0000" stop="20260705070000 +0000" channel="Zoom.co@SD"><title lang="es">Revolucionar-IA</title></programme>
+<programme start="20260705070000 +0000" stop="20260705073000 +0000" channel="Zoom.co@SD"><title lang="es">Valor argentino</title></programme>
+<programme start="20260705073000 +0000" stop="20260705080000 +0000" channel="Zoom.co@SD"><title lang="es">México Biocultural</title></programme>
+<programme start="20260705080000 +0000" stop="20260705083000 +0000" channel="Zoom.co@SD"><title lang="es">Viva la U</title></programme>
+<programme start="20260705083000 +0000" stop="20260705090000 +0000" channel="Zoom.co@SD"><title lang="es">Documental</title></programme>
+<programme start="20260705090000 +0000" stop="20260705100000 +0000" channel="Zoom.co@SD"><title lang="es">Agua, aire, tierra, fuego Cartografía del conflicto ambiental</title></programme>
+<programme start="20260705100000 +0000" stop="20260705110000 +0000" channel="Zoom.co@SD"><title lang="es">Documental</title></programme>
+<programme start="20260705110000 +0000" stop="20260705113000 +0000" channel="Zoom.co@SD"><title lang="es">Zoom</title></programme>
+<programme start="20260705113000 +0000" stop="20260705120000 +0000" channel="Zoom.co@SD"><title lang="es">Entrevista RT</title></programme>
+<programme start="20260705120000 +0000" stop="20260705123000 +0000" channel="Zoom.co@SD"><title lang="es">La lista de Erick</title></programme>
+<programme start="20260705123000 +0000" stop="20260705130000 +0000" channel="Zoom.co@SD"><title lang="es">Visión futuro</title></programme>
+<programme start="20260705130000 +0000" stop="20260705131500 +0000" channel="Zoom.co@SD"><title lang="es">La UIS que queremos</title></programme>
+<programme start="20260705131500 +0000" stop="20260705133000 +0000" channel="Zoom.co@SD"><title lang="es">Ecos de gigantes</title></programme>
+<programme start="20260705133000 +0000" stop="20260705140000 +0000" channel="Zoom.co@SD"><title lang="es">Historias de Mujeres</title></programme>
+<programme start="20260705140000 +0000" stop="20260705150000 +0000" channel="Zoom.co@SD"><title lang="es">Signos vitales</title></programme>
+<programme start="20260705150000 +0000" stop="20260705153000 +0000" channel="Zoom.co@SD"><title lang="es">Valor argentino</title></programme>
+<programme start="20260705153000 +0000" stop="20260705160000 +0000" channel="Zoom.co@SD"><title lang="es">México Biocultural</title></programme>
+<programme start="20260705160000 +0000" stop="20260705163000 +0000" channel="Zoom.co@SD"><title lang="es">NCC Salud</title></programme>
+<programme start="20260705163000 +0000" stop="20260705170000 +0000" channel="Zoom.co@SD"><title lang="es">Documental</title></programme>
+<programme start="20260705170000 +0000" stop="20260705173000 +0000" channel="Zoom.co@SD"><title lang="es">Global es</title></programme>
+<programme start="20260705173000 +0000" stop="20260705180000 +0000" channel="Zoom.co@SD"><title lang="es">Fuerza latina</title></programme>
+<programme start="20260705180000 +0000" stop="20260705190000 +0000" channel="Zoom.co@SD"><title lang="es">Foros Andina Link 2026</title></programme>
+<programme start="20260705190000 +0000" stop="20260705193000 +0000" channel="Zoom.co@SD"><title lang="es">Documental</title></programme>
+<programme start="20260705193000 +0000" stop="20260705200000 +0000" channel="Zoom.co@SD"><title lang="es">Documental</title></programme>
+<programme start="20260705200000 +0000" stop="20260705210000 +0000" channel="Zoom.co@SD"><title lang="es">Agua, aire, tierra, fuego Cartografía del conflicto ambiental</title></programme>
+<programme start="20260705210000 +0000" stop="20260705211500 +0000" channel="Zoom.co@SD"><title lang="es">Iberoamérica en órbita - Noticiero</title></programme>
+<programme start="20260705211500 +0000" stop="20260705213000 +0000" channel="Zoom.co@SD"><title lang="es">Ecos de gigantes</title></programme>
+<programme start="20260705213000 +0000" stop="20260705220000 +0000" channel="Zoom.co@SD"><title lang="es">Otra excursión a los indios Ranqueles</title></programme>
+<programme start="20260705220000 +0000" stop="20260705230000 +0000" channel="Zoom.co@SD"><title lang="es">Microbios al aire</title></programme>
+<programme start="20260705230000 +0000" stop="20260705231000 +0000" channel="Zoom.co@SD"><title lang="es">Región U</title></programme>
+<programme start="20260705231000 +0000" stop="20260705231500 +0000" channel="Zoom.co@SD"><title lang="es">Este es mi cuento colombiano</title></programme>
+<programme start="20260705231500 +0000" stop="20260705233000 +0000" channel="Zoom.co@SD"><title lang="es">Iberoamérica en órbita - Noticiero</title></programme>
+<programme start="20260705233000 +0000" stop="20260706000000 +0000" channel="Zoom.co@SD"><title lang="es">Documental</title></programme>
+<programme start="20260706000000 +0000" stop="20260706003000 +0000" channel="Zoom.co@SD"><title lang="es">Con Olor a Región</title></programme>
+<programme start="20260706003000 +0000" stop="20260706010000 +0000" channel="Zoom.co@SD"><title lang="es">Documental</title></programme>
+<programme start="20260706010000 +0000" stop="20260706014500 +0000" channel="Zoom.co@SD"><title lang="es">Hablemos de Cine</title></programme>
+<programme start="20260706014500 +0000" stop="20260706020000 +0000" channel="Zoom.co@SD"><title lang="es">Ve cine</title></programme>
+<programme start="20260706020000 +0000" stop="20260706023000 +0000" channel="Zoom.co@SD"><title lang="es">Documental</title></programme>
+<programme start="20260706023000 +0000" stop="20260706030000 +0000" channel="Zoom.co@SD"><title lang="es">Estación universitaria</title></programme>
+<programme start="20260706030000 +0000" stop="20260706033000 +0000" channel="Zoom.co@SD"><title lang="es">Rodando caminos</title></programme>
+<programme start="20260706033000 +0000" stop="20260706040000 +0000" channel="Zoom.co@SD"><title lang="es">México Biocultural</title></programme>
+<programme start="20260706040000 +0000" stop="20260706043000 +0000" channel="Zoom.co@SD"><title lang="es">Artka</title></programme>
+<programme start="20260706043000 +0000" stop="20260706050000 +0000" channel="Zoom.co@SD"><title lang="es">Testigo Directo</title></programme>
 <programme start="20260704050000 +0000" stop="20260704053000 +0000" channel="zoomoo_latinoamerica"><title lang="es">Espectáculo de animales con St</title></programme>
 <programme start="20260704053000 +0000" stop="20260704060000 +0000" channel="zoomoo_latinoamerica"><title lang="es">Espectáculo de animales con St</title></programme>
 <programme start="20260704060000 +0000" stop="20260704063000 +0000" channel="zoomoo_latinoamerica"><title lang="es">Espectáculo de animales con St</title></programme>
