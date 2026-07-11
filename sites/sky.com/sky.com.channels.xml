@@ -360,7 +360,7 @@
   <channel site="sky.com" site_id="4014" lang="en" xmltv_id="SkyCinemaAction.uk@HD">Sky Action HD</channel>
   <channel site="sky.com" site_id="4019" lang="en" xmltv_id="SkyCinemaComedy.uk@HD">Sky Comedy HD</channel>
   <channel site="sky.com" site_id="4016" lang="en" xmltv_id="SkyCinemaDrama.uk@HD">Sky Drama HD</channel>
-  <channel site="sky.com" site_id="4018" lang="en" xmltv_id="SkyCinemaFamily.uk@HD">Sky Family HD</channel>
+  <channel site="sky.com" site_id="4018" lang="en" xmltv_id="SkyCinemaFamily.uk@HD">SkyWickedHD</channel>
   <channel site="sky.com" site_id="4015" lang="en" xmltv_id="SkyCinemaGreats.uk@SD">Sky Greats HD</channel>
   <channel site="sky.com" site_id="4033" lang="en" xmltv_id="SkyCinemaHits.uk@SD">Sky BHC HD</channel>
   <channel site="sky.com" site_id="4021" lang="en" xmltv_id="SkyCinemaPremiere.uk@HD">SkyPremiereHD</channel>
