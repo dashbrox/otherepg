@@ -98,6 +98,7 @@
   <channel site="gatotv.com" site_id="la_red_chile" lang="es" xmltv_id="">La Red Chile</channel>
   <channel site="gatotv.com" site_id="las_estrellas_latinoamerica" lang="es" xmltv_id="">Las Estrellas LATAM</channel>
   <channel site="gatotv.com" site_id="max_anime_latinoamerica" lang="es" xmltv_id="">Max Anime LATAM</channel>
+  <channel site="gatotv.com" site_id="meganoticias_mx" lang="es" xmltv_id="">Meganoticias MX</channel>
   <channel site="gatotv.com" site_id="mtv_centro" lang="es" xmltv_id="">MTV Centro</channel>
   <channel site="gatotv.com" site_id="national_geographic_centro" lang="es" xmltv_id="">National Geographic Centro</channel>
   <channel site="gatotv.com" site_id="nick_junior_latinoamerica" lang="es" xmltv_id="">Nick Jr. Latinoamérica</channel>
@@ -120,8 +121,6 @@
   <channel site="gatotv.com" site_id="starz_encore_espanol" lang="es" xmltv_id="">Starz Encore Español</channel>
   <channel site="gatotv.com" site_id="sun_channel" lang="es" xmltv_id="">Sun Channel</channel>
   <channel site="gatotv.com" site_id="tc_television" lang="es" xmltv_id="">TC Televisión</channel>
-  <channel site="gatotv.com" site_id="telehit_musica" lang="es" xmltv_id="">Telehit Música</channel>
-  <channel site="gatotv.com" site_id="telehit_musica_plus" lang="es" xmltv_id="">Telehit Música Plus</channel>
   <channel site="gatotv.com" site_id="telemundo_mexico" lang="es" xmltv_id="">Telemundo México</channel>
   <channel site="gatotv.com" site_id="telemundo_panregional" lang="es" xmltv_id="">Telemundo PAN</channel>
   <channel site="gatotv.com" site_id="telemundo_puerto_rico" lang="es" xmltv_id="">Telemundo Puerto Rico</channel>
@@ -136,6 +135,7 @@
   <channel site="gatotv.com" site_id="tr3s" lang="es" xmltv_id="">Tr3s</channel>
   <channel site="gatotv.com" site_id="tv_agro_centroamerica" lang="es" xmltv_id="">TV Agro C. A.</channel>
   <channel site="gatotv.com" site_id="tv_azteca_deportes" lang="es" xmltv_id="">TV Azteca Deportes</channel>
+  <channel site="gatotv.com" site_id="tvmax" lang="es" xmltv_id="">9 de Panamá</channel>
   <channel site="gatotv.com" site_id="ultra_cine" lang="es" xmltv_id="">Ultra Cine</channel>
   <channel site="gatotv.com" site_id="ultra_docu" lang="es" xmltv_id="">Ultra Docu</channel>
   <channel site="gatotv.com" site_id="ultra_fiesta" lang="es" xmltv_id="">Ultra Fiesta</channel>
