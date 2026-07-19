@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20260719">
 <channel id="5-star-max-hd--eastern/7093"><display-name>5 Star Max HD - Eastern</display-name><url>https://tvpassport.com</url></channel>
-<channel id="tsn5-hd/13770"><display-name>TSN5 HD</display-name><url>https://tvpassport.com</url></channel>
-<channel id="tsn4-hd/13769"><display-name>TSN4 HD</display-name><url>https://tvpassport.com</url></channel>
-<channel id="tsn3-hd/13768"><display-name>TSN3 HD</display-name><url>https://tvpassport.com</url></channel>
+<channel id="abc-kabc-los-angeles-ca-hd/4552"><display-name>ABC (KABC) Los Angeles, CA HD</display-name><url>https://tvpassport.com</url></channel>
+<channel id="abc-wabc-new-york-ny-hd/4553"><display-name>ABC (WABC) New York, NY HD</display-name><url>https://tvpassport.com</url></channel>
+<channel id="bravo-usa-hd--pacific-feed/16226"><display-name>Bravo USA HD - Pacific Feed</display-name><url>https://tvpassport.com</url></channel>
+<channel id="fox--eastern/1229"><display-name>FOX - Eastern</display-name><url>https://tvpassport.com</url></channel>
+<channel id="nbc-knbc-los-angeles-ca-hd/4558"><display-name>NBC (KNBC) Los Angeles, CA HD</display-name><url>https://tvpassport.com</url></channel>
+<channel id="nbc--network-eastern/1227"><display-name>NBC - Network Eastern</display-name><url>https://tvpassport.com</url></channel>
+<channel id="bravo-usa-hd--eastern-feed/6120"><display-name>Bravo USA HD - Eastern Feed</display-name><url>https://tvpassport.com</url></channel>
 <channel id="tsn2-hd/5920"><display-name>TSN2 HD</display-name><url>https://tvpassport.com</url></channel>
 <channel id="tsn1-hd/2819"><display-name>TSN1 HD</display-name><url>https://tvpassport.com</url></channel>
 <channel id="trutv-usa--east-hd/6996"><display-name>truTV USA - East HD</display-name><url>https://tvpassport.com</url></channel>
@@ -15,10 +19,10 @@
 <channel id="starz-comedy-hd--eastern/7088"><display-name>Starz Comedy HD - Eastern</display-name><url>https://tvpassport.com</url></channel>
 <channel id="starz-cinema-hd--eastern/7087"><display-name>Starz Cinema HD - Eastern</display-name><url>https://tvpassport.com</url></channel>
 <channel id="starz1--east-hd/3613"><display-name>STARZ1 - East HD</display-name><url>https://tvpassport.com</url></channel>
-<channel id="nbc-knbc-los-angeles-ca-hd/4558"><display-name>NBC (KNBC) Los Angeles, CA HD</display-name><url>https://tvpassport.com</url></channel>
-<channel id="nbc--network-eastern/1227"><display-name>NBC - Network Eastern</display-name><url>https://tvpassport.com</url></channel>
+<channel id="e-entertainment-usa-hd--east/6659"><display-name>E! Entertainment USA HD - East</display-name><url>https://tvpassport.com</url></channel>
 <channel id="mtv-usa-hd--eastern/4525"><display-name>MTV USA HD - Eastern</display-name><url>https://tvpassport.com</url></channel>
 <channel id="moremax--eastern-hd/7097"><display-name>MoreMax - Eastern HD</display-name><url>https://tvpassport.com</url></channel>
+<channel id="cw--network-eastern/1231"><display-name>CW - Network Eastern</display-name><url>https://tvpassport.com</url></channel>
 <channel id="hbo-zone-hd--east/7102"><display-name>HBO Zone HD - East</display-name><url>https://tvpassport.com</url></channel>
 <channel id="hbo-signature-hbo-3--eastern-hd/7099"><display-name>HBO Signature (HBO 3) - Eastern HD</display-name><url>https://tvpassport.com</url></channel>
 <channel id="hbo-latino-hbo-7-hd--eastern/7096"><display-name>HBO Latino (HBO 7) HD - Eastern</display-name><url>https://tvpassport.com</url></channel>
@@ -26,16 +30,12 @@
 <channel id="hbo-2--eastern-feed-hd/6313"><display-name>HBO 2 - Eastern Feed HD</display-name><url>https://tvpassport.com</url></channel>
 <channel id="hallmark-mystery-eastern--hd/6214"><display-name>Hallmark Mystery Eastern - HD</display-name><url>https://tvpassport.com</url></channel>
 <channel id="hallmark-channel-hd--eastern/6213"><display-name>Hallmark Channel HD - Eastern</display-name><url>https://tvpassport.com</url></channel>
-<channel id="fox--eastern/1229"><display-name>FOX - Eastern</display-name><url>https://tvpassport.com</url></channel>
-<channel id="e-entertainment-usa-hd--east/6659"><display-name>E! Entertainment USA HD - East</display-name><url>https://tvpassport.com</url></channel>
-<channel id="cw--network-eastern/1231"><display-name>CW - Network Eastern</display-name><url>https://tvpassport.com</url></channel>
+<channel id="actionmax--eastern-hd/7094"><display-name>ActionMax - Eastern HD</display-name><url>https://tvpassport.com</url></channel>
 <channel id="cnn-hd/4724"><display-name>CNN HD</display-name><url>https://tvpassport.com</url></channel>
 <channel id="cbs-wcbs-new-york-ny-hd/4555"><display-name>CBS (WCBS) New York, NY HD</display-name><url>https://tvpassport.com</url></channel>
-<channel id="bravo-usa-hd--pacific-feed/16226"><display-name>Bravo USA HD - Pacific Feed</display-name><url>https://tvpassport.com</url></channel>
-<channel id="bravo-usa-hd--eastern-feed/6120"><display-name>Bravo USA HD - Eastern Feed</display-name><url>https://tvpassport.com</url></channel>
-<channel id="actionmax--eastern-hd/7094"><display-name>ActionMax - Eastern HD</display-name><url>https://tvpassport.com</url></channel>
-<channel id="abc-wabc-new-york-ny-hd/4553"><display-name>ABC (WABC) New York, NY HD</display-name><url>https://tvpassport.com</url></channel>
-<channel id="abc-kabc-los-angeles-ca-hd/4552"><display-name>ABC (KABC) Los Angeles, CA HD</display-name><url>https://tvpassport.com</url></channel>
+<channel id="tsn4-hd/13769"><display-name>TSN4 HD</display-name><url>https://tvpassport.com</url></channel>
+<channel id="tsn3-hd/13768"><display-name>TSN3 HD</display-name><url>https://tvpassport.com</url></channel>
+<channel id="tsn5-hd/13770"><display-name>TSN5 HD</display-name><url>https://tvpassport.com</url></channel>
 <programme start="20260719083800 +0000" stop="20260719104100 +0000" channel="5-star-max-hd--eastern/7093"><title lang="en">Kiss of the Spider Woman</title><desc lang="en">Kiss of the Spider Woman (1985)In a Latin American prison, an emotional relationship evolves between a homosexual and his cellmate, a political radical.</desc><credits><actor>William Hurt</actor><actor>Raul Julia</actor><actor>Sônia Braga</actor></credits><category lang="en">Movies</category><category lang="en">Drama</category><image>https://cdn.tvpassport.com/image/show/960x540/v2/p8762_p_v8_aa.jpg</image></programme>
 <programme start="20260719083800 +0000" stop="20260719104100 +0000" channel="5-star-max-hd--eastern/7093"><title lang="en">Kiss of the Spider Woman</title><desc lang="en">Kiss of the Spider Woman (1985)In a Latin American prison, an emotional relationship evolves between a homosexual and his cellmate, a political radical.</desc><credits><actor>William Hurt</actor><actor>Raul Julia</actor><actor>Sônia Braga</actor></credits><category lang="en">Movies</category><category lang="en">Drama</category><image>https://cdn.tvpassport.com/image/show/960x540/v2/p8762_p_v8_aa.jpg</image></programme>
 <programme start="20260719083800 +0000" stop="20260719104100 +0000" channel="5-star-max-hd--eastern/7093"><title lang="en">Kiss of the Spider Woman</title><desc lang="en">Kiss of the Spider Woman (1985)In a Latin American prison, an emotional relationship evolves between a homosexual and his cellmate, a political radical.</desc><credits><actor>William Hurt</actor><actor>Raul Julia</actor><actor>Sônia Braga</actor></credits><category lang="en">Movies</category><category lang="en">Drama</category><image>https://cdn.tvpassport.com/image/show/960x540/v2/p8762_p_v8_aa.jpg</image></programme>
@@ -442,7 +442,7 @@
 <programme start="20260719200000 +0000" stop="20260719220000 +0000" channel="cbs-wcbs-new-york-ny-hd/4555"><title lang="en">WNBA Basketball</title><desc lang="en">WNBA Basketball Chicago Sky vs. Atlanta DreamThe Sky travel to Gateway Center to play the Dream in a WNBA regular-season game. Atlanta leads the season series 1-0 after an 82-75 win against Chicago behind Angel Reese who secured a 57th career double-double against her former team.</desc><category lang="en">Sports</category><category lang="en">Basketball</category><image>https://cdn.tvpassport.com/image/show/960x540/v2/p191289_b_v12_ah.jpg</image></programme>
 <programme start="20260719220000 +0000" stop="20260719223000 +0000" channel="cbs-wcbs-new-york-ny-hd/4555"><title lang="en">CBS Evening News</title><desc lang="en">CBS Evening News New Tony Dokoupil shares the day&apos;s most important stories, delivering context and depth to bring greater understanding to one&apos;s world.</desc><category lang="en">News</category><image>https://cdn.tvpassport.com/image/show/960x540/v2/p28807922_b_v12_ae.jpg</image></programme>
 <programme start="20260719223000 +0000" stop="20260719230000 +0000" channel="cbs-wcbs-new-york-ny-hd/4555"><title lang="en">CBS News New York</title><desc lang="en">CBS News New York New Stay informed with the latest breaking news and headlines.</desc><category lang="en">Specials</category><category lang="en">News</category><image>https://cdn.tvpassport.com/image/show/960x540/v2/p21788475_b_v12_aa.jpg</image></programme>
-<programme start="20260719230000 +0000" stop="20260720000000 +0000" channel="cbs-wcbs-new-york-ny-hd/4555"><title lang="en">60 Minutes</title><desc lang="en">60 Minutes New Newsmagazine with features focusing on people, and events in the news and behind the headlines.</desc><category lang="en">News Magazine</category></programme>
+<programme start="20260719230000 +0000" stop="20260720000000 +0000" channel="cbs-wcbs-new-york-ny-hd/4555"><title lang="en">60 Minutes</title><desc lang="en">60 Minutes New Newsmagazine with features focusing on people, and events in the news and behind the headlines.</desc><category lang="en">News Magazine</category><image>https://cdn.tvpassport.com/image/show/960x540/v2/p184224_b_v12_an.jpg</image></programme>
 <programme start="20260720000000 +0000" stop="20260720010000 +0000" channel="cbs-wcbs-new-york-ny-hd/4555"><title lang="en">Big Brother</title><desc lang="en">Big Brother Episode 6 New The head of household nominates three fellow houseguests for possible eviction.</desc><category lang="en">Game Shows</category><rating system="MPA"><value>TV-PG</value></rating><image>https://cdn.tvpassport.com/image/show/960x540/v2/p188043_b_v12_am.jpg</image></programme>
 <programme start="20260720010000 +0000" stop="20260720020000 +0000" channel="cbs-wcbs-new-york-ny-hd/4555"><title lang="en">Tracker</title><desc lang="en">Tracker Daughters Colter is hired to find a teen girl who went missing from a friend&apos;s house during a tragic triple homicide.</desc><credits><actor>Justin Hartley</actor><actor>Fiona Rene</actor></credits><category lang="en">Drama</category><rating system="MPA"><value>TV-14</value></rating><image>https://cdn.tvpassport.com/image/show/960x540/v2/p23665385_b_v12_ai.jpg</image></programme>
 <programme start="20260720020000 +0000" stop="20260720030000 +0000" channel="cbs-wcbs-new-york-ny-hd/4555"><title lang="en">Marshals</title><desc lang="en">Marshals Blowback The Marshals go manhunting after receiving a tip that a dangerous fugitive is on the loose; Kayce and Cal struggle to reckon with their time at war when a former SEAL brother drifts back into their lives as they hunt a vicious enemy.</desc><credits><actor>Luke Grimes</actor><actor>Logan Marshall-Green</actor><actor>Arielle Kebbel</actor></credits><category lang="en">Drama</category><rating system="MPA"><value>TV-14</value></rating><image>https://cdn.tvpassport.com/image/show/960x540/v2/p30177518_b_v12_ab.jpg</image></programme>
