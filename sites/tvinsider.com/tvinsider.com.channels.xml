@@ -223,6 +223,7 @@
   <channel site="tvinsider.com" site_id="nbc-sports-bay-area" lang="en" xmltv_id="">NBC Sports Bay Area</channel>
   <channel site="tvinsider.com" site_id="nbc-sports-chicago" lang="en" xmltv_id="">NBC Sports Chicago</channel>
   <channel site="tvinsider.com" site_id="nbc-sports-philadelphia" lang="en" xmltv_id="">NBC Sports Philadelphia</channel>
+  <channel site="tvinsider.com" site_id="nbcsn" lang="en" xmltv_id="">NBCSN</channel>
   <channel site="tvinsider.com" site_id="necn" lang="en" xmltv_id="">NECN</channel>
   <channel site="tvinsider.com" site_id="netflix" lang="en" xmltv_id="">Netflix</channel>
   <channel site="tvinsider.com" site_id="new-england-sports-network" lang="en" xmltv_id="">NESN</channel>
