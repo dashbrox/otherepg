@@ -1,185 +1,185 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv date="20260723">
 <channel id="7tvmur"><display-name>7 TV Región Murcia</display-name><url>https://movistarplus.es</url></channel>
-<channel id="13tv"><display-name>TRECE</display-name><url>https://movistarplus.es</url></channel>
-<channel id="3_24"><display-name>3CatInfo</display-name><url>https://movistarplus.es</url></channel>
-<channel id="antv"><display-name>Canal Sur Andalucía</display-name><url>https://movistarplus.es</url></channel>
-<channel id="axn"><display-name>AXN</display-name><url>https://movistarplus.es</url></channel>
-<channel id="canar"><display-name>TV Canaria</display-name><url>https://movistarplus.es</url></channel>
-<channel id="dazmot"><display-name>DAZN MotoGP</display-name><url>https://movistarplus.es</url></channel>
-<channel id="dazba"><display-name>DAZN Baloncesto</display-name><url>https://movistarplus.es</url></channel>
-<channel id="can33"><display-name>33</display-name><url>https://movistarplus.es</url></channel>
-<channel id="dazb3"><display-name>DAZN Baloncesto 3</display-name><url>https://movistarplus.es</url></channel>
-<channel id="dazb2"><display-name>DAZN Baloncesto 2</display-name><url>https://movistarplus.es</url></channel>
-<channel id="atress"><display-name>Atreseries</display-name><url>https://movistarplus.es</url></channel>
-<channel id="c33"><display-name>SX3</display-name><url>https://movistarplus.es</url></channel>
-<channel id="dayst"><display-name>Daystar Español HD</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cyltv"><display-name>La 7</display-name><url>https://movistarplus.es</url></channel>
-<channel id="c4"><display-name>Cuatro</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cubav"><display-name>Cubavisión</display-name><url>https://movistarplus.es</url></channel>
-<channel id="csurhd"><display-name>Canal Sur HD</display-name><url>https://movistarplus.es</url></channel>
-<channel id="andatv"><display-name>Andalucía TV</display-name><url>https://movistarplus.es</url></channel>
-<channel id="atlat"><display-name>Atlántico TV</display-name><url>https://movistarplus.es</url></channel>
-<channel id="btv"><display-name>Betevé</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cpdep"><display-name>M+ Deportes</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cpcome"><display-name>M+ Comedia</display-name><url>https://movistarplus.es</url></channel>
-<channel id="boing"><display-name>Boing</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cpcole"><display-name>M+ Drama</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cpacci"><display-name>M+ Acción</display-name><url>https://movistarplus.es</url></channel>
-<channel id="m2sd"><display-name>DAZN 2</display-name><url>https://movistarplus.es</url></channel>
-<channel id="m1sd"><display-name>DAZN 1</display-name><url>https://movistarplus.es</url></channel>
-<channel id="arthur"><display-name>M+ Deportes 2</display-name><url>https://movistarplus.es</url></channel>
-<channel id="bl"><display-name>Bloomberg</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cosmo"><display-name>COSMO</display-name><url>https://movistarplus.es</url></channel>
-<channel id="la2"><display-name>LA 2</display-name><url>https://movistarplus.es</url></channel>
-<channel id="inteua"><display-name>1+1 Internacional</display-name><url>https://movistarplus.es</url></channel>
-<channel id="colomb"><display-name>TV Colombia</display-name><url>https://movistarplus.es</url></channel>
-<channel id="inteco"><display-name>El Toro TV</display-name><url>https://movistarplus.es</url></channel>
-<channel id="iberal"><display-name>Iberalia TV</display-name><url>https://movistarplus.es</url></channel>
-<channel id="bemad"><display-name>BE MAD</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cnn"><display-name>CNN Int</display-name><url>https://movistarplus.es</url></channel>
-<channel id="ib3"><display-name>IB3</display-name><url>https://movistarplus.es</url></channel>
-<channel id="golf+"><display-name>M+ Golf</display-name><url>https://movistarplus.es</url></channel>
-<channel id="classd"><display-name>Classica</display-name><url>https://movistarplus.es</url></channel>
-<channel id="golf2"><display-name>M+ Golf 2</display-name><url>https://movistarplus.es</url></channel>
-<channel id="gol"><display-name>GOL</display-name><url>https://movistarplus.es</url></channel>
-<channel id="24h"><display-name>24 Horas</display-name><url>https://movistarplus.es</url></channel>
-<channel id="aljaze"><display-name>Al Jazeera English</display-name><url>https://movistarplus.es</url></channel>
-<channel id="arirhd"><display-name>Arirang TV HD</display-name><url>https://movistarplus.es</url></channel>
-<channel id="bbhis"><display-name>BBC History</display-name><url>https://movistarplus.es</url></channel>
-<channel id="clantv"><display-name>Clan TVE</display-name><url>https://movistarplus.es</url></channel>
-<channel id="galav"><display-name>Canal de las Estrellas</display-name><url>https://movistarplus.es</url></channel>
-<channel id="futrep"><display-name>Canal Fútbol Replay</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cl13"><display-name>Calle 13</display-name><url>https://movistarplus.es</url></channel>
-<channel id="freeli"><display-name>M+ Cero</display-name><url>https://movistarplus.es</url></channel>
-<channel id="france"><display-name>FRANCE24 (FR)</display-name><url>https://movistarplus.es</url></channel>
-<channel id="bbgea"><display-name>BBC Top Gear</display-name><url>https://movistarplus.es</url></channel>
-<channel id="chile"><display-name>TV Chile</display-name><url>https://movistarplus.es</url></channel>
-<channel id="foxge"><display-name>STAR Channel</display-name><url>https://movistarplus.es</url></channel>
-<channel id="flix2"><display-name>Canal FlixOlé 2</display-name><url>https://movistarplus.es</url></channel>
-<channel id="chapio"><display-name>M+ Liga de Campeones</display-name><url>https://movistarplus.es</url></channel>
-<channel id="flix1"><display-name>Canal FlixOlé 1</display-name><url>https://movistarplus.es</url></channel>
-<channel id="fdfic"><display-name>Factoría de Ficción</display-name><url>https://movistarplus.es</url></channel>
-<channel id="aragtv"><display-name>Aragón TV</display-name><url>https://movistarplus.es</url></channel>
-<channel id="bbfoo"><display-name>BBC Food</display-name><url>https://movistarplus.es</url></channel>
-<channel id="chap4"><display-name>M+ Liga de Campeones 5</display-name><url>https://movistarplus.es</url></channel>
-<channel id="extrem"><display-name>Canal Extremadura Sat</display-name><url>https://movistarplus.es</url></channel>
-<channel id="extre"><display-name>Canal Extremadura</display-name><url>https://movistarplus.es</url></channel>
-<channel id="chap3"><display-name>M+ Liga de Campeones 4</display-name><url>https://movistarplus.es</url></channel>
-<channel id="ewtn"><display-name>EWTN</display-name><url>https://movistarplus.es</url></channel>
-<channel id="etb3"><display-name>etb1ON</display-name><url>https://movistarplus.es</url></channel>
-<channel id="bbdra"><display-name>BBC Series</display-name><url>https://movistarplus.es</url></channel>
-<channel id="chap2"><display-name>M+ Liga de Campeones 3</display-name><url>https://movistarplus.es</url></channel>
-<channel id="etb2"><display-name>etb2</display-name><url>https://movistarplus.es</url></channel>
-<channel id="etb1"><display-name>etb1</display-name><url>https://movistarplus.es</url></channel>
-<channel id="chap1"><display-name>M+ Liga de Campeones 2</display-name><url>https://movistarplus.es</url></channel>
-<channel id="etb"><display-name>etb2ON</display-name><url>https://movistarplus.es</url></channel>
-<channel id="esp3"><display-name>Esport 3</display-name><url>https://movistarplus.es</url></channel>
-<channel id="a3"><display-name>Antena 3</display-name><url>https://movistarplus.es</url></channel>
-<channel id="aragon"><display-name>Aragón TV Int</display-name><url>https://movistarplus.es</url></channel>
-<channel id="bbclif"><display-name>BBC Lifestyle</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cgtnfr"><display-name>CGTN Français HD</display-name><url>https://movistarplus.es</url></channel>
-<channel id="esp2"><display-name>Eurosport 2</display-name><url>https://movistarplus.es</url></channel>
-<channel id="esp"><display-name>Eurosport 1</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cgtnen"><display-name>CGTN English HD</display-name><url>https://movistarplus.es</url></channel>
-<channel id="enw"><display-name>Euronews</display-name><url>https://movistarplus.es</url></channel>
-<channel id="energy"><display-name>Energy</display-name><url>https://movistarplus.es</url></channel>
-<channel id="bbcear"><display-name>BBC Earth</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cgtndo"><display-name>CGTN Documentary HD</display-name><url>https://movistarplus.es</url></channel>
-<channel id="dwsp"><display-name>Dreamworks</display-name><url>https://movistarplus.es</url></channel>
-<channel id="dkiss"><display-name>DKISS</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cgtnd"><display-name>CGTN Documentary</display-name><url>https://movistarplus.es</url></channel>
-<channel id="divini"><display-name>Divinity</display-name><url>https://movistarplus.es</url></channel>
-<channel id="dcrmax"><display-name>DMAX</display-name><url>https://movistarplus.es</url></channel>
-<channel id="apunt"><display-name>À Punt</display-name><url>https://movistarplus.es</url></channel>
-<channel id="bbc"><display-name>BBC News</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cctv-e"><display-name>CGTN Español</display-name><url>https://movistarplus.es</url></channel>
-<channel id="dcr"><display-name>Discovery</display-name><url>https://movistarplus.es</url></channel>
-<channel id="dcesp"><display-name>M+ Cine Español</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cazpes"><display-name>Caza y Pesca</display-name><url>https://movistarplus.es</url></channel>
-<channel id="daznli"><display-name>DAZN MUNDIAL</display-name><url>https://movistarplus.es</url></channel>
-<channel id="daznl4"><display-name>DAZN MUNDIAL 4</display-name><url>https://movistarplus.es</url></channel>
-<channel id="baby"><display-name>Baby TV</display-name><url>https://movistarplus.es</url></channel>
-<channel id="casman"><display-name>Castilla la Mancha TV</display-name><url>https://movistarplus.es</url></channel>
-<channel id="daznl3"><display-name>DAZN MUNDIAL 3</display-name><url>https://movistarplus.es</url></channel>
-<channel id="daznl2"><display-name>DAZN MUNDIAL 2</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cansur"><display-name>Canal Sur</display-name><url>https://movistarplus.es</url></channel>
-<channel id="dazn4"><display-name>DAZN 4</display-name><url>https://movistarplus.es</url></channel>
-<channel id="dazn3"><display-name>DAZN 3</display-name><url>https://movistarplus.es</url></channel>
-<channel id="nick"><display-name>Nickelodeon</display-name><url>https://movistarplus.es</url></channel>
-<channel id="natgw"><display-name>Nat Geo Wild</display-name><url>https://movistarplus.es</url></channel>
-<channel id="natgeo"><display-name>National Geographic</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mvf1"><display-name>DAZN F1</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mv1"><display-name>M+ Estrenos</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mplus"><display-name>Movistar Plus</display-name><url>https://movistarplus.es</url></channel>
-<channel id="morig"><display-name>M+ Originales</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mliuhd"><display-name>M+ LALIGA 2 HDR</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mliguh"><display-name>M+ LALIGA HDR</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mliga"><display-name>M+ LALIGA</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mlig1"><display-name>M+ LALIGA 2</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mindi"><display-name>M+ Indie</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mellav"><display-name>M+ Vamos 3</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mega"><display-name>Mega</display-name><url>https://movistarplus.es</url></channel>
-<channel id="medite"><display-name>La Ocho TV</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mcopa"><display-name>Primera Federación</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mbalct"><display-name>M+ Baloncesto</display-name><url>https://movistarplus.es</url></channel>
-<channel id="maxava"><display-name>HBO Max Avances</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tcm"><display-name>TCM</display-name><url>https://movistarplus.es</url></channel>
-<channel id="t5"><display-name>Telecinco</display-name><url>https://movistarplus.es</url></channel>
 <channel id="veo7"><display-name>Veo7</display-name><url>https://movistarplus.es</url></channel>
 <channel id="vamosd"><display-name>M+ Vamos</display-name><url>https://movistarplus.es</url></channel>
 <channel id="vam2sd"><display-name>M+ Vamos 2</display-name><url>https://movistarplus.es</url></channel>
 <channel id="usop11"><display-name>M+ Deportes 5</display-name><url>https://movistarplus.es</url></channel>
 <channel id="usop3"><display-name>M+ Deportes 4</display-name><url>https://movistarplus.es</url></channel>
 <channel id="usop2"><display-name>M+ Deportes 3</display-name><url>https://movistarplus.es</url></channel>
+<channel id="ucl"><display-name>UCL</display-name><url>https://movistarplus.es</url></channel>
 <channel id="tvgal"><display-name>TVG -TV Galicia</display-name><url>https://movistarplus.es</url></channel>
 <channel id="tvg2"><display-name>TVG 2</display-name><url>https://movistarplus.es</url></channel>
 <channel id="tvg"><display-name>TVG Europa</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tve"><display-name>LA 1</display-name><url>https://movistarplus.es</url></channel>
 <channel id="tvc"><display-name>TV3 Cat</display-name><url>https://movistarplus.es</url></channel>
 <channel id="tv5"><display-name>TV5MONDE</display-name><url>https://movistarplus.es</url></channel>
 <channel id="tv3cat"><display-name>TV3</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tpa"><display-name>TPA</display-name><url>https://movistarplus.es</url></channel>
 <channel id="tnt"><display-name>Warner TV</display-name><url>https://movistarplus.es</url></channel>
 <channel id="tlesur"><display-name>Telesur</display-name><url>https://movistarplus.es</url></channel>
 <channel id="ten"><display-name>Ten</display-name><url>https://movistarplus.es</url></channel>
+<channel id="telmin"><display-name>Telemadrid Int.</display-name><url>https://movistarplus.es</url></channel>
 <channel id="telmad"><display-name>Telemadrid</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tdep"><display-name>Teledeporte</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tcm"><display-name>TCM</display-name><url>https://movistarplus.es</url></channel>
+<channel id="t5"><display-name>Telecinco</display-name><url>https://movistarplus.es</url></channel>
 <channel id="squi"><display-name>Squirrel</display-name><url>https://movistarplus.es</url></channel>
+<channel id="skysho"><display-name>SkyShowtime 1</display-name><url>https://movistarplus.es</url></channel>
+<channel id="skynw"><display-name>Sky News</display-name><url>https://movistarplus.es</url></channel>
 <channel id="sexta"><display-name>La Sexta</display-name><url>https://movistarplus.es</url></channel>
 <channel id="set"><display-name>AXN Movies</display-name><url>https://movistarplus.es</url></channel>
+<channel id="sci-fi"><display-name>SYFY</display-name><url>https://movistarplus.es</url></channel>
 <channel id="realm"><display-name>Real Madrid TV</display-name><url>https://movistarplus.es</url></channel>
+<channel id="popuhd"><display-name>M+ Wimbledon UHD</display-name><url>https://movistarplus.es</url></channel>
 <channel id="playdc"><display-name>Disney Channel</display-name><url>https://movistarplus.es</url></channel>
+<channel id="pcm"><display-name>Comedy Central</display-name><url>https://movistarplus.es</url></channel>
 <channel id="otra"><display-name>La Otra</display-name><url>https://movistarplus.es</url></channel>
+<channel id="nova"><display-name>Nova</display-name><url>https://movistarplus.es</url></channel>
 <channel id="nickjr"><display-name>NICK JR</display-name><url>https://movistarplus.es</url></channel>
+<channel id="nick"><display-name>Nickelodeon</display-name><url>https://movistarplus.es</url></channel>
 <channel id="neox"><display-name>Neox</display-name><url>https://movistarplus.es</url></channel>
 <channel id="negotv"><display-name>Negocios TV</display-name><url>https://movistarplus.es</url></channel>
+<channel id="nbc"><display-name>CNBC</display-name><url>https://movistarplus.es</url></channel>
+<channel id="nava"><display-name>Navarra TV</display-name><url>https://movistarplus.es</url></channel>
+<channel id="natgw"><display-name>Nat Geo Wild</display-name><url>https://movistarplus.es</url></channel>
+<channel id="natgeo"><display-name>National Geographic</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mvf1"><display-name>DAZN F1</display-name><url>https://movistarplus.es</url></channel>
 <channel id="mvciva"><display-name>M+ Vacaciones</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mv1"><display-name>M+ Estrenos</display-name><url>https://movistarplus.es</url></channel>
 <channel id="multi8"><display-name>M+ Deportes 6</display-name><url>https://movistarplus.es</url></channel>
 <channel id="multi6"><display-name>M+ Deportes 7</display-name><url>https://movistarplus.es</url></channel>
-<channel id="morgul"><display-name>M+ Orgullo</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mligs2"><display-name>LALIGA TV HYPERMOTION 2</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mlig2"><display-name>M+ LALIGA 3</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mhits"><display-name>M+ Hits</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mezzli"><display-name>Mezzo Live</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mdoc"><display-name>M+ Documentales</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mclas"><display-name>M+ Clásicos</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tdep"><display-name>Teledeporte</display-name><url>https://movistarplus.es</url></channel>
-<channel id="popuhd"><display-name>M+ Wimbledon UHD</display-name><url>https://movistarplus.es</url></channel>
-<channel id="nova"><display-name>Nova</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mligs3"><display-name>LALIGA TV HYPERMOTION 3</display-name><url>https://movistarplus.es</url></channel>
-<channel id="skynw"><display-name>Sky News</display-name><url>https://movistarplus.es</url></channel>
-<channel id="ucl"><display-name>UCL</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tve"><display-name>LA 1</display-name><url>https://movistarplus.es</url></channel>
-<channel id="telmin"><display-name>Telemadrid Int.</display-name><url>https://movistarplus.es</url></channel>
-<channel id="sci-fi"><display-name>SYFY</display-name><url>https://movistarplus.es</url></channel>
-<channel id="nbc"><display-name>CNBC</display-name><url>https://movistarplus.es</url></channel>
 <channel id="mtv"><display-name>MTV</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mbalc3"><display-name>M+ Baloncesto 3</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mezzo"><display-name>Mezzo</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tpa"><display-name>TPA</display-name><url>https://movistarplus.es</url></channel>
-<channel id="skysho"><display-name>SkyShowtime 1</display-name><url>https://movistarplus.es</url></channel>
-<channel id="pcm"><display-name>Comedy Central</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mplus"><display-name>Movistar Plus</display-name><url>https://movistarplus.es</url></channel>
+<channel id="morig"><display-name>M+ Originales</display-name><url>https://movistarplus.es</url></channel>
+<channel id="morgul"><display-name>M+ Orgullo</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mliuhd"><display-name>M+ LALIGA 2 HDR</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mliguh"><display-name>M+ LALIGA HDR</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mligs3"><display-name>LALIGA TV HYPERMOTION 3</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mligs2"><display-name>LALIGA TV HYPERMOTION 2</display-name><url>https://movistarplus.es</url></channel>
 <channel id="mligs"><display-name>LALIGA TV HYPERMOTION</display-name><url>https://movistarplus.es</url></channel>
-<channel id="nava"><display-name>Navarra TV</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mliga"><display-name>M+ LALIGA</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mlig2"><display-name>M+ LALIGA 3</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mlig1"><display-name>M+ LALIGA 2</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mindi"><display-name>M+ Indie</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mhits"><display-name>M+ Hits</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mezzo"><display-name>Mezzo</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mezzli"><display-name>Mezzo Live</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mellav"><display-name>M+ Vamos 3</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mega"><display-name>Mega</display-name><url>https://movistarplus.es</url></channel>
+<channel id="medite"><display-name>La Ocho TV</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mdoc"><display-name>M+ Documentales</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mcopa"><display-name>Primera Federación</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mclas"><display-name>M+ Clásicos</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mbalct"><display-name>M+ Baloncesto</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mbalc3"><display-name>M+ Baloncesto 3</display-name><url>https://movistarplus.es</url></channel>
 <channel id="mbalc2"><display-name>M+ Baloncesto 2</display-name><url>https://movistarplus.es</url></channel>
+<channel id="maxava"><display-name>HBO Max Avances</display-name><url>https://movistarplus.es</url></channel>
+<channel id="m2sd"><display-name>DAZN 2</display-name><url>https://movistarplus.es</url></channel>
+<channel id="m1sd"><display-name>DAZN 1</display-name><url>https://movistarplus.es</url></channel>
+<channel id="la2"><display-name>LA 2</display-name><url>https://movistarplus.es</url></channel>
+<channel id="inteua"><display-name>1+1 Internacional</display-name><url>https://movistarplus.es</url></channel>
+<channel id="inteco"><display-name>El Toro TV</display-name><url>https://movistarplus.es</url></channel>
+<channel id="iberal"><display-name>Iberalia TV</display-name><url>https://movistarplus.es</url></channel>
+<channel id="ib3"><display-name>IB3</display-name><url>https://movistarplus.es</url></channel>
+<channel id="golf+"><display-name>M+ Golf</display-name><url>https://movistarplus.es</url></channel>
+<channel id="golf2"><display-name>M+ Golf 2</display-name><url>https://movistarplus.es</url></channel>
+<channel id="gol"><display-name>GOL</display-name><url>https://movistarplus.es</url></channel>
+<channel id="galav"><display-name>Canal de las Estrellas</display-name><url>https://movistarplus.es</url></channel>
+<channel id="futrep"><display-name>Canal Fútbol Replay</display-name><url>https://movistarplus.es</url></channel>
+<channel id="freeli"><display-name>M+ Cero</display-name><url>https://movistarplus.es</url></channel>
+<channel id="france"><display-name>FRANCE24 (FR)</display-name><url>https://movistarplus.es</url></channel>
+<channel id="foxge"><display-name>STAR Channel</display-name><url>https://movistarplus.es</url></channel>
+<channel id="flix2"><display-name>Canal FlixOlé 2</display-name><url>https://movistarplus.es</url></channel>
+<channel id="flix1"><display-name>Canal FlixOlé 1</display-name><url>https://movistarplus.es</url></channel>
+<channel id="fdfic"><display-name>Factoría de Ficción</display-name><url>https://movistarplus.es</url></channel>
+<channel id="extrem"><display-name>Canal Extremadura Sat</display-name><url>https://movistarplus.es</url></channel>
+<channel id="extre"><display-name>Canal Extremadura</display-name><url>https://movistarplus.es</url></channel>
+<channel id="ewtn"><display-name>EWTN</display-name><url>https://movistarplus.es</url></channel>
+<channel id="etb3"><display-name>etb1ON</display-name><url>https://movistarplus.es</url></channel>
+<channel id="etb2"><display-name>etb2</display-name><url>https://movistarplus.es</url></channel>
+<channel id="etb1"><display-name>etb1</display-name><url>https://movistarplus.es</url></channel>
+<channel id="etb"><display-name>etb2ON</display-name><url>https://movistarplus.es</url></channel>
+<channel id="esp3"><display-name>Esport 3</display-name><url>https://movistarplus.es</url></channel>
+<channel id="esp2"><display-name>Eurosport 2</display-name><url>https://movistarplus.es</url></channel>
+<channel id="esp"><display-name>Eurosport 1</display-name><url>https://movistarplus.es</url></channel>
+<channel id="enw"><display-name>Euronews</display-name><url>https://movistarplus.es</url></channel>
+<channel id="energy"><display-name>Energy</display-name><url>https://movistarplus.es</url></channel>
+<channel id="dwsp"><display-name>Dreamworks</display-name><url>https://movistarplus.es</url></channel>
+<channel id="dkiss"><display-name>DKISS</display-name><url>https://movistarplus.es</url></channel>
+<channel id="divini"><display-name>Divinity</display-name><url>https://movistarplus.es</url></channel>
+<channel id="dcrmax"><display-name>DMAX</display-name><url>https://movistarplus.es</url></channel>
+<channel id="dcr"><display-name>Discovery</display-name><url>https://movistarplus.es</url></channel>
+<channel id="dcesp"><display-name>M+ Cine Español</display-name><url>https://movistarplus.es</url></channel>
+<channel id="daznli"><display-name>DAZN MUNDIAL</display-name><url>https://movistarplus.es</url></channel>
+<channel id="daznl4"><display-name>DAZN MUNDIAL 4</display-name><url>https://movistarplus.es</url></channel>
+<channel id="daznl3"><display-name>DAZN MUNDIAL 3</display-name><url>https://movistarplus.es</url></channel>
+<channel id="daznl2"><display-name>DAZN MUNDIAL 2</display-name><url>https://movistarplus.es</url></channel>
+<channel id="dazn4"><display-name>DAZN 4</display-name><url>https://movistarplus.es</url></channel>
+<channel id="dazn3"><display-name>DAZN 3</display-name><url>https://movistarplus.es</url></channel>
+<channel id="dazmot"><display-name>DAZN MotoGP</display-name><url>https://movistarplus.es</url></channel>
+<channel id="dazba"><display-name>DAZN Baloncesto</display-name><url>https://movistarplus.es</url></channel>
+<channel id="dazb3"><display-name>DAZN Baloncesto 3</display-name><url>https://movistarplus.es</url></channel>
+<channel id="dazb2"><display-name>DAZN Baloncesto 2</display-name><url>https://movistarplus.es</url></channel>
+<channel id="dayst"><display-name>Daystar Español HD</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cyltv"><display-name>La 7</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cubav"><display-name>Cubavisión</display-name><url>https://movistarplus.es</url></channel>
+<channel id="csurhd"><display-name>Canal Sur HD</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cpdep"><display-name>M+ Deportes</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cpcome"><display-name>M+ Comedia</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cpcole"><display-name>M+ Drama</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cpacci"><display-name>M+ Acción</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cosmo"><display-name>COSMO</display-name><url>https://movistarplus.es</url></channel>
+<channel id="colomb"><display-name>TV Colombia</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cnn"><display-name>CNN Int</display-name><url>https://movistarplus.es</url></channel>
+<channel id="classd"><display-name>Classica</display-name><url>https://movistarplus.es</url></channel>
+<channel id="clantv"><display-name>Clan TVE</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cl13"><display-name>Calle 13</display-name><url>https://movistarplus.es</url></channel>
+<channel id="chile"><display-name>TV Chile</display-name><url>https://movistarplus.es</url></channel>
+<channel id="chapio"><display-name>M+ Liga de Campeones</display-name><url>https://movistarplus.es</url></channel>
+<channel id="chap4"><display-name>M+ Liga de Campeones 5</display-name><url>https://movistarplus.es</url></channel>
+<channel id="chap3"><display-name>M+ Liga de Campeones 4</display-name><url>https://movistarplus.es</url></channel>
+<channel id="chap2"><display-name>M+ Liga de Campeones 3</display-name><url>https://movistarplus.es</url></channel>
+<channel id="chap1"><display-name>M+ Liga de Campeones 2</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cgtnfr"><display-name>CGTN Français HD</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cgtnen"><display-name>CGTN English HD</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cgtndo"><display-name>CGTN Documentary HD</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cgtnd"><display-name>CGTN Documentary</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cctv-e"><display-name>CGTN Español</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cazpes"><display-name>Caza y Pesca</display-name><url>https://movistarplus.es</url></channel>
+<channel id="casman"><display-name>Castilla la Mancha TV</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cansur"><display-name>Canal Sur</display-name><url>https://movistarplus.es</url></channel>
+<channel id="canar"><display-name>TV Canaria</display-name><url>https://movistarplus.es</url></channel>
+<channel id="can33"><display-name>33</display-name><url>https://movistarplus.es</url></channel>
+<channel id="c33"><display-name>SX3</display-name><url>https://movistarplus.es</url></channel>
+<channel id="c4"><display-name>Cuatro</display-name><url>https://movistarplus.es</url></channel>
+<channel id="btv"><display-name>Betevé</display-name><url>https://movistarplus.es</url></channel>
+<channel id="boing"><display-name>Boing</display-name><url>https://movistarplus.es</url></channel>
+<channel id="bl"><display-name>Bloomberg</display-name><url>https://movistarplus.es</url></channel>
+<channel id="bemad"><display-name>BE MAD</display-name><url>https://movistarplus.es</url></channel>
+<channel id="bbhis"><display-name>BBC History</display-name><url>https://movistarplus.es</url></channel>
+<channel id="bbgea"><display-name>BBC Top Gear</display-name><url>https://movistarplus.es</url></channel>
+<channel id="bbfoo"><display-name>BBC Food</display-name><url>https://movistarplus.es</url></channel>
+<channel id="bbdra"><display-name>BBC Series</display-name><url>https://movistarplus.es</url></channel>
+<channel id="bbclif"><display-name>BBC Lifestyle</display-name><url>https://movistarplus.es</url></channel>
+<channel id="bbcear"><display-name>BBC Earth</display-name><url>https://movistarplus.es</url></channel>
+<channel id="bbc"><display-name>BBC News</display-name><url>https://movistarplus.es</url></channel>
+<channel id="baby"><display-name>Baby TV</display-name><url>https://movistarplus.es</url></channel>
+<channel id="axn"><display-name>AXN</display-name><url>https://movistarplus.es</url></channel>
+<channel id="atress"><display-name>Atreseries</display-name><url>https://movistarplus.es</url></channel>
+<channel id="atlat"><display-name>Atlántico TV</display-name><url>https://movistarplus.es</url></channel>
+<channel id="arthur"><display-name>M+ Deportes 2</display-name><url>https://movistarplus.es</url></channel>
+<channel id="arirhd"><display-name>Arirang TV HD</display-name><url>https://movistarplus.es</url></channel>
+<channel id="aragtv"><display-name>Aragón TV</display-name><url>https://movistarplus.es</url></channel>
+<channel id="aragon"><display-name>Aragón TV Int</display-name><url>https://movistarplus.es</url></channel>
+<channel id="apunt"><display-name>À Punt</display-name><url>https://movistarplus.es</url></channel>
+<channel id="antv"><display-name>Canal Sur Andalucía</display-name><url>https://movistarplus.es</url></channel>
+<channel id="andatv"><display-name>Andalucía TV</display-name><url>https://movistarplus.es</url></channel>
+<channel id="aljaze"><display-name>Al Jazeera English</display-name><url>https://movistarplus.es</url></channel>
+<channel id="a3"><display-name>Antena 3</display-name><url>https://movistarplus.es</url></channel>
+<channel id="3_24"><display-name>3CatInfo</display-name><url>https://movistarplus.es</url></channel>
+<channel id="24h"><display-name>24 Horas</display-name><url>https://movistarplus.es</url></channel>
+<channel id="13tv"><display-name>TRECE</display-name><url>https://movistarplus.es</url></channel>
 <programme start="20260723040000 +0000" stop="20260723050000 +0000" channel="7tvmur"><title lang="es">El pinchazo</title><desc lang="es">Concurso en el que los concursantes pondrán a prueba sus conocimientos sobre cultura general y música.</desc></programme>
 <programme start="20260723050000 +0000" stop="20260723060000 +0000" channel="7tvmur"><title lang="es">Onda regional Noticias</title><desc lang="es">Toda la actualidad de la región a La 7, con información matinal y resúmenes semanales, conectando radio y TV en un formato dinámico y cercano.</desc></programme>
 <programme start="20260723060000 +0000" stop="20260723110000 +0000" channel="7tvmur"><title lang="es">7Noticias Matinal</title><desc lang="es">Primera edición informativa de la cadena presentada por Marienca Fernández y Tati García.</desc></programme>
@@ -367,7 +367,7 @@
 <programme start="20260724190000 +0000" stop="20260724194500 +0000" channel="a3"><title lang="es">Antena 3 Noticias 2</title><desc lang="es">Informativo nocturno, emitido de lunes a viernes, que recoge las noticias que se han producido a lo largo de la jornada de la mano de Vicente Vallés y Esther Vaquero. El espacio aborda la información de carácter general, que va sucedida de la información deportiva.</desc></programme>
 <programme start="20260724194500 +0000" stop="20260724195500 +0000" channel="a3"><title lang="es">Deportes 2</title><desc lang="es">Espacio nocturno de Antena 3 dedicado a la información deportiva, presentado por Rocío Martínez, Alba Dueñas y Angie Rigueiro. Un repaso a los resultados deportivos de la jornada en el ámbito nacional e internacional.</desc></programme>
 <programme start="20260724195500 +0000" stop="20260724201000 +0000" channel="a3"><title lang="es">La previsión de las 9</title><desc lang="es">Tras el informativo, Roberto Brasero presenta este espacio que ofrece al espectador una información meteorológica cercana y directa, así como todos los aspectos que afectan al medio ambiente del planeta.</desc></programme>
-<programme start="20260724201000 +0000" stop="20260724231500 +0000" channel="a3"><title lang="es">La Voz Kids: Semifinal</title></programme>
+<programme start="20260724201000 +0000" stop="20260724231500 +0000" channel="a3"><title lang="es">La Voz Kids: Semifinal</title><desc lang="es">Los 'coaches' llegan a la semifinal con tres talents en cada equipo, pero solo dos de ellos, uno elegido por el público y otro elegido por su mentor, podrán llegar a la Gran Final.</desc></programme>
 <programme start="20260724231500 +0000" stop="20260725003000 +0000" channel="a3"><title lang="es">La Voz Kids: Grandes momentos: Episodio 11</title><desc lang="es">Espacio que recoge las mejores actuaciones del concurso musical. También ofrece grandes momentos tras el escenario y las valoraciones de los asesores.</desc></programme>
 <programme start="20260725003000 +0000" stop="20260725011500 +0000" channel="a3"><title lang="es">Sportium Game Show</title><desc lang="es">Espacio conducido por Sofía Del Prado y con la colaboración de Gemma Manzanero, Marc Vila y Juanma Pastor, en el que se repasan las mejores apuestas y cuotas deportivas, y donde se descubren toda la variedad de juegos de casino, slots y poker de Sportium.</desc></programme>
 <programme start="20260725011500 +0000" stop="20260725013500 +0000" channel="a3"><title lang="es">Pazy: Que te recuerden como has vivido</title><desc lang="es">Pazy: Que te recuerden como has vivido.</desc></programme>
@@ -1720,8 +1720,8 @@
 <programme start="20260723115900 +0000" stop="20260723125300 +0000" channel="c4"><title lang="es">Noticias Cuatro mediodía</title><desc lang="es">Alba Lago repasa cada sobremesa las últimas noticias que marcan la actualidad informativa mundial. Un análisis con rigor de toda la realidad política, social y cultural.</desc></programme>
 <programme start="20260723125300 +0000" stop="20260723131700 +0000" channel="c4"><title lang="es">ElDesmarque de Cuatro mediodía. Lunes a viernes (T3): Episodio 567</title><desc lang="es">Espacio que analiza los temas más relevantes de la actualidad futbolística y de otros deportes. Además, ''El Desmarque de Cuatro'' ofrece imágenes curiosas del universo deportivo.</desc></programme>
 <programme start="20260723131700 +0000" stop="20260723133000 +0000" channel="c4"><title lang="es">El tiempo</title><desc lang="es">Espacio informativo que ofrece la previsión meteorológica.</desc></programme>
-<programme start="20260723133000 +0000" stop="20260723163000 +0000" channel="c4"><title lang="es">Todo es mentira: Summer Tem: Episodio 140</title><desc lang="es">Espacio que analiza las noticias falsas y los bulos que inundan las páginas de los diarios y las redes sociales. Risto Mejide y su equipo ponen humor a este ácido análisis de la actualidad.</desc></programme>
-<programme start="20260723163000 +0000" stop="20260723180000 +0000" channel="c4"><title lang="es">Lo sabe, no lo sabe: Episodio 11</title><desc lang="es">Xuso Jones recorre la geografía española para hacer participar a la ciudadanía en un concurso de preguntas, en el que pueden ganar hasta 50.000 euros.</desc></programme>
+<programme start="20260723133000 +0000" stop="20260723163600 +0000" channel="c4"><title lang="es">Todo es mentira: Summer Tem: Episodio 140</title><desc lang="es">Espacio que analiza las noticias falsas y los bulos que inundan las páginas de los diarios y las redes sociales. Risto Mejide y su equipo ponen humor a este ácido análisis de la actualidad.</desc></programme>
+<programme start="20260723163600 +0000" stop="20260723180000 +0000" channel="c4"><title lang="es">Lo sabe, no lo sabe: Episodio 11</title><desc lang="es">Xuso Jones recorre la geografía española para hacer participar a la ciudadanía en un concurso de preguntas, en el que pueden ganar hasta 50.000 euros.</desc></programme>
 <programme start="20260723180000 +0000" stop="20260723184000 +0000" channel="c4"><title lang="es">Noticias Cuatro</title><desc lang="es">Informativo vespertino de Cuatro que ofrece las noticias tanto nacionales como internacionales, y que pretende ser una ventana abierta a la actualidad, la reflexión y el análisis. Javier Ruiz se encarga de conducir el espacio.</desc></programme>
 <programme start="20260723184000 +0000" stop="20260723190000 +0000" channel="c4"><title lang="es">ElDesmarque de Cuatro noche. Lunes a viernes (T3): Episodio 567</title><desc lang="es">Espacio analiza los temas más relevantes de la actualidad futbolística y de otros deportes. Además, ''El Desmarque de Cuatro'' ofrece imágenes curiosas del universo deportivo.</desc></programme>
 <programme start="20260723190000 +0000" stop="20260723191000 +0000" channel="c4"><title lang="es">El tiempo</title><desc lang="es">Espacio informativo que ofrece la previsión meteorológica.</desc></programme>
@@ -5117,26 +5117,26 @@
 <programme start="20260723111100 +0000" stop="20260723113000 +0000" channel="golf+"><title lang="es">Sueños de Golf (T2026): La inglesa de Sotogrande</title><desc lang="es">Mimi Rhodes es una de las grandes revelaciones del golf femenino europeo en los últimos dos años. Combativa, dura, correosa. Una inglesa de nacimiento que habla como una gaditana de Sotogrande. ayer y de hoy.</desc></programme>
 <programme start="20260723113000 +0000" stop="20260723120000 +0000" channel="golf+"><title lang="es">Campus M+ Golf (T2026): Especial Jon Rahm en el Masters</title><desc lang="es">Nuestro coaches Alejandro Ramos y Pati Sanz analizan y recrean algunos de los golpes que pegó Jon Rahm para ganar su primer Masters de Augusta en 2023.</desc></programme>
 <programme start="20260723120000 +0000" stop="20260723130000 +0000" channel="golf+"><title lang="es">LIV Golf (T2026): UK (VO). Jornada 1. Parte 1</title><desc lang="es">Quinta temporada de LIV Golf. Con cuatro jornadas, con puntos de Ranking Mundial para los 10 primeros y con cinco españoles. Jon Rahm buscará su tercer título individual tras conquistar el anillo en 2024 y 2025.</desc></programme>
-<programme start="20260723130000 +0000" stop="20260723170000 +0000" channel="golf+"><title lang="es">LIV Golf (T2026): UK. Jornada 1. Parte 2</title><desc lang="es">Quinta temporada de LIV Golf. Con cuatro jornadas, con puntos de Ranking Mundial para los 10 primeros y con cinco españoles. Jon Rahm buscará su tercer título individual tras conquistar el anillo en 2024 y 2025.</desc></programme>
-<programme start="20260723170000 +0000" stop="20260723190000 +0000" channel="golf+"><title lang="es">PGA Tour (T2026): ISCO Championship. Jornada 4</title><desc lang="es">Torneo co-sancionado entre el Pga Tour y DP World Tour. 6 españoles lucharán por el trofeo el domingo qué da acceso al Pga Tour. Rocco Reppeto Taylor está como primer reserva del torneo.</desc></programme>
-<programme start="20260723190000 +0000" stop="20260723192500 +0000" channel="golf+"><title lang="es">Lara Academy (T5): El aproach en línea</title><desc lang="es">José Manuel Lara, dos veces ganador en el European Tour, se convierte en el profesor particular de los abonados de Movistar Golf con consejos en el campo de prácticas, situaciones reales de juego, consultas de los espectadores y análisis de los profesionales del circuito.</desc></programme>
-<programme start="20260723192500 +0000" stop="20260723200000 +0000" channel="golf+"><title lang="es">PGA Tour The Cut (T2026): Episodio 24</title><desc lang="es">Una nueva y moderna visión al PGA Tour y sus protagonistas. Desde las previas de los torneos, con estadística y análisis, hasta el lado más personal y familiar de los jugadores.</desc></programme>
+<programme start="20260723130000 +0000" stop="20260723172000 +0000" channel="golf+"><title lang="es">LIV Golf (T2026): UK. Jornada 1. Parte 2</title><desc lang="es">Quinta temporada de LIV Golf. Con cuatro jornadas, con puntos de Ranking Mundial para los 10 primeros y con cinco españoles. Jon Rahm buscará su tercer título individual tras conquistar el anillo en 2024 y 2025.</desc></programme>
+<programme start="20260723172000 +0000" stop="20260723192000 +0000" channel="golf+"><title lang="es">PGA Tour (T2026): ISCO Championship. Jornada 4</title><desc lang="es">Torneo co-sancionado entre el Pga Tour y DP World Tour. 6 españoles lucharán por el trofeo el domingo qué da acceso al Pga Tour. Rocco Reppeto Taylor está como primer reserva del torneo.</desc></programme>
+<programme start="20260723192000 +0000" stop="20260723193300 +0000" channel="golf+"><title lang="es">PGA Tour Profiles (T2019): Phil Mickelson, el gran showman</title><desc lang="es">Phil Mickelson es el tercer jugador en activo que ejerce de anfitrión en un torneo del PGA Tour; The American Express. Un paso más en la espectacular carrera del jugador zurzo, dentro y fuera de los campos de golf. Como doble campeón del torneo, no podría haber un escenario mejor para el Gran Artista.</desc></programme>
+<programme start="20260723193300 +0000" stop="20260723200000 +0000" channel="golf+"><title lang="es">PGA Tour The Cut (T2026): Episodio 24</title><desc lang="es">Una nueva y moderna visión al PGA Tour y sus protagonistas. Desde las previas de los torneos, con estadística y análisis, hasta el lado más personal y familiar de los jugadores.</desc></programme>
 <programme start="20260723200000 +0000" stop="20260723233000 +0000" channel="golf+"><title lang="es">PGA Tour (T2026): 3M Open. Jornada 1</title><desc lang="es">Los mejores jugadores del mundo afrontan una jornada más en el PGA TOUR rumbo a los playoffs de la FedEx Cup, donde espera un bonus de 10 millones de dólares para el profesional más regular de la temporada.</desc></programme>
 <programme start="20260723225000 +0000" stop="20260724060000 +0000" channel="golf+"><title lang="es">M+ Golf</title><desc lang="es">M+ Golf</desc></programme>
 <programme start="20260723233000 +0000" stop="20260724220000 +0000" channel="golf+"><title lang="es">M+ Golf</title><desc lang="es">M+ Golf</desc></programme>
 <programme start="20260724033500 +0000" stop="20260724220000 +0000" channel="golf+"><title lang="es">Sueños de Golf (T2025): El gran underdog</title><desc lang="es">Nos gusta soñar en verde. Todos los sueños, grandes y pequeños, caben en un deporte que te atrapa. Historias de ayer y de hoy.</desc></programme>
 <programme start="20260724060000 +0000" stop="20260724100000 +0000" channel="golf+"><title lang="es">LIV Golf (T2026): UK. Jornada 1. Parte 2</title><desc lang="es">Quinta temporada de LIV Golf. Con cuatro jornadas, con puntos de Ranking Mundial para los 10 primeros y con cinco españoles. Jon Rahm buscará su tercer título individual tras conquistar el anillo en 2024 y 2025.</desc></programme>
 <programme start="20260724100000 +0000" stop="20260724103000 +0000" channel="golf+"><title lang="es">Lara Academy (T5): Pares 3 de lakes y hills</title><desc lang="es">José Manuel Lara, dos veces ganador en el European Tour, se convierte en el profesor particular de los abonados de Movistar Golf con consejos en el campo de prácticas, situaciones reales de juego, consultas de los espectadores y análisis de los profesionales del circuito.</desc></programme>
-<programme start="20260724103000 +0000" stop="20260724110500 +0000" channel="golf+"><title lang="es">PGA Tour The Cut (T2026): Episodio 24</title><desc lang="es">Una nueva y moderna visión al PGA Tour y sus protagonistas. Desde las previas de los torneos, con estadística y análisis, hasta el lado más personal y familiar de los jugadores.</desc></programme>
-<programme start="20260724110500 +0000" stop="20260724113500 +0000" channel="golf+"><title lang="es">HotelPlanner Tour Series (T2026): Danish Golf Challenge</title><desc lang="es">Emocionante final en el Danish Golf Challenge con un Tapio Pulkkanen que forzó el playoff y acabó llevándose la victoria. Gran torneo de los españoles con Juan Salama tercero y Javier Barcos octavo.</desc></programme>
-<programme start="20260724113500 +0000" stop="20260724120000 +0000" channel="golf+"><title lang="es">Sueños de Golf (T2025): El juego mental</title><desc lang="es">Nos gusta soñar en verde. Todos los sueños, grandes y pequeños, caben en un deporte que te atrapa. Historias de ayer y de hoy.</desc></programme>
+<programme start="20260724103000 +0000" stop="20260724110300 +0000" channel="golf+"><title lang="es">PGA Tour The Cut (T2026): Episodio 24</title><desc lang="es">Una nueva y moderna visión al PGA Tour y sus protagonistas. Desde las previas de los torneos, con estadística y análisis, hasta el lado más personal y familiar de los jugadores.</desc></programme>
+<programme start="20260724110300 +0000" stop="20260724113000 +0000" channel="golf+"><title lang="es">HotelPlanner Tour Series (T2026): Danish Golf Challenge</title><desc lang="es">Emocionante final en el Danish Golf Challenge con un Tapio Pulkkanen que forzó el playoff y acabó llevándose la victoria. Gran torneo de los españoles con Juan Salama tercero y Javier Barcos octavo.</desc></programme>
+<programme start="20260724113000 +0000" stop="20260724120000 +0000" channel="golf+"><title lang="es">Sueños de Golf (T2025): El juego mental</title><desc lang="es">Nos gusta soñar en verde. Todos los sueños, grandes y pequeños, caben en un deporte que te atrapa. Historias de ayer y de hoy.</desc></programme>
 <programme start="20260724120000 +0000" stop="20260724130000 +0000" channel="golf+"><title lang="es">LIV Golf (T2026): UK (VO). Jornada 2. Parte 1</title><desc lang="es">Quinta temporada de LIV Golf. Con cuatro jornadas, con puntos de Ranking Mundial para los 10 primeros y con cinco españoles. Jon Rahm buscará su tercer título individual tras conquistar el anillo en 2024 y 2025.</desc></programme>
 <programme start="20260724130000 +0000" stop="20260724170000 +0000" channel="golf+"><title lang="es">LIV Golf (T2026): UK. Jornada 2. Parte 2</title><desc lang="es">Quinta temporada de LIV Golf. Con cuatro jornadas, con puntos de Ranking Mundial para los 10 primeros y con cinco españoles. Jon Rahm buscará su tercer título individual tras conquistar el anillo en 2024 y 2025.</desc></programme>
 <programme start="20260724170000 +0000" stop="20260724200000 +0000" channel="golf+"><title lang="es">PGA Tour (T2026): 3M Open. Jornada 1</title><desc lang="es">Los mejores jugadores del mundo afrontan una jornada más en el PGA TOUR rumbo a los playoffs de la FedEx Cup, donde espera un bonus de 10 millones de dólares para el profesional más regular de la temporada.</desc></programme>
 <programme start="20260724200000 +0000" stop="20260724230000 +0000" channel="golf+"><title lang="es">PGA Tour (T2026): 3M Open. Jornada 2</title><desc lang="es">Los mejores jugadores del mundo afrontan una jornada más en el PGA TOUR rumbo a los playoffs de la FedEx Cup, donde espera un bonus de 10 millones de dólares para el profesional más regular de la temporada.</desc></programme>
-<programme start="20260724230000 +0000" stop="20260724233500 +0000" channel="golf+"><title lang="es">PGA Tour The Cut (T2026): Episodio 24</title><desc lang="es">Una nueva y moderna visión al PGA Tour y sus protagonistas. Desde las previas de los torneos, con estadística y análisis, hasta el lado más personal y familiar de los jugadores.</desc></programme>
+<programme start="20260724230000 +0000" stop="20260724233000 +0000" channel="golf+"><title lang="es">PGA Tour The Cut (T2026): Episodio 24</title><desc lang="es">Una nueva y moderna visión al PGA Tour y sus protagonistas. Desde las previas de los torneos, con estadística y análisis, hasta el lado más personal y familiar de los jugadores.</desc></programme>
 <programme start="20260724233000 +0000" stop="20260725060000 +0000" channel="golf+"><title lang="es">M+ Golf</title><desc lang="es">M+ Golf</desc></programme>
-<programme start="20260724233500 +0000" stop="20260725033500 +0000" channel="golf+"><title lang="es">LIV Golf (T2026): UK. Jornada 2. Parte 2</title><desc lang="es">Quinta temporada de LIV Golf. Con cuatro jornadas, con puntos de Ranking Mundial para los 10 primeros y con cinco españoles. Jon Rahm buscará su tercer título individual tras conquistar el anillo en 2024 y 2025.</desc></programme>
+<programme start="20260724233000 +0000" stop="20260725033500 +0000" channel="golf+"><title lang="es">LIV Golf (T2026): UK. Jornada 2. Parte 2</title><desc lang="es">Quinta temporada de LIV Golf. Con cuatro jornadas, con puntos de Ranking Mundial para los 10 primeros y con cinco españoles. Jon Rahm buscará su tercer título individual tras conquistar el anillo en 2024 y 2025.</desc></programme>
 <programme start="20260723050000 +0000" stop="20260723053500 +0000" channel="ib3"><title lang="es">Cinc dies</title><desc lang="es">Magazine amb seccions i continguts de temàtiques diverses amb tertúlies, entrevistes, cultura, personatges rellevants de les illes i d’entreteniment.</desc></programme>
 <programme start="20260723053500 +0000" stop="20260723060000 +0000" channel="ib3"><title lang="es">Tothom a casa en forma</title><desc lang="es">En la situació d'excepcionalitat i confinaments que està provocant el Covid-19, és de màxima importància estar a casa. Per fer més fàcil aquests dies, aquest programa proposa una sèrie d'exercicis per fer i mantenir la forma.</desc></programme>
 <programme start="20260723060000 +0000" stop="20260723070500 +0000" channel="ib3"><title lang="es">Mossèn Capellà (T2009): Ep.18 L'escola de la Roca</title><desc lang="es">Un sacerdot jove i urbà no té una altra opció que fer-se càrrec de la parròquia d'un poblet costaner anomenat Sant Jeroni de la Roca.</desc></programme>
@@ -5382,16 +5382,15 @@
 <programme start="20260723213200 +0000" stop="20260723230200 +0000" channel="m1sd"><title lang="es">Maradona: The Fall</title><desc lang="es">En el Mundial de 1994, saltó el escándalo. Diego Maradona, icono del fútbol, dio positivo en un control antidoping y fue expulsado de la selección argentina. Este trabajo documental repasa el momento más duro en la carrera futbolística del astro de Lanús.</desc></programme>
 <programme start="20260723230200 +0000" stop="20260724025400 +0000" channel="m1sd"><title lang="es">Disfruta de DAZN en Movistar Plus</title></programme>
 <programme start="20260724025400 +0000" stop="20260724220000 +0000" channel="m1sd"><title lang="es">Disfruta de DAZN en Movistar Plus</title></programme>
-<programme start="20260724030100 +0000" stop="20260724220000 +0000" channel="m1sd"><title lang="es">Disfruta de DAZN en Movistar Plus</title></programme>
-<programme start="20260724065400 +0000" stop="20260724105400 +0000" channel="m1sd"><title lang="es">Disfruta de DAZN en Movistar Plus</title></programme>
-<programme start="20260724105400 +0000" stop="20260724110000 +0000" channel="m1sd"><title lang="es">Disfruta de DAZN en Movistar Plus</title></programme>
-<programme start="20260724110000 +0000" stop="20260724131500 +0000" channel="m1sd"><title lang="es">Iberian Supercars (2026): Jarama vs Carrera 1</title><desc lang="es">La Supercars Endurance, también conocida como Iberian Supercar Endurance, es una competición de automovilismo de resistencia que se celebra principalmente en circuitos de España y Portugal. La nueva temporada cuenta con seis pruebas puntuables.</desc></programme>
-<programme start="20260724131500 +0000" stop="20260724153000 +0000" channel="m1sd"><title lang="es">Iberian Supercars (2026): Jarama vs Carrera 2</title><desc lang="es">La Supercars Endurance, también conocida como Iberian Supercar Endurance, es una competición de automovilismo de resistencia que se celebra principalmente en circuitos de España y Portugal. La nueva temporada cuenta con seis pruebas puntuables.</desc></programme>
-<programme start="20260724153000 +0000" stop="20260724174500 +0000" channel="m1sd"><title lang="es">Supercopa de Italia (T25/26): Nápoles - Bolonia</title><desc lang="es">La Supercopa del país transalpino vuelve a jugarse en Arabia Saudí. Nápoles (campeón de la Serie A), Bolonia (vencedor de la Copa), Inter y Milan son los equipos que compiten por conseguir el primer título de la temporada del fútbol italiano.</desc></programme>
-<programme start="20260724174500 +0000" stop="20260724191500 +0000" channel="m1sd"><title lang="es">Maradona: The Fall</title><desc lang="es">En el Mundial de 1994, saltó el escándalo. Diego Maradona, icono del fútbol, dio positivo en un control antidoping y fue expulsado de la selección argentina. Este trabajo documental repasa el momento más duro en la carrera futbolística del astro de Lanús.</desc></programme>
-<programme start="20260724191500 +0000" stop="20260724214000 +0000" channel="m1sd"><title lang="es">Copa de Italia (T25/26): Lazio - Inter</title><desc lang="es">La competición del KO en el país transalpino llega a su 79ª edición. Bolonia defiende el título después de dar la sorpresa contra el Milan.</desc></programme>
+<programme start="20260724065400 +0000" stop="20260724080200 +0000" channel="m1sd"><title lang="es">Disfruta de DAZN en Movistar Plus</title></programme>
+<programme start="20260724080200 +0000" stop="20260724110000 +0000" channel="m1sd"><title lang="es">Disfruta de DAZN en Movistar Plus</title></programme>
+<programme start="20260724110000 +0000" stop="20260724131600 +0000" channel="m1sd"><title lang="es">Iberian Supercars (2026): Jarama vs Carrera 1</title><desc lang="es">La Supercars Endurance, también conocida como Iberian Supercar Endurance, es una competición de automovilismo de resistencia que se celebra principalmente en circuitos de España y Portugal. La nueva temporada cuenta con seis pruebas puntuables.</desc></programme>
+<programme start="20260724131600 +0000" stop="20260724153200 +0000" channel="m1sd"><title lang="es">Iberian Supercars (2026): Jarama vs Carrera 2</title><desc lang="es">La Supercars Endurance, también conocida como Iberian Supercar Endurance, es una competición de automovilismo de resistencia que se celebra principalmente en circuitos de España y Portugal. La nueva temporada cuenta con seis pruebas puntuables.</desc></programme>
+<programme start="20260724153200 +0000" stop="20260724174600 +0000" channel="m1sd"><title lang="es">Supercopa de Italia (T25/26): Nápoles - Bolonia</title><desc lang="es">La Supercopa del país transalpino vuelve a jugarse en Arabia Saudí. Nápoles (campeón de la Serie A), Bolonia (vencedor de la Copa), Inter y Milan son los equipos que compiten por conseguir el primer título de la temporada del fútbol italiano.</desc></programme>
+<programme start="20260724174600 +0000" stop="20260724191700 +0000" channel="m1sd"><title lang="es">La caída de Maradona</title><desc lang="es">El 30 de junio de 1994, Diego Maradona, la mayor estrella del fútbol mundial, fue expulsado de la Copa del Mundo de EE.UU. tras no superar un control antidopaje después de un partido. La expulsión del Diego sorprendió al mundo del deporte.</desc></programme>
+<programme start="20260724191700 +0000" stop="20260724214000 +0000" channel="m1sd"><title lang="es">Copa de Italia (T25/26): Lazio - Inter</title><desc lang="es">La competición del KO en el país transalpino llega a su 79ª edición. Bolonia defiende el título después de dar la sorpresa contra el Milan.</desc></programme>
 <programme start="20260724214000 +0000" stop="20260724230100 +0000" channel="m1sd"><title lang="es">Green Lions</title><desc lang="es">Cuando Camerún derrotó a la actual campeona del mundo, Argentina, en el partido inaugural de Italia '90, fue, posiblemente, la mayor sorpresa de la historia de los Mundiales. Pero eso fue sólo el principio.</desc></programme>
-<programme start="20260724230100 +0000" stop="20260725030100 +0000" channel="m1sd"><title lang="es">Disfruta de DAZN en Movistar Plus</title></programme>
+<programme start="20260724230100 +0000" stop="20260725220000 +0000" channel="m1sd"><title lang="es">Disfruta de DAZN en Movistar Plus</title></programme>
 <programme start="20260725025400 +0000" stop="20260725065400 +0000" channel="m1sd"><title lang="es">Disfruta de DAZN en Movistar Plus</title></programme>
 <programme start="20260723050000 +0000" stop="20260723090000 +0000" channel="m2sd"><title lang="es">Disfruta de DAZN en Movistar Plus</title></programme>
 <programme start="20260723090000 +0000" stop="20260723130000 +0000" channel="m2sd"><title lang="es">Disfruta de DAZN en Movistar Plus</title></programme>
@@ -5598,7 +5597,7 @@
 <programme start="20260723150600 +0000" stop="20260723153400 +0000" channel="medite"><title lang="es">Directo al grano</title><desc lang="es">No ponemos puertas al campo, todo lo que creías saber y lo que no, en un programa para todos. Agricultura, ganadería, mediambiente y mucho más de una manera diferente con Pablo Rodríguez.</desc></programme>
 <programme start="20260723153400 +0000" stop="20260723160300 +0000" channel="medite"><title lang="es">Noticias La 8 + El Tiempo</title><desc lang="es">Noticias La 8 + El Tiempo.</desc></programme>
 <programme start="20260723160300 +0000" stop="20260723163000 +0000" channel="medite"><title lang="es">Cuídame mucho</title><desc lang="es">Programa que aborda de manera integrativa la salud del ser humano aportando consejos sencillos de seguir y que cuenta con muchas secciones donde se repasa la actualidad, se dan a conocer estudios científicos y tiene cabida la participación de los espectadores.</desc></programme>
-<programme start="20260723163000 +0000" stop="20260723173000 +0000" channel="medite"><title lang="es">Aquí La 8 Verano</title><desc lang="es">Aquí La 8 Verano.</desc></programme>
+<programme start="20260723163000 +0000" stop="20260723173000 +0000" channel="medite"><title lang="es">Aquí La 8 Verano</title><desc lang="es">Aquí Verano.</desc></programme>
 <programme start="20260723173000 +0000" stop="20260723183000 +0000" channel="medite"><title lang="es">Anem de Festa</title><desc lang="es">Julio Tormo recorre els municipis de la Comunitat Valenciana per a mostrar-nos les seues festes i tradicions.</desc></programme>
 <programme start="20260723183000 +0000" stop="20260723191500 +0000" channel="medite"><title lang="es">Info La 8 + Deportes + El tiempo</title><desc lang="es">Espacio Informativo presentado por Alfredo Soria, Paloma López y previsión meteorológica con Antonio Pardo.</desc></programme>
 <programme start="20260723191500 +0000" stop="20260723204500 +0000" channel="medite"><title lang="es">El Faro</title><desc lang="es">Espacio de debate y análisis presentado por Luis Motes donde políticos, periodistas y empresarios analizan la actualidad de la Comunidad Valenciana.</desc></programme>
@@ -8342,45 +8341,56 @@
 <programme start="20260723221300 +0000" stop="20260723233100 +0000" channel="tvg2"><title lang="es">Heicho cantar</title><desc lang="es">Galicia canta villancicos para celebrar la Navidad con A Galega.</desc></programme>
 <programme start="20260723233100 +0000" stop="20260724035500 +0000" channel="tvg2"><title lang="es">Pensando en ti</title><desc lang="es">Programa de madrugada de Radio Galega dirigido y presentado por Pepe Capelán donde se cede el protagonismo absoluto a los oyentes, que comparten en vivo y a través del teléfono sus experiencias personales y opiniones sobre todo tipo de temas.</desc></programme>
 <programme start="20260724035500 +0000" stop="20260724043200 +0000" channel="tvg2"><title lang="es">De tal mente, tal semente</title><desc lang="es">Concurso para jóvenes en la dinámica de preguntas y respuestas presentado por Esther Estévez. Será una novedad ver a los más pequeños de la casa, niños y niñas de entre 12 y 16 años, competir con sus países y abuelos.</desc></programme>
-<programme start="20260724035800 +0000" stop="20260724220000 +0000" channel="tvg2"><title lang="es">Polo Rego</title><desc lang="es">De la mano de expertos o aficionados a los trabajos de huerta, el espacio ofrece a todos los interesados en este tipo de cultivos los secretos y mañas necesarias en hortalizas, pero también en trabajos de poda, plantas silvestres o plagas.</desc></programme>
+<programme start="20260724035700 +0000" stop="20260724220000 +0000" channel="tvg2"><title lang="es">De tal mente, tal semente</title><desc lang="es">Concurso para jóvenes en la dinámica de preguntas y respuestas presentado por Esther Estévez. Será una novedad ver a los más pequeños de la casa, niños y niñas de entre 12 y 16 años, competir con sus países y abuelos.</desc></programme>
 <programme start="20260724043200 +0000" stop="20260724050000 +0000" channel="tvg2"><title lang="es">Pippi Calzaslargas</title><desc lang="es">La Pipi arriba, per sorpresa, a un poble imaginari de Suècia amb dos insòlits companys; un mico anomenat 'Senyor Nilson' i un cavall pigat. El seu caràcter simpàtic i obert, juntament amb la seva generositat quan reparteix monedes d'or i el seu talent per la màgia i els malabars, de seguida la converteixen en amiga de tots els nens i nenes del poble, especialment d'en Tommy i l'Annika. Mentre revoluciona tota la comunitat amb les seves trapelleries, somia amb l'arribada del seu pare, el famós i temut capità Langstrump, pirata dels Mars del Sud. La Pipi és una noia pigada, de cabell roig i pentinada amb dues cuetes. És capaç d'aixecar vaques o cavalls, fer volar policies pels aires i derrotar a perillosos delinqüents. Té un bagul ple de monedes d'or i les fa servir per a comprar joguines i caramels. La seva vida és meravellosa i la seva vella mansió atrotinada és l'enveja de tots els infants del veïnat.</desc></programme>
-<programme start="20260724050000 +0000" stop="20260724050700 +0000" channel="tvg2"><title lang="es">Bibopalula</title><desc lang="es">El paporrubio Robin, el merlo Merli, la pega Pegui y el picapau Carpin montan una banda de música pop.</desc></programme>
-<programme start="20260724050700 +0000" stop="20260724051400 +0000" channel="tvg2"><title lang="es">Maddie e Triggs</title><desc lang="es">Maddie es una niña con discapacidad visual, pero eso no le impide vivir grandes aventuras cuando va acompañada de su perro guía y mejor amigo, Triggs.</desc></programme>
-<programme start="20260724051400 +0000" stop="20260724052100 +0000" channel="tvg2"><title lang="es">Maddie e Triggs</title><desc lang="es">Maddie es una niña con discapacidad visual, pero eso no le impide vivir grandes aventuras cuando va acompañada de su perro guía y mejor amigo, Triggs.</desc></programme>
-<programme start="20260724052100 +0000" stop="20260724053200 +0000" channel="tvg2"><title lang="es">Timmy Time</title><desc lang="es">Timmy es un corderito que ha empezado a ir a la guardería y debe aprender a relacionarse con otros animales. Gracias a su profesora, él y sus compañeros aprenderán todo lo necesario para defenderse en la vida. Pero no todo la rutina diaria de la guardería, sino que la infinita curiosidad de los jóvenes personajes provocará numerosas travesuras.</desc></programme>
-<programme start="20260724053200 +0000" stop="20260724054400 +0000" channel="tvg2"><title lang="es">Can cheirento</title><desc lang="es">Can Cheirento y su amigo Xaplapla viven dentro de un cubo de basura. Son individuos marginados. La sociedad ordenada y bienpensante los tiene por muy poco, y los considera indigentes e invisibles.</desc></programme>
-<programme start="20260724054400 +0000" stop="20260724060600 +0000" channel="tvg2"><title lang="es">As aventuras de Ladybug e Cat Noir</title><desc lang="es">Marinette es una adolescente normal que, sin embargo, esconde un secreto: tiene superpoderes que le convierten en Ladybug, una superheroína que lucha contra las fuerzas del mal.</desc></programme>
-<programme start="20260724060600 +0000" stop="20260724061700 +0000" channel="tvg2"><title lang="es">Sonic Boom</title><desc lang="es">Sonic, Tails, Knuckles, Amy y Sticks en Bygone Island, isla que defienden de cualquier amenaza, incluyendo al científico loco doctor Eggman y a sus creaciones robóticas.</desc></programme>
-<programme start="20260724061700 +0000" stop="20260724063000 +0000" channel="tvg2"><title lang="es">Sonic Boom</title><desc lang="es">Sonic, Tails, Knuckles, Amy y Sticks en Bygone Island, isla que defienden de cualquier amenaza, incluyendo al científico loco doctor Eggman y a sus creaciones robóticas.</desc></programme>
-<programme start="20260724063000 +0000" stop="20260724073000 +0000" channel="tvg2"><title lang="es">Galicia por diante</title><desc lang="es">Las claves informativas de la jornada, con especial atención a la actualidad gallega.</desc></programme>
-<programme start="20260724073000 +0000" stop="20260724074700 +0000" channel="tvg2"><title lang="es">Cafe sen gotas</title><desc lang="es">Tertulia entre parlamentarios presentada por Xesús Fontenla.</desc></programme>
-<programme start="20260724074700 +0000" stop="20260724081500 +0000" channel="tvg2"><title lang="es">Polo Rego</title><desc lang="es">De la mano de expertos o aficionados a los trabajos de huerta, el espacio ofrece a todos los interesados en este tipo de cultivos los secretos y mañas necesarias en hortalizas, pero también en trabajos de poda, plantas silvestres o plagas.</desc></programme>
-<programme start="20260724081500 +0000" stop="20260724084300 +0000" channel="tvg2"><title lang="es">Polo Rego</title><desc lang="es">De la mano de expertos o aficionados a los trabajos de huerta, el espacio ofrece a todos los interesados en este tipo de cultivos los secretos y mañas necesarias en hortalizas, pero también en trabajos de poda, plantas silvestres o plagas.</desc></programme>
-<programme start="20260724084300 +0000" stop="20260724092900 +0000" channel="tvg2"><title lang="es">Fontealba</title><desc lang="es">Hace unos veinte años, la desaparición de Nina tras su fiesta de 18 cumpleaños hizo desestructurar la familia completamente. Desde entonces han ocurrido muchas cosas: el padre de Nina, Luis, nunca la ha podido olvidarla, convirtiéndose en una persona asocial. Ahora quiere hacer su testamento sabiendo que el reparto de su herencia se convertirá en una despiadada lucha.</desc></programme>
-<programme start="20260724092900 +0000" stop="20260724100900 +0000" channel="tvg2"><title lang="es">Fontealba</title><desc lang="es">Hace unos veinte años, la desaparición de Nina tras su fiesta de 18 cumpleaños hizo desestructurar la familia completamente. Desde entonces han ocurrido muchas cosas: el padre de Nina, Luis, nunca la ha podido olvidarla, convirtiéndose en una persona asocial. Ahora quiere hacer su testamento sabiendo que el reparto de su herencia se convertirá en una despiadada lucha.</desc></programme>
-<programme start="20260724100900 +0000" stop="20260724104800 +0000" channel="tvg2"><title lang="es">Fontealba</title><desc lang="es">Hace unos veinte años, la desaparición de Nina tras su fiesta de 18 cumpleaños hizo desestructurar la familia completamente. Desde entonces han ocurrido muchas cosas: el padre de Nina, Luis, nunca la ha podido olvidarla, convirtiéndose en una persona asocial. Ahora quiere hacer su testamento sabiendo que el reparto de su herencia se convertirá en una despiadada lucha.</desc></programme>
-<programme start="20260724104800 +0000" stop="20260724112900 +0000" channel="tvg2"><title lang="es">Fontealba</title><desc lang="es">Hace unos veinte años, la desaparición de Nina tras su fiesta de 18 cumpleaños hizo desestructurar la familia completamente. Desde entonces han ocurrido muchas cosas: el padre de Nina, Luis, nunca la ha podido olvidarla, convirtiéndose en una persona asocial. Ahora quiere hacer su testamento sabiendo que el reparto de su herencia se convertirá en una despiadada lucha.</desc></programme>
-<programme start="20260724112900 +0000" stop="20260724121400 +0000" channel="tvg2"><title lang="es">Fontealba</title><desc lang="es">Hace unos veinte años, la desaparición de Nina tras su fiesta de 18 cumpleaños hizo desestructurar la familia completamente. Desde entonces han ocurrido muchas cosas: el padre de Nina, Luis, nunca la ha podido olvidarla, convirtiéndose en una persona asocial. Ahora quiere hacer su testamento sabiendo que el reparto de su herencia se convertirá en una despiadada lucha.</desc></programme>
-<programme start="20260724121400 +0000" stop="20260724123700 +0000" channel="tvg2"><title lang="es">Estache bo</title><desc lang="es">Cada día aprendemos una receta de cocina de forma sencilla, y al final tenemos la ficha con los ingredientes que necesitaremos para elaborarla.</desc></programme>
-<programme start="20260724123700 +0000" stop="20260724130000 +0000" channel="tvg2"><title lang="es">Estache bo</title><desc lang="es">Cada día aprendemos una receta de cocina de forma sencilla, y al final tenemos la ficha con los ingredientes que necesitaremos para elaborarla.</desc></programme>
-<programme start="20260724130000 +0000" stop="20260724133600 +0000" channel="tvg2"><title lang="es">Galicia Noticias</title><desc lang="es">Raúl Quián presenta este espacio que Televisión de Galicia dedica a la información de proximidad, prestando especial atención a la actualidad de la comunidad autónoma gallega.</desc></programme>
-<programme start="20260724133600 +0000" stop="20260724142100 +0000" channel="tvg2"><title lang="es">Telexornal Mediodía</title><desc lang="es">Edición del mediodía de los informativos diarios del canal autonómico gallego. En "Telexornal" se ofrecen las noticias más recientes tanto nacionales como internacionales.</desc></programme>
-<programme start="20260724142100 +0000" stop="20260724143300 +0000" channel="tvg2"><title lang="es">Telexornal Deportes Mediodía</title><desc lang="es">Espacio de los servicios informativos de la Televisión de Galicia dedicado a las noticias más relevantes de la actualidad deportiva tanto nacional como internacional. Presenta Sevi Martínez.</desc></programme>
-<programme start="20260724143300 +0000" stop="20260724144300 +0000" channel="tvg2"><title lang="es">O Tempo</title><desc lang="es">Espacio de Televisión de Galicia dedicado a la información meteorológica de la mano de Xesús Peleteiro, Ana Celia Vázquez, Diego Viaño y Noelia Rodríguez.</desc></programme>
-<programme start="20260724144300 +0000" stop="20260724152100 +0000" channel="tvg2"><title lang="es">Atrápame se podes</title><desc lang="es">Presentado por Rodrigo Vázquez, este concurso de preguntas y respuestas invita al espectador a jugar desde casa y brinda a los concursantes la oportunidad de ganar importantes premios.</desc></programme>
-<programme start="20260724152100 +0000" stop="20260724160300 +0000" channel="tvg2"><title lang="es">Eu sei + ca ti</title><desc lang="es">Tres equipos compiten con preguntas de cultura general, lógica e ingenio para intentar abrir una caja fuerte con 6.000 euros, en un formato que combina emoción y aprendizaje.</desc></programme>
-<programme start="20260724160300 +0000" stop="20260724163200 +0000" channel="tvg2"><title lang="es">Ribeiras de salitre</title><desc lang="es">Programa conducido por Xosé Henrique Rivadulla Corcón en el que se pone de relieve la rica cultura marítima gallega a través de historias contadas por los propios profesionales del sector.</desc></programme>
-<programme start="20260724163200 +0000" stop="20260724171100 +0000" channel="tvg2"><title lang="es">Ribeiras de salitre</title><desc lang="es">Programa conducido por Xosé Henrique Rivadulla Corcón en el que se pone de relieve la rica cultura marítima gallega a través de historias contadas por los propios profesionales del sector.</desc></programme>
-<programme start="20260724171100 +0000" stop="20260724172600 +0000" channel="tvg2"><title lang="es">Os nomes da nosa terra</title><desc lang="es">Microdocumentales donde se difunde la excepcional riqueza toponímica de Galicia.</desc></programme>
-<programme start="20260724172600 +0000" stop="20260724180200 +0000" channel="tvg2"><title lang="es">Léocho</title><desc lang="es">La literatura gallega consigue un nuevo espacio de análisis y representación en ''Léocho'', el programa que acerca las historias de los autores gallegos a través de los audiolibros.</desc></programme>
-<programme start="20260724180200 +0000" stop="20260724182900 +0000" channel="tvg2"><title lang="es">Resetéame</title><desc lang="es">El presentador Juan Meniño se encuentra con personajes curiosos de la sociedad gallega.</desc></programme>
-<programme start="20260724182900 +0000" stop="20260724185500 +0000" channel="tvg2"><title lang="es">Zigzag</title><desc lang="es">Pilar G. Rego presenta este espazo cultural con contidos cinematográficos, literarios e musicais, entre outros. O programa conta cunha primeira parte xeneralista e unha segunda sección dedicada a unha disciplina concreta que inclúe unha entrevista.</desc></programme>
-<programme start="20260724185500 +0000" stop="20260724204700 +0000" channel="tvg2"><title lang="es">Baloncesto</title><desc lang="es">El baloncesto es uno de los deportes con mayor seguimiento en nuestro país. Este espacio retransmite algún partido donde la pelota naranja y la canasta sean las protagonistas.</desc></programme>
-<programme start="20260724204700 +0000" stop="20260724211300 +0000" channel="tvg2"><title lang="es">Telexornal Serán</title><desc lang="es">Edición vespertina de los informativos diarios de Televisión de Galicia. Ofrecemos un repaso de las noticias más recientes de ámbito autonómico, nacional e internacional.</desc></programme>
-<programme start="20260724211300 +0000" stop="20260724211500 +0000" channel="tvg2"><title lang="es">Información estado do mar mañá</title><desc lang="es">Microespacio que ofrece la información meteorológica marítima. ''Estado do mar'' está dedicado fundamentalmente a la gente de mar y a los aficionados de los deportes náuticos.</desc></programme>
-<programme start="20260724211500 +0000" stop="20260724223800 +0000" channel="tvg2"><title lang="es">Cine</title></programme>
-<programme start="20260724223800 +0000" stop="20260724230400 +0000" channel="tvg2"><title lang="es">Zigzag</title><desc lang="es">Pilar G. Rego presenta este espazo cultural con contidos cinematográficos, literarios e musicais, entre outros. O programa conta cunha primeira parte xeneralista e unha segunda sección dedicada a unha disciplina concreta que inclúe unha entrevista.</desc></programme>
-<programme start="20260724230400 +0000" stop="20260725035800 +0000" channel="tvg2"><title lang="es">A boas horas</title><desc lang="es">G2 emite este nuevo programa en directo que revolucionará la madrugada del fin de semana en Radio Galega.</desc></programme>
+<programme start="20260724050000 +0000" stop="20260724050500 +0000" channel="tvg2"><title lang="es">O Diario de Alice</title><desc lang="es">Alice comparte con su madre sus historias. En su colorido mundo, además, la acompañan su perro Adam y su gato Lily, su mejor amiga Emile y los miles de pingüinos que pueblan su imaginación y que le ayudarán resolver cualquier problema.</desc></programme>
+<programme start="20260724050500 +0000" stop="20260724050900 +0000" channel="tvg2"><title lang="es">O Diario de Alice</title><desc lang="es">Alice comparte con su madre sus historias. En su colorido mundo, además, la acompañan su perro Adam y su gato Lily, su mejor amiga Emile y los miles de pingüinos que pueblan su imaginación y que le ayudarán resolver cualquier problema.</desc></programme>
+<programme start="20260724050900 +0000" stop="20260724051600 +0000" channel="tvg2"><title lang="es">Maddie e Triggs</title><desc lang="es">Maddie es una niña con discapacidad visual, pero eso no le impide vivir grandes aventuras cuando va acompañada de su perro guía y mejor amigo, Triggs.</desc></programme>
+<programme start="20260724051600 +0000" stop="20260724052400 +0000" channel="tvg2"><title lang="es">Maddie e Triggs</title><desc lang="es">Maddie es una niña con discapacidad visual, pero eso no le impide vivir grandes aventuras cuando va acompañada de su perro guía y mejor amigo, Triggs.</desc></programme>
+<programme start="20260724052400 +0000" stop="20260724053500 +0000" channel="tvg2"><title lang="es">Timmy Time</title><desc lang="es">Timmy es un corderito que ha empezado a ir a la guardería y debe aprender a relacionarse con otros animales. Gracias a su profesora, él y sus compañeros aprenderán todo lo necesario para defenderse en la vida. Pero no todo la rutina diaria de la guardería, sino que la infinita curiosidad de los jóvenes personajes provocará numerosas travesuras.</desc></programme>
+<programme start="20260724053500 +0000" stop="20260724054000 +0000" channel="tvg2"><title lang="es">Bechos</title><desc lang="es">O parque é o lugar onde Xurxo, Catuxa, Xiana e Margarida quedan para xogar todos os días. Os catro amigos non perden ocasión de pasalo ben, compartir e vivir aventuras en contacto coa natureza.</desc></programme>
+<programme start="20260724054000 +0000" stop="20260724054800 +0000" channel="tvg2"><title lang="es">Preparado, Eddie, xa!</title><desc lang="es">Eddie é un neno de seis anos con trastorno do espectro autista que todos os días irá aprendendo cousas.</desc></programme>
+<programme start="20260724054800 +0000" stop="20260724055100 +0000" channel="tvg2"><title lang="es">Bernard</title><desc lang="es">Berni es un simpático oso deportista capaz de hacer que situaciones cotidianas se conviertan en los retos más surrealistas y divertidos.</desc></programme>
+<programme start="20260724055100 +0000" stop="20260724055500 +0000" channel="tvg2"><title lang="es">Bernard</title><desc lang="es">Berni es un simpático oso deportista capaz de hacer que situaciones cotidianas se conviertan en los retos más surrealistas y divertidos.</desc></programme>
+<programme start="20260724055500 +0000" stop="20260724061700 +0000" channel="tvg2"><title lang="es">A patrulla canina</title><desc lang="es">Protagonizada por 6 heroicos cachorros: Chase, Marshall, Rocky, Zuma, Rubble y Skye, que son entrenados y dirigidos por Ryder, un niño de 10 años que los rescató y les enseñó a utilizar sus habilidades para ayudar a los demás, formando la patrulla canina.</desc></programme>
+<programme start="20260724061700 +0000" stop="20260724062800 +0000" channel="tvg2"><title lang="es">O mundo de Alva</title><desc lang="es">Alva es una niña que aprende seguridad en internet viajando al fabuloso mundo de Gizmo. Allí protege a la población de los malvados Trolls junto a su incansable asistente Mo.</desc></programme>
+<programme start="20260724062800 +0000" stop="20260724063300 +0000" channel="tvg2"><title lang="es">Superheroes da natureza</title><desc lang="es">El mundo animal está lleno de criaturas con poderes extraordinarios. Cada episodio nos embarca en un viaje fascinante, poético y lleno de humor para mostrar lo ingeniosa que puede ser la naturaleza y lo importante que es preservarla.</desc></programme>
+<programme start="20260724063300 +0000" stop="20260724073100 +0000" channel="tvg2"><title lang="es">Galicia por diante</title><desc lang="es">Las claves informativas de la jornada, con especial atención a la actualidad gallega.</desc></programme>
+<programme start="20260724073100 +0000" stop="20260724073400 +0000" channel="tvg2"><title lang="es">Citizen Code</title><desc lang="es">Serie para acercar a los más pequeños de la casa al mundo de la programación.</desc></programme>
+<programme start="20260724073400 +0000" stop="20260724075700 +0000" channel="tvg2"><title lang="es">As tartarugas ninja</title><desc lang="es">Leonardo, Raphael, Michaelangelo y Donatello son cuatro tortugas mutantes expertas en artes marciales. Juntas participarán en múltiples combates en su lucha para erradicar el mal de la ciudad de Nueva York. Además, a estos inseparables amigos les vuelve locos la pizza.</desc></programme>
+<programme start="20260724075700 +0000" stop="20260724080900 +0000" channel="tvg2"><title lang="es">Sonic Boom</title><desc lang="es">Sonic, Tails, Knuckles, Amy y Sticks en Bygone Island, isla que defienden de cualquier amenaza, incluyendo al científico loco doctor Eggman y a sus creaciones robóticas.</desc></programme>
+<programme start="20260724080900 +0000" stop="20260724083100 +0000" channel="tvg2"><title lang="es">As aventuras de Ladybug e Cat Noir</title><desc lang="es">Marinette es una adolescente normal que, sin embargo, esconde un secreto: tiene superpoderes que le convierten en Ladybug, una superheroína que lucha contra las fuerzas del mal.</desc></programme>
+<programme start="20260724083100 +0000" stop="20260724084500 +0000" channel="tvg2"><title lang="es">Aventureira Carly</title><desc lang="es">Carly es una joven arqueóloga de catorce años que va en busca de aventuras y tesoros con sus amigos.</desc></programme>
+<programme start="20260724084500 +0000" stop="20260724085900 +0000" channel="tvg2"><title lang="es">Inventa que inventa</title><desc lang="es">O robot iMigui vai achegar a ciencia, a creatividade, o pensamento crítico e a experimentación ao público infantil.</desc></programme>
+<programme start="20260724085900 +0000" stop="20260724090700 +0000" channel="tvg2"><title lang="es">Arborismos</title><desc lang="es">Serie documental sobre las particularidades y curiosidades de seis especies de árboles presentes en el medio natural gallego.</desc></programme>
+<programme start="20260724090700 +0000" stop="20260724091700 +0000" channel="tvg2"><title lang="es">Arborismos</title><desc lang="es">Serie documental sobre las particularidades y curiosidades de seis especies de árboles presentes en el medio natural gallego.</desc></programme>
+<programme start="20260724091700 +0000" stop="20260724095000 +0000" channel="tvg2"><title lang="es">Saudade de ti</title><desc lang="es">Un tráxico accidente no que morren dúas persoas sacode a vida de tres familias e obriga a Celia, filla dunha das falecidas e doutora de profesión, a facerse cargo do seu pai e da consulta da vila, á vez que tratan de pechar as feridas polo ocorrido.</desc></programme>
+<programme start="20260724095000 +0000" stop="20260724102400 +0000" channel="tvg2"><title lang="es">Saudade de ti</title><desc lang="es">Un tráxico accidente no que morren dúas persoas sacode a vida de tres familias e obriga a Celia, filla dunha das falecidas e doutora de profesión, a facerse cargo do seu pai e da consulta da vila, á vez que tratan de pechar as feridas polo ocorrido.</desc></programme>
+<programme start="20260724102400 +0000" stop="20260724110000 +0000" channel="tvg2"><title lang="es">Saudade de ti</title><desc lang="es">Un tráxico accidente no que morren dúas persoas sacode a vida de tres familias e obriga a Celia, filla dunha das falecidas e doutora de profesión, a facerse cargo do seu pai e da consulta da vila, á vez que tratan de pechar as feridas polo ocorrido.</desc></programme>
+<programme start="20260724110000 +0000" stop="20260724121100 +0000" channel="tvg2"><title lang="es">Entrega Medallas de Galicia</title><desc lang="es">Retransmisión da entrega das Medallas de Galicia, que este ano distinguen catro galegas do exterior.</desc></programme>
+<programme start="20260724121100 +0000" stop="20260724121700 +0000" channel="tvg2"><title lang="es">Un prato ao día</title><desc lang="es">Todos queremos comer delicioso y gastar el mínimo tiempo y dinero, pero no es fácil lograrlo, y además, hacerlo de diversas maneras. Con este programa, los espectadores aprenderán a ser verdaderos cocineros y a sobrevivir el día a día.</desc></programme>
+<programme start="20260724121700 +0000" stop="20260724122300 +0000" channel="tvg2"><title lang="es">Un prato ao día</title><desc lang="es">Todos queremos comer delicioso y gastar el mínimo tiempo y dinero, pero no es fácil lograrlo, y además, hacerlo de diversas maneras. Con este programa, los espectadores aprenderán a ser verdaderos cocineros y a sobrevivir el día a día.</desc></programme>
+<programme start="20260724122300 +0000" stop="20260724130000 +0000" channel="tvg2"><title lang="es">De tal mente, tal semente</title><desc lang="es">Concurso para jóvenes en la dinámica de preguntas y respuestas presentado por Esther Estévez. Será una novedad ver a los más pequeños de la casa, niños y niñas de entre 12 y 16 años, competir con sus países y abuelos.</desc></programme>
+<programme start="20260724130000 +0000" stop="20260724132000 +0000" channel="tvg2"><title lang="es">Galicia Noticias</title><desc lang="es">Raúl Quián presenta este espacio que Televisión de Galicia dedica a la información de proximidad, prestando especial atención a la actualidad de la comunidad autónoma gallega.</desc></programme>
+<programme start="20260724132000 +0000" stop="20260724140500 +0000" channel="tvg2"><title lang="es">Telexornal Mediodía</title><desc lang="es">Edición del mediodía de los informativos diarios del canal autonómico gallego. En "Telexornal" se ofrecen las noticias más recientes tanto nacionales como internacionales.</desc></programme>
+<programme start="20260724140500 +0000" stop="20260724141700 +0000" channel="tvg2"><title lang="es">Telexornal Deportes Mediodía</title><desc lang="es">Espacio de los servicios informativos de la Televisión de Galicia dedicado a las noticias más relevantes de la actualidad deportiva tanto nacional como internacional. Presenta Sevi Martínez.</desc></programme>
+<programme start="20260724141700 +0000" stop="20260724142700 +0000" channel="tvg2"><title lang="es">O Tempo</title><desc lang="es">Espacio de Televisión de Galicia dedicado a la información meteorológica de la mano de Xesús Peleteiro, Ana Celia Vázquez, Diego Viaño y Noelia Rodríguez.</desc></programme>
+<programme start="20260724142700 +0000" stop="20260724150900 +0000" channel="tvg2"><title lang="es">3 camiños</title><desc lang="es">Cinco amigos de diferentes partes del mundo se unen por el Camino de Santiago a lo largo de tres épocas distintas de sus vidas. El paso del tiempo va desmontando sus sueños, creando y rompiendo nuevas parejas y amistades y transformando la personalidad de los cinco.</desc></programme>
+<programme start="20260724150900 +0000" stop="20260724151900 +0000" channel="tvg2"><title lang="es">Lixa e Verniz</title><desc lang="es">Daniela é carpinteira e a súa paixón é restaurar mobles e crear novos obxectos a partir dos que foron desbotados. Da súa man, os espectadores aprenderán a restaurar mobles e outros obxectos para darlles unha nova vida.</desc></programme>
+<programme start="20260724151900 +0000" stop="20260724152900 +0000" channel="tvg2"><title lang="es">Lixa e Verniz</title><desc lang="es">Daniela é carpinteira e a súa paixón é restaurar mobles e crear novos obxectos a partir dos que foron desbotados. Da súa man, os espectadores aprenderán a restaurar mobles e outros obxectos para darlles unha nova vida.</desc></programme>
+<programme start="20260724152900 +0000" stop="20260724153900 +0000" channel="tvg2"><title lang="es">Lixa e Verniz</title><desc lang="es">Daniela é carpinteira e a súa paixón é restaurar mobles e crear novos obxectos a partir dos que foron desbotados. Da súa man, os espectadores aprenderán a restaurar mobles e outros obxectos para darlles unha nova vida.</desc></programme>
+<programme start="20260724153900 +0000" stop="20260724161600 +0000" channel="tvg2"><title lang="es">Fake news</title><desc lang="es">Las 'Fake news' presentan el reto de convertir los rumores en dinero mediante una simple prueba de conocimientos. En esta ocasión, el presentador Dani Polo visita la ciudad de Burgas con el propósito de encontrar a cinco valientes dispuestos a ganar 100 euros.</desc></programme>
+<programme start="20260724161600 +0000" stop="20260724171100 +0000" channel="tvg2"><title lang="es">Lambóns de viaxe</title><desc lang="es">Programa de viaxes da Radio Galega, dirixido e presentado por Carlos Garía Verdugo, coa colaboración de Dani Portela.</desc></programme>
+<programme start="20260724171100 +0000" stop="20260724174100 +0000" channel="tvg2"><title lang="es">Ribeiras de salitre</title><desc lang="es">Programa conducido por Xosé Henrique Rivadulla Corcón en el que se pone de relieve la rica cultura marítima gallega a través de historias contadas por los propios profesionales del sector.</desc></programme>
+<programme start="20260724174100 +0000" stop="20260724181000 +0000" channel="tvg2"><title lang="es">Ribeiras de salitre</title><desc lang="es">Programa conducido por Xosé Henrique Rivadulla Corcón en el que se pone de relieve la rica cultura marítima gallega a través de historias contadas por los propios profesionales del sector.</desc></programme>
+<programme start="20260724181000 +0000" stop="20260724184100 +0000" channel="tvg2"><title lang="es">Ribeiras de salitre</title><desc lang="es">Programa conducido por Xosé Henrique Rivadulla Corcón en el que se pone de relieve la rica cultura marítima gallega a través de historias contadas por los propios profesionales del sector.</desc></programme>
+<programme start="20260724184100 +0000" stop="20260724191200 +0000" channel="tvg2"><title lang="es">Ribeiras de salitre</title><desc lang="es">Programa conducido por Xosé Henrique Rivadulla Corcón en el que se pone de relieve la rica cultura marítima gallega a través de historias contadas por los propios profesionales del sector.</desc></programme>
+<programme start="20260724191200 +0000" stop="20260724200000 +0000" channel="tvg2"><title lang="es">Pesca total</title><desc lang="es">Seis concursantes competirán para converterse en mariñeiros.</desc></programme>
+<programme start="20260724200000 +0000" stop="20260724203000 +0000" channel="tvg2"><title lang="es">Telexornal Serán</title><desc lang="es">Edición vespertina de los informativos diarios de Televisión de Galicia. Ofrecemos un repaso de las noticias más recientes de ámbito autonómico, nacional e internacional.</desc></programme>
+<programme start="20260724203000 +0000" stop="20260724203200 +0000" channel="tvg2"><title lang="es">Información estado do mar mañá</title><desc lang="es">Microespacio que ofrece la información meteorológica marítima. ''Estado do mar'' está dedicado fundamentalmente a la gente de mar y a los aficionados de los deportes náuticos.</desc></programme>
+<programme start="20260724203200 +0000" stop="20260724205800 +0000" channel="tvg2"><title lang="es">Historias a pé de páxina</title><desc lang="es">Programa que repasa las vidas e historias de algunos de los personajes más influyentes y curiosos de la historia de Galicia.</desc></programme>
+<programme start="20260724205800 +0000" stop="20260724230400 +0000" channel="tvg2"><title lang="es">A rede social</title><desc lang="es">Dirigida por David Fincher, escrita por Aaron Sorkin y ganadora de tres premios Oscar (guion, montaje y banda sonora), narra la historia de los jóvenes fundadores de la popular red social Facebook.</desc></programme>
+<programme start="20260724230400 +0000" stop="20260725035700 +0000" channel="tvg2"><title lang="es">A boas horas</title><desc lang="es">G2 emite este nuevo programa en directo que revolucionará la madrugada del fin de semana en Radio Galega.</desc></programme>
 <programme start="20260723032400 +0000" stop="20260723035300 +0000" channel="tvgal"><title lang="es">Era visto!</title><desc lang="es">Un amplo elenco de actores protagonizan os intres máis cómicos que compoñen este programa. Cada edición contén tres historias independentes nas que varios personaxes procedentes do universo rural galego satirizan os tópicos e costumes da vida moderna.</desc></programme>
 <programme start="20260723035300 +0000" stop="20260723220000 +0000" channel="tvgal"><title lang="es">Era visto!</title><desc lang="es">Un amplo elenco de actores protagonizan os intres máis cómicos que compoñen este programa. Cada edición contén tres historias independentes nas que varios personaxes procedentes do universo rural galego satirizan os tópicos e costumes da vida moderna.</desc></programme>
 <programme start="20260723035700 +0000" stop="20260723042500 +0000" channel="tvgal"><title lang="es">Era visto!</title><desc lang="es">Un amplo elenco de actores protagonizan os intres máis cómicos que compoñen este programa. Cada edición contén tres historias independentes nas que varios personaxes procedentes do universo rural galego satirizan os tópicos e costumes da vida moderna.</desc></programme>
