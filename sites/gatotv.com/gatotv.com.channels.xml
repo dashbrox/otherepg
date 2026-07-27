@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channels>
   <channel site="gatotv.com" site_id="4_de_costa_rica" lang="es" xmltv_id="">4 de Costa Rica</channel>
-  <channel site="gatotv.com" site_id="5_de_republica_dominicana_telemicro" lang="es" xmltv_id="">Telemicro</channel>
   <channel site="gatotv.com" site_id="5_mexico" lang="es" xmltv_id="">5 de México</channel>
   <channel site="gatotv.com" site_id="6_de_costa_rica" lang="es" xmltv_id="">6 de Costa Rica</channel>
   <channel site="gatotv.com" site_id="9_de_honduras_vica" lang="es" xmltv_id="">9 de Honduras</channel>
@@ -55,7 +54,6 @@
   <channel site="gatotv.com" site_id="dw_latinoamerica" lang="es" xmltv_id="">DW Latam.</channel>
   <channel site="gatotv.com" site_id="e_entertainment_television_chile" lang="es" xmltv_id="">E! Entertainment Television Chile</channel>
   <channel site="gatotv.com" site_id="e_entertainment_television_panregional" lang="es" xmltv_id="">E! Entertainment Television Panregional</channel>
-  <channel site="gatotv.com" site_id="el_financiero_tv" lang="es" xmltv_id="">El Financiero TV</channel>
   <channel site="gatotv.com" site_id="elgourmet" lang="es" xmltv_id="">Elgourmet</channel>
   <channel site="gatotv.com" site_id="enlace" lang="es" xmltv_id="">TBN</channel>
   <channel site="gatotv.com" site_id="espn_2_sur" lang="es" xmltv_id="">ESPN 2 Sur</channel>
@@ -100,7 +98,6 @@
   <channel site="gatotv.com" site_id="la_red_chile" lang="es" xmltv_id="">La Red Chile</channel>
   <channel site="gatotv.com" site_id="las_estrellas_latinoamerica" lang="es" xmltv_id="">Las Estrellas LATAM</channel>
   <channel site="gatotv.com" site_id="max_anime_latinoamerica" lang="es" xmltv_id="">Max Anime LATAM</channel>
-  <channel site="gatotv.com" site_id="meganoticias_mx" lang="es" xmltv_id="">Meganoticias MX</channel>
   <channel site="gatotv.com" site_id="mtv_centro" lang="es" xmltv_id="">MTV Centro</channel>
   <channel site="gatotv.com" site_id="mtv_mexico" lang="es" xmltv_id="">MTV México</channel>
   <channel site="gatotv.com" site_id="national_geographic_centro" lang="es" xmltv_id="">National Geographic Centro</channel>
@@ -141,7 +138,6 @@
   <channel site="gatotv.com" site_id="tr3s" lang="es" xmltv_id="">Tr3s</channel>
   <channel site="gatotv.com" site_id="tv_agro_centroamerica" lang="es" xmltv_id="">TV Agro C. A.</channel>
   <channel site="gatotv.com" site_id="tv_azteca_deportes" lang="es" xmltv_id="">TV Azteca Deportes</channel>
-  <channel site="gatotv.com" site_id="tve" lang="es" xmltv_id="">TVE Internacional</channel>
   <channel site="gatotv.com" site_id="tvmax" lang="es" xmltv_id="">9 de Panamá</channel>
   <channel site="gatotv.com" site_id="ultra_cine" lang="es" xmltv_id="">Ultra Cine</channel>
   <channel site="gatotv.com" site_id="ultra_docu" lang="es" xmltv_id="">Ultra Docu</channel>
@@ -434,7 +430,6 @@
   <channel site="gatotv.com" site_id="tv_chile" lang="es" xmltv_id="TVChile.cl@SD">TV Chile</channel>
   <channel site="gatotv.com" site_id="tv_globo_internacional" lang="es" xmltv_id="TVGloboInternacionalAmericas.br@SD">TV Globo Internacional</channel>
   <channel site="gatotv.com" site_id="tvn_chile" lang="es" xmltv_id="TVN.cl@SD">TVN Chile</channel>
-  <channel site="gatotv.com" site_id="2_de_panama" lang="es" xmltv_id="TVN.pa@SD">2 de Panamá</channel>
   <channel site="gatotv.com" site_id="television_publica" lang="es" xmltv_id="TVPublica.ar@SD">Televisión Pública Argentina</channel>
   <channel site="gatotv.com" site_id="tvunam" lang="es" xmltv_id="TVUNAM.mx@SD">TVUNAM</channel>
   <channel site="gatotv.com" site_id="tyc_sports" lang="es" xmltv_id="TyCSports.ar@SD">TyC Sports</channel>
