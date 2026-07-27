@@ -66,10 +66,8 @@
   <channel site="movistarplus.es" site_id="dazmot" lang="es" xmltv_id="">DAZN MotoGP</channel>
   <channel site="movistarplus.es" site_id="dazn3" lang="es" xmltv_id="">DAZN 3</channel>
   <channel site="movistarplus.es" site_id="dazn4" lang="es" xmltv_id="">DAZN 4</channel>
-  <channel site="movistarplus.es" site_id="daznl2" lang="es" xmltv_id="">DAZN MUNDIAL 2</channel>
-  <channel site="movistarplus.es" site_id="daznl3" lang="es" xmltv_id="">DAZN MUNDIAL 3</channel>
-  <channel site="movistarplus.es" site_id="daznl4" lang="es" xmltv_id="">DAZN MUNDIAL 4</channel>
-  <channel site="movistarplus.es" site_id="daznli" lang="es" xmltv_id="">DAZN MUNDIAL</channel>
+  <channel site="movistarplus.es" site_id="daznl2" lang="es" xmltv_id="">DAZN LALIGA 2</channel>
+  <channel site="movistarplus.es" site_id="daznli" lang="es" xmltv_id="">DAZN LALIGA</channel>
   <channel site="movistarplus.es" site_id="dcesp" lang="es" xmltv_id="">M+ Cine Español</channel>
   <channel site="movistarplus.es" site_id="dcr" lang="es" xmltv_id="">Discovery</channel>
   <channel site="movistarplus.es" site_id="dcrmax" lang="es" xmltv_id="">DMAX</channel>
