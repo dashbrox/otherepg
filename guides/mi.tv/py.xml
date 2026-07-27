@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20260727">
 <channel id="py#a-e-mundo"><display-name>A&amp;E</display-name><url>https://mi.tv</url></channel>
-<channel id="py#abc-tv"><display-name>ABC TV</display-name><url>https://mi.tv</url></channel>
-<channel id="py#america-24"><display-name>America 24</display-name><url>https://mi.tv</url></channel>
-<channel id="py#america-television"><display-name>AMÉRICA TELEVISION</display-name><url>https://mi.tv</url></channel>
+<channel id="py#warner-channel"><display-name>Warner Channel</display-name><url>https://mi.tv</url></channel>
+<channel id="py#warner"><display-name>Warner Channel</display-name><url>https://mi.tv</url></channel>
+<channel id="py#venus"><display-name>Venus</display-name><url>https://mi.tv</url></channel>
 <channel id="py#univision"><display-name>Univision</display-name><url>https://mi.tv</url></channel>
 <channel id="py#universal-channel-hd"><display-name>Universal Channel HD</display-name><url>https://mi.tv</url></channel>
 <channel id="py#universal-channel"><display-name>Universal TV</display-name><url>https://mi.tv</url></channel>
@@ -82,9 +82,9 @@
 <channel id="py#az-corazon"><display-name>Az Corazón</display-name><url>https://mi.tv</url></channel>
 <channel id="py#axn"><display-name>AXN</display-name><url>https://mi.tv</url></channel>
 <channel id="py#animal-planet"><display-name>Animal Planet</display-name><url>https://mi.tv</url></channel>
-<channel id="py#warner"><display-name>Warner Channel</display-name><url>https://mi.tv</url></channel>
-<channel id="py#venus"><display-name>Venus</display-name><url>https://mi.tv</url></channel>
-<channel id="py#warner-channel"><display-name>Warner Channel</display-name><url>https://mi.tv</url></channel>
+<channel id="py#america-television"><display-name>AMÉRICA TELEVISION</display-name><url>https://mi.tv</url></channel>
+<channel id="py#america-24"><display-name>America 24</display-name><url>https://mi.tv</url></channel>
+<channel id="py#abc-tv"><display-name>ABC TV</display-name><url>https://mi.tv</url></channel>
 <programme start="20260727060000 +0000" stop="20260727070000 +0000" channel="CNNenEspanol.us@SD"><title lang="es">Oppenheimer presenta</title><sub-title lang="es">Los nuevos señalamientos de Trump sobre fraude electoral</sub-title><desc lang="es">Todas las historias tienen dos lados, algunas veces más. Oppenheimer los presenta todos en este espacio de análisis inteligente sobre los temas más relevantes de la actualidad política, económica y social.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">0.664.0/1</episode-num><episode-num system="onscreen">S01E665</episode-num><image>https://cdn.mitvstatic.com/programs/py_oppenheimer-presenta-t00e665-los-nuevos-senalamientos-de-trump-sobre-fraude-electoral_l_m.jpg</image></programme>
 <programme start="20260727070000 +0000" stop="20260727073000 +0000" channel="CNNenEspanol.us@SD"><title lang="es">Mirador mundial</title><desc lang="es">Monitorea los acontecimientos globales, siguiendo las noticias del momento y cubriendo procesos electorales y otros movimientos populares que transforman la faz política del mundo.</desc><category lang="es">Noticiero</category><image>https://cdn.mitvstatic.com/programs/py_mirador-mundial_l_m.jpg</image></programme>
 <programme start="20260727073000 +0000" stop="20260727080000 +0000" channel="CNNenEspanol.us@SD"><title lang="es">Showbiz</title><desc lang="es">Milo Quifes apenas se está dando a conocer como actor, y lo está haciendo con la galardonada producción La bola negra, de los directores Javier Calvo y Javier Ambrossi.</desc><category lang="es">- Ojo crítico: Milo Quifes</category><image>https://cdn.mitvstatic.com/programs/py_showbiz-ojo-critico-milo-quifes-1_l_m.jpg</image></programme>
@@ -311,8 +311,8 @@
 <programme start="20260728010000 +0000" stop="20260728020000 +0000" channel="py#abc-tv"><title lang="es">Territorio 1912</title><desc lang="es">El programa partidario más gigante de Paraguay, siguiendo a Cerro Porteño.</desc><category lang="es">Territorio 1912</category><image>https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg</image></programme>
 <programme start="20260728020000 +0000" stop="20260728030000 +0000" channel="py#abc-tv"><title lang="es">ABC franjeado</title><desc lang="es">Un programa sobre todo lo relacionado con el club Olimpia de Paraguay: análisis de partidos, entrevistas, historias de los jugadores, y mucho más. Junto a Ariel Insfrán, Noelia Leguizamón y Nelson Casco, el público se informa al completo.</desc><category lang="es">ABC franjeado</category><image>https://cdn.mitvstatic.com/tags/py_futbol_l_m.jpg</image></programme>
 <programme start="20260728030000 +0000" stop="20260728030500 +0000" channel="py#abc-tv"><title lang="es">Himno nacional</title><category lang="es">Musical</category><image>https://cdn.mitvstatic.com/programs/py_himno-nacional-1_l_m.jpg</image></programme>
-<programme start="20260728030500 +0000" stop="20260728040500 +0000" channel="py#abc-tv"><title lang="es">Madrugada ABC</title><category lang="es">Noticiero</category><image>https://cdn.mitvstatic.com/programs/py_madrugada-abc_l_m.jpg</image></programme>
 <programme start="20260728030500 +0000" stop="20260728080000 +0000" channel="py#abc-tv"><title lang="es">Madrugada ABC</title><category lang="es">Noticiero</category><image>https://cdn.mitvstatic.com/programs/py_madrugada-abc_l_m.jpg</image></programme>
+<programme start="20260728030500 +0000" stop="20260728040500 +0000" channel="py#abc-tv"><title lang="es">Madrugada ABC</title><category lang="es">Noticiero</category><image>https://cdn.mitvstatic.com/programs/py_madrugada-abc_l_m.jpg</image></programme>
 <programme start="20260728080000 +0000" stop="20260728090000 +0000" channel="py#abc-tv"><title lang="es">La primera mañana</title><desc lang="es">Entérate de todas las novedades de Paraguay y el mundo.</desc><category lang="es">Noticiero</category><image>https://cdn.mitvstatic.com/programs/py_la-primera-manana_l_m.jpg</image></programme>
 <programme start="20260728090000 +0000" stop="20260728110000 +0000" channel="py#abc-tv"><title lang="es">ABC Noticias</title><desc lang="es">Un programa que aborda los hechos más destacados de la agenda de noticias nacional e internacional. A través del trabajo de periodistas, reporteros y expertos, el público podrá informarse al completo sobre la realidad.</desc><category lang="es">Noticiero</category><image>https://cdn.mitvstatic.com/programs/py_abc-noticias_l_m.jpg</image></programme>
 <programme start="20260728110000 +0000" stop="20260728143000 +0000" channel="py#abc-tv"><title lang="es">A la gran 730</title><category lang="es">Periodístico</category><image>https://cdn.mitvstatic.com/programs/py_a-la-gran-730_l_m.jpg</image></programme>
