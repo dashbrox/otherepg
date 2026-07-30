@@ -81,8 +81,6 @@
   <channel site="gatotv.com" site_id="fox_guatemala" lang="es" xmltv_id="">Fox Guatemala</channel>
   <channel site="gatotv.com" site_id="fox_honduras" lang="es" xmltv_id="">Fox Honduras</channel>
   <channel site="gatotv.com" site_id="fox_nicaragua" lang="es" xmltv_id="">Fox Nicaragua</channel>
-  <channel site="gatotv.com" site_id="fox_plus_guatemala" lang="es" xmltv_id="">FOX+ Guatemala</channel>
-  <channel site="gatotv.com" site_id="fox_plus_honduras" lang="es" xmltv_id="">FOX+ Honduras</channel>
   <channel site="gatotv.com" site_id="fox_sports_2_cono_norte" lang="es" xmltv_id="">Fox Sports 2 Cono Norte</channel>
   <channel site="gatotv.com" site_id="fox_sports_3_cono_norte" lang="es" xmltv_id="">Fox Sports 3 Cono Norte</channel>
   <channel site="gatotv.com" site_id="fox_sports_cono_norte" lang="es" xmltv_id="">Fox Sports Cono Norte</channel>
@@ -103,7 +101,6 @@
   <channel site="gatotv.com" site_id="meganoticias_mx" lang="es" xmltv_id="">Meganoticias MX</channel>
   <channel site="gatotv.com" site_id="mtv_mexico" lang="es" xmltv_id="">MTV México</channel>
   <channel site="gatotv.com" site_id="national_geographic_centro" lang="es" xmltv_id="">National Geographic Centro</channel>
-  <channel site="gatotv.com" site_id="nickelodeon_centro" lang="es" xmltv_id="">Nickelodeon Centro</channel>
   <channel site="gatotv.com" site_id="nickelodeon_mexico" lang="es" xmltv_id="">Nickelodeon México</channel>
   <channel site="gatotv.com" site_id="odisea" lang="es" xmltv_id="">Odisea</channel>
   <channel site="gatotv.com" site_id="panico" lang="es" xmltv_id="">Pánico</channel>
@@ -148,9 +145,7 @@
   <channel site="gatotv.com" site_id="ultra_kidz" lang="es" xmltv_id="">Ultra Kidz</channel>
   <channel site="gatotv.com" site_id="ultra_tainment" lang="es" xmltv_id="">Ultra Tainment</channel>
   <channel site="gatotv.com" site_id="unicanal" lang="es" xmltv_id="">Unicanal</channel>
-  <channel site="gatotv.com" site_id="univision_latinoamerica" lang="es" xmltv_id="">Univision Latinoamérica</channel>
   <channel site="gatotv.com" site_id="usa_network_latinoamerica" lang="es" xmltv_id="">Canal USA Network LATAM</channel>
-  <channel site="gatotv.com" site_id="ve_plus_latinoamerica" lang="es" xmltv_id="">Ve Plus LATAM</channel>
   <channel site="gatotv.com" site_id="warner_tv_chile" lang="es" xmltv_id="">Warner TV Chile</channel>
   <channel site="gatotv.com" site_id="warner_tv_espana" lang="es" xmltv_id="">Warner TV España</channel>
   <channel site="gatotv.com" site_id="warner_tv_mexico" lang="es" xmltv_id="">Warner TV México</channel>
