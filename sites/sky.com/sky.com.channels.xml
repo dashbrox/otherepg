@@ -8,7 +8,6 @@
   <channel site="sky.com" site_id="1148" lang="en" xmltv_id="">Virgin Radio</channel>
   <channel site="sky.com" site_id="1183" lang="en" xmltv_id="">Disney Jr HD</channel>
   <channel site="sky.com" site_id="1190" lang="en" xmltv_id="">Disney+CineHD</channel>
-  <channel site="sky.com" site_id="1191" lang="en" xmltv_id="">Dunamis TV</channel>
   <channel site="sky.com" site_id="1205" lang="en" xmltv_id="">LBC News</channel>
   <channel site="sky.com" site_id="1210" lang="en" xmltv_id="">TNTSBoxOffHD</channel>
   <channel site="sky.com" site_id="1261" lang="en" xmltv_id="">RTÉ Radio 1</channel>
@@ -347,7 +346,6 @@
   <channel site="sky.com" site_id="2816" lang="en" xmltv_id="RTEOne.ie@HD">RTÉ One HD</channel>
   <channel site="sky.com" site_id="2808" lang="en" xmltv_id="RTEOne.ie@Plus1">RTÉ One+1</channel>
   <channel site="sky.com" site_id="2296" lang="en" xmltv_id="S4C.uk@HD">S4C HD</channel>
-  <channel site="sky.com" site_id="5701" lang="en" xmltv_id="S4C.uk@SD">S4C</channel>
   <channel site="sky.com" site_id="3355" lang="en" xmltv_id="SangatTV.uk@SD">Sangat</channel>
   <channel site="sky.com" site_id="1100" lang="en" xmltv_id="SanskarTV.in@SD">Sanskar</channel>
   <channel site="sky.com" site_id="3650" lang="en" xmltv_id="SikhChannel.uk@SD">Sikh Channel</channel>
@@ -362,7 +360,7 @@
   <channel site="sky.com" site_id="4016" lang="en" xmltv_id="SkyCinemaDrama.uk@HD">Sky Drama HD</channel>
   <channel site="sky.com" site_id="4018" lang="en" xmltv_id="SkyCinemaFamily.uk@HD">Sky Family HD</channel>
   <channel site="sky.com" site_id="4015" lang="en" xmltv_id="SkyCinemaGreats.uk@SD">Sky Greats HD</channel>
-  <channel site="sky.com" site_id="4033" lang="en" xmltv_id="SkyCinemaHits.uk@SD">Spider-Man HD</channel>
+  <channel site="sky.com" site_id="4033" lang="en" xmltv_id="SkyCinemaHits.uk@SD">Sky Box Set HD</channel>
   <channel site="sky.com" site_id="4021" lang="en" xmltv_id="SkyCinemaPremiere.uk@HD">SkyPremiereHD</channel>
   <channel site="sky.com" site_id="4017" lang="en" xmltv_id="SkyCinemaSciFiHorror.uk@HD">Sky ScFi/HorHD</channel>
   <channel site="sky.com" site_id="4020" lang="en" xmltv_id="SkyCinemaSelect.uk@SD">SkyAnimationHD</channel>
