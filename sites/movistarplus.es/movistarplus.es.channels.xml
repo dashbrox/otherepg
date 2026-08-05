@@ -120,6 +120,7 @@
   <channel site="movistarplus.es" site_id="mindi" lang="es" xmltv_id="">M+ Indie</channel>
   <channel site="movistarplus.es" site_id="mlig1" lang="es" xmltv_id="">M+ LALIGA 2</channel>
   <channel site="movistarplus.es" site_id="mlig2" lang="es" xmltv_id="">M+ LALIGA 3</channel>
+  <channel site="movistarplus.es" site_id="mlig3" lang="es" xmltv_id="">M+ LALIGA 4</channel>
   <channel site="movistarplus.es" site_id="mliga" lang="es" xmltv_id="">M+ LALIGA</channel>
   <channel site="movistarplus.es" site_id="mligs" lang="es" xmltv_id="">LALIGA TV HYPERMOTION</channel>
   <channel site="movistarplus.es" site_id="mligs2" lang="es" xmltv_id="">LALIGA TV HYPERMOTION 2</channel>
