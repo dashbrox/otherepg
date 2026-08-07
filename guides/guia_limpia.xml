@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv date="20260807">
 <channel id="7tvmur"><display-name>7 TV Región Murcia</display-name><url>https://movistarplus.es</url></channel>
-<channel id="13tv"><display-name>TRECE</display-name><url>https://movistarplus.es</url></channel>
-<channel id="3_24"><display-name>3CatInfo</display-name><url>https://movistarplus.es</url></channel>
-<channel id="antv"><display-name>Canal Sur Andalucía</display-name><url>https://movistarplus.es</url></channel>
-<channel id="axn"><display-name>AXN</display-name><url>https://movistarplus.es</url></channel>
-<channel id="atress"><display-name>Atreseries</display-name><url>https://movistarplus.es</url></channel>
-<channel id="andatv"><display-name>Andalucía TV</display-name><url>https://movistarplus.es</url></channel>
-<channel id="atlat"><display-name>Atlántico TV</display-name><url>https://movistarplus.es</url></channel>
-<channel id="boing"><display-name>Boing</display-name><url>https://movistarplus.es</url></channel>
-<channel id="arthur"><display-name>M+ Deportes 2</display-name><url>https://movistarplus.es</url></channel>
-<channel id="bl"><display-name>Bloomberg</display-name><url>https://movistarplus.es</url></channel>
-<channel id="bemad"><display-name>BE MAD</display-name><url>https://movistarplus.es</url></channel>
-<channel id="24h"><display-name>24 Horas</display-name><url>https://movistarplus.es</url></channel>
-<channel id="aljaze"><display-name>Al Jazeera English</display-name><url>https://movistarplus.es</url></channel>
-<channel id="arirhd"><display-name>Arirang TV HD</display-name><url>https://movistarplus.es</url></channel>
-<channel id="bbhis"><display-name>BBC History</display-name><url>https://movistarplus.es</url></channel>
-<channel id="bbgea"><display-name>BBC Top Gear</display-name><url>https://movistarplus.es</url></channel>
-<channel id="aragtv"><display-name>Aragón TV</display-name><url>https://movistarplus.es</url></channel>
-<channel id="bbfoo"><display-name>BBC Food</display-name><url>https://movistarplus.es</url></channel>
-<channel id="bbdra"><display-name>BBC Series</display-name><url>https://movistarplus.es</url></channel>
-<channel id="a3"><display-name>Antena 3</display-name><url>https://movistarplus.es</url></channel>
-<channel id="aragon"><display-name>Aragón TV Int</display-name><url>https://movistarplus.es</url></channel>
-<channel id="bbclif"><display-name>BBC Lifestyle</display-name><url>https://movistarplus.es</url></channel>
-<channel id="bbcear"><display-name>BBC Earth</display-name><url>https://movistarplus.es</url></channel>
-<channel id="apunt"><display-name>À Punt</display-name><url>https://movistarplus.es</url></channel>
-<channel id="bbc"><display-name>BBC News</display-name><url>https://movistarplus.es</url></channel>
-<channel id="baby"><display-name>Baby TV</display-name><url>https://movistarplus.es</url></channel>
+<channel id="veo7"><display-name>Veo7</display-name><url>https://movistarplus.es</url></channel>
+<channel id="vamosd"><display-name>M+ Vamos</display-name><url>https://movistarplus.es</url></channel>
+<channel id="vam2sd"><display-name>M+ Vamos 2</display-name><url>https://movistarplus.es</url></channel>
+<channel id="usop11"><display-name>M+ Deportes 5</display-name><url>https://movistarplus.es</url></channel>
+<channel id="usop3"><display-name>M+ Deportes 4</display-name><url>https://movistarplus.es</url></channel>
+<channel id="usop2"><display-name>M+ Deportes 3</display-name><url>https://movistarplus.es</url></channel>
+<channel id="ucl"><display-name>UCL</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tvgal"><display-name>TVG -TV Galicia</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tvg2"><display-name>TVG 2</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tvg"><display-name>TVG Europa</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tve"><display-name>LA 1</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tvc"><display-name>TV3 Cat</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tv5"><display-name>TV5MONDE</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tv3cat"><display-name>TV3</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tpa"><display-name>TPA</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tnt"><display-name>Warner TV</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tlesur"><display-name>Telesur</display-name><url>https://movistarplus.es</url></channel>
+<channel id="ten"><display-name>Ten</display-name><url>https://movistarplus.es</url></channel>
+<channel id="telmin"><display-name>Telemadrid Int.</display-name><url>https://movistarplus.es</url></channel>
+<channel id="telmad"><display-name>Telemadrid</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tdep"><display-name>Teledeporte</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tcm"><display-name>TCM</display-name><url>https://movistarplus.es</url></channel>
+<channel id="t5"><display-name>Telecinco</display-name><url>https://movistarplus.es</url></channel>
+<channel id="squi"><display-name>Squirrel</display-name><url>https://movistarplus.es</url></channel>
+<channel id="skysho"><display-name>SkyShowtime 1</display-name><url>https://movistarplus.es</url></channel>
+<channel id="skynw"><display-name>Sky News</display-name><url>https://movistarplus.es</url></channel>
 <channel id="sexta"><display-name>La Sexta</display-name><url>https://movistarplus.es</url></channel>
 <channel id="set"><display-name>AXN Movies</display-name><url>https://movistarplus.es</url></channel>
 <channel id="sci-fi"><display-name>SYFY</display-name><url>https://movistarplus.es</url></channel>
@@ -154,32 +154,32 @@
 <channel id="c33"><display-name>SX3</display-name><url>https://movistarplus.es</url></channel>
 <channel id="c4"><display-name>Cuatro</display-name><url>https://movistarplus.es</url></channel>
 <channel id="btv"><display-name>Betevé</display-name><url>https://movistarplus.es</url></channel>
-<channel id="usop3"><display-name>M+ Deportes 4</display-name><url>https://movistarplus.es</url></channel>
-<channel id="ucl"><display-name>UCL</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tvgal"><display-name>TVG -TV Galicia</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tvg2"><display-name>TVG 2</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tve"><display-name>LA 1</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tvc"><display-name>TV3 Cat</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tv5"><display-name>TV5MONDE</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tpa"><display-name>TPA</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tnt"><display-name>Warner TV</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tlesur"><display-name>Telesur</display-name><url>https://movistarplus.es</url></channel>
-<channel id="telmin"><display-name>Telemadrid Int.</display-name><url>https://movistarplus.es</url></channel>
-<channel id="telmad"><display-name>Telemadrid</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tdep"><display-name>Teledeporte</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tcm"><display-name>TCM</display-name><url>https://movistarplus.es</url></channel>
-<channel id="t5"><display-name>Telecinco</display-name><url>https://movistarplus.es</url></channel>
-<channel id="squi"><display-name>Squirrel</display-name><url>https://movistarplus.es</url></channel>
-<channel id="veo7"><display-name>Veo7</display-name><url>https://movistarplus.es</url></channel>
-<channel id="vamosd"><display-name>M+ Vamos</display-name><url>https://movistarplus.es</url></channel>
-<channel id="vam2sd"><display-name>M+ Vamos 2</display-name><url>https://movistarplus.es</url></channel>
-<channel id="usop11"><display-name>M+ Deportes 5</display-name><url>https://movistarplus.es</url></channel>
-<channel id="usop2"><display-name>M+ Deportes 3</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tv3cat"><display-name>TV3</display-name><url>https://movistarplus.es</url></channel>
-<channel id="skysho"><display-name>SkyShowtime 1</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tvg"><display-name>TVG Europa</display-name><url>https://movistarplus.es</url></channel>
-<channel id="ten"><display-name>Ten</display-name><url>https://movistarplus.es</url></channel>
-<channel id="skynw"><display-name>Sky News</display-name><url>https://movistarplus.es</url></channel>
+<channel id="boing"><display-name>Boing</display-name><url>https://movistarplus.es</url></channel>
+<channel id="bl"><display-name>Bloomberg</display-name><url>https://movistarplus.es</url></channel>
+<channel id="bemad"><display-name>BE MAD</display-name><url>https://movistarplus.es</url></channel>
+<channel id="bbhis"><display-name>BBC History</display-name><url>https://movistarplus.es</url></channel>
+<channel id="bbgea"><display-name>BBC Top Gear</display-name><url>https://movistarplus.es</url></channel>
+<channel id="bbfoo"><display-name>BBC Food</display-name><url>https://movistarplus.es</url></channel>
+<channel id="bbdra"><display-name>BBC Series</display-name><url>https://movistarplus.es</url></channel>
+<channel id="bbclif"><display-name>BBC Lifestyle</display-name><url>https://movistarplus.es</url></channel>
+<channel id="bbcear"><display-name>BBC Earth</display-name><url>https://movistarplus.es</url></channel>
+<channel id="bbc"><display-name>BBC News</display-name><url>https://movistarplus.es</url></channel>
+<channel id="baby"><display-name>Baby TV</display-name><url>https://movistarplus.es</url></channel>
+<channel id="axn"><display-name>AXN</display-name><url>https://movistarplus.es</url></channel>
+<channel id="atress"><display-name>Atreseries</display-name><url>https://movistarplus.es</url></channel>
+<channel id="atlat"><display-name>Atlántico TV</display-name><url>https://movistarplus.es</url></channel>
+<channel id="arthur"><display-name>M+ Deportes 2</display-name><url>https://movistarplus.es</url></channel>
+<channel id="arirhd"><display-name>Arirang TV HD</display-name><url>https://movistarplus.es</url></channel>
+<channel id="aragtv"><display-name>Aragón TV</display-name><url>https://movistarplus.es</url></channel>
+<channel id="aragon"><display-name>Aragón TV Int</display-name><url>https://movistarplus.es</url></channel>
+<channel id="apunt"><display-name>À Punt</display-name><url>https://movistarplus.es</url></channel>
+<channel id="antv"><display-name>Canal Sur Andalucía</display-name><url>https://movistarplus.es</url></channel>
+<channel id="andatv"><display-name>Andalucía TV</display-name><url>https://movistarplus.es</url></channel>
+<channel id="aljaze"><display-name>Al Jazeera English</display-name><url>https://movistarplus.es</url></channel>
+<channel id="a3"><display-name>Antena 3</display-name><url>https://movistarplus.es</url></channel>
+<channel id="3_24"><display-name>3CatInfo</display-name><url>https://movistarplus.es</url></channel>
+<channel id="24h"><display-name>24 Horas</display-name><url>https://movistarplus.es</url></channel>
+<channel id="13tv"><display-name>TRECE</display-name><url>https://movistarplus.es</url></channel>
 <programme start="20260807050000 +0000" stop="20260807060000 +0000" channel="7tvmur"><title lang="es">Murcia a la vista</title><desc lang="es">Los reporteros del programa se lanzan a las calles, playas o pueblos de la Región para recoger todo lo que ocurre en la Comunidad, tomando el pulso de los ciudadanos sobre los temas más llamativos que se dan cada día en toda la geografía murciana.</desc></programme>
 <programme start="20260807060000 +0000" stop="20260807070000 +0000" channel="7tvmur"><title lang="es">Onda regional Noticias</title><desc lang="es">Toda la actualidad de la región a La 7, con información matinal y resúmenes semanales, conectando radio y TV en un formato dinámico y cercano.</desc></programme>
 <programme start="20260807070000 +0000" stop="20260807100000 +0000" channel="7tvmur"><title lang="es">7Noticias Matinal</title><desc lang="es">Primera edición informativa de la cadena presentada por Marienca Fernández y Tati García.</desc></programme>
@@ -7672,12 +7672,28 @@
 <programme start="20260808215900 +0000" stop="20260808234800 +0000" channel="tcm"><title lang="es">Alicia ya no vive aquí</title><desc lang="es">Casada con un repartidor y madre de Tommy, un rebelde preadolescente, Alicia Hyatt lleva una rutinaria vida en Socorro (Nuevo México). Un día, recibe la noticia de que su marido ha fallecido en un accidente de tráfico. Desde ese momento, Alicia se propone cambiar totalmente de vida y, tras vender sus escasas propiedades, se pone junto a su hijo camino de Monterrey (California), su tierra natal y el único lugar donde Alicia puede convertir el sueño de su vida en realidad: continuar con la carrera de cantante que abandonó cuando se casó.</desc></programme>
 <programme start="20260808234800 +0000" stop="20260809023000 +0000" channel="tcm"><title lang="es">Gangs of New York</title><desc lang="es">Nueva York, 1846. En Five Points, el barrio más pobre de la ciudad, donde impera la miseria, la delincuencia y el crimen organizado, el padre Vallon, al frente del grupo de inmigrantes irlandeses autodenominado 'Conejos muertos', se enfrenta a Bill 'El carnicero', líder de los 'Nativos'.</desc></programme>
 <programme start="20260809023000 +0000" stop="20260809035600 +0000" channel="tcm"><title lang="es">Camino de la horca</title><desc lang="es">Un sheriff escolta a un hombre acusado de un crimen y a su hija al pueblo donde debe ser juzgado mientras trata de evitar que sea linchado.</desc></programme>
-<programme start="20260807040000 +0000" stop="20260807080000 +0000" channel="tdep"><title lang="es">Teledeporte</title><desc lang="es">Conexión con la programación del canal temático de deportes de Radiotelevisión Española, Teledeporte.</desc></programme>
-<programme start="20260807080000 +0000" stop="20260807120000 +0000" channel="tdep"><title lang="es">Teledeporte</title><desc lang="es">Conexión con la programación del canal temático de deportes de Radiotelevisión Española, Teledeporte.</desc></programme>
-<programme start="20260807120000 +0000" stop="20260807160000 +0000" channel="tdep"><title lang="es">Teledeporte</title><desc lang="es">Conexión con la programación del canal temático de deportes de Radiotelevisión Española, Teledeporte.</desc></programme>
-<programme start="20260807160000 +0000" stop="20260807200000 +0000" channel="tdep"><title lang="es">Teledeporte</title><desc lang="es">Conexión con la programación del canal temático de deportes de Radiotelevisión Española, Teledeporte.</desc></programme>
-<programme start="20260807200000 +0000" stop="20260808000000 +0000" channel="tdep"><title lang="es">Teledeporte</title><desc lang="es">Conexión con la programación del canal temático de deportes de Radiotelevisión Española, Teledeporte.</desc></programme>
-<programme start="20260808000000 +0000" stop="20260808220000 +0000" channel="tdep"><title lang="es">Teledeporte</title><desc lang="es">Conexión con la programación del canal temático de deportes de Radiotelevisión Española, Teledeporte.</desc></programme>
+<programme start="20260807040000 +0000" stop="20260807042000 +0000" channel="tdep"><title lang="es">Tierra de campeones (T2026): Miércoles 5 agosto</title><desc lang="es">La Real Federación Española de Tenis produce este espacio dedicado a la promoción del deporte de la raqueta. El programa se centra en los torneos formativos que buscan a las nuevas estrellas nacionales.</desc></programme>
+<programme start="20260807042000 +0000" stop="20260807055000 +0000" channel="tdep"><title lang="es">Europeo de deportes acuáticos (2026): Solo técnico vs Final F</title><desc lang="es">París acoge del 31 de julio al 16 de agosto el Campeonato de Europa de natación. En la capital francesa se disputa la 38ª edición de los campeonatos europeos en las especialidades de natación en piscina larga, artística, saltos y aguas abiertas.</desc></programme>
+<programme start="20260807055000 +0000" stop="20260807063000 +0000" channel="tdep"><title lang="es">Europeo de deportes acuáticos (2026): 3m vs Final F</title><desc lang="es">París acoge del 31 de julio al 16 de agosto el Campeonato de Europa de natación. En la capital francesa se disputa la 38ª edición de los campeonatos europeos en las especialidades de natación en piscina larga, artística, saltos y aguas abiertas.</desc></programme>
+<programme start="20260807063000 +0000" stop="20260807065000 +0000" channel="tdep"><title lang="es">Surfing.es (T2026): Jueves 6 agosto</title><desc lang="es">El surf es una modalidad muy espectacular, tanto para quien lo ve como para el que lo practica. Los surfistas deben tener un espíritu aventurero, ya que en muchas ocasiones arriesgan su vida contra las olas. Este espacio repasa la actualidad de este mundo.</desc></programme>
+<programme start="20260807065000 +0000" stop="20260807065500 +0000" channel="tdep"><title lang="es">Telediario Matinal</title><desc lang="es">Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.</desc></programme>
+<programme start="20260807065500 +0000" stop="20260807083000 +0000" channel="tdep"><title lang="es">Europeo de deportes acuáticos (2026): Aguas abiertas vs 3km Sprint - Final F</title><desc lang="es">París acoge del 31 de julio al 16 de agosto el Campeonato de Europa de natación. En la capital francesa se disputa la 38ª edición de los campeonatos europeos en las especialidades de natación en piscina larga, artística, saltos y aguas abiertas.</desc></programme>
+<programme start="20260807083000 +0000" stop="20260807091000 +0000" channel="tdep"><title lang="es">Tour de Francia F (2026): Etapa 6 vs Montbrison - Tournon - sur - Rhône</title><desc lang="es">La quinta edición del Tour de Francia femenino se disputa del 1 al 9 de agosto. La carrera crece y ya cuenta con nueve etapas y casi 1.200 kilómetros de recorrido. La local Pauline Ferrand-Prévot se impuso en 2025.</desc></programme>
+<programme start="20260807091000 +0000" stop="20260807104500 +0000" channel="tdep"><title lang="es">Europeo de deportes acuáticos (2026): Aguas abiertas vs 3km Sprint - Final M</title><desc lang="es">París acoge del 31 de julio al 16 de agosto el Campeonato de Europa de natación. En la capital francesa se disputa la 38ª edición de los campeonatos europeos en las especialidades de natación en piscina larga, artística, saltos y aguas abiertas.</desc></programme>
+<programme start="20260807104500 +0000" stop="20260807112500 +0000" channel="tdep"><title lang="es">Vuelta a Burgos M (2026): Etapa 3: Montija vs Balneario de Corconte</title><desc lang="es">La Vuelta a Burgos reúne a un selecto pelotón del 4 al 8 de agosto. Englobada en el circuito ProSeries, sirve como preparación para la inminente Vuelta a España. Isaac del Toro se impuso en 2025.</desc></programme>
+<programme start="20260807112500 +0000" stop="20260807121000 +0000" channel="tdep"><title lang="es">Europeo de deportes acuáticos (2026): Salto de altura vs 20m - Ronda 1 y 2 F</title><desc lang="es">París acoge del 31 de julio al 16 de agosto el Campeonato de Europa de natación. En la capital francesa se disputa la 38ª edición de los campeonatos europeos en las especialidades de natación en piscina larga, artística, saltos y aguas abiertas.</desc></programme>
+<programme start="20260807121000 +0000" stop="20260807130000 +0000" channel="tdep"><title lang="es">Europeo de deportes acuáticos (2026): 10m sincronizados vs Final M</title><desc lang="es">París acoge del 31 de julio al 16 de agosto el Campeonato de Europa de natación. En la capital francesa se disputa la 38ª edición de los campeonatos europeos en las especialidades de natación en piscina larga, artística, saltos y aguas abiertas.</desc></programme>
+<programme start="20260807130000 +0000" stop="20260807132000 +0000" channel="tdep"><title lang="es">Vuelta a Burgos M (2026): Etapa 4: Palazuelos de Munó vs Briviesca</title><desc lang="es">La Vuelta a Burgos reúne a un selecto pelotón del 4 al 8 de agosto. Englobada en el circuito ProSeries, sirve como preparación para la inminente Vuelta a España. Isaac del Toro se impuso en 2025.</desc></programme>
+<programme start="20260807132000 +0000" stop="20260807155000 +0000" channel="tdep"><title lang="es">Tour de Francia F (2026): Etapa 7 vs La Voulte - sur - Rhône - Mont Ventoux</title><desc lang="es">La quinta edición del Tour de Francia femenino se disputa del 1 al 9 de agosto. La carrera crece y ya cuenta con nueve etapas y casi 1.200 kilómetros de recorrido. La local Pauline Ferrand-Prévot se impuso en 2025.</desc></programme>
+<programme start="20260807155000 +0000" stop="20260807165500 +0000" channel="tdep"><title lang="es">Vuelta a Burgos M (2026): Etapa 4: Palazuelos de Munó vs Briviesca</title><desc lang="es">La Vuelta a Burgos reúne a un selecto pelotón del 4 al 8 de agosto. Englobada en el circuito ProSeries, sirve como preparación para la inminente Vuelta a España. Isaac del Toro se impuso en 2025.</desc></programme>
+<programme start="20260807165500 +0000" stop="20260807170000 +0000" channel="tdep"><title lang="es">Informativo Deportes 24H</title><desc lang="es">Informativo Deportes 24H.</desc></programme>
+<programme start="20260807170000 +0000" stop="20260807180000 +0000" channel="tdep"><title lang="es">Europeo de deportes acuáticos (2026): Salto de altura vs 20m - Ronda 1 y 2 M</title><desc lang="es">París acoge del 31 de julio al 16 de agosto el Campeonato de Europa de natación. En la capital francesa se disputa la 38ª edición de los campeonatos europeos en las especialidades de natación en piscina larga, artística, saltos y aguas abiertas.</desc></programme>
+<programme start="20260807180000 +0000" stop="20260807204500 +0000" channel="tdep"><title lang="es">Conexión Vintage (T15): Trofeo Carranza'86</title><desc lang="es">Una mirada al pasado con las mejores retransmisiones emitidas por la cadena en su historia. Baloncesto, boxeo, tenis, fútbol, motociclismo, balonmano, golf.</desc></programme>
+<programme start="20260807204500 +0000" stop="20260807205000 +0000" channel="tdep"><title lang="es">Informativo Deportes 24H</title><desc lang="es">Informativo Deportes 24H.</desc></programme>
+<programme start="20260807205000 +0000" stop="20260807230500 +0000" channel="tdep"><title lang="es">Conexión Vintage (T15): Trofeo Carranza'82</title><desc lang="es">Una mirada al pasado con las mejores retransmisiones emitidas por la cadena en su historia. Baloncesto, boxeo, tenis, fútbol, motociclismo, balonmano, golf.</desc></programme>
+<programme start="20260807230500 +0000" stop="20260808005500 +0000" channel="tdep"><title lang="es">Conexión Vintage (T15): Trofeo Carranza'88</title><desc lang="es">Una mirada al pasado con las mejores retransmisiones emitidas por la cadena en su historia. Baloncesto, boxeo, tenis, fútbol, motociclismo, balonmano, golf.</desc></programme>
+<programme start="20260808005500 +0000" stop="20260808024000 +0000" channel="tdep"><title lang="es">Conexión Vintage (T15): Trofeo Carranza'84</title><desc lang="es">Una mirada al pasado con las mejores retransmisiones emitidas por la cadena en su historia. Baloncesto, boxeo, tenis, fútbol, motociclismo, balonmano, golf.</desc></programme>
+<programme start="20260808024000 +0000" stop="20260808220000 +0000" channel="tdep"><title lang="es">Vuelta a Burgos M (2026): Etapa 4: Palazuelos de Munó vs Briviesca</title><desc lang="es">La Vuelta a Burgos reúne a un selecto pelotón del 4 al 8 de agosto. Englobada en el circuito ProSeries, sirve como preparación para la inminente Vuelta a España. Isaac del Toro se impuso en 2025.</desc></programme>
 <programme start="20260808040000 +0000" stop="20260808080000 +0000" channel="tdep"><title lang="es">Teledeporte</title><desc lang="es">Conexión con la programación del canal temático de deportes de Radiotelevisión Española, Teledeporte.</desc></programme>
 <programme start="20260808080000 +0000" stop="20260808120000 +0000" channel="tdep"><title lang="es">Teledeporte</title><desc lang="es">Conexión con la programación del canal temático de deportes de Radiotelevisión Española, Teledeporte.</desc></programme>
 <programme start="20260808120000 +0000" stop="20260808160000 +0000" channel="tdep"><title lang="es">Teledeporte</title><desc lang="es">Conexión con la programación del canal temático de deportes de Radiotelevisión Española, Teledeporte.</desc></programme>
@@ -8206,7 +8222,7 @@
 <programme start="20260807094500 +0000" stop="20260807103200 +0000" channel="tvc"><title lang="es">Los Durrell (T1): Episodio 1</title><desc lang="es">Els Durrell són una família anglesa dels anys 30 que fa el gran pas d'anar-se'n a viure a l'illa grega de Corfú. El començament no serà gens fàcil. La mare haurà de fer un esforç per instal·lar-s'hi amb els pocs diners que tenen.</desc></programme>
 <programme start="20260807103200 +0000" stop="20260807112500 +0000" channel="tvc"><title lang="es">Los Durrell (T1): Episodio 2</title><desc lang="es">La Louisa cada vegada està més desesperada perquè no li arriben els diners que espera d'Anglaterra i la família està arruïnada. Deuen el lloguer de la casa i subsisteixen menjant el que troben al camp, que no és gaire. I els fills tampoc l'ajuden gaire.</desc></programme>
 <programme start="20260807112500 +0000" stop="20260807114000 +0000" channel="tvc"><title lang="es">Cuines</title><desc lang="es">Receptes originals, fàcils i amb productes de temporada. Tot plegat, amb el toc personal dels cuiners Marc Ribas, Gessamí Caramés i Arnau Paris. Els millors plats i receptes, per a tots els gustos i aptes per a tothom.</desc></programme>
-<programme start="20260807114000 +0000" stop="20260807120000 +0000" channel="tvc"><title lang="es">Cuines</title><desc lang="es">Receptes originals, fàcils i amb productes de temporada. Tot plegat, amb el toc personal dels cuiners Marc Ribas, Gessamí Caramés i Arnau Paris. Els millors plats i receptes, per a tots els gustos i aptes per a tothom.</desc></programme>
+<programme start="20260807114000 +0000" stop="20260807120000 +0000" channel="tvc"><title lang="es">Cuines</title></programme>
 <programme start="20260807120000 +0000" stop="20260807123000 +0000" channel="tvc"><title lang="es">Telenotícies comarques</title><desc lang="es">Informatiu diari, dirigit i presentat per Núria Solé, amb informació local i comarcal que posa en valor la veu del carrer, els testimonis i els protagonistes de la notícia. TN Comarques explica i reflecteix la realitat dels pobles i ciutats de Catalunya.</desc></programme>
 <programme start="20260807123000 +0000" stop="20260807133500 +0000" channel="tvc"><title lang="es">Telenotícies migdia</title><desc lang="es">Informatiu diari que inclou els esdeveniments més destacats de l'actualitat, recollits pels serveis informatius de TVC, amb el suport de les cròniques i les connexions amb els corresponsals i enviats especials arreu del món.</desc></programme>
 <programme start="20260807133500 +0000" stop="20260807143500 +0000" channel="tvc"><title lang="es">Último tango en Halifax (T3): Episodio 3</title><desc lang="es">Dos avis enamorats en la seva joventut es tornen a trobar mig segle després i decideixen casar-se, descobrint que una carta sense entregar del passat va canviar el rumb de les seves vides.</desc></programme>
