@@ -1,29 +1,30 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20260809">
 <channel id="7tvmur"><display-name>7 TV Región Murcia</display-name><url>https://movistarplus.es</url></channel>
 <channel id="13tv"><display-name>TRECE</display-name><url>https://movistarplus.es</url></channel>
-<channel id="3_24"><display-name>3CatInfo</display-name><url>https://movistarplus.es</url></channel>
-<channel id="antv"><display-name>Canal Sur Andalucía</display-name><url>https://movistarplus.es</url></channel>
-<channel id="axn"><display-name>AXN</display-name><url>https://movistarplus.es</url></channel>
-<channel id="atress"><display-name>Atreseries</display-name><url>https://movistarplus.es</url></channel>
-<channel id="andatv"><display-name>Andalucía TV</display-name><url>https://movistarplus.es</url></channel>
-<channel id="atlat"><display-name>Atlántico TV</display-name><url>https://movistarplus.es</url></channel>
-<channel id="arthur"><display-name>M+ Deportes 2</display-name><url>https://movistarplus.es</url></channel>
-<channel id="bemad"><display-name>BE MAD</display-name><url>https://movistarplus.es</url></channel>
-<channel id="24h"><display-name>24 Horas</display-name><url>https://movistarplus.es</url></channel>
-<channel id="aljaze"><display-name>Al Jazeera English</display-name><url>https://movistarplus.es</url></channel>
-<channel id="arirhd"><display-name>Arirang TV HD</display-name><url>https://movistarplus.es</url></channel>
-<channel id="bbhis"><display-name>BBC History</display-name><url>https://movistarplus.es</url></channel>
-<channel id="bbgea"><display-name>BBC Top Gear</display-name><url>https://movistarplus.es</url></channel>
-<channel id="aragtv"><display-name>Aragón TV</display-name><url>https://movistarplus.es</url></channel>
-<channel id="bbfoo"><display-name>BBC Food</display-name><url>https://movistarplus.es</url></channel>
-<channel id="bbdra"><display-name>BBC Series</display-name><url>https://movistarplus.es</url></channel>
-<channel id="a3"><display-name>Antena 3</display-name><url>https://movistarplus.es</url></channel>
-<channel id="aragon"><display-name>Aragón TV Int</display-name><url>https://movistarplus.es</url></channel>
-<channel id="bbclif"><display-name>BBC Lifestyle</display-name><url>https://movistarplus.es</url></channel>
-<channel id="bbcear"><display-name>BBC Earth</display-name><url>https://movistarplus.es</url></channel>
-<channel id="apunt"><display-name>À Punt</display-name><url>https://movistarplus.es</url></channel>
-<channel id="bbc"><display-name>BBC News</display-name><url>https://movistarplus.es</url></channel>
-<channel id="baby"><display-name>Baby TV</display-name><url>https://movistarplus.es</url></channel>
+<channel id="veo7"><display-name>Veo7</display-name><url>https://movistarplus.es</url></channel>
+<channel id="vamosd"><display-name>M+ Vamos</display-name><url>https://movistarplus.es</url></channel>
+<channel id="vam2sd"><display-name>M+ Vamos 2</display-name><url>https://movistarplus.es</url></channel>
+<channel id="usop11"><display-name>M+ Deportes 5</display-name><url>https://movistarplus.es</url></channel>
+<channel id="usop3"><display-name>M+ Deportes 4</display-name><url>https://movistarplus.es</url></channel>
+<channel id="usop2"><display-name>M+ Deportes 3</display-name><url>https://movistarplus.es</url></channel>
+<channel id="ucl"><display-name>UCL</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tvgal"><display-name>TVG -TV Galicia</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tvg2"><display-name>TVG 2</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tvg"><display-name>TVG Europa</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tve"><display-name>LA 1</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tvc"><display-name>TV3 Cat</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tv5"><display-name>TV5MONDE</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tv3cat"><display-name>TV3</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tpa"><display-name>TPA</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tnt"><display-name>Warner TV</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tlesur"><display-name>Telesur</display-name><url>https://movistarplus.es</url></channel>
+<channel id="ten"><display-name>Ten</display-name><url>https://movistarplus.es</url></channel>
+<channel id="telmin"><display-name>Telemadrid Int.</display-name><url>https://movistarplus.es</url></channel>
+<channel id="telmad"><display-name>Telemadrid</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tdep"><display-name>Teledeporte</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tcm"><display-name>TCM</display-name><url>https://movistarplus.es</url></channel>
+<channel id="t5"><display-name>Telecinco</display-name><url>https://movistarplus.es</url></channel>
+<channel id="squi"><display-name>Squirrel</display-name><url>https://movistarplus.es</url></channel>
 <channel id="skysho"><display-name>SkyShowtime 1</display-name><url>https://movistarplus.es</url></channel>
 <channel id="skynw"><display-name>Sky News</display-name><url>https://movistarplus.es</url></channel>
 <channel id="sexta"><display-name>La Sexta</display-name><url>https://movistarplus.es</url></channel>
@@ -155,30 +156,29 @@
 <channel id="btv"><display-name>Betevé</display-name><url>https://movistarplus.es</url></channel>
 <channel id="boing"><display-name>Boing</display-name><url>https://movistarplus.es</url></channel>
 <channel id="bl"><display-name>Bloomberg</display-name><url>https://movistarplus.es</url></channel>
-<channel id="usop2"><display-name>M+ Deportes 3</display-name><url>https://movistarplus.es</url></channel>
-<channel id="ucl"><display-name>UCL</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tvg2"><display-name>TVG 2</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tvg"><display-name>TVG Europa</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tve"><display-name>LA 1</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tv5"><display-name>TV5MONDE</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tv3cat"><display-name>TV3</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tpa"><display-name>TPA</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tlesur"><display-name>Telesur</display-name><url>https://movistarplus.es</url></channel>
-<channel id="ten"><display-name>Ten</display-name><url>https://movistarplus.es</url></channel>
-<channel id="telmin"><display-name>Telemadrid Int.</display-name><url>https://movistarplus.es</url></channel>
-<channel id="telmad"><display-name>Telemadrid</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tdep"><display-name>Teledeporte</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tcm"><display-name>TCM</display-name><url>https://movistarplus.es</url></channel>
-<channel id="veo7"><display-name>Veo7</display-name><url>https://movistarplus.es</url></channel>
-<channel id="vamosd"><display-name>M+ Vamos</display-name><url>https://movistarplus.es</url></channel>
-<channel id="vam2sd"><display-name>M+ Vamos 2</display-name><url>https://movistarplus.es</url></channel>
-<channel id="usop11"><display-name>M+ Deportes 5</display-name><url>https://movistarplus.es</url></channel>
-<channel id="usop3"><display-name>M+ Deportes 4</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tvc"><display-name>TV3 Cat</display-name><url>https://movistarplus.es</url></channel>
-<channel id="t5"><display-name>Telecinco</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tvgal"><display-name>TVG -TV Galicia</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tnt"><display-name>Warner TV</display-name><url>https://movistarplus.es</url></channel>
-<channel id="squi"><display-name>Squirrel</display-name><url>https://movistarplus.es</url></channel>
+<channel id="bemad"><display-name>BE MAD</display-name><url>https://movistarplus.es</url></channel>
+<channel id="bbhis"><display-name>BBC History</display-name><url>https://movistarplus.es</url></channel>
+<channel id="bbgea"><display-name>BBC Top Gear</display-name><url>https://movistarplus.es</url></channel>
+<channel id="bbfoo"><display-name>BBC Food</display-name><url>https://movistarplus.es</url></channel>
+<channel id="bbdra"><display-name>BBC Series</display-name><url>https://movistarplus.es</url></channel>
+<channel id="bbclif"><display-name>BBC Lifestyle</display-name><url>https://movistarplus.es</url></channel>
+<channel id="bbcear"><display-name>BBC Earth</display-name><url>https://movistarplus.es</url></channel>
+<channel id="bbc"><display-name>BBC News</display-name><url>https://movistarplus.es</url></channel>
+<channel id="baby"><display-name>Baby TV</display-name><url>https://movistarplus.es</url></channel>
+<channel id="axn"><display-name>AXN</display-name><url>https://movistarplus.es</url></channel>
+<channel id="atress"><display-name>Atreseries</display-name><url>https://movistarplus.es</url></channel>
+<channel id="atlat"><display-name>Atlántico TV</display-name><url>https://movistarplus.es</url></channel>
+<channel id="arthur"><display-name>M+ Deportes 2</display-name><url>https://movistarplus.es</url></channel>
+<channel id="arirhd"><display-name>Arirang TV HD</display-name><url>https://movistarplus.es</url></channel>
+<channel id="aragtv"><display-name>Aragón TV</display-name><url>https://movistarplus.es</url></channel>
+<channel id="aragon"><display-name>Aragón TV Int</display-name><url>https://movistarplus.es</url></channel>
+<channel id="apunt"><display-name>À Punt</display-name><url>https://movistarplus.es</url></channel>
+<channel id="antv"><display-name>Canal Sur Andalucía</display-name><url>https://movistarplus.es</url></channel>
+<channel id="andatv"><display-name>Andalucía TV</display-name><url>https://movistarplus.es</url></channel>
+<channel id="aljaze"><display-name>Al Jazeera English</display-name><url>https://movistarplus.es</url></channel>
+<channel id="a3"><display-name>Antena 3</display-name><url>https://movistarplus.es</url></channel>
+<channel id="3_24"><display-name>3CatInfo</display-name><url>https://movistarplus.es</url></channel>
+<channel id="24h"><display-name>24 Horas</display-name><url>https://movistarplus.es</url></channel>
 <programme start="20260809050000 +0000" stop="20260809060000 +0000" channel="7tvmur"><title lang="es">Un paseo por</title><desc lang="es">Programa de divulgación cultural en el que se recorre la geografía murciana. El espacio muestra las calles, los centros históricos, culturales y religiosos de la comunidad, así como los lugares con mayor riqueza en biodiversidad.</desc></programme>
 <programme start="20260809060000 +0000" stop="20260809070000 +0000" channel="7tvmur"><title lang="es">En ruta</title><desc lang="es">Recorrido en bicicleta por la Región de Murcia que visibiliza un turismo más sostenible y equilibrado, poniendo en valor el patrimonio histórico, cultural y natural.</desc></programme>
 <programme start="20260809070000 +0000" stop="20260809074500 +0000" channel="7tvmur"><title lang="es">Deporte Base</title><desc lang="es">Espacio sobre los beneficios que el deporte tiene para los más pequeños de la casa. El programa da a conocer las distintas disciplinas deportivas y muestra cómo entrenan y preparan los pequeños sus partidos con sus respectivos equipos.</desc></programme>
@@ -330,8 +330,8 @@
 <programme start="20260810210000 +0000" stop="20260810223000 +0000" channel="3_24"><title lang="es">Notícies 3CatInfo</title><desc lang="es">Espai informatiu amb notícies d&apos;informació general, esportiva i previsió meteorològica.</desc></programme>
 <programme start="20260810223000 +0000" stop="20260810230000 +0000" channel="3_24"><title lang="es">Notícies 3CatInfo</title><desc lang="es">Espai informatiu amb notícies d&apos;informació general, esportiva i previsió meteorològica.</desc></programme>
 <programme start="20260810230000 +0000" stop="20260811220000 +0000" channel="3_24"><title lang="es">Notícies 3CatInfo</title><desc lang="es">Espai informatiu amb notícies d&apos;informació general, esportiva i previsió meteorològica.</desc></programme>
-<programme start="20260809044500 +0000" stop="20260809050000 +0000" channel="a3"><title lang="es">Pazy: Que te recuerden como has vivido</title><desc lang="es">Pazy: Que te recuerden como has vivido.</desc></programme>
-<programme start="20260809050000 +0000" stop="20260809052500 +0000" channel="a3"><title lang="es">Pelopicopata: Episodio 43</title><desc lang="es">Docudrama en el que se muestran cuatro historias reales sobre las relaciones entre animales y seres humanos. El espacio cuenta también con una sección en la que personajes famosos presentan a sus mascotas.</desc></programme>
+<programme start="20260809043800 +0000" stop="20260809045400 +0000" channel="a3"><title lang="es">Pazy: Que te recuerden como has vivido</title><desc lang="es">Pazy: Que te recuerden como has vivido.</desc></programme>
+<programme start="20260809045400 +0000" stop="20260809052500 +0000" channel="a3"><title lang="es">Pelopicopata: Episodio 43</title><desc lang="es">Docudrama en el que se muestran cuatro historias reales sobre las relaciones entre animales y seres humanos. El espacio cuenta también con una sección en la que personajes famosos presentan a sus mascotas.</desc></programme>
 <programme start="20260809052500 +0000" stop="20260809055000 +0000" channel="a3"><title lang="es">Pelopicopata: Episodio 44</title><desc lang="es">Docudrama en el que se muestran cuatro historias reales sobre las relaciones entre animales y seres humanos. El espacio cuenta también con una sección en la que personajes famosos presentan a sus mascotas.</desc></programme>
 <programme start="20260809055000 +0000" stop="20260809061500 +0000" channel="a3"><title lang="es">Pelopicopata: Episodio 45</title><desc lang="es">Docudrama en el que se muestran cuatro historias reales sobre las relaciones entre animales y seres humanos. El espacio cuenta también con una sección en la que personajes famosos presentan a sus mascotas.</desc></programme>
 <programme start="20260809061500 +0000" stop="20260809083000 +0000" channel="a3"><title lang="es">Los más</title><desc lang="es">Espacio de entretenimiento que en cada edición elabora un ranquin con diferentes temáticas. Cada semana ofrece un conjunto de las imágenes más destacadas de la televisión que han despertado la carcajada del público.</desc></programme>
@@ -355,7 +355,7 @@
 <programme start="20260810011500 +0000" stop="20260810013500 +0000" channel="a3"><title lang="es">Pazy: Que te recuerden como has vivido</title><desc lang="es">Pazy: Que te recuerden como has vivido.</desc></programme>
 <programme start="20260810013500 +0000" stop="20260810023500 +0000" channel="a3"><title lang="es">Galería del coleccionista</title><desc lang="es">Espacio comercial.</desc></programme>
 <programme start="20260810023500 +0000" stop="20260810220000 +0000" channel="a3"><title lang="es">Juwelo</title><desc lang="es">Programa de televenta directa de joyería.</desc></programme>
-<programme start="20260810023600 +0000" stop="20260810044500 +0000" channel="a3"><title lang="es">Juwelo</title><desc lang="es">Programa de televenta directa de joyería.</desc></programme>
+<programme start="20260810023600 +0000" stop="20260810043800 +0000" channel="a3"><title lang="es">Juwelo</title><desc lang="es">Programa de televenta directa de joyería.</desc></programme>
 <programme start="20260810040000 +0000" stop="20260810041500 +0000" channel="a3"><title lang="es">Juwelo</title><desc lang="es">Programa de televenta directa de joyería.</desc></programme>
 <programme start="20260810041500 +0000" stop="20260810065500 +0000" channel="a3"><title lang="es">Las noticias de la mañana</title><desc lang="es">Primer noticiario de la jornada, en el que se ofrece un avance de las principales noticias del día. Manu Sánchez dirige y conduce este informativo matinal. Con la información del tiempo a cargo de Mercedes Martín.</desc></programme>
 <programme start="20260810065500 +0000" stop="20260810112000 +0000" channel="a3"><title lang="es">Espejo Público Verano: Episodio 4830</title><desc lang="es">Edición de verano del magacín matinal de la cadena, cuyo eje central es la actualidad nacional e internacional. El programa incluye reportajes, entrevistas, tertulias y debates, así como secciones sobre gastronomía, moda, belleza, salud y crónica de sucesos.</desc></programme>
@@ -5403,11 +5403,13 @@
 <programme start="20260810220000 +0000" stop="20260811100000 +0000" channel="inteua"><title lang="es">Noticias de Ucrania 24x7</title></programme>
 <programme start="20260810220000 +0000" stop="20260811220000 +0000" channel="inteua"><title lang="es">Noticias de Ucrania 24x7</title></programme>
 <programme start="20260809030500 +0000" stop="20260809035500 +0000" channel="la2"><title lang="es">Reduce tu huella: Los oficios del olvido</title><desc lang="es">Adela Úcar explora la Navarra más profunda para darle voz a los pocos supervivientes que siguen realizando los oficios tradicionales de la zona, labores que en la actualidad están cada vez más olvidadas y en riesgo de peligro de extinción.</desc></programme>
+<programme start="20260809035500 +0000" stop="20260809040700 +0000" channel="la2"><title lang="es">¡Qué animal!: Viajeros</title><desc lang="es">Las reinas de las migraciones son las aves. España es el principal corredor migratorio de toda Europa Occidental, y por el Estrecho de Gibraltar cruzan, dos veces al año, cientos de miles de aves en su periplo migratorio.</desc></programme>
 <programme start="20260809035500 +0000" stop="20260809220000 +0000" channel="la2"><title lang="es">La 2 express</title><desc lang="es">En este espacio de corta duración se ofrece un adelanto de los contenidos que se van a emitir en la cadena. También hay lugar para resúmenes y momentos destacados de programas ya emitidos.</desc></programme>
-<programme start="20260809040000 +0000" stop="20260809041000 +0000" channel="la2"><title lang="es">¡Qué animal!: Viajeros</title><desc lang="es">Las reinas de las migraciones son las aves. España es el principal corredor migratorio de toda Europa Occidental, y por el Estrecho de Gibraltar cruzan, dos veces al año, cientos de miles de aves en su periplo migratorio.</desc></programme>
-<programme start="20260809041000 +0000" stop="20260809042000 +0000" channel="la2"><title lang="es">La 2 express</title><desc lang="es">En este espacio de corta duración se ofrece un adelanto de los contenidos que se van a emitir en la cadena. También hay lugar para resúmenes y momentos destacados de programas ya emitidos.</desc></programme>
-<programme start="20260809042000 +0000" stop="20260809051000 +0000" channel="la2"><title lang="es">planeta arqueología: Cuando el pasado se explica: Conseguir que hablen los cuerpos</title><desc lang="es">En nuestros días, la ciencia es capaz de reconstruir cualquier parte de la anatomía y la vida de cualquier mínimo resto de cuerpo encontrado miles de años después.</desc></programme>
-<programme start="20260809051000 +0000" stop="20260809060500 +0000" channel="la2"><title lang="es">Sabores del mundo: Italia, los lagos románticos</title><desc lang="es">Al norte de Italia, las estribaciones de los Alpes albergan unos magníficos lagos. Al norte de Milán, el Lago Mayor y el famoso Lago de Como, fascinan por su belleza y majestuosidad.</desc></programme>
+<programme start="20260809040700 +0000" stop="20260809041000 +0000" channel="la2"><title lang="es">La 2 express</title><desc lang="es">En este espacio de corta duración se ofrece un adelanto de los contenidos que se van a emitir en la cadena. También hay lugar para resúmenes y momentos destacados de programas ya emitidos.</desc></programme>
+<programme start="20260809041000 +0000" stop="20260809041500 +0000" channel="la2"><title lang="es">La 2 express</title><desc lang="es">En este espacio de corta duración se ofrece un adelanto de los contenidos que se van a emitir en la cadena. También hay lugar para resúmenes y momentos destacados de programas ya emitidos.</desc></programme>
+<programme start="20260809041500 +0000" stop="20260809042000 +0000" channel="la2"><title lang="es">¡Qué animal!: Viajeros</title><desc lang="es">Las reinas de las migraciones son las aves. España es el principal corredor migratorio de toda Europa Occidental, y por el Estrecho de Gibraltar cruzan, dos veces al año, cientos de miles de aves en su periplo migratorio.</desc></programme>
+<programme start="20260809042000 +0000" stop="20260809051200 +0000" channel="la2"><title lang="es">planeta arqueología: Cuando el pasado se explica: Conseguir que hablen los cuerpos</title><desc lang="es">En nuestros días, la ciencia es capaz de reconstruir cualquier parte de la anatomía y la vida de cualquier mínimo resto de cuerpo encontrado miles de años después.</desc></programme>
+<programme start="20260809051200 +0000" stop="20260809060500 +0000" channel="la2"><title lang="es">Sabores del mundo: Italia, los lagos románticos</title><desc lang="es">Al norte de Italia, las estribaciones de los Alpes albergan unos magníficos lagos. Al norte de Milán, el Lago Mayor y el famoso Lago de Como, fascinan por su belleza y majestuosidad.</desc></programme>
 <programme start="20260809060500 +0000" stop="20260809063500 +0000" channel="la2"><title lang="es">Esto es España: Comunidad Valenciana</title><desc lang="es">La Comunidad Valenciana es el lugar perfecto para practicar el turismo activo de forma responsable. Esta tierra es capaz de sorprender hasta al viajero más experimentado con su imponente Salto de Chella, su castillo de Xátiva o su recuperada Albufera de Valencia.</desc></programme>
 <programme start="20260809063500 +0000" stop="20260809071500 +0000" channel="la2"><title lang="es">Los conciertos de La 2: OCRTVE A-11</title><desc lang="es">Retransmisión de un concierto de la Orquesta Sinfónica y el Coro de RTVE. Nacida en 1965, pronto se convirtió en una orquesta de primerísima fila. Su repertorio es el clásico-romántico, la música española y el servicio a la creación musical de nuestro tiempo.</desc></programme>
 <programme start="20260809071500 +0000" stop="20260809073000 +0000" channel="la2"><title lang="es">Medina en tve</title><desc lang="es">Programa de culto islámico.</desc></programme>
