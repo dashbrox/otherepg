@@ -93,6 +93,7 @@
   <channel site="tvinsider.com" site_id="espn2" lang="en" xmltv_id="">ESPN2</channel>
   <channel site="tvinsider.com" site_id="espn-deportes" lang="en" xmltv_id="">ESPN Deportes</channel>
   <channel site="tvinsider.com" site_id="espn-plus" lang="en" xmltv_id="">ESPN+</channel>
+  <channel site="tvinsider.com" site_id="espnews" lang="en" xmltv_id="">ESPNews</channel>
   <channel site="tvinsider.com" site_id="espnu" lang="en" xmltv_id="">ESPNU</channel>
   <channel site="tvinsider.com" site_id="esquire-network" lang="en" xmltv_id="">Esquire Network</channel>
   <channel site="tvinsider.com" site_id="estrella-tv" lang="en" xmltv_id="">Estrella TV</channel>
@@ -115,6 +116,7 @@
   <channel site="tvinsider.com" site_id="fanduel-sports-sun" lang="en" xmltv_id="">FanDuel Sports Sun</channel>
   <channel site="tvinsider.com" site_id="fanduel-sports-west" lang="en" xmltv_id="">FanDuel Sports West</channel>
   <channel site="tvinsider.com" site_id="fanduel-sports-wisconsin" lang="en" xmltv_id="">FanDuel Sports Wisconsin</channel>
+  <channel site="tvinsider.com" site_id="fanduel-tv" lang="en" xmltv_id="">FanDuel TV</channel>
   <channel site="tvinsider.com" site_id="fetv" lang="en" xmltv_id="">FETV</channel>
   <channel site="tvinsider.com" site_id="flix" lang="en" xmltv_id="">Flix</channel>
   <channel site="tvinsider.com" site_id="food-network" lang="en" xmltv_id="">Food Network</channel>
@@ -150,6 +152,7 @@
   <channel site="tvinsider.com" site_id="hallmark-mystery" lang="en" xmltv_id="">Hallmark Mystery</channel>
   <channel site="tvinsider.com" site_id="hallmark-plus" lang="en" xmltv_id="">Hallmark+</channel>
   <channel site="tvinsider.com" site_id="hayu" lang="en" xmltv_id="">Hayu</channel>
+  <channel site="tvinsider.com" site_id="hbcu-go" lang="en" xmltv_id="">HBCU GO</channel>
   <channel site="tvinsider.com" site_id="hbo" lang="en" xmltv_id="">HBO</channel>
   <channel site="tvinsider.com" site_id="hbo2" lang="en" xmltv_id="">HBO2</channel>
   <channel site="tvinsider.com" site_id="hbo-comedy" lang="en" xmltv_id="">HBO Comedy</channel>
