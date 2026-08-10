@@ -56,7 +56,6 @@
   <channel site="gatotv.com" site_id="dw_latinoamerica" lang="es" xmltv_id="">DW Latam.</channel>
   <channel site="gatotv.com" site_id="e_entertainment_television_chile" lang="es" xmltv_id="">E! Entertainment Television Chile</channel>
   <channel site="gatotv.com" site_id="e_entertainment_television_panregional" lang="es" xmltv_id="">E! Entertainment Television Panregional</channel>
-  <channel site="gatotv.com" site_id="el_financiero_tv" lang="es" xmltv_id="">El Financiero TV</channel>
   <channel site="gatotv.com" site_id="elgourmet" lang="es" xmltv_id="">Elgourmet</channel>
   <channel site="gatotv.com" site_id="enlace" lang="es" xmltv_id="">TBN</channel>
   <channel site="gatotv.com" site_id="espn_2_sur" lang="es" xmltv_id="">ESPN 2 Sur</channel>
@@ -145,7 +144,6 @@
   <channel site="gatotv.com" site_id="tudn_centroamerica" lang="es" xmltv_id="">TUDN Centroamérica</channel>
   <channel site="gatotv.com" site_id="tv_agro_centroamerica" lang="es" xmltv_id="">TV Agro C. A.</channel>
   <channel site="gatotv.com" site_id="tv_azteca_deportes" lang="es" xmltv_id="">TV Azteca Deportes</channel>
-  <channel site="gatotv.com" site_id="tve" lang="es" xmltv_id="">TVE Internacional</channel>
   <channel site="gatotv.com" site_id="tvmax" lang="es" xmltv_id="">9 de Panamá</channel>
   <channel site="gatotv.com" site_id="ultra_cine" lang="es" xmltv_id="">Ultra Cine</channel>
   <channel site="gatotv.com" site_id="ultra_docu" lang="es" xmltv_id="">Ultra Docu</channel>
@@ -297,7 +295,6 @@
   <channel site="gatotv.com" site_id="excelsior_tv" lang="es" xmltv_id="ExcelsiorTV.mx@SD">Excelsior TV</channel>
   <channel site="gatotv.com" site_id="extra_tv_42_de_costa_rica" lang="es" xmltv_id="ExtraTV42.cr@SD">42 de Costa Rica</channel>
   <channel site="gatotv.com" site_id="fox_deportes" lang="es" xmltv_id="FoxDeportes.us@SD">Fox Deportes</channel>
-  <channel site="gatotv.com" site_id="fox_news" lang="es" xmltv_id="FoxNewsChannel.us@SD">Fox News</channel>
   <channel site="gatotv.com" site_id="futv" lang="es" xmltv_id="FUTV.cr@SD">FUTV</channel>
   <channel site="gatotv.com" site_id="fx_chile" lang="es" xmltv_id="FX.cl@SD">FX Chile</channel>
   <channel site="gatotv.com" site_id="fx_mexico" lang="es" xmltv_id="FX.mx@SD">FX México</channel>
