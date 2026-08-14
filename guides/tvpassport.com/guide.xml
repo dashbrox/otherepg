@@ -1,27 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20260814">
 <channel id="5-star-max-hd--eastern/7093"><display-name>5 Star Max HD - Eastern</display-name><url>https://tvpassport.com</url></channel>
-<channel id="abc-kabc-los-angeles-ca-hd/4552"><display-name>ABC (KABC) Los Angeles, CA HD</display-name><url>https://tvpassport.com</url></channel>
-<channel id="abc-wabc-new-york-ny-hd/4553"><display-name>ABC (WABC) New York, NY HD</display-name><url>https://tvpassport.com</url></channel>
-<channel id="bravo-usa-hd--pacific-feed/16226"><display-name>Bravo USA HD - Pacific Feed</display-name><url>https://tvpassport.com</url></channel>
-<channel id="fox--eastern/1229"><display-name>FOX - Eastern</display-name><url>https://tvpassport.com</url></channel>
-<channel id="bravo-usa-hd--eastern-feed/6120"><display-name>Bravo USA HD - Eastern Feed</display-name><url>https://tvpassport.com</url></channel>
-<channel id="e-entertainment-usa-hd--east/6659"><display-name>E! Entertainment USA HD - East</display-name><url>https://tvpassport.com</url></channel>
-<channel id="cw--network-eastern/1231"><display-name>CW - Network Eastern</display-name><url>https://tvpassport.com</url></channel>
-<channel id="actionmax--eastern-hd/7094"><display-name>ActionMax - Eastern HD</display-name><url>https://tvpassport.com</url></channel>
-<channel id="cnn-hd/4724"><display-name>CNN HD</display-name><url>https://tvpassport.com</url></channel>
-<channel id="hbo-latino-hbo-7-hd--eastern/7096"><display-name>HBO Latino (HBO 7) HD - Eastern</display-name><url>https://tvpassport.com</url></channel>
-<channel id="hbo-comedy-hd--east/7105"><display-name>HBO Comedy HD - East</display-name><url>https://tvpassport.com</url></channel>
-<channel id="cbs-wcbs-new-york-ny-hd/4555"><display-name>CBS (WCBS) New York, NY HD</display-name><url>https://tvpassport.com</url></channel>
-<channel id="hbo-2--eastern-feed-hd/6313"><display-name>HBO 2 - Eastern Feed HD</display-name><url>https://tvpassport.com</url></channel>
-<channel id="hallmark-mystery-eastern--hd/6214"><display-name>Hallmark Mystery Eastern - HD</display-name><url>https://tvpassport.com</url></channel>
-<channel id="hallmark-channel-hd--eastern/6213"><display-name>Hallmark Channel HD - Eastern</display-name><url>https://tvpassport.com</url></channel>
-<channel id="starz1--east-hd/3613"><display-name>STARZ1 - East HD</display-name><url>https://tvpassport.com</url></channel>
-<channel id="nbc-knbc-los-angeles-ca-hd/4558"><display-name>NBC (KNBC) Los Angeles, CA HD</display-name><url>https://tvpassport.com</url></channel>
-<channel id="nbc--network-eastern/1227"><display-name>NBC - Network Eastern</display-name><url>https://tvpassport.com</url></channel>
-<channel id="mtv-usa-hd--eastern/4525"><display-name>MTV USA HD - Eastern</display-name><url>https://tvpassport.com</url></channel>
-<channel id="moremax--eastern-hd/7097"><display-name>MoreMax - Eastern HD</display-name><url>https://tvpassport.com</url></channel>
-<channel id="hbo-zone-hd--east/7102"><display-name>HBO Zone HD - East</display-name><url>https://tvpassport.com</url></channel>
-<channel id="hbo-signature-hbo-3--eastern-hd/7099"><display-name>HBO Signature (HBO 3) - Eastern HD</display-name><url>https://tvpassport.com</url></channel>
+<channel id="tsn5-hd/13770"><display-name>TSN5 HD</display-name><url>https://tvpassport.com</url></channel>
+<channel id="tsn4-hd/13769"><display-name>TSN4 HD</display-name><url>https://tvpassport.com</url></channel>
+<channel id="tsn3-hd/13768"><display-name>TSN3 HD</display-name><url>https://tvpassport.com</url></channel>
+<channel id="tsn2-hd/5920"><display-name>TSN2 HD</display-name><url>https://tvpassport.com</url></channel>
+<channel id="tsn1-hd/2819"><display-name>TSN1 HD</display-name><url>https://tvpassport.com</url></channel>
 <channel id="trutv-usa--east-hd/6996"><display-name>truTV USA - East HD</display-name><url>https://tvpassport.com</url></channel>
 <channel id="tnt-hd--east-feed/3037"><display-name>TNT HD - East Feed</display-name><url>https://tvpassport.com</url></channel>
 <channel id="the-tennis-channel-hd/7051"><display-name>The Tennis Channel HD</display-name><url>https://tvpassport.com</url></channel>
@@ -31,11 +14,28 @@
 <channel id="starz-edge-hd--eastern/7089"><display-name>Starz Edge HD - Eastern</display-name><url>https://tvpassport.com</url></channel>
 <channel id="starz-comedy-hd--eastern/7088"><display-name>Starz Comedy HD - Eastern</display-name><url>https://tvpassport.com</url></channel>
 <channel id="starz-cinema-hd--eastern/7087"><display-name>Starz Cinema HD - Eastern</display-name><url>https://tvpassport.com</url></channel>
-<channel id="tsn5-hd/13770"><display-name>TSN5 HD</display-name><url>https://tvpassport.com</url></channel>
-<channel id="tsn4-hd/13769"><display-name>TSN4 HD</display-name><url>https://tvpassport.com</url></channel>
-<channel id="tsn3-hd/13768"><display-name>TSN3 HD</display-name><url>https://tvpassport.com</url></channel>
-<channel id="tsn2-hd/5920"><display-name>TSN2 HD</display-name><url>https://tvpassport.com</url></channel>
-<channel id="tsn1-hd/2819"><display-name>TSN1 HD</display-name><url>https://tvpassport.com</url></channel>
+<channel id="starz1--east-hd/3613"><display-name>STARZ1 - East HD</display-name><url>https://tvpassport.com</url></channel>
+<channel id="nbc-knbc-los-angeles-ca-hd/4558"><display-name>NBC (KNBC) Los Angeles, CA HD</display-name><url>https://tvpassport.com</url></channel>
+<channel id="nbc--network-eastern/1227"><display-name>NBC - Network Eastern</display-name><url>https://tvpassport.com</url></channel>
+<channel id="mtv-usa-hd--eastern/4525"><display-name>MTV USA HD - Eastern</display-name><url>https://tvpassport.com</url></channel>
+<channel id="moremax--eastern-hd/7097"><display-name>MoreMax - Eastern HD</display-name><url>https://tvpassport.com</url></channel>
+<channel id="hbo-zone-hd--east/7102"><display-name>HBO Zone HD - East</display-name><url>https://tvpassport.com</url></channel>
+<channel id="hbo-signature-hbo-3--eastern-hd/7099"><display-name>HBO Signature (HBO 3) - Eastern HD</display-name><url>https://tvpassport.com</url></channel>
+<channel id="hbo-latino-hbo-7-hd--eastern/7096"><display-name>HBO Latino (HBO 7) HD - Eastern</display-name><url>https://tvpassport.com</url></channel>
+<channel id="hbo-comedy-hd--east/7105"><display-name>HBO Comedy HD - East</display-name><url>https://tvpassport.com</url></channel>
+<channel id="hbo-2--eastern-feed-hd/6313"><display-name>HBO 2 - Eastern Feed HD</display-name><url>https://tvpassport.com</url></channel>
+<channel id="hallmark-mystery-eastern--hd/6214"><display-name>Hallmark Mystery Eastern - HD</display-name><url>https://tvpassport.com</url></channel>
+<channel id="hallmark-channel-hd--eastern/6213"><display-name>Hallmark Channel HD - Eastern</display-name><url>https://tvpassport.com</url></channel>
+<channel id="fox--eastern/1229"><display-name>FOX - Eastern</display-name><url>https://tvpassport.com</url></channel>
+<channel id="e-entertainment-usa-hd--east/6659"><display-name>E! Entertainment USA HD - East</display-name><url>https://tvpassport.com</url></channel>
+<channel id="cw--network-eastern/1231"><display-name>CW - Network Eastern</display-name><url>https://tvpassport.com</url></channel>
+<channel id="cnn-hd/4724"><display-name>CNN HD</display-name><url>https://tvpassport.com</url></channel>
+<channel id="cbs-wcbs-new-york-ny-hd/4555"><display-name>CBS (WCBS) New York, NY HD</display-name><url>https://tvpassport.com</url></channel>
+<channel id="bravo-usa-hd--pacific-feed/16226"><display-name>Bravo USA HD - Pacific Feed</display-name><url>https://tvpassport.com</url></channel>
+<channel id="bravo-usa-hd--eastern-feed/6120"><display-name>Bravo USA HD - Eastern Feed</display-name><url>https://tvpassport.com</url></channel>
+<channel id="actionmax--eastern-hd/7094"><display-name>ActionMax - Eastern HD</display-name><url>https://tvpassport.com</url></channel>
+<channel id="abc-wabc-new-york-ny-hd/4553"><display-name>ABC (WABC) New York, NY HD</display-name><url>https://tvpassport.com</url></channel>
+<channel id="abc-kabc-los-angeles-ca-hd/4552"><display-name>ABC (KABC) Los Angeles, CA HD</display-name><url>https://tvpassport.com</url></channel>
 <programme start="20260814091400 +0000" stop="20260814111200 +0000" channel="5-star-max-hd--eastern/7093"><title lang="en">Sweet Dreams</title><desc lang="en">Sweet Dreams (1985)Country singer Patsy Cline (Jessica Lange) puts up with her husband (Ed Harris) and life on the road, on her way to tragic stardom.</desc><credits><actor>Jessica Lange</actor><actor>Ed Harris</actor><actor>Ann Wedgeworth</actor></credits><category lang="en">Movies</category><category lang="en">Biography</category><rating system="MPA"><value>TV-G</value></rating><image>https://cdn.tvpassport.com/image/show/960x540/v2/p8764_p_v12_ac.jpg</image></programme>
 <programme start="20260814091400 +0000" stop="20260814111200 +0000" channel="5-star-max-hd--eastern/7093"><title lang="en">Sweet Dreams</title><desc lang="en">Sweet Dreams (1985)Country singer Patsy Cline (Jessica Lange) puts up with her husband (Ed Harris) and life on the road, on her way to tragic stardom.</desc><credits><actor>Jessica Lange</actor><actor>Ed Harris</actor><actor>Ann Wedgeworth</actor></credits><category lang="en">Movies</category><category lang="en">Biography</category><rating system="MPA"><value>TV-G</value></rating><image>https://cdn.tvpassport.com/image/show/960x540/v2/p8764_p_v12_ac.jpg</image></programme>
 <programme start="20260814091400 +0000" stop="20260814111200 +0000" channel="5-star-max-hd--eastern/7093"><title lang="en">Sweet Dreams</title><desc lang="en">Sweet Dreams (1985)Country singer Patsy Cline (Jessica Lange) puts up with her husband (Ed Harris) and life on the road, on her way to tragic stardom.</desc><credits><actor>Jessica Lange</actor><actor>Ed Harris</actor><actor>Ann Wedgeworth</actor></credits><category lang="en">Movies</category><category lang="en">Biography</category><rating system="MPA"><value>TV-G</value></rating><image>https://cdn.tvpassport.com/image/show/960x540/v2/p8764_p_v12_ac.jpg</image></programme>
