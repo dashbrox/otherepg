@@ -1,74 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv date="20260815">
 <channel id="7tvmur"><display-name>7 TV Región Murcia</display-name><url>https://movistarplus.es</url></channel>
-<channel id="13tv"><display-name>TRECE</display-name><url>https://movistarplus.es</url></channel>
-<channel id="3_24"><display-name>3CatInfo</display-name><url>https://movistarplus.es</url></channel>
-<channel id="antv"><display-name>Canal Sur Andalucía</display-name><url>https://movistarplus.es</url></channel>
-<channel id="axn"><display-name>AXN</display-name><url>https://movistarplus.es</url></channel>
-<channel id="canar"><display-name>TV Canaria</display-name><url>https://movistarplus.es</url></channel>
-<channel id="dazmot"><display-name>DAZN MotoGP</display-name><url>https://movistarplus.es</url></channel>
-<channel id="dazba"><display-name>DAZN Baloncesto</display-name><url>https://movistarplus.es</url></channel>
-<channel id="can33"><display-name>33</display-name><url>https://movistarplus.es</url></channel>
-<channel id="dazb3"><display-name>DAZN Baloncesto 3</display-name><url>https://movistarplus.es</url></channel>
-<channel id="dazb2"><display-name>DAZN Baloncesto 2</display-name><url>https://movistarplus.es</url></channel>
-<channel id="atress"><display-name>Atreseries</display-name><url>https://movistarplus.es</url></channel>
-<channel id="c33"><display-name>SX3</display-name><url>https://movistarplus.es</url></channel>
-<channel id="dayst"><display-name>Daystar Español HD</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cyltv"><display-name>La 7</display-name><url>https://movistarplus.es</url></channel>
-<channel id="c4"><display-name>Cuatro</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cubav"><display-name>Cubavisión</display-name><url>https://movistarplus.es</url></channel>
-<channel id="csurhd"><display-name>Canal Sur HD</display-name><url>https://movistarplus.es</url></channel>
-<channel id="andatv"><display-name>Andalucía TV</display-name><url>https://movistarplus.es</url></channel>
-<channel id="atlat"><display-name>Atlántico TV</display-name><url>https://movistarplus.es</url></channel>
-<channel id="btv"><display-name>Betevé</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cpdep"><display-name>M+ Deportes</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cpcome"><display-name>M+ Comedia</display-name><url>https://movistarplus.es</url></channel>
-<channel id="boing"><display-name>Boing</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cpcole"><display-name>M+ Drama</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cpacci"><display-name>M+ Acción</display-name><url>https://movistarplus.es</url></channel>
-<channel id="arthur"><display-name>M+ Deportes 2</display-name><url>https://movistarplus.es</url></channel>
-<channel id="bl"><display-name>Bloomberg</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cosmo"><display-name>COSMO</display-name><url>https://movistarplus.es</url></channel>
-<channel id="colomb"><display-name>TV Colombia</display-name><url>https://movistarplus.es</url></channel>
-<channel id="bemad"><display-name>BE MAD</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cnn"><display-name>CNN Int</display-name><url>https://movistarplus.es</url></channel>
-<channel id="classd"><display-name>Classica</display-name><url>https://movistarplus.es</url></channel>
-<channel id="24h"><display-name>24 Horas</display-name><url>https://movistarplus.es</url></channel>
-<channel id="aljaze"><display-name>Al Jazeera English</display-name><url>https://movistarplus.es</url></channel>
-<channel id="arirhd"><display-name>Arirang TV HD</display-name><url>https://movistarplus.es</url></channel>
-<channel id="bbhis"><display-name>BBC History</display-name><url>https://movistarplus.es</url></channel>
-<channel id="clantv"><display-name>Clan TVE</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cl13"><display-name>Calle 13</display-name><url>https://movistarplus.es</url></channel>
-<channel id="bbgea"><display-name>BBC Top Gear</display-name><url>https://movistarplus.es</url></channel>
-<channel id="chile"><display-name>TV Chile</display-name><url>https://movistarplus.es</url></channel>
-<channel id="chapio"><display-name>M+ Liga de Campeones</display-name><url>https://movistarplus.es</url></channel>
-<channel id="aragtv"><display-name>Aragón TV</display-name><url>https://movistarplus.es</url></channel>
-<channel id="bbfoo"><display-name>BBC Food</display-name><url>https://movistarplus.es</url></channel>
-<channel id="chap4"><display-name>M+ Liga de Campeones 5</display-name><url>https://movistarplus.es</url></channel>
-<channel id="chap3"><display-name>M+ Liga de Campeones 4</display-name><url>https://movistarplus.es</url></channel>
-<channel id="bbdra"><display-name>BBC Series</display-name><url>https://movistarplus.es</url></channel>
-<channel id="chap2"><display-name>M+ Liga de Campeones 3</display-name><url>https://movistarplus.es</url></channel>
-<channel id="chap1"><display-name>M+ Liga de Campeones 2</display-name><url>https://movistarplus.es</url></channel>
-<channel id="a3"><display-name>Antena 3</display-name><url>https://movistarplus.es</url></channel>
-<channel id="aragon"><display-name>Aragón TV Int</display-name><url>https://movistarplus.es</url></channel>
-<channel id="bbclif"><display-name>BBC Lifestyle</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cgtnfr"><display-name>CGTN Français HD</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cgtnen"><display-name>CGTN English HD</display-name><url>https://movistarplus.es</url></channel>
-<channel id="bbcear"><display-name>BBC Earth</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cgtndo"><display-name>CGTN Documentary HD</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cgtnd"><display-name>CGTN Documentary</display-name><url>https://movistarplus.es</url></channel>
-<channel id="apunt"><display-name>À Punt</display-name><url>https://movistarplus.es</url></channel>
-<channel id="bbc"><display-name>BBC News</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cctv-e"><display-name>CGTN Español</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cazpes"><display-name>Caza y Pesca</display-name><url>https://movistarplus.es</url></channel>
-<channel id="dcesp"><display-name>M+ Cine Español</display-name><url>https://movistarplus.es</url></channel>
-<channel id="baby"><display-name>Baby TV</display-name><url>https://movistarplus.es</url></channel>
-<channel id="casman"><display-name>Castilla la Mancha TV</display-name><url>https://movistarplus.es</url></channel>
-<channel id="daznli"><display-name>DAZN LALIGA</display-name><url>https://movistarplus.es</url></channel>
-<channel id="daznl2"><display-name>DAZN LALIGA 2</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cansur"><display-name>Canal Sur</display-name><url>https://movistarplus.es</url></channel>
-<channel id="dazn4"><display-name>DAZN 4</display-name><url>https://movistarplus.es</url></channel>
-<channel id="dazn3"><display-name>DAZN 3</display-name><url>https://movistarplus.es</url></channel>
+<channel id="veo7"><display-name>Veo7</display-name><url>https://movistarplus.es</url></channel>
+<channel id="vamosd"><display-name>M+ Vamos</display-name><url>https://movistarplus.es</url></channel>
+<channel id="vam2sd"><display-name>M+ Vamos 2</display-name><url>https://movistarplus.es</url></channel>
+<channel id="usop11"><display-name>M+ Deportes 5</display-name><url>https://movistarplus.es</url></channel>
+<channel id="usop3"><display-name>M+ Deportes 4</display-name><url>https://movistarplus.es</url></channel>
+<channel id="usop2"><display-name>M+ Deportes 3</display-name><url>https://movistarplus.es</url></channel>
+<channel id="ucl"><display-name>UCL</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tvgal"><display-name>TVG -TV Galicia</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tvg2"><display-name>TVG 2</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tvg"><display-name>TVG Europa</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tve"><display-name>LA 1</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tvc"><display-name>TV3 Cat</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tv5"><display-name>TV5MONDE</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tv3cat"><display-name>TV3</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tpa"><display-name>TPA</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tnt"><display-name>Warner TV</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tlesur"><display-name>Telesur</display-name><url>https://movistarplus.es</url></channel>
+<channel id="ten"><display-name>Ten</display-name><url>https://movistarplus.es</url></channel>
+<channel id="telmin"><display-name>Telemadrid Int.</display-name><url>https://movistarplus.es</url></channel>
+<channel id="telmad"><display-name>Telemadrid</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tdep"><display-name>Teledeporte</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tcm"><display-name>TCM</display-name><url>https://movistarplus.es</url></channel>
+<channel id="t5"><display-name>Telecinco</display-name><url>https://movistarplus.es</url></channel>
+<channel id="squi"><display-name>Squirrel</display-name><url>https://movistarplus.es</url></channel>
+<channel id="skysho"><display-name>SkyShowtime 1</display-name><url>https://movistarplus.es</url></channel>
+<channel id="skynw"><display-name>Sky News</display-name><url>https://movistarplus.es</url></channel>
+<channel id="sexta"><display-name>La Sexta</display-name><url>https://movistarplus.es</url></channel>
+<channel id="set"><display-name>AXN Movies</display-name><url>https://movistarplus.es</url></channel>
+<channel id="sci-fi"><display-name>SYFY</display-name><url>https://movistarplus.es</url></channel>
+<channel id="red"><display-name>Canal RED</display-name><url>https://movistarplus.es</url></channel>
+<channel id="realm"><display-name>Real Madrid TV</display-name><url>https://movistarplus.es</url></channel>
+<channel id="popuhd"><display-name>M+ Wimbledon UHD</display-name><url>https://movistarplus.es</url></channel>
+<channel id="playdc"><display-name>Disney Channel</display-name><url>https://movistarplus.es</url></channel>
+<channel id="pcm"><display-name>Comedy Central</display-name><url>https://movistarplus.es</url></channel>
+<channel id="otra"><display-name>La Otra</display-name><url>https://movistarplus.es</url></channel>
+<channel id="nova"><display-name>Nova</display-name><url>https://movistarplus.es</url></channel>
+<channel id="nickjr"><display-name>NICK JR</display-name><url>https://movistarplus.es</url></channel>
+<channel id="nick"><display-name>Nickelodeon</display-name><url>https://movistarplus.es</url></channel>
+<channel id="neox"><display-name>Neox</display-name><url>https://movistarplus.es</url></channel>
+<channel id="negotv"><display-name>Negocios TV</display-name><url>https://movistarplus.es</url></channel>
+<channel id="nbc"><display-name>CNBC</display-name><url>https://movistarplus.es</url></channel>
+<channel id="nava"><display-name>Navarra TV</display-name><url>https://movistarplus.es</url></channel>
+<channel id="natgw"><display-name>Nat Geo Wild</display-name><url>https://movistarplus.es</url></channel>
+<channel id="natgeo"><display-name>National Geographic</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mvf1"><display-name>DAZN F1</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mvciva"><display-name>M+ Vacaciones</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mv1"><display-name>M+ Estrenos</display-name><url>https://movistarplus.es</url></channel>
+<channel id="multi8"><display-name>M+ Deportes 6</display-name><url>https://movistarplus.es</url></channel>
+<channel id="multi6"><display-name>M+ Deportes 7</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mtv"><display-name>MTV</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mplus"><display-name>Movistar Plus</display-name><url>https://movistarplus.es</url></channel>
+<channel id="morig"><display-name>M+ Originales</display-name><url>https://movistarplus.es</url></channel>
+<channel id="morgul"><display-name>M+ Orgullo</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mliuhd"><display-name>M+ LALIGA 2 HDR</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mliguh"><display-name>M+ LALIGA HDR</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mligs3"><display-name>LALIGA TV HYPERMOTION 3</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mligs2"><display-name>LALIGA TV HYPERMOTION 2</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mligs"><display-name>LALIGA TV HYPERMOTION</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mliga"><display-name>M+ LALIGA</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mlig3"><display-name>M+ LALIGA 4</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mlig2"><display-name>M+ LALIGA 3</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mlig1"><display-name>M+ LALIGA 2</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mindi"><display-name>M+ Indie</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mhits"><display-name>M+ Hits</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mezzo"><display-name>Mezzo</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mezzli"><display-name>Mezzo Live</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mellav"><display-name>M+ Vamos 3</display-name><url>https://movistarplus.es</url></channel>
 <channel id="mega"><display-name>Mega</display-name><url>https://movistarplus.es</url></channel>
 <channel id="medite"><display-name>La Ocho TV</display-name><url>https://movistarplus.es</url></channel>
 <channel id="mdoc"><display-name>M+ Documentales</display-name><url>https://movistarplus.es</url></channel>
@@ -113,73 +112,74 @@
 <channel id="divini"><display-name>Divinity</display-name><url>https://movistarplus.es</url></channel>
 <channel id="dcrmax"><display-name>DMAX</display-name><url>https://movistarplus.es</url></channel>
 <channel id="dcr"><display-name>Discovery</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mligs2"><display-name>LALIGA TV HYPERMOTION 2</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mliga"><display-name>M+ LALIGA</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mlig3"><display-name>M+ LALIGA 4</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mlig2"><display-name>M+ LALIGA 3</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mindi"><display-name>M+ Indie</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mhits"><display-name>M+ Hits</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mezzo"><display-name>Mezzo</display-name><url>https://movistarplus.es</url></channel>
-<channel id="veo7"><display-name>Veo7</display-name><url>https://movistarplus.es</url></channel>
-<channel id="vamosd"><display-name>M+ Vamos</display-name><url>https://movistarplus.es</url></channel>
-<channel id="vam2sd"><display-name>M+ Vamos 2</display-name><url>https://movistarplus.es</url></channel>
-<channel id="usop11"><display-name>M+ Deportes 5</display-name><url>https://movistarplus.es</url></channel>
-<channel id="usop3"><display-name>M+ Deportes 4</display-name><url>https://movistarplus.es</url></channel>
-<channel id="usop2"><display-name>M+ Deportes 3</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tvgal"><display-name>TVG -TV Galicia</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tvg2"><display-name>TVG 2</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tvg"><display-name>TVG Europa</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tvc"><display-name>TV3 Cat</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tv5"><display-name>TV5MONDE</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tv3cat"><display-name>TV3</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tnt"><display-name>Warner TV</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tlesur"><display-name>Telesur</display-name><url>https://movistarplus.es</url></channel>
-<channel id="ten"><display-name>Ten</display-name><url>https://movistarplus.es</url></channel>
-<channel id="telmad"><display-name>Telemadrid</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tdep"><display-name>Teledeporte</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tcm"><display-name>TCM</display-name><url>https://movistarplus.es</url></channel>
-<channel id="squi"><display-name>Squirrel</display-name><url>https://movistarplus.es</url></channel>
-<channel id="skysho"><display-name>SkyShowtime 1</display-name><url>https://movistarplus.es</url></channel>
-<channel id="skynw"><display-name>Sky News</display-name><url>https://movistarplus.es</url></channel>
-<channel id="sexta"><display-name>La Sexta</display-name><url>https://movistarplus.es</url></channel>
-<channel id="set"><display-name>AXN Movies</display-name><url>https://movistarplus.es</url></channel>
-<channel id="sci-fi"><display-name>SYFY</display-name><url>https://movistarplus.es</url></channel>
-<channel id="popuhd"><display-name>M+ Wimbledon UHD</display-name><url>https://movistarplus.es</url></channel>
-<channel id="playdc"><display-name>Disney Channel</display-name><url>https://movistarplus.es</url></channel>
-<channel id="pcm"><display-name>Comedy Central</display-name><url>https://movistarplus.es</url></channel>
-<channel id="nova"><display-name>Nova</display-name><url>https://movistarplus.es</url></channel>
-<channel id="nickjr"><display-name>NICK JR</display-name><url>https://movistarplus.es</url></channel>
-<channel id="nick"><display-name>Nickelodeon</display-name><url>https://movistarplus.es</url></channel>
-<channel id="negotv"><display-name>Negocios TV</display-name><url>https://movistarplus.es</url></channel>
-<channel id="nbc"><display-name>CNBC</display-name><url>https://movistarplus.es</url></channel>
-<channel id="nava"><display-name>Navarra TV</display-name><url>https://movistarplus.es</url></channel>
-<channel id="natgw"><display-name>Nat Geo Wild</display-name><url>https://movistarplus.es</url></channel>
-<channel id="natgeo"><display-name>National Geographic</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mvf1"><display-name>DAZN F1</display-name><url>https://movistarplus.es</url></channel>
-<channel id="multi8"><display-name>M+ Deportes 6</display-name><url>https://movistarplus.es</url></channel>
-<channel id="multi6"><display-name>M+ Deportes 7</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mtv"><display-name>MTV</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mplus"><display-name>Movistar Plus</display-name><url>https://movistarplus.es</url></channel>
-<channel id="morig"><display-name>M+ Originales</display-name><url>https://movistarplus.es</url></channel>
-<channel id="morgul"><display-name>M+ Orgullo</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mliguh"><display-name>M+ LALIGA HDR</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mligs3"><display-name>LALIGA TV HYPERMOTION 3</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mligs"><display-name>LALIGA TV HYPERMOTION</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mlig1"><display-name>M+ LALIGA 2</display-name><url>https://movistarplus.es</url></channel>
-<channel id="ucl"><display-name>UCL</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tve"><display-name>LA 1</display-name><url>https://movistarplus.es</url></channel>
-<channel id="telmin"><display-name>Telemadrid Int.</display-name><url>https://movistarplus.es</url></channel>
-<channel id="red"><display-name>Canal RED</display-name><url>https://movistarplus.es</url></channel>
-<channel id="otra"><display-name>La Otra</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mvciva"><display-name>M+ Vacaciones</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mliuhd"><display-name>M+ LALIGA 2 HDR</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mezzli"><display-name>Mezzo Live</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tpa"><display-name>TPA</display-name><url>https://movistarplus.es</url></channel>
-<channel id="t5"><display-name>Telecinco</display-name><url>https://movistarplus.es</url></channel>
-<channel id="neox"><display-name>Neox</display-name><url>https://movistarplus.es</url></channel>
-<channel id="realm"><display-name>Real Madrid TV</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mv1"><display-name>M+ Estrenos</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mellav"><display-name>M+ Vamos 3</display-name><url>https://movistarplus.es</url></channel>
+<channel id="dcesp"><display-name>M+ Cine Español</display-name><url>https://movistarplus.es</url></channel>
+<channel id="daznli"><display-name>DAZN LALIGA</display-name><url>https://movistarplus.es</url></channel>
+<channel id="daznl2"><display-name>DAZN LALIGA 2</display-name><url>https://movistarplus.es</url></channel>
+<channel id="dazn4"><display-name>DAZN 4</display-name><url>https://movistarplus.es</url></channel>
+<channel id="dazn3"><display-name>DAZN 3</display-name><url>https://movistarplus.es</url></channel>
+<channel id="dazmot"><display-name>DAZN MotoGP</display-name><url>https://movistarplus.es</url></channel>
+<channel id="dazba"><display-name>DAZN Baloncesto</display-name><url>https://movistarplus.es</url></channel>
+<channel id="dazb3"><display-name>DAZN Baloncesto 3</display-name><url>https://movistarplus.es</url></channel>
+<channel id="dazb2"><display-name>DAZN Baloncesto 2</display-name><url>https://movistarplus.es</url></channel>
+<channel id="dayst"><display-name>Daystar Español HD</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cyltv"><display-name>La 7</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cubav"><display-name>Cubavisión</display-name><url>https://movistarplus.es</url></channel>
+<channel id="csurhd"><display-name>Canal Sur HD</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cpdep"><display-name>M+ Deportes</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cpcome"><display-name>M+ Comedia</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cpcole"><display-name>M+ Drama</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cpacci"><display-name>M+ Acción</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cosmo"><display-name>COSMO</display-name><url>https://movistarplus.es</url></channel>
+<channel id="colomb"><display-name>TV Colombia</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cnn"><display-name>CNN Int</display-name><url>https://movistarplus.es</url></channel>
+<channel id="classd"><display-name>Classica</display-name><url>https://movistarplus.es</url></channel>
+<channel id="clantv"><display-name>Clan TVE</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cl13"><display-name>Calle 13</display-name><url>https://movistarplus.es</url></channel>
+<channel id="chile"><display-name>TV Chile</display-name><url>https://movistarplus.es</url></channel>
+<channel id="chapio"><display-name>M+ Liga de Campeones</display-name><url>https://movistarplus.es</url></channel>
+<channel id="chap4"><display-name>M+ Liga de Campeones 5</display-name><url>https://movistarplus.es</url></channel>
+<channel id="chap3"><display-name>M+ Liga de Campeones 4</display-name><url>https://movistarplus.es</url></channel>
+<channel id="chap2"><display-name>M+ Liga de Campeones 3</display-name><url>https://movistarplus.es</url></channel>
+<channel id="chap1"><display-name>M+ Liga de Campeones 2</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cgtnfr"><display-name>CGTN Français HD</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cgtnen"><display-name>CGTN English HD</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cgtndo"><display-name>CGTN Documentary HD</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cgtnd"><display-name>CGTN Documentary</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cctv-e"><display-name>CGTN Español</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cazpes"><display-name>Caza y Pesca</display-name><url>https://movistarplus.es</url></channel>
+<channel id="casman"><display-name>Castilla la Mancha TV</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cansur"><display-name>Canal Sur</display-name><url>https://movistarplus.es</url></channel>
+<channel id="canar"><display-name>TV Canaria</display-name><url>https://movistarplus.es</url></channel>
+<channel id="can33"><display-name>33</display-name><url>https://movistarplus.es</url></channel>
+<channel id="c33"><display-name>SX3</display-name><url>https://movistarplus.es</url></channel>
+<channel id="c4"><display-name>Cuatro</display-name><url>https://movistarplus.es</url></channel>
+<channel id="btv"><display-name>Betevé</display-name><url>https://movistarplus.es</url></channel>
+<channel id="boing"><display-name>Boing</display-name><url>https://movistarplus.es</url></channel>
+<channel id="bl"><display-name>Bloomberg</display-name><url>https://movistarplus.es</url></channel>
+<channel id="bemad"><display-name>BE MAD</display-name><url>https://movistarplus.es</url></channel>
+<channel id="bbhis"><display-name>BBC History</display-name><url>https://movistarplus.es</url></channel>
+<channel id="bbgea"><display-name>BBC Top Gear</display-name><url>https://movistarplus.es</url></channel>
+<channel id="bbfoo"><display-name>BBC Food</display-name><url>https://movistarplus.es</url></channel>
+<channel id="bbdra"><display-name>BBC Series</display-name><url>https://movistarplus.es</url></channel>
+<channel id="bbclif"><display-name>BBC Lifestyle</display-name><url>https://movistarplus.es</url></channel>
+<channel id="bbcear"><display-name>BBC Earth</display-name><url>https://movistarplus.es</url></channel>
+<channel id="bbc"><display-name>BBC News</display-name><url>https://movistarplus.es</url></channel>
+<channel id="baby"><display-name>Baby TV</display-name><url>https://movistarplus.es</url></channel>
+<channel id="axn"><display-name>AXN</display-name><url>https://movistarplus.es</url></channel>
+<channel id="atress"><display-name>Atreseries</display-name><url>https://movistarplus.es</url></channel>
+<channel id="atlat"><display-name>Atlántico TV</display-name><url>https://movistarplus.es</url></channel>
+<channel id="arthur"><display-name>M+ Deportes 2</display-name><url>https://movistarplus.es</url></channel>
+<channel id="arirhd"><display-name>Arirang TV HD</display-name><url>https://movistarplus.es</url></channel>
+<channel id="aragtv"><display-name>Aragón TV</display-name><url>https://movistarplus.es</url></channel>
+<channel id="aragon"><display-name>Aragón TV Int</display-name><url>https://movistarplus.es</url></channel>
+<channel id="apunt"><display-name>À Punt</display-name><url>https://movistarplus.es</url></channel>
+<channel id="antv"><display-name>Canal Sur Andalucía</display-name><url>https://movistarplus.es</url></channel>
+<channel id="andatv"><display-name>Andalucía TV</display-name><url>https://movistarplus.es</url></channel>
+<channel id="aljaze"><display-name>Al Jazeera English</display-name><url>https://movistarplus.es</url></channel>
+<channel id="a3"><display-name>Antena 3</display-name><url>https://movistarplus.es</url></channel>
+<channel id="3_24"><display-name>3CatInfo</display-name><url>https://movistarplus.es</url></channel>
+<channel id="24h"><display-name>24 Horas</display-name><url>https://movistarplus.es</url></channel>
+<channel id="13tv"><display-name>TRECE</display-name><url>https://movistarplus.es</url></channel>
 <programme start="20260815030000 +0000" stop="20260815220000 +0000" channel="7tvmur"><title lang="es">Corazón Solidario</title><desc lang="es">Corazón Solidario nos invita a hacer un recorrido semana a semana por las asociaciones de la Región de Murcia dando a conocer a sus protagonistas, sus instalaciones, servicios, investigación y muchas historias de corazón.</desc></programme>
 <programme start="20260815040000 +0000" stop="20260815050000 +0000" channel="7tvmur"><title lang="es">Un paseo por</title><desc lang="es">Programa de divulgación cultural en el que se recorre la geografía murciana. El espacio muestra las calles, los centros históricos, culturales y religiosos de la comunidad, así como los lugares con mayor riqueza en biodiversidad.</desc></programme>
 <programme start="20260815050000 +0000" stop="20260815060000 +0000" channel="7tvmur"><title lang="es">En ruta</title><desc lang="es">Recorrido en bicicleta por la Región de Murcia que visibiliza un turismo más sostenible y equilibrado, poniendo en valor el patrimonio histórico, cultural y natural.</desc></programme>
@@ -721,13 +721,12 @@
 <programme start="20260817011900 +0000" stop="20260817032000 +0000" channel="aragtv"><title lang="es">Dándolo todo: Solistas femeninas infantiles</title><desc lang="es">Concurso que explota las habilidades artísticas de los aragoneses, presentado por David Marqueta. Juzgados por un tribunal experto, los concursantes deberán pasar toda una serie de pruebas y demostrar el artista que llevan dentro para ganar el premio semanal.</desc></programme>
 <programme start="20260815040000 +0000" stop="20260815220000 +0000" channel="arirhd"><title lang="es">Arirang TV HD</title></programme>
 <programme start="20260816040000 +0000" stop="20260816220000 +0000" channel="arirhd"><title lang="es">Arirang TV HD</title></programme>
-<programme start="20260815040500 +0000" stop="20260815060000 +0000" channel="arthur"><title lang="es">M+ Deportes 2</title></programme>
+<programme start="20260815035400 +0000" stop="20260815060000 +0000" channel="arthur"><title lang="es">M+ Deportes 2</title></programme>
 <programme start="20260815060000 +0000" stop="20260815130000 +0000" channel="arthur"><title lang="es">M+ Deportes 2</title></programme>
 <programme start="20260815130000 +0000" stop="20260815170500 +0000" channel="arthur"><title lang="es">M+ Deportes 2</title></programme>
 <programme start="20260815170500 +0000" stop="20260815190500 +0000" channel="arthur"><title lang="es">Torneo de Cincinnati (2026): Djokovic vs Tirante</title><desc lang="es">Llega a Cincinnati la última gran cita del circuito antes del US Open. El segundo Masters 1000 del verano cierra la preparación para el cuarto Grand Slam.</desc></programme>
 <programme start="20260815190500 +0000" stop="20260815210500 +0000" channel="arthur"><title lang="es">Torneo de Cincinnati (2026): Paul vs Hurkacz</title><desc lang="es">Llega a Cincinnati la última gran cita del circuito antes del US Open. El segundo Masters 1000 del verano cierra la preparación para el cuarto Grand Slam.</desc></programme>
 <programme start="20260815210500 +0000" stop="20260816010500 +0000" channel="arthur"><title lang="es">M+ Deportes 2</title></programme>
-<programme start="20260816010500 +0000" stop="20260816040500 +0000" channel="arthur"><title lang="es">Torneo de Cincinnati (2026): Kovacevic vs Khachanov</title><desc lang="es">Llega a Cincinnati la última gran cita del circuito antes del US Open. El segundo Masters 1000 del verano cierra la preparación para el cuarto Grand Slam.</desc></programme>
 <programme start="20260816010500 +0000" stop="20260816220000 +0000" channel="arthur"><title lang="es">Torneo de Cincinnati (2026): Zverev vs Norrie</title><desc lang="es">Llega a Cincinnati la última gran cita del circuito antes del US Open. El segundo Masters 1000 del verano cierra la preparación para el cuarto Grand Slam.</desc></programme>
 <programme start="20260816040500 +0000" stop="20260816060000 +0000" channel="arthur"><title lang="es">M+ Deportes 2</title></programme>
 <programme start="20260816060000 +0000" stop="20260816130000 +0000" channel="arthur"><title lang="es">M+ Deportes 2</title></programme>
@@ -6429,7 +6428,7 @@
 <programme start="20260817005600 +0000" stop="20260817014300 +0000" channel="morig"><title lang="es">La más grande: Acto I</title><desc lang="es">La vida de Rocío Jurado parte de la historia arquetípica de una mujer que nace en un contexto adverso para cumplir el sueño imposible de construirse a sí misma para convertirse, no solo en una artista a nivel internacional, sino en un icono para la mujer del Siglo y la Cultura que le ha tocado vivir.</desc></programme>
 <programme start="20260817014300 +0000" stop="20260817023900 +0000" channel="morig"><title lang="es">La más grande: Acto II</title><desc lang="es">La vida de Rocío Jurado parte de la historia arquetípica de una mujer que nace en un contexto adverso para cumplir el sueño imposible de construirse a sí misma para convertirse, no solo en una artista a nivel internacional, sino en un icono para la mujer del Siglo y la Cultura que le ha tocado vivir.</desc></programme>
 <programme start="20260817023900 +0000" stop="20260817031800 +0000" channel="morig"><title lang="es">La más grande: Acto III</title><desc lang="es">La vida de Rocío Jurado parte de la historia arquetípica de una mujer que nace en un contexto adverso para cumplir el sueño imposible de construirse a sí misma para convertirse, no solo en una artista a nivel internacional, sino en un icono para la mujer del Siglo y la Cultura que le ha tocado vivir.</desc></programme>
-<programme start="20260815030700 +0000" stop="20260815220000 +0000" channel="mplus"><title lang="es">Saturday Night Live: Ryan Gosling y Gorillaz</title><desc lang="es">La estrella Ryan Gosling presenta por cuarta vez "SNL". El actor nominado al Oscar produce y protagoniza la nueva película "Proyecto Salvación", que se estrena en cines próximamente. Y Gorillaz actuará por primera vez en el programa. La banda ganadora de un Grammy viene a presentar su último lanzamiento su nuevo álbum "The Mountain".</desc></programme>
+<programme start="20260815031500 +0000" stop="20260815220000 +0000" channel="mplus"><title lang="es">Saturday Night Live: Alexander Skarsgård / Cardi B</title><desc lang="es">Alexander Skarsgård actor y productor sueco, conocido por "La leyenda de Tarzán", "Big Little Lies" y "True Blood" debuta como presenador en "SNL". Cardi B aparece por segunda vez como estrella invitada a punto de iniciar su nueva gira.</desc></programme>
 <programme start="20260815032600 +0000" stop="20260815041500 +0000" channel="mplus"><title lang="es">Los sin nombre (T1): Episodio 5</title><desc lang="es">La policía inicia la búsqueda de Kevin y una chica cuya identidad es aún desconocida. Claudia y Salazar prestan declaración en comisaría a la espera de la detención de los sospechosos, que parecen saber qué ocurrió realmente con Ángela.</desc></programme>
 <programme start="20260815041500 +0000" stop="20260815051100 +0000" channel="mplus"><title lang="es">Los sin nombre (T1): Episodio 6</title><desc lang="es">Final de temporada. Claudia se reencuentra con una adolescente que dice ser su hija y son trasladadas al hospital. No obstante, Salazar sigue dudando de las intenciones de la joven y de la secta a la que todo el mundo ha dado por desarticulada.</desc></programme>
 <programme start="20260815051100 +0000" stop="20260815064500 +0000" channel="mplus"><title lang="es">Pharrell Williams: Piece by Piece</title><desc lang="es">Innovador documental animado en formato de LEGO que recorre la vida y música del productor, compositor y director creativo de Louis Vuitton, ganador de trece premios Grammy, el icono cultural Pharrell Williams.</desc></programme>
@@ -6447,18 +6446,16 @@
 <programme start="20260815191500 +0000" stop="20260815194900 +0000" channel="mplus"><title lang="es">DeportePlus Sábado (T26/27): 15/08/2026</title><desc lang="es">De la mano de Iñaki Aguirregabiria, el programa Deporte Plus+ se emite en directo todos los sábados de esta nueva temporada con la última hora de la información deportiva.</desc></programme>
 <programme start="20260815194900 +0000" stop="20260815211500 +0000" channel="mplus"><title lang="es">La leyenda de Ochi</title><desc lang="es">"La leyenda de Ochi" es una película familiar que mezcla aventura iniciática, cuento de criaturas y fábula sobre el miedo a lo desconocido. Isaiah Saxon, realizador procedente del universo del videoclip y la creación visual, debuta aquí en el largometraje con una propuesta de aire artesanal.</desc></programme>
 <programme start="20260815211500 +0000" stop="20260815213000 +0000" channel="mplus"><title lang="es">Bakalá (T25/26): Episodio 19</title><desc lang="es">Un programa que combina el deporte actual con lo mejor del archivo de la casa. Te contamos todo lo acontecido durante la semana, a la vez que recordamos imágenes míticas. Todo ello amenizado con la voz de Raúl Pérez y sus personajes.</desc></programme>
-<programme start="20260815213000 +0000" stop="20260815223400 +0000" channel="mplus"><title lang="es">DeportePlus (T26/27): 15/08/2026</title><desc lang="es">El programa Deporte Plus+ se emite en directo todos los sábados de esta nueva temporada con la última hora de la información deportiva.</desc></programme>
-<programme start="20260815223400 +0000" stop="20260816000100 +0000" channel="mplus"><title lang="es">Rolling Stones: At The Max</title><desc lang="es">Una presentación de "la mejor banda de rock and roll del mundo" como nunca fue vista, Mick Jagger, Keith Richards, Ronnie Wood y Charlie Watts llegan a la gran pantalla en un electrizante concierto.</desc></programme>
-<programme start="20260816000100 +0000" stop="20260816015900 +0000" channel="mplus"><title lang="es">Oasis: Supersonic</title><desc lang="es">La gran historia de la banda fundada por los hermanos Gallagher, que consiguió volver a poner el 'brit pop' en lo más alto de las listas de éxitos y la convirtió en un referente para toda una generación, además de en todo un acontecimiento social.</desc></programme>
-<programme start="20260816015900 +0000" stop="20260816030700 +0000" channel="mplus"><title lang="es">Saturday Night Live: Alexander Skarsgård / Cardi B</title><desc lang="es">Alexander Skarsgård actor y productor sueco, conocido por "La leyenda de Tarzán", "Big Little Lies" y "True Blood" debuta como presenador en "SNL". Cardi B aparece por segunda vez como estrella invitada a punto de iniciar su nueva gira.</desc></programme>
-<programme start="20260816030700 +0000" stop="20260816041900 +0000" channel="mplus"><title lang="es">Saturday Night Live: Ryan Gosling y Gorillaz</title><desc lang="es">La estrella Ryan Gosling presenta por cuarta vez "SNL". El actor nominado al Oscar produce y protagoniza la nueva película "Proyecto Salvación", que se estrena en cines próximamente. Y Gorillaz actuará por primera vez en el programa. La banda ganadora de un Grammy viene a presentar su último lanzamiento su nuevo álbum "The Mountain".</desc></programme>
+<programme start="20260815213000 +0000" stop="20260815230000 +0000" channel="mplus"><title lang="es">DeportePlus (T26/27): 15/08/2026</title><desc lang="es">El programa Deporte Plus+ se emite en directo todos los sábados de esta nueva temporada con la última hora de la información deportiva.</desc></programme>
+<programme start="20260815230000 +0000" stop="20260816014500 +0000" channel="mplus"><title lang="es">Torneo de Cincinnati (2026): Jodar vs Shapovalov</title><desc lang="es">Llega a Cincinnati la última gran cita del circuito antes del US Open. El segundo Masters 1000 del verano cierra la preparación para el cuarto Grand Slam.</desc></programme>
+<programme start="20260816014500 +0000" stop="20260816031500 +0000" channel="mplus"><title lang="es">Rolling Stones: At The Max</title><desc lang="es">Una presentación de "la mejor banda de rock and roll del mundo" como nunca fue vista, Mick Jagger, Keith Richards, Ronnie Wood y Charlie Watts llegan a la gran pantalla en un electrizante concierto.</desc></programme>
+<programme start="20260816031500 +0000" stop="20260816042500 +0000" channel="mplus"><title lang="es">Saturday Night Live: Alexander Skarsgård / Cardi B</title><desc lang="es">Alexander Skarsgård actor y productor sueco, conocido por "La leyenda de Tarzán", "Big Little Lies" y "True Blood" debuta como presenador en "SNL". Cardi B aparece por segunda vez como estrella invitada a punto de iniciar su nueva gira.</desc></programme>
 <programme start="20260816032400 +0000" stop="20260816220000 +0000" channel="mplus"><title lang="es">Ernest Cole: Lost and Found</title><desc lang="es">El fotógrafo sudafricano Ernest Cole fue pionero en denunciar la brutalidad del apartheid ante el mundo. Este documental, ganador en el festival de Cannes, narra su historia.</desc></programme>
-<programme start="20260816041900 +0000" stop="20260816051500 +0000" channel="mplus"><title lang="es">Pet Shop Boys: ayer y hoy</title><desc lang="es">Neil Tennant y Chris Lowe, Pet Shop Boys, son el dúo más exitoso de la historia del pop británico. Han vendido más de 50 millones de discos, producido más de cuarenta sencillos Top 40, cuatro números uno en el Reino Unido y han realizado varias giras internacionales.</desc></programme>
-<programme start="20260816051500 +0000" stop="20260816055500 +0000" channel="mplus"><title lang="es">¡Viva la fiesta! Dance the 90's</title><desc lang="es">La irrupción del techno y el bakalao en las listas de éxitos de nuestro país, tuvo su origen a finales de los 80 y vivió todo su esplendor en la década de los 90, con la famosa ruta valenciana. Hay una lista larguísima de grandes hits nacionales e internacionales, que nos hicieron bailar en esa época y que aun hoy perduran, habiéndose convertido en clásicos himnos de las pistas de baile de cualquier fiesta que se precie.</desc></programme>
-<programme start="20260816055500 +0000" stop="20260816065000 +0000" channel="mplus"><title lang="es">La importancia de la noche</title><desc lang="es">Cuando llega la noche, la Tierra nos ofrece una visión mágica, pero la opacamos iluminando nuestras ciudades y pueblos, nuestras oficinas y aparcamientos, nuestros polígonos industriales y monumentos... Esto es lo que perdemos al hacerlo.</desc></programme>
+<programme start="20260816042500 +0000" stop="20260816053500 +0000" channel="mplus"><title lang="es">Saturday Night Live: Ryan Gosling y Gorillaz</title><desc lang="es">La estrella Ryan Gosling presenta por cuarta vez "SNL". El actor nominado al Oscar produce y protagoniza la nueva película "Proyecto Salvación", que se estrena en cines próximamente. Y Gorillaz actuará por primera vez en el programa. La banda ganadora de un Grammy viene a presentar su último lanzamiento su nuevo álbum "The Mountain".</desc></programme>
+<programme start="20260816053500 +0000" stop="20260816065000 +0000" channel="mplus"><title lang="es">La importancia de la noche</title><desc lang="es">Cuando llega la noche, la Tierra nos ofrece una visión mágica, pero la opacamos iluminando nuestras ciudades y pueblos, nuestras oficinas y aparcamientos, nuestros polígonos industriales y monumentos... Esto es lo que perdemos al hacerlo.</desc></programme>
 <programme start="20260816065000 +0000" stop="20260816074600 +0000" channel="mplus"><title lang="es">Los monstruos de Tim Burton</title><desc lang="es">Tim Burton es uno de los cineastas más singulares de nuestro tiempo. En sus películas, ha explorado las heridas de la infancia y el mundo de la fantasía a través de personajes extraños y marginales, rechazados por una sociedad que idolatra la perfección. Este documental recorre su vida y lo retrata a través de sus películas.</desc></programme>
-<programme start="20260816074600 +0000" stop="20260816092100 +0000" channel="mplus"><title lang="es">Becoming Madonna</title><desc lang="es">A través de imágenes y entrevistas inéditas de la cantante, este documental hace un recorrido por la vida de la reina del pop, Madonna, desde sus orígenes en Michigan donde era una joven insegura, hasta convertirse en la estrella del pop más poderosa y controvertida del planeta.</desc></programme>
-<programme start="20260816092100 +0000" stop="20260816105600 +0000" channel="mplus"><title lang="es">Cortocircuito</title><desc lang="es">El ejército de los Estados Unidos ha diseñado una importante arma estratégica en forma de sofisticado robot llamado "Número 5". Durante su presentación, un rayo cae cerca de un transformador produciendo un cortocircuito que afecta al experimento.</desc></programme>
+<programme start="20260816074600 +0000" stop="20260816091600 +0000" channel="mplus"><title lang="es">Polloliebre y el secreto de la marmota</title><desc lang="es">Con un estilo vibrante que combina acción, humor y fantasía, esta secuela sigue las aventuras de Polloliebre en un mundo de animales antropomorfos. Un secreto sobre el pasado empuja a este héroe y a sus amigos a buscar una marmota mágica que podría cambiar el pasado. Lo que empieza como una misión para encontrar respuestas pronto se convierte en una carrera contrarreloj, porque otros también quieren hacerse con ese poder. "Polloliebre y el secreto de la marmota" propone así una película de animación familiar de aventuras, fantasía y comedia con un tono ligero y espíritu de viaje.</desc></programme>
+<programme start="20260816091600 +0000" stop="20260816105600 +0000" channel="mplus"><title lang="es">Torneo de Cincinnati (2026): Jodar vs Shapovalov</title><desc lang="es">Llega a Cincinnati la última gran cita del circuito antes del US Open. El segundo Masters 1000 del verano cierra la preparación para el cuarto Grand Slam.</desc></programme>
 <programme start="20260816105600 +0000" stop="20260816120000 +0000" channel="mplus"><title lang="es">DeportePlus (T26/27): 15/08/2026</title><desc lang="es">El programa Deporte Plus+ se emite en directo todos los sábados de esta nueva temporada con la última hora de la información deportiva.</desc></programme>
 <programme start="20260816120000 +0000" stop="20260816134500 +0000" channel="mplus"><title lang="es">Kenny Dalglish</title><desc lang="es">La legendaria figura del Liverpool, Kenny Dalglish, narra su propia historia en este documental dirigido por el ganador del Óscar Asif Kapadia ("Senna", "Amy").</desc></programme>
 <programme start="20260816134500 +0000" stop="20260816162100 +0000" channel="mplus"><title lang="es">Final FA Community Shield 2026: Arsenal - ManchesterCity</title><desc lang="es">El campeón de la Premier y el campeón de la FA Cup inauguran la temporada oficial en el Millenium Stadium de Cardiff. Arteta tiene el reto de dar continuidad al éxito gunner, Maresca tiene el reto de suceder a Guardiola. Dos equipos aún en construcción pendientes de nuevas incorporaciones y salidas.</desc></programme>
@@ -8713,7 +8710,7 @@
 <programme start="20260815195400 +0000" stop="20260815200000 +0000" channel="tvg2"><title lang="es">Se ti souberas</title><desc lang="es">Mucho antes de la llegada de TikTok o Instagram, hubo personas que rompieron barreras en diferentes partes de Galicia. Artistas, diseñadores o escritores que abrieron camino sin la ayuda ni el éxito de las redes sociales.</desc></programme>
 <programme start="20260815200000 +0000" stop="20260815205000 +0000" channel="tvg2"><title lang="es">Telexornal Serán fin de semana</title><desc lang="es">Edición de fin de semana de los informativos diarios de TVG presentada por Antía Araújo y David Valverde.</desc></programme>
 <programme start="20260815205000 +0000" stop="20260815205700 +0000" channel="tvg2"><title lang="es">O Tempo</title><desc lang="es">Espacio de Televisión de Galicia dedicado a la información meteorológica de la mano de Xesús Peleteiro, Ana Celia Vázquez, Diego Viaño y Noelia Rodríguez.</desc></programme>
-<programme start="20260815205700 +0000" stop="20260815230400 +0000" channel="tvg2"><title lang="es">A manda humana</title><desc lang="es">Un hombre que se ha escapado de la cárcel regresa a su ciudad natal en Texas. Las reacciones de los habitantes de la localidad no tardan en manifestarse en un estallido de violencia colectiva. El `sheriff´, que se opone al linchamiento, lucha por defender al criminal a pesar de que debe su puesto a las mismas personas que ahora persiguen al fugitivo. La película retrata una sociedad corrupta cuyo sistema de valores esconde frustraciones y resentimientos.</desc></programme>
+<programme start="20260815205700 +0000" stop="20260815230400 +0000" channel="tvg2"><title lang="es">A manda humana</title><desc lang="es">Un hombre escapado de la cárcel vuelve a su pueblo, pero sus vecinos emprenden contra él una auténtica cacería como si se tratara de una diversión más. Solo el comisario tratará de evitar su linchamiento.</desc></programme>
 <programme start="20260815230400 +0000" stop="20260816035700 +0000" channel="tvg2"><title lang="es">A boas horas</title><desc lang="es">G2 emite este nuevo programa en directo que revolucionará la madrugada del fin de semana en Radio Galega.</desc></programme>
 <programme start="20260816035700 +0000" stop="20260816040800 +0000" channel="tvg2"><title lang="es">Latitude Galega</title><desc lang="es">Conducido por Alba Mancebo y Perico Balado, un nuevo programa de viajes que viaja a diferentes lugares del mundo a través de las experiencias de gallegos residentes en el exterior.</desc></programme>
 <programme start="20260816040800 +0000" stop="20260816041000 +0000" channel="tvg2"><title lang="es">Suckers</title><desc lang="es">¿Qué ocurre con los juguetes que del interior de los coches cuando no hay gente dentro? ''Suckers'' ofrece, con grandes dosis de ironía, una simpática visión de la vida moderna vista a través de estos juguetes que viven en el parabrisas o la parte de atrás de un coche.</desc></programme>
@@ -8830,7 +8827,7 @@
 <programme start="20260815145000 +0000" stop="20260815180500 +0000" channel="usop2"><title lang="es">Las Carreras (T2026): Hipódromo de San Sebastián 15/08/2026</title><desc lang="es">Las mejores carreras de caballos del Circuito Profesional donde están presentes los mejores jinetes y caballos de nuestro país desde los hipódromos más prestigiosos y famosos. Las temporadas de primavera, otoño y las carreras nocturnas.</desc></programme>
 <programme start="20260815180500 +0000" stop="20260815190500 +0000" channel="usop2"><title lang="es">M+ Deportes 3</title></programme>
 <programme start="20260815190500 +0000" stop="20260815220000 +0000" channel="usop2"><title lang="es">M+ Deportes 3</title></programme>
-<programme start="20260816020500 +0000" stop="20260816060000 +0000" channel="usop2"><title lang="es">M+ Deportes 3</title></programme>
+<programme start="20260816004000 +0000" stop="20260816060000 +0000" channel="usop2"><title lang="es">M+ Deportes 3</title></programme>
 <programme start="20260816033000 +0000" stop="20260816220000 +0000" channel="usop2"><title lang="es">M+ Deportes 3</title></programme>
 <programme start="20260816060000 +0000" stop="20260816130000 +0000" channel="usop2"><title lang="es">M+ Deportes 3</title></programme>
 <programme start="20260816130000 +0000" stop="20260816150500 +0000" channel="usop2"><title lang="es">M+ Deportes 3</title></programme>
@@ -8895,7 +8892,7 @@
 <programme start="20260816230000 +0000" stop="20260817013000 +0000" channel="vam2sd"><title lang="es">Indycar (T2026): Grand Prix of Markham</title><desc lang="es">La decimocuarta cita de la temporada del IndyCar se celebra en el circuito urbano de Markham, en Canadá, que se estrena en la competición.</desc></programme>
 <programme start="20260816234500 +0000" stop="20260817070000 +0000" channel="vam2sd"><title lang="es">M+ Vamos 2</title></programme>
 <programme start="20260817013000 +0000" stop="20260817220000 +0000" channel="vam2sd"><title lang="es">M+ Vamos 2</title></programme>
-<programme start="20260815043500 +0000" stop="20260815050500 +0000" channel="vamosd"><title lang="es">Bakalá (T25/26): Episodio 33</title><desc lang="es">Un programa que combina el deporte actual con lo mejor del archivo de la casa. Te contamos todo lo acontecido durante la semana, a la vez que recordamos imágenes míticas. Todo ello amenizado con la voz de Raúl Pérez y sus personajes.</desc></programme>
+<programme start="20260815042000 +0000" stop="20260815050500 +0000" channel="vamosd"><title lang="es">Bakalá (T25/26): Episodio 33</title><desc lang="es">Un programa que combina el deporte actual con lo mejor del archivo de la casa. Te contamos todo lo acontecido durante la semana, a la vez que recordamos imágenes míticas. Todo ello amenizado con la voz de Raúl Pérez y sus personajes.</desc></programme>
 <programme start="20260815050500 +0000" stop="20260815071500 +0000" channel="vamosd"><title lang="es">Rugby Test Matches Internationals (2026): Australia vs Japón</title><desc lang="es">Australia y Japón se miden en Townsville en su segundo asalto de los Test Matches tras el primero disputado en Osaka.</desc></programme>
 <programme start="20260815071500 +0000" stop="20260815091000 +0000" channel="vamosd"><title lang="es">Liga Saudí (T26/27): Al Hilal - Al Faysaly</title><desc lang="es">La Liga Profesional Saudí 2025-26 es la 50.ª edición del Campeonato de Fútbol de Arabia Saudí, la máxima división del fútbol saudí desde su fundación en 1976. El actual campeón es Al-Ittihad.</desc></programme>
 <programme start="20260815091000 +0000" stop="20260815105000 +0000" channel="vamosd"><title lang="es">Torneo de Cincinnati (2026): Merida vs Cilic</title><desc lang="es">Llega a Cincinnati la última gran cita del circuito antes del US Open. El segundo Masters 1000 del verano cierra la preparación para el cuarto Grand Slam.</desc></programme>
@@ -8913,7 +8910,7 @@
 <programme start="20260815231600 +0000" stop="20260816002500 +0000" channel="vamosd"><title lang="es">DeportePlus (T26/27): 15/08/2026</title><desc lang="es">El programa Deporte Plus+ se emite en directo todos los sábados de esta nueva temporada con la última hora de la información deportiva.</desc></programme>
 <programme start="20260816002500 +0000" stop="20260816021500 +0000" channel="vamosd"><title lang="es">Liga Saudí (T26/27): Al Nasser - Al Fateh</title><desc lang="es">La Liga Profesional Saudí 2025-26 es la 50.ª edición del Campeonato de Fútbol de Arabia Saudí, la máxima división del fútbol saudí desde su fundación en 1976. El actual campeón es Al-Ittihad.</desc></programme>
 <programme start="20260816021500 +0000" stop="20260816220000 +0000" channel="vamosd"><title lang="es">Copa Libertadores (2026): CA Rosario Central vs Corinthians</title><desc lang="es">El fútbol sudamericano tiene una competición por encima del resto, la Copa Libertadores. Se trata de un torneo equivalente a la Champions y que ha sido dominado tradicionalmente por clubes argentinos, brasileños y uruguayos. El Atlético Nacional es el campeón actual.</desc></programme>
-<programme start="20260816024600 +0000" stop="20260816043500 +0000" channel="vamosd"><title lang="es">Copa Libertadores (2026): Palmeiras vs Cerro Porteño</title><desc lang="es">El fútbol sudamericano tiene una competición por encima del resto, la Copa Libertadores. Se trata de un torneo equivalente a la Champions y que ha sido dominado tradicionalmente por clubes argentinos, brasileños y uruguayos. El Atlético Nacional es el campeón actual.</desc></programme>
+<programme start="20260816023100 +0000" stop="20260816042000 +0000" channel="vamosd"><title lang="es">Copa Libertadores (2026): Palmeiras vs Cerro Porteño</title><desc lang="es">El fútbol sudamericano tiene una competición por encima del resto, la Copa Libertadores. Se trata de un torneo equivalente a la Champions y que ha sido dominado tradicionalmente por clubes argentinos, brasileños y uruguayos. El Atlético Nacional es el campeón actual.</desc></programme>
 <programme start="20260816040500 +0000" stop="20260816062500 +0000" channel="vamosd"><title lang="es">Indycar (T2026): Grand Prix of Portland</title><desc lang="es">La decimotercera cita de la temporada del IndyCar se celebra en el circuito de Portland.</desc></programme>
 <programme start="20260816062500 +0000" stop="20260816065000 +0000" channel="vamosd"><title lang="es">Bakalá (T25/26): Episodio 34</title><desc lang="es">Un programa que combina el deporte actual con lo mejor del archivo de la casa. Te contamos todo lo acontecido durante la semana, a la vez que recordamos imágenes míticas. Todo ello amenizado con la voz de Raúl Pérez y sus personajes.</desc></programme>
 <programme start="20260816065000 +0000" stop="20260816074500 +0000" channel="vamosd"><title lang="es">Informe Plus+. Andrea Fuentes, locura artística</title><desc lang="es">Andrea Fuentes ha sido uno de los nombres del deporte español en 2025. Pero su historia va mucho más allá, desde sus años de nadadora a las órdenes de Anna Tarrés a su medalla de plata con Estados Unidos, digna de un guion de Hollywood. Con una personalidad y un método únicos, la actual seleccionadora de natación artística plantea una visión del deporte de élite rompedora y llena de carisma, mientras en lo personal rebosa humanidad y emoción.</desc></programme>
