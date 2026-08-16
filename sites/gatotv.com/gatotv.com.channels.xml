@@ -28,7 +28,6 @@
   <channel site="gatotv.com" site_id="cartoonito_mexico" lang="es" xmltv_id="">Cartoonito México</channel>
   <channel site="gatotv.com" site_id="cartoonito_sur" lang="es" xmltv_id="">Cartoonito Sur</channel>
   <channel site="gatotv.com" site_id="cine_mexicano" lang="es" xmltv_id="">Cine Mexicano</channel>
-  <channel site="gatotv.com" site_id="cineclick" lang="es" xmltv_id="">CineClick</channel>
   <channel site="gatotv.com" site_id="cinelatino_u_s_a" lang="es" xmltv_id="">Cinelatino USA</channel>
   <channel site="gatotv.com" site_id="cinema" lang="es" xmltv_id="">Cinema</channel>
   <channel site="gatotv.com" site_id="cinema_platino" lang="es" xmltv_id="">Cinema Platino</channel>
@@ -52,7 +51,6 @@
   <channel site="gatotv.com" site_id="espn_4_mexico" lang="es" xmltv_id="">ESPN 4 México</channel>
   <channel site="gatotv.com" site_id="espn_4_sur" lang="es" xmltv_id="">ESPN 4 Sur</channel>
   <channel site="gatotv.com" site_id="espn_5_sudamerica" lang="es" xmltv_id="">ESPN 5 Sur</channel>
-  <channel site="gatotv.com" site_id="espn_6_centroamerica_y_republica_dominicana" lang="es" xmltv_id="">ESPN 6 C. A. y R. D.</channel>
   <channel site="gatotv.com" site_id="espn_6_sudamerica" lang="es" xmltv_id="">ESPN 6 Sur</channel>
   <channel site="gatotv.com" site_id="espn_7_sudamerica" lang="es" xmltv_id="">ESPN 7 Sudamérica</channel>
   <channel site="gatotv.com" site_id="espn_premium_chile" lang="es" xmltv_id="">ESPN Premium Chile</channel>
@@ -300,7 +298,6 @@
   <channel site="gatotv.com" site_id="paravision" lang="es" xmltv_id="Paravision.py@SD">Paravisión</channel>
   <channel site="gatotv.com" site_id="pasiones_estados_unidos" lang="es" xmltv_id="Pasiones.us@SD">Pasiones Estados Unidos</channel>
   <channel site="gatotv.com" site_id="peru_magico" lang="es" xmltv_id="PeruMagico.pe@SD">Perú Mágico</channel>
-  <channel site="gatotv.com" site_id="rcn_novelas" lang="es" xmltv_id="RCNNovelas.co@SD">RCN Novelas</channel>
   <channel site="gatotv.com" site_id="real_madrid_tv" lang="es" xmltv_id="RealMadridTV.es@SD">Real Madrid TV</channel>
   <channel site="gatotv.com" site_id="rts" lang="es" xmltv_id="RTS.ec@SD">RTS</channel>
   <channel site="gatotv.com" site_id="senal_colombia" lang="es" xmltv_id="SenalColombia.co@SD">Señal Colombia</channel>
