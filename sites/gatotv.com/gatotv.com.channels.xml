@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channels>
-  <channel site="gatotv.com" site_id="2_de_panama" lang="es" xmltv_id="">2 de Panamá</channel>
   <channel site="gatotv.com" site_id="4_de_costa_rica" lang="es" xmltv_id="">4 de Costa Rica</channel>
-  <channel site="gatotv.com" site_id="5_de_republica_dominicana_telemicro" lang="es" xmltv_id="">Telemicro</channel>
   <channel site="gatotv.com" site_id="5_mexico" lang="es" xmltv_id="">5 de México</channel>
   <channel site="gatotv.com" site_id="6_de_costa_rica" lang="es" xmltv_id="">6 de Costa Rica</channel>
   <channel site="gatotv.com" site_id="9_de_honduras_vica" lang="es" xmltv_id="">9 de Honduras</channel>
@@ -21,7 +19,6 @@
   <channel site="gatotv.com" site_id="bandamax" lang="es" xmltv_id="">Bandamax</channel>
   <channel site="gatotv.com" site_id="barca_tv" lang="es" xmltv_id="">Barça TV</channel>
   <channel site="gatotv.com" site_id="bloomberg" lang="es" xmltv_id="">Bloomberg</channel>
-  <channel site="gatotv.com" site_id="cartoonito_mexico" lang="es" xmltv_id="">Cartoonito México</channel>
   <channel site="gatotv.com" site_id="cartoonito_sur" lang="es" xmltv_id="">Cartoonito Sur</channel>
   <channel site="gatotv.com" site_id="cine_mexicano" lang="es" xmltv_id="">Cine Mexicano</channel>
   <channel site="gatotv.com" site_id="cinelatino_u_s_a" lang="es" xmltv_id="">Cinelatino USA</channel>
@@ -65,8 +62,6 @@
   <channel site="gatotv.com" site_id="golden_mpx" lang="es" xmltv_id="">Golden MPX</channel>
   <channel site="gatotv.com" site_id="golden_premier" lang="es" xmltv_id="">Golden Premier</channel>
   <channel site="gatotv.com" site_id="hollywood_espana" lang="es" xmltv_id="">Hollywood España</channel>
-  <channel site="gatotv.com" site_id="las_estrellas_latinoamerica" lang="es" xmltv_id="">Las Estrellas LATAM</channel>
-  <channel site="gatotv.com" site_id="meganoticias_mx" lang="es" xmltv_id="">Meganoticias MX</channel>
   <channel site="gatotv.com" site_id="mtv_centro" lang="es" xmltv_id="">MTV Centro</channel>
   <channel site="gatotv.com" site_id="mtv_mexico" lang="es" xmltv_id="">MTV México</channel>
   <channel site="gatotv.com" site_id="nick_junior_latinoamerica" lang="es" xmltv_id="">Nick Jr. Latinoamérica</channel>
@@ -90,7 +85,6 @@
   <channel site="gatotv.com" site_id="tr3s" lang="es" xmltv_id="">Tr3s</channel>
   <channel site="gatotv.com" site_id="tudn_centroamerica" lang="es" xmltv_id="">TUDN Centroamérica</channel>
   <channel site="gatotv.com" site_id="tve" lang="es" xmltv_id="">TVE Internacional</channel>
-  <channel site="gatotv.com" site_id="tvmax" lang="es" xmltv_id="">9 de Panamá</channel>
   <channel site="gatotv.com" site_id="ultra_cine" lang="es" xmltv_id="">Ultra Cine</channel>
   <channel site="gatotv.com" site_id="ultra_docu" lang="es" xmltv_id="">Ultra Docu</channel>
   <channel site="gatotv.com" site_id="ultra_fiesta" lang="es" xmltv_id="">Ultra Fiesta</channel>
@@ -135,7 +129,6 @@
   <channel site="gatotv.com" site_id="cartoon_network_pacifico" lang="es" xmltv_id="CartoonNetwork.us@West">Cartoon Network Pacífico</channel>
   <channel site="gatotv.com" site_id="cartoon_network_mexico" lang="es" xmltv_id="CartoonNetworkLatinAmerica.us@Mexico">Cartoon Network México</channel>
   <channel site="gatotv.com" site_id="cartoon_network_atlantico_sur" lang="es" xmltv_id="CartoonNetworkLatinAmerica.us@SouthAtlantic">Cartoon Network Atlántico Sur</channel>
-  <channel site="gatotv.com" site_id="cdn_deportes" lang="es" xmltv_id="CDNDeportes.do@SD">CDN Deportes</channel>
   <channel site="gatotv.com" site_id="cinecanal_mexico" lang="es" xmltv_id="Cinecanal.us@Mexico">Cinecanal México</channel>
   <channel site="gatotv.com" site_id="cinecanal_sur" lang="es" xmltv_id="Cinecanal.us@South">Cinecanal Sur</channel>
   <channel site="gatotv.com" site_id="cine_estelar" lang="es" xmltv_id="CineEstelar.us@SD">Cine Estelar</channel>
