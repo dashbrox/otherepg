@@ -1,184 +1,184 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20260819">
 <channel id="7tvmur"><display-name>7 TV Región Murcia</display-name><url>https://movistarplus.es</url></channel>
-<channel id="13tv"><display-name>TRECE</display-name><url>https://movistarplus.es</url></channel>
-<channel id="3_24"><display-name>3CatInfo</display-name><url>https://movistarplus.es</url></channel>
-<channel id="antv"><display-name>Canal Sur Andalucía</display-name><url>https://movistarplus.es</url></channel>
-<channel id="axn"><display-name>AXN</display-name><url>https://movistarplus.es</url></channel>
-<channel id="canar"><display-name>TV Canaria</display-name><url>https://movistarplus.es</url></channel>
-<channel id="dazmot"><display-name>DAZN MotoGP</display-name><url>https://movistarplus.es</url></channel>
-<channel id="dazba"><display-name>DAZN Baloncesto</display-name><url>https://movistarplus.es</url></channel>
-<channel id="can33"><display-name>33</display-name><url>https://movistarplus.es</url></channel>
-<channel id="dazb3"><display-name>DAZN Baloncesto 3</display-name><url>https://movistarplus.es</url></channel>
-<channel id="dazb2"><display-name>DAZN Baloncesto 2</display-name><url>https://movistarplus.es</url></channel>
+<channel id="veo7"><display-name>Veo7</display-name><url>https://movistarplus.es</url></channel>
+<channel id="vamosd"><display-name>M+ Vamos</display-name><url>https://movistarplus.es</url></channel>
+<channel id="vam2sd"><display-name>M+ Vamos 2</display-name><url>https://movistarplus.es</url></channel>
+<channel id="usop11"><display-name>M+ Deportes 5</display-name><url>https://movistarplus.es</url></channel>
+<channel id="usop3"><display-name>M+ Deportes 4</display-name><url>https://movistarplus.es</url></channel>
+<channel id="usop2"><display-name>M+ Deportes 3</display-name><url>https://movistarplus.es</url></channel>
+<channel id="ucl"><display-name>UCL</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tvgal"><display-name>TVG -TV Galicia</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tvg2"><display-name>TVG 2</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tvg"><display-name>TVG Europa</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tve"><display-name>LA 1</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tvc"><display-name>TV3 Cat</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tv5"><display-name>TV5MONDE</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tv3cat"><display-name>TV3</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tpa"><display-name>TPA</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tnt"><display-name>Warner TV</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tlesur"><display-name>Telesur</display-name><url>https://movistarplus.es</url></channel>
+<channel id="ten"><display-name>Ten</display-name><url>https://movistarplus.es</url></channel>
+<channel id="telmin"><display-name>Telemadrid Int.</display-name><url>https://movistarplus.es</url></channel>
+<channel id="telmad"><display-name>Telemadrid</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tdep"><display-name>Teledeporte</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tcm"><display-name>TCM</display-name><url>https://movistarplus.es</url></channel>
+<channel id="t5"><display-name>Telecinco</display-name><url>https://movistarplus.es</url></channel>
+<channel id="squi"><display-name>Squirrel</display-name><url>https://movistarplus.es</url></channel>
+<channel id="skysho"><display-name>SkyShowtime 1</display-name><url>https://movistarplus.es</url></channel>
+<channel id="skynw"><display-name>Sky News</display-name><url>https://movistarplus.es</url></channel>
+<channel id="sexta"><display-name>La Sexta</display-name><url>https://movistarplus.es</url></channel>
+<channel id="set"><display-name>AXN Movies</display-name><url>https://movistarplus.es</url></channel>
+<channel id="sci-fi"><display-name>SYFY</display-name><url>https://movistarplus.es</url></channel>
+<channel id="red"><display-name>Canal RED</display-name><url>https://movistarplus.es</url></channel>
+<channel id="realm"><display-name>Real Madrid TV</display-name><url>https://movistarplus.es</url></channel>
+<channel id="popuhd"><display-name>M+ Wimbledon UHD</display-name><url>https://movistarplus.es</url></channel>
+<channel id="playdc"><display-name>Disney Channel</display-name><url>https://movistarplus.es</url></channel>
+<channel id="pcm"><display-name>Comedy Central</display-name><url>https://movistarplus.es</url></channel>
+<channel id="otra"><display-name>La Otra</display-name><url>https://movistarplus.es</url></channel>
+<channel id="nova"><display-name>Nova</display-name><url>https://movistarplus.es</url></channel>
+<channel id="nickjr"><display-name>NICK JR</display-name><url>https://movistarplus.es</url></channel>
+<channel id="nick"><display-name>Nickelodeon</display-name><url>https://movistarplus.es</url></channel>
+<channel id="neox"><display-name>Neox</display-name><url>https://movistarplus.es</url></channel>
+<channel id="negotv"><display-name>Negocios TV</display-name><url>https://movistarplus.es</url></channel>
+<channel id="nbc"><display-name>CNBC</display-name><url>https://movistarplus.es</url></channel>
+<channel id="nava"><display-name>Navarra TV</display-name><url>https://movistarplus.es</url></channel>
+<channel id="natgw"><display-name>Nat Geo Wild</display-name><url>https://movistarplus.es</url></channel>
+<channel id="natgeo"><display-name>National Geographic</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mvf1"><display-name>DAZN F1</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mvciva"><display-name>M+ Vacaciones</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mv1"><display-name>M+ Estrenos</display-name><url>https://movistarplus.es</url></channel>
+<channel id="multi8"><display-name>M+ Deportes 6</display-name><url>https://movistarplus.es</url></channel>
+<channel id="multi6"><display-name>M+ Deportes 7</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mtv"><display-name>MTV</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mplus"><display-name>Movistar Plus</display-name><url>https://movistarplus.es</url></channel>
+<channel id="morig"><display-name>M+ Originales</display-name><url>https://movistarplus.es</url></channel>
+<channel id="morgul"><display-name>M+ Orgullo</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mliuhd"><display-name>M+ LALIGA 2 HDR</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mliguh"><display-name>M+ LALIGA HDR</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mligs3"><display-name>LALIGA TV HYPERMOTION 3</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mligs2"><display-name>LALIGA TV HYPERMOTION 2</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mligs"><display-name>LALIGA TV HYPERMOTION</display-name><url>https://movistarplus.es</url></channel>
 <channel id="mliga"><display-name>M+ LALIGA</display-name><url>https://movistarplus.es</url></channel>
 <channel id="mlig3"><display-name>M+ LALIGA 4</display-name><url>https://movistarplus.es</url></channel>
-<channel id="atress"><display-name>Atreseries</display-name><url>https://movistarplus.es</url></channel>
-<channel id="c33"><display-name>SX3</display-name><url>https://movistarplus.es</url></channel>
-<channel id="dayst"><display-name>Daystar Español HD</display-name><url>https://movistarplus.es</url></channel>
 <channel id="mlig2"><display-name>M+ LALIGA 3</display-name><url>https://movistarplus.es</url></channel>
 <channel id="mlig1"><display-name>M+ LALIGA 2</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cyltv"><display-name>La 7</display-name><url>https://movistarplus.es</url></channel>
 <channel id="mindi"><display-name>M+ Indie</display-name><url>https://movistarplus.es</url></channel>
 <channel id="mhits"><display-name>M+ Hits</display-name><url>https://movistarplus.es</url></channel>
-<channel id="c4"><display-name>Cuatro</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cubav"><display-name>Cubavisión</display-name><url>https://movistarplus.es</url></channel>
 <channel id="mezzo"><display-name>Mezzo</display-name><url>https://movistarplus.es</url></channel>
 <channel id="mezzli"><display-name>Mezzo Live</display-name><url>https://movistarplus.es</url></channel>
-<channel id="csurhd"><display-name>Canal Sur HD</display-name><url>https://movistarplus.es</url></channel>
 <channel id="mellav"><display-name>M+ Vamos 3</display-name><url>https://movistarplus.es</url></channel>
 <channel id="mega"><display-name>Mega</display-name><url>https://movistarplus.es</url></channel>
-<channel id="andatv"><display-name>Andalucía TV</display-name><url>https://movistarplus.es</url></channel>
-<channel id="atlat"><display-name>Atlántico TV</display-name><url>https://movistarplus.es</url></channel>
-<channel id="btv"><display-name>Betevé</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cpdep"><display-name>M+ Deportes</display-name><url>https://movistarplus.es</url></channel>
 <channel id="medite"><display-name>La Ocho TV</display-name><url>https://movistarplus.es</url></channel>
 <channel id="mdoc"><display-name>M+ Documentales</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cpcome"><display-name>M+ Comedia</display-name><url>https://movistarplus.es</url></channel>
 <channel id="mcopa"><display-name>Primera Federación</display-name><url>https://movistarplus.es</url></channel>
 <channel id="mclas"><display-name>M+ Clásicos</display-name><url>https://movistarplus.es</url></channel>
-<channel id="boing"><display-name>Boing</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cpcole"><display-name>M+ Drama</display-name><url>https://movistarplus.es</url></channel>
 <channel id="mbalct"><display-name>M+ Baloncesto</display-name><url>https://movistarplus.es</url></channel>
 <channel id="mbalc3"><display-name>M+ Baloncesto 3</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cpacci"><display-name>M+ Acción</display-name><url>https://movistarplus.es</url></channel>
 <channel id="mbalc2"><display-name>M+ Baloncesto 2</display-name><url>https://movistarplus.es</url></channel>
 <channel id="maxava"><display-name>HBO Max Avances</display-name><url>https://movistarplus.es</url></channel>
-<channel id="arthur"><display-name>M+ Deportes 2</display-name><url>https://movistarplus.es</url></channel>
-<channel id="bl"><display-name>Bloomberg</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cosmo"><display-name>COSMO</display-name><url>https://movistarplus.es</url></channel>
 <channel id="m2sd"><display-name>DAZN 2</display-name><url>https://movistarplus.es</url></channel>
 <channel id="m1sd"><display-name>DAZN 1</display-name><url>https://movistarplus.es</url></channel>
-<channel id="colomb"><display-name>TV Colombia</display-name><url>https://movistarplus.es</url></channel>
 <channel id="la2"><display-name>LA 2</display-name><url>https://movistarplus.es</url></channel>
 <channel id="inteua"><display-name>1+1 Internacional</display-name><url>https://movistarplus.es</url></channel>
-<channel id="bemad"><display-name>BE MAD</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cnn"><display-name>CNN Int</display-name><url>https://movistarplus.es</url></channel>
 <channel id="inteco"><display-name>El Toro TV</display-name><url>https://movistarplus.es</url></channel>
 <channel id="iberal"><display-name>Iberalia TV</display-name><url>https://movistarplus.es</url></channel>
-<channel id="classd"><display-name>Classica</display-name><url>https://movistarplus.es</url></channel>
 <channel id="ib3"><display-name>IB3</display-name><url>https://movistarplus.es</url></channel>
 <channel id="golf+"><display-name>M+ Golf</display-name><url>https://movistarplus.es</url></channel>
-<channel id="24h"><display-name>24 Horas</display-name><url>https://movistarplus.es</url></channel>
-<channel id="aljaze"><display-name>Al Jazeera English</display-name><url>https://movistarplus.es</url></channel>
-<channel id="arirhd"><display-name>Arirang TV HD</display-name><url>https://movistarplus.es</url></channel>
-<channel id="bbhis"><display-name>BBC History</display-name><url>https://movistarplus.es</url></channel>
-<channel id="clantv"><display-name>Clan TVE</display-name><url>https://movistarplus.es</url></channel>
 <channel id="golf2"><display-name>M+ Golf 2</display-name><url>https://movistarplus.es</url></channel>
 <channel id="gol"><display-name>GOL</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cl13"><display-name>Calle 13</display-name><url>https://movistarplus.es</url></channel>
 <channel id="galav"><display-name>Canal de las Estrellas</display-name><url>https://movistarplus.es</url></channel>
 <channel id="futrep"><display-name>Canal Fútbol Replay</display-name><url>https://movistarplus.es</url></channel>
-<channel id="bbgea"><display-name>BBC Top Gear</display-name><url>https://movistarplus.es</url></channel>
-<channel id="chile"><display-name>TV Chile</display-name><url>https://movistarplus.es</url></channel>
 <channel id="freeli"><display-name>M+ Cero</display-name><url>https://movistarplus.es</url></channel>
 <channel id="france"><display-name>FRANCE24 (FR)</display-name><url>https://movistarplus.es</url></channel>
-<channel id="chapio"><display-name>M+ Liga de Campeones</display-name><url>https://movistarplus.es</url></channel>
 <channel id="foxge"><display-name>STAR Channel</display-name><url>https://movistarplus.es</url></channel>
 <channel id="flix2"><display-name>Canal FlixOlé 2</display-name><url>https://movistarplus.es</url></channel>
-<channel id="aragtv"><display-name>Aragón TV</display-name><url>https://movistarplus.es</url></channel>
-<channel id="bbfoo"><display-name>BBC Food</display-name><url>https://movistarplus.es</url></channel>
-<channel id="chap4"><display-name>M+ Liga de Campeones 5</display-name><url>https://movistarplus.es</url></channel>
 <channel id="flix1"><display-name>Canal FlixOlé 1</display-name><url>https://movistarplus.es</url></channel>
 <channel id="fdfic"><display-name>Factoría de Ficción</display-name><url>https://movistarplus.es</url></channel>
-<channel id="chap3"><display-name>M+ Liga de Campeones 4</display-name><url>https://movistarplus.es</url></channel>
 <channel id="extrem"><display-name>Canal Extremadura Sat</display-name><url>https://movistarplus.es</url></channel>
 <channel id="extre"><display-name>Canal Extremadura</display-name><url>https://movistarplus.es</url></channel>
-<channel id="bbdra"><display-name>BBC Series</display-name><url>https://movistarplus.es</url></channel>
-<channel id="chap2"><display-name>M+ Liga de Campeones 3</display-name><url>https://movistarplus.es</url></channel>
 <channel id="ewtn"><display-name>EWTN</display-name><url>https://movistarplus.es</url></channel>
 <channel id="etb3"><display-name>etb1ON</display-name><url>https://movistarplus.es</url></channel>
-<channel id="chap1"><display-name>M+ Liga de Campeones 2</display-name><url>https://movistarplus.es</url></channel>
 <channel id="etb2"><display-name>etb2</display-name><url>https://movistarplus.es</url></channel>
 <channel id="etb1"><display-name>etb1</display-name><url>https://movistarplus.es</url></channel>
-<channel id="a3"><display-name>Antena 3</display-name><url>https://movistarplus.es</url></channel>
-<channel id="aragon"><display-name>Aragón TV Int</display-name><url>https://movistarplus.es</url></channel>
-<channel id="bbclif"><display-name>BBC Lifestyle</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cgtnfr"><display-name>CGTN Français HD</display-name><url>https://movistarplus.es</url></channel>
 <channel id="etb"><display-name>etb2ON</display-name><url>https://movistarplus.es</url></channel>
 <channel id="esp3"><display-name>Esport 3</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cgtnen"><display-name>CGTN English HD</display-name><url>https://movistarplus.es</url></channel>
 <channel id="esp2"><display-name>Eurosport 2</display-name><url>https://movistarplus.es</url></channel>
 <channel id="esp"><display-name>Eurosport 1</display-name><url>https://movistarplus.es</url></channel>
-<channel id="bbcear"><display-name>BBC Earth</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cgtndo"><display-name>CGTN Documentary HD</display-name><url>https://movistarplus.es</url></channel>
 <channel id="enw"><display-name>Euronews</display-name><url>https://movistarplus.es</url></channel>
 <channel id="energy"><display-name>Energy</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cgtnd"><display-name>CGTN Documentary</display-name><url>https://movistarplus.es</url></channel>
 <channel id="dwsp"><display-name>Dreamworks</display-name><url>https://movistarplus.es</url></channel>
 <channel id="dkiss"><display-name>DKISS</display-name><url>https://movistarplus.es</url></channel>
-<channel id="apunt"><display-name>À Punt</display-name><url>https://movistarplus.es</url></channel>
-<channel id="bbc"><display-name>BBC News</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cctv-e"><display-name>CGTN Español</display-name><url>https://movistarplus.es</url></channel>
 <channel id="divini"><display-name>Divinity</display-name><url>https://movistarplus.es</url></channel>
 <channel id="dcrmax"><display-name>DMAX</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cazpes"><display-name>Caza y Pesca</display-name><url>https://movistarplus.es</url></channel>
 <channel id="dcr"><display-name>Discovery</display-name><url>https://movistarplus.es</url></channel>
+<channel id="dcesp"><display-name>M+ Cine Español</display-name><url>https://movistarplus.es</url></channel>
 <channel id="daznli"><display-name>DAZN LALIGA</display-name><url>https://movistarplus.es</url></channel>
 <channel id="daznl2"><display-name>DAZN LALIGA 2</display-name><url>https://movistarplus.es</url></channel>
 <channel id="dazn4"><display-name>DAZN 4</display-name><url>https://movistarplus.es</url></channel>
 <channel id="dazn3"><display-name>DAZN 3</display-name><url>https://movistarplus.es</url></channel>
-<channel id="dcesp"><display-name>M+ Cine Español</display-name><url>https://movistarplus.es</url></channel>
-<channel id="baby"><display-name>Baby TV</display-name><url>https://movistarplus.es</url></channel>
+<channel id="dazmot"><display-name>DAZN MotoGP</display-name><url>https://movistarplus.es</url></channel>
+<channel id="dazba"><display-name>DAZN Baloncesto</display-name><url>https://movistarplus.es</url></channel>
+<channel id="dazb3"><display-name>DAZN Baloncesto 3</display-name><url>https://movistarplus.es</url></channel>
+<channel id="dazb2"><display-name>DAZN Baloncesto 2</display-name><url>https://movistarplus.es</url></channel>
+<channel id="dayst"><display-name>Daystar Español HD</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cyltv"><display-name>La 7</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cubav"><display-name>Cubavisión</display-name><url>https://movistarplus.es</url></channel>
+<channel id="csurhd"><display-name>Canal Sur HD</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cpdep"><display-name>M+ Deportes</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cpcome"><display-name>M+ Comedia</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cpcole"><display-name>M+ Drama</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cpacci"><display-name>M+ Acción</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cosmo"><display-name>COSMO</display-name><url>https://movistarplus.es</url></channel>
+<channel id="colomb"><display-name>TV Colombia</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cnn"><display-name>CNN Int</display-name><url>https://movistarplus.es</url></channel>
+<channel id="classd"><display-name>Classica</display-name><url>https://movistarplus.es</url></channel>
+<channel id="clantv"><display-name>Clan TVE</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cl13"><display-name>Calle 13</display-name><url>https://movistarplus.es</url></channel>
+<channel id="chile"><display-name>TV Chile</display-name><url>https://movistarplus.es</url></channel>
+<channel id="chapio"><display-name>M+ Liga de Campeones</display-name><url>https://movistarplus.es</url></channel>
+<channel id="chap4"><display-name>M+ Liga de Campeones 5</display-name><url>https://movistarplus.es</url></channel>
+<channel id="chap3"><display-name>M+ Liga de Campeones 4</display-name><url>https://movistarplus.es</url></channel>
+<channel id="chap2"><display-name>M+ Liga de Campeones 3</display-name><url>https://movistarplus.es</url></channel>
+<channel id="chap1"><display-name>M+ Liga de Campeones 2</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cgtnfr"><display-name>CGTN Français HD</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cgtnen"><display-name>CGTN English HD</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cgtndo"><display-name>CGTN Documentary HD</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cgtnd"><display-name>CGTN Documentary</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cctv-e"><display-name>CGTN Español</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cazpes"><display-name>Caza y Pesca</display-name><url>https://movistarplus.es</url></channel>
 <channel id="casman"><display-name>Castilla la Mancha TV</display-name><url>https://movistarplus.es</url></channel>
 <channel id="cansur"><display-name>Canal Sur</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tpa"><display-name>TPA</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tnt"><display-name>Warner TV</display-name><url>https://movistarplus.es</url></channel>
-<channel id="telmin"><display-name>Telemadrid Int.</display-name><url>https://movistarplus.es</url></channel>
-<channel id="telmad"><display-name>Telemadrid</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tcm"><display-name>TCM</display-name><url>https://movistarplus.es</url></channel>
-<channel id="squi"><display-name>Squirrel</display-name><url>https://movistarplus.es</url></channel>
-<channel id="sexta"><display-name>La Sexta</display-name><url>https://movistarplus.es</url></channel>
-<channel id="sci-fi"><display-name>SYFY</display-name><url>https://movistarplus.es</url></channel>
-<channel id="realm"><display-name>Real Madrid TV</display-name><url>https://movistarplus.es</url></channel>
-<channel id="popuhd"><display-name>M+ Wimbledon UHD</display-name><url>https://movistarplus.es</url></channel>
-<channel id="otra"><display-name>La Otra</display-name><url>https://movistarplus.es</url></channel>
-<channel id="nova"><display-name>Nova</display-name><url>https://movistarplus.es</url></channel>
-<channel id="nick"><display-name>Nickelodeon</display-name><url>https://movistarplus.es</url></channel>
-<channel id="negotv"><display-name>Negocios TV</display-name><url>https://movistarplus.es</url></channel>
-<channel id="natgw"><display-name>Nat Geo Wild</display-name><url>https://movistarplus.es</url></channel>
-<channel id="natgeo"><display-name>National Geographic</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mvciva"><display-name>M+ Vacaciones</display-name><url>https://movistarplus.es</url></channel>
-<channel id="multi8"><display-name>M+ Deportes 6</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mtv"><display-name>MTV</display-name><url>https://movistarplus.es</url></channel>
-<channel id="morig"><display-name>M+ Originales</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mliuhd"><display-name>M+ LALIGA 2 HDR</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mliguh"><display-name>M+ LALIGA HDR</display-name><url>https://movistarplus.es</url></channel>
-<channel id="usop2"><display-name>M+ Deportes 3</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tvg"><display-name>TVG Europa</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tv3cat"><display-name>TV3</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tdep"><display-name>Teledeporte</display-name><url>https://movistarplus.es</url></channel>
-<channel id="t5"><display-name>Telecinco</display-name><url>https://movistarplus.es</url></channel>
-<channel id="set"><display-name>AXN Movies</display-name><url>https://movistarplus.es</url></channel>
-<channel id="nickjr"><display-name>NICK JR</display-name><url>https://movistarplus.es</url></channel>
-<channel id="neox"><display-name>Neox</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mv1"><display-name>M+ Estrenos</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mplus"><display-name>Movistar Plus</display-name><url>https://movistarplus.es</url></channel>
-<channel id="ucl"><display-name>UCL</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tvc"><display-name>TV3 Cat</display-name><url>https://movistarplus.es</url></channel>
-<channel id="red"><display-name>Canal RED</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mvf1"><display-name>DAZN F1</display-name><url>https://movistarplus.es</url></channel>
-<channel id="morgul"><display-name>M+ Orgullo</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tvgal"><display-name>TVG -TV Galicia</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mligs"><display-name>LALIGA TV HYPERMOTION</display-name><url>https://movistarplus.es</url></channel>
-<channel id="veo7"><display-name>Veo7</display-name><url>https://movistarplus.es</url></channel>
-<channel id="vam2sd"><display-name>M+ Vamos 2</display-name><url>https://movistarplus.es</url></channel>
-<channel id="usop11"><display-name>M+ Deportes 5</display-name><url>https://movistarplus.es</url></channel>
-<channel id="vamosd"><display-name>M+ Vamos</display-name><url>https://movistarplus.es</url></channel>
-<channel id="usop3"><display-name>M+ Deportes 4</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tvg2"><display-name>TVG 2</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tv5"><display-name>TV5MONDE</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tlesur"><display-name>Telesur</display-name><url>https://movistarplus.es</url></channel>
-<channel id="playdc"><display-name>Disney Channel</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mligs3"><display-name>LALIGA TV HYPERMOTION 3</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tve"><display-name>LA 1</display-name><url>https://movistarplus.es</url></channel>
-<channel id="ten"><display-name>Ten</display-name><url>https://movistarplus.es</url></channel>
-<channel id="skynw"><display-name>Sky News</display-name><url>https://movistarplus.es</url></channel>
-<channel id="nava"><display-name>Navarra TV</display-name><url>https://movistarplus.es</url></channel>
-<channel id="skysho"><display-name>SkyShowtime 1</display-name><url>https://movistarplus.es</url></channel>
-<channel id="nbc"><display-name>CNBC</display-name><url>https://movistarplus.es</url></channel>
-<channel id="multi6"><display-name>M+ Deportes 7</display-name><url>https://movistarplus.es</url></channel>
-<channel id="pcm"><display-name>Comedy Central</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mligs2"><display-name>LALIGA TV HYPERMOTION 2</display-name><url>https://movistarplus.es</url></channel>
+<channel id="canar"><display-name>TV Canaria</display-name><url>https://movistarplus.es</url></channel>
+<channel id="can33"><display-name>33</display-name><url>https://movistarplus.es</url></channel>
+<channel id="c33"><display-name>SX3</display-name><url>https://movistarplus.es</url></channel>
+<channel id="c4"><display-name>Cuatro</display-name><url>https://movistarplus.es</url></channel>
+<channel id="btv"><display-name>Betevé</display-name><url>https://movistarplus.es</url></channel>
+<channel id="boing"><display-name>Boing</display-name><url>https://movistarplus.es</url></channel>
+<channel id="bl"><display-name>Bloomberg</display-name><url>https://movistarplus.es</url></channel>
+<channel id="bemad"><display-name>BE MAD</display-name><url>https://movistarplus.es</url></channel>
+<channel id="bbhis"><display-name>BBC History</display-name><url>https://movistarplus.es</url></channel>
+<channel id="bbgea"><display-name>BBC Top Gear</display-name><url>https://movistarplus.es</url></channel>
+<channel id="bbfoo"><display-name>BBC Food</display-name><url>https://movistarplus.es</url></channel>
+<channel id="bbdra"><display-name>BBC Series</display-name><url>https://movistarplus.es</url></channel>
+<channel id="bbclif"><display-name>BBC Lifestyle</display-name><url>https://movistarplus.es</url></channel>
+<channel id="bbcear"><display-name>BBC Earth</display-name><url>https://movistarplus.es</url></channel>
+<channel id="bbc"><display-name>BBC News</display-name><url>https://movistarplus.es</url></channel>
+<channel id="baby"><display-name>Baby TV</display-name><url>https://movistarplus.es</url></channel>
+<channel id="axn"><display-name>AXN</display-name><url>https://movistarplus.es</url></channel>
+<channel id="atress"><display-name>Atreseries</display-name><url>https://movistarplus.es</url></channel>
+<channel id="atlat"><display-name>Atlántico TV</display-name><url>https://movistarplus.es</url></channel>
+<channel id="arthur"><display-name>M+ Deportes 2</display-name><url>https://movistarplus.es</url></channel>
+<channel id="arirhd"><display-name>Arirang TV HD</display-name><url>https://movistarplus.es</url></channel>
+<channel id="aragtv"><display-name>Aragón TV</display-name><url>https://movistarplus.es</url></channel>
+<channel id="aragon"><display-name>Aragón TV Int</display-name><url>https://movistarplus.es</url></channel>
+<channel id="apunt"><display-name>À Punt</display-name><url>https://movistarplus.es</url></channel>
+<channel id="antv"><display-name>Canal Sur Andalucía</display-name><url>https://movistarplus.es</url></channel>
+<channel id="andatv"><display-name>Andalucía TV</display-name><url>https://movistarplus.es</url></channel>
+<channel id="aljaze"><display-name>Al Jazeera English</display-name><url>https://movistarplus.es</url></channel>
+<channel id="a3"><display-name>Antena 3</display-name><url>https://movistarplus.es</url></channel>
+<channel id="3_24"><display-name>3CatInfo</display-name><url>https://movistarplus.es</url></channel>
+<channel id="24h"><display-name>24 Horas</display-name><url>https://movistarplus.es</url></channel>
+<channel id="13tv"><display-name>TRECE</display-name><url>https://movistarplus.es</url></channel>
 <programme start="20260819050000 +0000" stop="20260819060000 +0000" channel="7tvmur"><title lang="es">Murcia a la vista</title><desc lang="es">Los reporteros del programa se lanzan a las calles, playas o pueblos de la Región para recoger todo lo que ocurre en la Comunidad, tomando el pulso de los ciudadanos sobre los temas más llamativos que se dan cada día en toda la geografía murciana.</desc></programme>
 <programme start="20260819060000 +0000" stop="20260819070000 +0000" channel="7tvmur"><title lang="es">Onda regional Noticias</title><desc lang="es">Toda la actualidad de la región a La 7, con información matinal y resúmenes semanales, conectando radio y TV en un formato dinámico y cercano.</desc></programme>
 <programme start="20260819070000 +0000" stop="20260819100000 +0000" channel="7tvmur"><title lang="es">7Noticias Matinal</title><desc lang="es">Primera edición informativa de la cadena presentada por Marienca Fernández y Tati García.</desc></programme>
@@ -446,28 +446,37 @@
 <programme start="20260821010000 +0000" stop="20260821013000 +0000" channel="aljaze"><title lang="es">News Live</title><desc lang="es">Boletín informativo de Al Jazeera que hace un repaso en profundidad de las últimas noticias del día en vivo, desde Asia, África, Europa y las Américas.</desc></programme>
 <programme start="20260821013000 +0000" stop="20260821020000 +0000" channel="aljaze"><title lang="es">Fault Lines</title><desc lang="es">Reportaje que analiza las nuevas políticas en política exterior establecidas por Obama. La pieza investiga especialmente las diferencias entre las medidas adoptadas por el actual Presidente de Estados Unidos y las de George W. Bush.</desc></programme>
 <programme start="20260821020000 +0000" stop="20260821030000 +0000" channel="aljaze"><title lang="es">Newshour</title><desc lang="es">Boletín informativo que hace un repaso a las últimas noticias del día desde los distintos distintos centros internacionales que Al Jazeera tiene en Doha, Kuala Lumpur, Londres y Washington.</desc></programme>
-<programme start="20260819060000 +0000" stop="20260819080000 +0000" channel="andatv"><title lang="es">Conexión CSTV</title><desc lang="es">Conexión con la programación de CSTV.</desc></programme>
-<programme start="20260819080000 +0000" stop="20260819090000 +0000" channel="andatv"><title lang="es">Hijos de Andalucía</title><desc lang="es">Serie documental que narra las trayectorias profesionales y personales de aquellos hombres y mujeres que, desde 1983, han sido nombrados Hijos Predilectos de Andalucía o han obtenido la Medalla de Oro de dicha comunidad. Ambos títulos, otorgados por la Junta de Andalucía, suponen una recompensa y un reconocimiento al trabajo llevado a cabo a lo largo de sus vidas.</desc></programme>
-<programme start="20260819090000 +0000" stop="20260819093000 +0000" channel="andatv"><title lang="es">En Red</title><desc lang="es">Espacio orientado a prestar especial atención a aquello que se encuentra en Internet y la información que fluye por la red. El programa tiene una emisión semanal, y aborda cómo el desarrollo tecnológico está transformando la comunidad andaluza.</desc></programme>
-<programme start="20260819093000 +0000" stop="20260819103000 +0000" channel="andatv"><title lang="es">Tierra de Sabores</title><desc lang="es">El espacio presentado por el joven cocinero Bosco Benitez descubrirá la esencia de los pueblos de Andalucía, a través de sus recetas de toda la vida.</desc></programme>
-<programme start="20260819103000 +0000" stop="20260819121500 +0000" channel="andatv"><title lang="es">Encuentros Canal Sur</title><desc lang="es">Espacio de entrevistas en profundidad presentado por el periodista Leonardo Sardiña. Este programa vespertino acoge a un sinfín de personalidades, desde artistas hasta políticos, pasando por deportistas y otros profesionales.</desc></programme>
-<programme start="20260819121500 +0000" stop="20260819123000 +0000" channel="andatv"><title lang="es">Canal Andalucía Cocina</title><desc lang="es">Programa de cocina dedicado a la gastronomía andaluza. El espacio ofrece recetas, consejo y trucos que ayudaran a los espectadores a introducirse en el arte culinario.</desc></programme>
-<programme start="20260819123000 +0000" stop="20260819130000 +0000" channel="andatv"><title lang="es">El mar de la libertad</title><desc lang="es">Serie documental que intenta darnos a conocer, de la forma más entretenida y educativa posible, lo que encierra parte de la historia naval. Ideas, ciencias, fracasos, sueños, guerras, traiciones...</desc></programme>
+<programme start="20260819030000 +0000" stop="20260819220000 +0000" channel="andatv"><title lang="es">Conexión CSTV</title><desc lang="es">Conexión con la programación de CSTV.</desc></programme>
+<programme start="20260819055000 +0000" stop="20260819063500 +0000" channel="andatv"><title lang="es">Nostalgia de Andalucía</title><desc lang="es">Serie documental que refleja la historia de la comunidad autónoma de Andalucía durante el periodo comprendido entre los años 1950 y 1979. A lo largo de 26 capítulos pretende mostrar las tradiciones y costumbres de los andaluces a través de la evocación de recuerdos de su historia más reciente.</desc></programme>
+<programme start="20260819063500 +0000" stop="20260819074500 +0000" channel="andatv"><title lang="es">Campechanos</title><desc lang="es">Retrato de personas que mantienen una especial relación con el entorno rural, viviendo un día con ellos.</desc></programme>
+<programme start="20260819074500 +0000" stop="20260819084000 +0000" channel="andatv"><title lang="es">Andalucía con estilo</title><desc lang="es">Programa que difunde la decoración, la arquitectura y el diseño andaluces a un público amplio, en un formato que combina documental y reportajes.</desc></programme>
+<programme start="20260819084000 +0000" stop="20260819091000 +0000" channel="andatv"><title lang="es">10 razones para ir</title><desc lang="es">Un paseo por los pueblos de Andalucía donde sus propios habitantes propondrán los principales atractivos a visitar de cada municipio. Además, resaltarán las costumbres, gastronomía, historia y pasión de sus gentes.</desc></programme>
+<programme start="20260819091000 +0000" stop="20260819093500 +0000" channel="andatv"><title lang="es">En Red</title><desc lang="es">Espacio orientado a prestar especial atención a aquello que se encuentra en Internet y la información que fluye por la red. El programa tiene una emisión semanal, y aborda cómo el desarrollo tecnológico está transformando la comunidad andaluza.</desc></programme>
+<programme start="20260819093500 +0000" stop="20260819103500 +0000" channel="andatv"><title lang="es">Tierra de Sabores</title><desc lang="es">El espacio presentado por el joven cocinero Bosco Benitez descubrirá la esencia de los pueblos de Andalucía, a través de sus recetas de toda la vida.</desc></programme>
+<programme start="20260819103500 +0000" stop="20260819111000 +0000" channel="andatv"><title lang="es">Encuentros Canal Sur</title><desc lang="es">Espacio de entrevistas en profundidad presentado por el periodista Leonardo Sardiña. Este programa vespertino acoge a un sinfín de personalidades, desde artistas hasta políticos, pasando por deportistas y otros profesionales.</desc></programme>
+<programme start="20260819111000 +0000" stop="20260819120500 +0000" channel="andatv"><title lang="es">Andalucía por el mundo</title><desc lang="es">Programa que recoge el testigo de &apos;&apos;Andaluces por su casa&apos;&apos; y &apos;&apos;Andaluces por América&apos;&apos; para comprobar cómo viven los andaluces alrededor del mundo.</desc></programme>
+<programme start="20260819120500 +0000" stop="20260819123500 +0000" channel="andatv"><title lang="es">Canal Andalucía Cocina</title><desc lang="es">Programa de cocina dedicado a la gastronomía andaluza. El espacio ofrece recetas, consejo y trucos que ayudaran a los espectadores a introducirse en el arte culinario.</desc></programme>
+<programme start="20260819123500 +0000" stop="20260819130000 +0000" channel="andatv"><title lang="es">El mar de la libertad</title><desc lang="es">Serie documental que intenta darnos a conocer, de la forma más entretenida y educativa posible, lo que encierra parte de la historia naval. Ideas, ciencias, fracasos, sueños, guerras, traiciones...</desc></programme>
 <programme start="20260819130000 +0000" stop="20260819140000 +0000" channel="andatv"><title lang="es">Los océanos del hombre</title><desc lang="es">Actualmente, existe una problemática de la pesca industrial frente a la artesanal. Esta serie documental estudia los efectos de la globalización en los océanos y muestra cómo afectan a los pescadores artesanales el comercio de los países industrializados.</desc></programme>
-<programme start="20260819140000 +0000" stop="20260819160000 +0000" channel="andatv"><title lang="es">Canal Sur Noticias 1</title><desc lang="es">Primera edición de las noticias que Canal Sur emite de lunes a viernes. El informativo, repasa la actualidad general con especial atención a los temas relacionados con Andalucía.</desc></programme>
+<programme start="20260819140000 +0000" stop="20260819144000 +0000" channel="andatv"><title lang="es">Canal Sur Noticias 1</title><desc lang="es">Primera edición de las noticias que Canal Sur emite de lunes a viernes. El informativo, repasa la actualidad general con especial atención a los temas relacionados con Andalucía.</desc></programme>
+<programme start="20260819144000 +0000" stop="20260819150500 +0000" channel="andatv"><title lang="es">Palabras de Sur</title><desc lang="es">Serie documental sobre el rico y variado universo léxico del habla andaluza, sus raíces históricas y orígenes culturales.</desc></programme>
+<programme start="20260819150500 +0000" stop="20260819160000 +0000" channel="andatv"><title lang="es">Animales en familia</title><desc lang="es">Espacio familiar cuyo objetivo es entretener, informar y sensibilizar al espectador sobre el mundo de los animales. Presentado por Tutti Márquez, periodista sevillana, en este programa tienen cabida historias de mascotas y animales salvajes, entre otros.</desc></programme>
 <programme start="20260819160000 +0000" stop="20260819163000 +0000" channel="andatv"><title lang="es">Navegantes y andaluces</title><desc lang="es">Serie documental que muestra el viaje alrededor del mundo del velero Pakany. Los episodios se desarrollan en distintos lugares del planeta, desde los mares del sur, Borneo, Singapore, Sri Lanka, Turquía, a las islas griegas.</desc></programme>
 <programme start="20260819163000 +0000" stop="20260819173000 +0000" channel="andatv"><title lang="es">Lo Flamenco</title><desc lang="es">Programa que se encarga de divulgar y dar a conocer todo lo relacionado con el flamenco. El espacio incluye anécdotas, curiosidades y también actuaciones. Además, el programa recuerda a las principales figuras de este género musical.</desc></programme>
 <programme start="20260819173000 +0000" stop="20260819180000 +0000" channel="andatv"><title lang="es">Andalucia todo un pueblo</title><desc lang="es">Serie documental que aborda el proceso de construcción y desarrollo de la autonomía andaluza dentro del marco de la Transición española y años los posteriores. Cada capítulo analiza la evolución de la región en diferentes sectores y durante los últimos 40 años.</desc></programme>
 <programme start="20260819180000 +0000" stop="20260819183000 +0000" channel="andatv"><title lang="es">Solidarios</title><desc lang="es">Programa dedicado a los países del tercer mundo, a las minorías, a los discapacitados, a los voluntarios y a la infancia. Se trata de un espacio que pretende que los andaluces conozcan el trabajo de las ONG y de las asociaciones de asuntos sociales.</desc></programme>
-<programme start="20260819183000 +0000" stop="20260819193000 +0000" channel="andatv"><title lang="es">Documentales andaluces</title><desc lang="es">Emisión de variados documentales de producción andaluza que abarcan todo tipo de temáticas, centrándose principalmente en la tierra de Andalucía, su historia, su cultura y sus gentes.</desc></programme>
+<programme start="20260819183000 +0000" stop="20260819193000 +0000" channel="andatv"><title lang="es">Documentales andaluces: Lunas de Nueva York</title></programme>
 <programme start="20260819193000 +0000" stop="20260819200000 +0000" channel="andatv"><title lang="es">Tesis</title><desc lang="es">Programa que da a conocer todas las líneas de investigación de las universidades andaluzas, los proyectos que llevan a cabo los alumnos y la opinión de profesores, con la intención de dar a conocer las diez universidades públicas de Andalucía.</desc></programme>
-<programme start="20260819200000 +0000" stop="20260819205500 +0000" channel="andatv"><title lang="es">Canal Sur Noticias 2</title><desc lang="es">Segunda edición de las noticias que Canal Sur emite de lunes a viernes. El informativo repasa la actualidad, poniendo especial atención a los temas relacionados con Andalucía. El espacio también incluye una sección deportiva.</desc></programme>
-<programme start="20260819205500 +0000" stop="20260819223000 +0000" channel="andatv"><title lang="es">Gerónimo, una leyenda</title><desc lang="es">Arizona 1884, a la cabeza de sus hostiles apaches chiricahuas, los últimos indígenas que desafiaron al gobierno de los Estados Unidos, Gerónimo guerrea en la frontera del sudoeste americano. El general Crook se verá obligado a firmar un tratado de paz con los apaches, merced al cual se estipula que los guerreros vivirían en el Este con sus familias en tanto que su caudillo regresara a la reserva. Los indios apaches acceden a su pesar a recluirse en una reserva. Pero no todos los apaches son capaces de adaptarse a su nueva vida como cultivadores de maíz; uno en particular, Gerónimo, se opone a las condiciones de rendición impuestas por las autoridades del gobierno blanco de los Estados Unidos. Traicionado por el general Crook, legendario &quot;exterminador de indios&quot;, Gerónimo encabeza la huida de un pequeño grupo de guerreros y escapan a las montañas, siendo perseguidos por Charles B.</desc></programme>
-<programme start="20260819223000 +0000" stop="20260819233000 +0000" channel="andatv"><title lang="es">Lo Flamenco</title><desc lang="es">Programa que se encarga de divulgar y dar a conocer todo lo relacionado con el flamenco. El espacio incluye anécdotas, curiosidades y también actuaciones. Además, el programa recuerda a las principales figuras de este género musical.</desc></programme>
-<programme start="20260819233000 +0000" stop="20260820003000 +0000" channel="andatv"><title lang="es">Documentales andaluces</title><desc lang="es">Emisión de variados documentales de producción andaluza que abarcan todo tipo de temáticas, centrándose principalmente en la tierra de Andalucía, su historia, su cultura y sus gentes.</desc></programme>
-<programme start="20260820003000 +0000" stop="20260820013000 +0000" channel="andatv"><title lang="es">Tesis</title><desc lang="es">Programa que da a conocer todas las líneas de investigación de las universidades andaluzas, los proyectos que llevan a cabo los alumnos y la opinión de profesores, con la intención de dar a conocer las diez universidades públicas de Andalucía.</desc></programme>
-<programme start="20260820013000 +0000" stop="20260820220000 +0000" channel="andatv"><title lang="es">Solidarios</title><desc lang="es">Programa dedicado a los países del tercer mundo, a las minorías, a los discapacitados, a los voluntarios y a la infancia. Se trata de un espacio que pretende que los andaluces conozcan el trabajo de las ONG y de las asociaciones de asuntos sociales.</desc></programme>
-<programme start="20260820025000 +0000" stop="20260820060000 +0000" channel="andatv"><title lang="es">Conexión CSTV</title><desc lang="es">Conexión con la programación de CSTV.</desc></programme>
+<programme start="20260819200000 +0000" stop="20260819205000 +0000" channel="andatv"><title lang="es">Canal Sur Noticias 2</title><desc lang="es">Segunda edición de las noticias que Canal Sur emite de lunes a viernes. El informativo repasa la actualidad, poniendo especial atención a los temas relacionados con Andalucía. El espacio también incluye una sección deportiva.</desc></programme>
+<programme start="20260819205000 +0000" stop="20260819223500 +0000" channel="andatv"><title lang="es">Gerónimo, una leyenda</title><desc lang="es">Arizona 1884, a la cabeza de sus hostiles apaches chiricahuas, los últimos indígenas que desafiaron al gobierno de los Estados Unidos, Gerónimo guerrea en la frontera del sudoeste americano. El general Crook se verá obligado a firmar un tratado de paz con los apaches, merced al cual se estipula que los guerreros vivirían en el Este con sus familias en tanto que su caudillo regresara a la reserva. Los indios apaches acceden a su pesar a recluirse en una reserva. Pero no todos los apaches son capaces de adaptarse a su nueva vida como cultivadores de maíz; uno en particular, Gerónimo, se opone a las condiciones de rendición impuestas por las autoridades del gobierno blanco de los Estados Unidos. Traicionado por el general Crook, legendario &quot;exterminador de indios&quot;, Gerónimo encabeza la huida de un pequeño grupo de guerreros y escapan a las montañas, siendo perseguidos por Charles B.</desc></programme>
+<programme start="20260819223500 +0000" stop="20260819234000 +0000" channel="andatv"><title lang="es">Lo Flamenco</title><desc lang="es">Programa que se encarga de divulgar y dar a conocer todo lo relacionado con el flamenco. El espacio incluye anécdotas, curiosidades y también actuaciones. Además, el programa recuerda a las principales figuras de este género musical.</desc></programme>
+<programme start="20260819234000 +0000" stop="20260820004000 +0000" channel="andatv"><title lang="es">¿Qué fue del siglo XX? Una historia de 091</title></programme>
+<programme start="20260820004000 +0000" stop="20260820011000 +0000" channel="andatv"><title lang="es">Tesis</title><desc lang="es">Programa que da a conocer todas las líneas de investigación de las universidades andaluzas, los proyectos que llevan a cabo los alumnos y la opinión de profesores, con la intención de dar a conocer las diez universidades públicas de Andalucía.</desc></programme>
+<programme start="20260820011000 +0000" stop="20260820013500 +0000" channel="andatv"><title lang="es">Caminos de Andalucía</title><desc lang="es">Serie documental que ofrece una visión de los parajes más atractivos de Andalucía, mediante un recorrido a caballo a través de ellos.</desc></programme>
+<programme start="20260820013500 +0000" stop="20260820020500 +0000" channel="andatv"><title lang="es">Solidarios</title><desc lang="es">Programa dedicado a los países del tercer mundo, a las minorías, a los discapacitados, a los voluntarios y a la infancia. Se trata de un espacio que pretende que los andaluces conozcan el trabajo de las ONG y de las asociaciones de asuntos sociales.</desc></programme>
+<programme start="20260820020500 +0000" stop="20260820030000 +0000" channel="andatv"><title lang="es">Castillos en el aire</title></programme>
+<programme start="20260820025000 +0000" stop="20260820055000 +0000" channel="andatv"><title lang="es">Conexión CSTV</title><desc lang="es">Conexión con la programación de CSTV.</desc></programme>
+<programme start="20260820030000 +0000" stop="20260820045000 +0000" channel="andatv"><title lang="es">Conexión CSTV</title><desc lang="es">Conexión con la programación de CSTV.</desc></programme>
 <programme start="20260820045000 +0000" stop="20260820080000 +0000" channel="andatv"><title lang="es">Andalucía por el mundo</title><desc lang="es">Programa que recoge el testigo de &apos;&apos;Andaluces por su casa&apos;&apos; y &apos;&apos;Andaluces por América&apos;&apos; para comprobar cómo viven los andaluces alrededor del mundo.</desc></programme>
 <programme start="20260820080000 +0000" stop="20260820093000 +0000" channel="andatv"><title lang="es">Hijos de Andalucía</title><desc lang="es">Serie documental que narra las trayectorias profesionales y personales de aquellos hombres y mujeres que, desde 1983, han sido nombrados Hijos Predilectos de Andalucía o han obtenido la Medalla de Oro de dicha comunidad. Ambos títulos, otorgados por la Junta de Andalucía, suponen una recompensa y un reconocimiento al trabajo llevado a cabo a lo largo de sus vidas.</desc></programme>
 <programme start="20260820093000 +0000" stop="20260820103000 +0000" channel="andatv"><title lang="es">Los Repobladores</title><desc lang="es">Programa que recoge la experiencia de personas, que tras vivir en la ciudad, han decidido comenzar una nueva vida en pequeñas localidades de nuestra comunidad. Los protagonistas del programa viven en pueblos que ofrecen un sinfín oportunidades.</desc></programme>
@@ -487,7 +496,6 @@
 <programme start="20260820223000 +0000" stop="20260820233000 +0000" channel="andatv"><title lang="es">Lo Flamenco</title><desc lang="es">Programa que se encarga de divulgar y dar a conocer todo lo relacionado con el flamenco. El espacio incluye anécdotas, curiosidades y también actuaciones. Además, el programa recuerda a las principales figuras de este género musical.</desc></programme>
 <programme start="20260820233000 +0000" stop="20260821003000 +0000" channel="andatv"><title lang="es">Documentales andaluces: El Tempranillo. Un bandolero de leyenda</title><desc lang="es">Emisión de variados documentales de producción andaluza que abarcan todo tipo de temáticas, centrándose principalmente en la tierra de Andalucía, su historia, su cultura y sus gentes.</desc></programme>
 <programme start="20260821003000 +0000" stop="20260821013000 +0000" channel="andatv"><title lang="es">Consumo Cuidado</title><desc lang="es">Programa dedicado al consumo con el fin de conocer el hábitat de los andaluces en su condición de usuarios y consumidores. Manuel Gómez Cardeña conduce este espacio en servicio de defensa de los consumidores, desde la información, la denuncia y la excelencia.</desc></programme>
-<programme start="20260821013000 +0000" stop="20260821045000 +0000" channel="andatv"><title lang="es">Solidarios</title><desc lang="es">Programa dedicado a los países del tercer mundo, a las minorías, a los discapacitados, a los voluntarios y a la infancia. Se trata de un espacio que pretende que los andaluces conozcan el trabajo de las ONG y de las asociaciones de asuntos sociales.</desc></programme>
 <programme start="20260821013000 +0000" stop="20260821220000 +0000" channel="andatv"><title lang="es">Espacio Protegido</title><desc lang="es">Informativo sobre medio ambiente que incluye noticias y reportajes sobre ecología y naturaleza en Andalucía. No sólo tienen cabida informaciones sobre espacios naturales y animales, sino también los problemas ambientales de las ciudades y los hábitos de consumo.</desc></programme>
 <programme start="20260819044500 +0000" stop="20260819061500 +0000" channel="antv"><title lang="es">Andalucía Directo</title><desc lang="es">En este magacín se tratan temas de interés humano, social, sucesos, cultura, gastronomía y se presta una gran atención al mundo rural. El programa incluye reportajes y conexiones en directo que se extienden a lo largo de los cuatro bloques en los que se divide.</desc></programme>
 <programme start="20260819061500 +0000" stop="20260819112000 +0000" channel="antv"><title lang="es">Hoy en día mesa de análisis</title><desc lang="es">Últimas horas, entrevistas, análisis y debate en plató con Teodoro León Gross.</desc></programme>
@@ -520,8 +528,8 @@
 <programme start="20260820233500 +0000" stop="20260821003000 +0000" channel="antv"><title lang="es">Toros para todos</title><desc lang="es">Revista de información, reportajes y actualidad taurina.</desc></programme>
 <programme start="20260821003000 +0000" stop="20260821005500 +0000" channel="antv"><title lang="es">Ruedos con historia</title><desc lang="es">Serie documental que muestra una selección de las mejores plazas de toros localizadas en países con una gran tradición taurina como España, Francia, Portugal, México o Perú. El espacio también hace referencia a algunos de los toreros más emblemáticos.</desc></programme>
 <programme start="20260821005500 +0000" stop="20260821010000 +0000" channel="antv"><title lang="es">Lo Flamenco</title><desc lang="es">Programa que se encarga de divulgar y dar a conocer todo lo relacionado con el flamenco. El espacio incluye anécdotas, curiosidades y también actuaciones. Además, el programa recuerda a las principales figuras de este género musical.</desc></programme>
-<programme start="20260821010000 +0000" stop="20260821042500 +0000" channel="antv"><title lang="es">Los Repobladores</title><desc lang="es">Programa que recoge la experiencia de personas, que tras vivir en la ciudad, han decidido comenzar una nueva vida en pequeñas localidades de nuestra comunidad. Los protagonistas del programa viven en pueblos que ofrecen un sinfín oportunidades.</desc></programme>
 <programme start="20260821010000 +0000" stop="20260821220000 +0000" channel="antv"><title lang="es">Los Repobladores</title><desc lang="es">Programa que recoge la experiencia de personas, que tras vivir en la ciudad, han decidido comenzar una nueva vida en pequeñas localidades de nuestra comunidad. Los protagonistas del programa viven en pueblos que ofrecen un sinfín oportunidades.</desc></programme>
+<programme start="20260821020000 +0000" stop="20260821042500 +0000" channel="antv"><title lang="es">Conexión CSTV</title><desc lang="es">Conexión con la programación de CSTV.</desc></programme>
 <programme start="20260819033500 +0000" stop="20260819041000 +0000" channel="apunt"><title lang="es">Atrapa&apos;m si pots</title><desc lang="es">Concurs diari de preguntes i respostes que premiarà els concursants amb més coneixements de cultura general. Un programa carregat d’humor i amb una mecànica senzilla presentat per Óscar Tramoyeres.</desc></programme>
 <programme start="20260819041000 +0000" stop="20260819045500 +0000" channel="apunt"><title lang="es">La banda</title><desc lang="es">Tota l&apos;actualitat esportiva i l&apos;anàlisi del futbol amb una mirada fresca, directa i sense filtres en La banda. Amb D ani Meroño com a presentador entre setmana i la participació del valencianista Santiago Cañizares.</desc></programme>
 <programme start="20260819045500 +0000" stop="20260819050000 +0000" channel="apunt"><title lang="es">Voramar</title><desc lang="es">Durant 30 minuts parlarem d&apos;alguns dels llocs més emblemàtics de les terres valencianes i la seua gastronomia.</desc></programme>
@@ -692,31 +700,33 @@
 <programme start="20260820224000 +0000" stop="20260820232000 +0000" channel="atlat"><title lang="es">Vivir sin miedo</title><desc lang="es">Un espacio de diálogo para reflexionar sobre la memoria democrática, los derechos conquistados y los desafíos que aún nos acompaña.</desc></programme>
 <programme start="20260820232000 +0000" stop="20260821112000 +0000" channel="atlat"><title lang="es">Servicios informativos</title><desc lang="es">Información regional, nacional e internacional. Datos de interés general, consejos útiles, campañas de prevención y concienciación.</desc></programme>
 <programme start="20260820232000 +0000" stop="20260821220000 +0000" channel="atlat"><title lang="es">Servicios informativos</title><desc lang="es">Información regional, nacional e internacional. Datos de interés general, consejos útiles, campañas de prevención y concienciación.</desc></programme>
-<programme start="20260819040000 +0000" stop="20260819041000 +0000" channel="atress"><title lang="es">Más de series</title><desc lang="es">Programa de producción propia que muestra curiosidades sobre las series de Atresmedia.</desc></programme>
-<programme start="20260819041000 +0000" stop="20260819052000 +0000" channel="atress"><title lang="es">Con el culo al aire</title><desc lang="es">El campin y sus &apos;bungalows&apos; vuelven para seguir acogiendo a ciudadanos maltratados por la crisis. La tercera temporada de la serie da comienzo con el fin de la época estival y el abandono del complejo por parte de los turistas. Ahora, para poder llegar a fin de mes, todos necesitan una nueva fuente de ingresos.</desc></programme>
-<programme start="20260819052000 +0000" stop="20260819063000 +0000" channel="atress"><title lang="es">Con el culo al aire</title><desc lang="es">El campin y sus &apos;bungalows&apos; vuelven para seguir acogiendo a ciudadanos maltratados por la crisis. La tercera temporada de la serie da comienzo con el fin de la época estival y el abandono del complejo por parte de los turistas. Ahora, para poder llegar a fin de mes, todos necesitan una nueva fuente de ingresos.</desc></programme>
-<programme start="20260819063000 +0000" stop="20260819074500 +0000" channel="atress"><title lang="es">Aquí no hay quien viva</title><desc lang="es">Lucía (María Adánez) y Roberto (Daniel Guzmán) son una pareja de novios que acaba de mudarse a un curioso edificio. Los vecinos son seres un tanto especiales entre los que no falta una familia de clase media, una pareja de homosexuales y un nutrido grupo de cotillas.</desc></programme>
-<programme start="20260819074500 +0000" stop="20260819090000 +0000" channel="atress"><title lang="es">Aquí no hay quien viva</title><desc lang="es">Lucía (María Adánez) y Roberto (Daniel Guzmán) son una pareja de novios que acaba de mudarse a un curioso edificio. Los vecinos son seres un tanto especiales entre los que no falta una familia de clase media, una pareja de homosexuales y un nutrido grupo de cotillas.</desc></programme>
-<programme start="20260819090000 +0000" stop="20260819095400 +0000" channel="atress"><title lang="es">Padre Brown</title><desc lang="es">Serie basada en las novelas de GK Chesterton sobre un sacerdote que investiga crímenes.</desc></programme>
-<programme start="20260819095400 +0000" stop="20260819104800 +0000" channel="atress"><title lang="es">Padre Brown</title><desc lang="es">Serie basada en las novelas de GK Chesterton sobre un sacerdote que investiga crímenes.</desc></programme>
-<programme start="20260819104800 +0000" stop="20260819114200 +0000" channel="atress"><title lang="es">Padre Brown</title><desc lang="es">Serie basada en las novelas de GK Chesterton sobre un sacerdote que investiga crímenes.</desc></programme>
-<programme start="20260819114200 +0000" stop="20260819123600 +0000" channel="atress"><title lang="es">Padre Brown</title><desc lang="es">Serie basada en las novelas de GK Chesterton sobre un sacerdote que investiga crímenes.</desc></programme>
-<programme start="20260819123600 +0000" stop="20260819133000 +0000" channel="atress"><title lang="es">Padre Brown</title><desc lang="es">Serie basada en las novelas de GK Chesterton sobre un sacerdote que investiga crímenes.</desc></programme>
-<programme start="20260819133000 +0000" stop="20260819142500 +0000" channel="atress"><title lang="es">Los misterios de Murdoch</title><desc lang="es">El inspector de policía William Murdoch utiliza técnicas forenses totalmente revolucionarias en aquella época, como pruebas de huellas dactilares y métodos de detección muy singulares. Con este enfoque más orientado hacia la ciencia, Murdoch será capaz de resolver los casos de homicidio más famosos de la ciudad.</desc></programme>
-<programme start="20260819142500 +0000" stop="20260819152000 +0000" channel="atress"><title lang="es">Los misterios de Murdoch</title><desc lang="es">El inspector de policía William Murdoch utiliza técnicas forenses totalmente revolucionarias en aquella época, como pruebas de huellas dactilares y métodos de detección muy singulares. Con este enfoque más orientado hacia la ciencia, Murdoch será capaz de resolver los casos de homicidio más famosos de la ciudad.</desc></programme>
-<programme start="20260819152000 +0000" stop="20260819161500 +0000" channel="atress"><title lang="es">Los misterios de Murdoch</title><desc lang="es">El inspector de policía William Murdoch utiliza técnicas forenses totalmente revolucionarias en aquella época, como pruebas de huellas dactilares y métodos de detección muy singulares. Con este enfoque más orientado hacia la ciencia, Murdoch será capaz de resolver los casos de homicidio más famosos de la ciudad.</desc></programme>
-<programme start="20260819161500 +0000" stop="20260819171000 +0000" channel="atress"><title lang="es">Los misterios de Murdoch</title><desc lang="es">El inspector de policía William Murdoch utiliza técnicas forenses totalmente revolucionarias en aquella época, como pruebas de huellas dactilares y métodos de detección muy singulares. Con este enfoque más orientado hacia la ciencia, Murdoch será capaz de resolver los casos de homicidio más famosos de la ciudad.</desc></programme>
-<programme start="20260819171000 +0000" stop="20260819180500 +0000" channel="atress"><title lang="es">Los misterios de Murdoch</title><desc lang="es">El inspector de policía William Murdoch utiliza técnicas forenses totalmente revolucionarias en aquella época, como pruebas de huellas dactilares y métodos de detección muy singulares. Con este enfoque más orientado hacia la ciencia, Murdoch será capaz de resolver los casos de homicidio más famosos de la ciudad.</desc></programme>
-<programme start="20260819180500 +0000" stop="20260819190000 +0000" channel="atress"><title lang="es">Los misterios de Murdoch</title><desc lang="es">El inspector de policía William Murdoch utiliza técnicas forenses totalmente revolucionarias en aquella época, como pruebas de huellas dactilares y métodos de detección muy singulares. Con este enfoque más orientado hacia la ciencia, Murdoch será capaz de resolver los casos de homicidio más famosos de la ciudad.</desc></programme>
-<programme start="20260819190000 +0000" stop="20260819195000 +0000" channel="atress"><title lang="es">The Mysteries of Laura</title><desc lang="es">Laura Diamond es una extraordinaria detective de Nueva York que como muchas madres trabajadoras debe compaginar su complicada vida personal con su intensa y sagaz actividad profesional.</desc></programme>
-<programme start="20260819195000 +0000" stop="20260819204000 +0000" channel="atress"><title lang="es">The Mysteries of Laura</title><desc lang="es">Laura Diamond es una extraordinaria detective de Nueva York que como muchas madres trabajadoras debe compaginar su complicada vida personal con su intensa y sagaz actividad profesional.</desc></programme>
-<programme start="20260819204000 +0000" stop="20260819213000 +0000" channel="atress"><title lang="es">The Mysteries of Laura</title><desc lang="es">Laura Diamond es una extraordinaria detective de Nueva York que como muchas madres trabajadoras debe compaginar su complicada vida personal con su intensa y sagaz actividad profesional.</desc></programme>
-<programme start="20260819213000 +0000" stop="20260819222000 +0000" channel="atress"><title lang="es">The Mysteries of Laura</title><desc lang="es">Laura Diamond es una extraordinaria detective de Nueva York que como muchas madres trabajadoras debe compaginar su complicada vida personal con su intensa y sagaz actividad profesional.</desc></programme>
-<programme start="20260819222000 +0000" stop="20260819231000 +0000" channel="atress"><title lang="es">The Mysteries of Laura</title><desc lang="es">Laura Diamond es una extraordinaria detective de Nueva York que como muchas madres trabajadoras debe compaginar su complicada vida personal con su intensa y sagaz actividad profesional.</desc></programme>
-<programme start="20260819231000 +0000" stop="20260820000000 +0000" channel="atress"><title lang="es">The Mysteries of Laura</title><desc lang="es">Laura Diamond es una extraordinaria detective de Nueva York que como muchas madres trabajadoras debe compaginar su complicada vida personal con su intensa y sagaz actividad profesional.</desc></programme>
-<programme start="20260820000000 +0000" stop="20260820004000 +0000" channel="atress"><title lang="es">Sportium Game Show</title><desc lang="es">Espacio conducido por Sofía Del Prado y con la colaboración de Gemma Manzanero, Marc Vila y Juanma Pastor, en el que se repasan las mejores apuestas y cuotas deportivas, y donde se descubren toda la variedad de juegos de casino, slots y poker de Sportium.</desc></programme>
-<programme start="20260820004000 +0000" stop="20260820015000 +0000" channel="atress"><title lang="es">Con el culo al aire</title><desc lang="es">El campin y sus &apos;bungalows&apos; vuelven para seguir acogiendo a ciudadanos maltratados por la crisis. La tercera temporada de la serie da comienzo con el fin de la época estival y el abandono del complejo por parte de los turistas. Ahora, para poder llegar a fin de mes, todos necesitan una nueva fuente de ingresos.</desc></programme>
-<programme start="20260820015000 +0000" stop="20260820220000 +0000" channel="atress"><title lang="es">Con el culo al aire</title><desc lang="es">El campin y sus &apos;bungalows&apos; vuelven para seguir acogiendo a ciudadanos maltratados por la crisis. La tercera temporada de la serie da comienzo con el fin de la época estival y el abandono del complejo por parte de los turistas. Ahora, para poder llegar a fin de mes, todos necesitan una nueva fuente de ingresos.</desc></programme>
+<programme start="20260819030000 +0000" stop="20260819220000 +0000" channel="atress"><title lang="es">La chica de las series</title><desc lang="es">María Zamora conduce este programa en el que famosos y ciudadanos de a pie se someten a las preguntas y pruebas que les plantee la presentadora sobre series televisivas icónicas.</desc></programme>
+<programme start="20260819040000 +0000" stop="20260819041000 +0000" channel="atress"><title lang="es">La chica de las series</title><desc lang="es">María Zamora conduce este programa en el que famosos y ciudadanos de a pie se someten a las preguntas y pruebas que les plantee la presentadora sobre series televisivas icónicas.</desc></programme>
+<programme start="20260819041000 +0000" stop="20260819050200 +0000" channel="atress"><title lang="es">Con el culo al aire (T2): Ep.15 El golfo churrero</title><desc lang="es">Roberto, el hijo de Charo, llega al camping engañado por su madre, que le dice que allí estudiará mejor las oposiciones para juez. Mientras tanto, Tino y Alicia descubren que, en realidad, a Charo le han echado del trabajo y ha perdido su casa. El churrero y su mujer se apiadan de ellos e idean un plan para que Chema les contrate como músicos para las fiestas del camping.</desc></programme>
+<programme start="20260819050200 +0000" stop="20260819055500 +0000" channel="atress"><title lang="es">Con el culo al aire (T2): Ep.16 Lola intenta hacer negocios</title><desc lang="es">Tino se entera de que José Luis tiene su furgoneta, que se niega a devolver. Como venganza, Tino se muda con toda su familia a casa de los marqueses. Sonsoles y Alicia, hartas de peleas de gallos, proponen ser socios en la churrería. Un vendedor de refrescos quiere promocionar su bebida energética en el camping. Confunde a Lola con el dueño y le paga 1.000 euros por dejarle vender allí. Candela y Dani, engañados por su madre, ayudan a repartir los refrescos. La bebida comienza a crear efectos secundarios en la gente. El refresco no ha pasado todavía los análisis sanitarios y el vendedor está utilizando a la gente del camping como cobayas humanas.</desc></programme>
+<programme start="20260819055500 +0000" stop="20260819072700 +0000" channel="atress"><title lang="es">Aquí no hay quien viva (T3): Ep.6 Érase un canario</title><desc lang="es">Gustavo, el director del colegio, se va de puente y le deja el canario a Juan para que se lo cuide. Juan, que aspira a conseguir el puesto de director de estudios está encantado.</desc></programme>
+<programme start="20260819072700 +0000" stop="20260819090000 +0000" channel="atress"><title lang="es">Aquí no hay quien viva (T5): Ep.13 Érase un vudú</title><desc lang="es">María Jesús cada día tiene más problemas con Belén y empieza a hacerle vudú a Lucía para que le venda su piso.</desc></programme>
+<programme start="20260819090000 +0000" stop="20260819095500 +0000" channel="atress"><title lang="es">Los misterios de la hermana Boniface (T1): Ep.7 Los huesos</title><desc lang="es">Se celebra el concurso de calabacines gigantes en Great Slaughter y el pueblo está emocionado. Pero un descubrimiento espantoso detiene la fiesta... ¡Huesos hu manos! Y han sido enterrados recientemente. El concurso se suspende mientras se inicia la investigación de un caso de asesinato. Cuando la hermana Boniface utiliza los registros dentales para identificar a la víctima, las pruebas señalan al padre de Peggy, Ted Button, el carnicero local. Peggy insiste en que no puede ser su padre: ¡debe haber sido falsamente incriminado por el verdadero asesino! Los detectives tienen que encontrar al verdadero culpable antes de que Ted Button sea acusado de asesinato o, Dios no lo quiera, descalificado del concurso.</desc></programme>
+<programme start="20260819095500 +0000" stop="20260819104800 +0000" channel="atress"><title lang="es">Padre Brown (T2): Ep.8 El tesoro del coronel Gerard</title><desc lang="es">El padre Brown investiga cuando una persona muere misteriosamente en Kembleford.</desc></programme>
+<programme start="20260819104800 +0000" stop="20260819114200 +0000" channel="atress"><title lang="es">Padre Brown (T2): Ep.9 La parca</title><desc lang="es">El padre Brown ayuda a una mujer cuyo padre fue asesinado semanas después de la muerte de su madre.</desc></programme>
+<programme start="20260819114200 +0000" stop="20260819123600 +0000" channel="atress"><title lang="es">Padre Brown (T3): Ep.8 La guarida del libertinaje</title><desc lang="es">El padre Brown y sus amigos quedan atrapados en un hotel con un grupo de hedonistas.</desc></programme>
+<programme start="20260819123600 +0000" stop="20260819133000 +0000" channel="atress"><title lang="es">Padre Brown (T3): Ep.9 La verdad del vino</title><desc lang="es">El padre Brown investiga cuando aparece un cadáver en un viñedo.</desc></programme>
+<programme start="20260819133000 +0000" stop="20260819141800 +0000" channel="atress"><title lang="es">Los misterios de Murdoch (T7): Ep.6 Murdochfobia</title><desc lang="es">Séptima temporada de la serie en la cual un inspector de policía, William Murdoch, utiliza técnicas forenses totalmente revolucionarias en aquella época, como pruebas de huellas dactilares y métodos de detección muy singulares. Con este enfoque más orientado a la ciencia, Murdoch será capaz resolver los casos de homicidio más famosos de la ciudad.</desc></programme>
+<programme start="20260819141800 +0000" stop="20260819150700 +0000" channel="atress"><title lang="es">Los misterios de Murdoch (T7): Ep.7 Murdoch y el Lago Ness</title><desc lang="es">Séptima temporada de la serie en la cual un inspector de policía, William Murdoch, utiliza técnicas forenses totalmente revolucionarias en aquella época, como pruebas de huellas dactilares y métodos de detección muy singulares. Con este enfoque más orientado a la ciencia, Murdoch será capaz resolver los casos de homicidio más famosos de la ciudad.</desc></programme>
+<programme start="20260819150700 +0000" stop="20260819155500 +0000" channel="atress"><title lang="es">Los misterios de Murdoch (T6): Ep.3 Asesinato en la esquina</title><desc lang="es">Sexta temporada de la serie en la cual un inspector de policía, William Murdoch, utiliza técnicas forenses revolucionarias en aquella época, como pruebas de huellas dactilares y métodos de detección muy singulares.</desc></programme>
+<programme start="20260819155500 +0000" stop="20260819164400 +0000" channel="atress"><title lang="es">Los misterios de Murdoch (T6): Ep.4 Estudio en escarlata</title><desc lang="es">Sexta temporada de la serie en la cual un inspector de policía, William Murdoch, utiliza técnicas forenses revolucionarias en aquella época, como pruebas de huellas dactilares y métodos de detección muy singulares.</desc></programme>
+<programme start="20260819164400 +0000" stop="20260819173200 +0000" channel="atress"><title lang="es">Los misterios de Murdoch (T6): Ep.6 Murdoch y la nube mortal</title><desc lang="es">Cuando un loco anónimo amenaza a los ciudadanos de Toronto con un gas mortífero, Murdoch tiene que actuar contra reloj para pararlo.</desc></programme>
+<programme start="20260819173200 +0000" stop="20260819182100 +0000" channel="atress"><title lang="es">Los misterios de Murdoch (T7): Ep.8 República de Murdoch</title><desc lang="es">Setena temporada de la sèrie en la qual un inspector de policia, William Murdoch, utilitza tècniques forenses totalment revolucionàries en aquella època, com proves d&apos;empremtes dactilars i mètodes de detecció molt singulars. Amb aquest enfoc més orientat a la ciència, Murdoch serà capaç resoldre els casos d&apos;homicidi més famosos de la ciutat.</desc></programme>
+<programme start="20260819182100 +0000" stop="20260819191000 +0000" channel="atress"><title lang="es">Los misterios de Murdoch (T7): Ep.9 Tren nocturno a Kingston</title><desc lang="es">Séptima temporada de la serie en la cual un inspector de policía, William Murdoch, utiliza técnicas forenses totalmente revolucionarias en aquella época, como pruebas de huellas dactilares y métodos de detección muy singulares. Con este enfoque más orientado a la ciencia, Murdoch será capaz resolver los casos de homicidio más famosos de la ciudad.</desc></programme>
+<programme start="20260819191000 +0000" stop="20260819195600 +0000" channel="atress"><title lang="es">The Mysteries of Laura (T1): Ep.18 El misterio del marinero hundido</title><desc lang="es">Laura intenta esquivar su cumpleaños mientras investiga el asesinato de un marinero durante la Fleet Week en Nueva York. El equipo tendrá que trabajar mano a mano con la NCIS (Servicio Naval de Investigaciones Criminales) para resolver el caso. Por su parte, Billy colaborará junto a una investigadora naval muy atractiva, que pondrá a la detective Meredith un poco celosa.</desc></programme>
+<programme start="20260819195600 +0000" stop="20260819204300 +0000" channel="atress"><title lang="es">The Mysteries of Laura (T1): Ep.22 El misterio del fuego cruzado en la tienda</title><desc lang="es">En el último episodio de la temporada, la vida de Jake penderá de un hilo tras recibir un tiro durante un robo en tienda. Mientras permanece en estado crítico, Laura y su equipo removerán cielo y tierra para encontrar al culpable, un asaltante armado con un artefacto de última generación.</desc></programme>
+<programme start="20260819204300 +0000" stop="20260819213000 +0000" channel="atress"><title lang="es">Los misterios de Laura (T3): Ep.4 El misterio de la mujer que sobraba</title><desc lang="es">Cuando Félix se despierta con una desconocida que dice ser su mujer, le pide a Laura que investigue.</desc></programme>
+<programme start="20260819213000 +0000" stop="20260819221600 +0000" channel="atress"><title lang="es">Los misterios de Laura (T3): Ep.5 El misterio del pasajero preocupado</title><desc lang="es">Tras aterrizar, el presidente de una empresa aparece muerto y la autopsia revela que se ahogó.</desc></programme>
+<programme start="20260819221600 +0000" stop="20260819230300 +0000" channel="atress"><title lang="es">Los misterios de Laura (T2): Ep.10 El misterio del hombre sin pasado</title><desc lang="es">Laura es abordada por un hombre que afirma que alguien intentó matarlo, pero él no recuerda nada.</desc></programme>
+<programme start="20260819230300 +0000" stop="20260819235000 +0000" channel="atress"><title lang="es">Los misterios de Laura (T2): Ep.11 El misterio de la dama roja</title><desc lang="es">Investigando la muerte del amigo de su madre, Laura descubre la conexión de la viuda con otros fallecidos millonarios.</desc></programme>
+<programme start="20260819235000 +0000" stop="20260820003000 +0000" channel="atress"><title lang="es">Sportium Game Show</title><desc lang="es">Espacio conducido por Sofía Del Prado y con la colaboración de Gemma Manzanero, Marc Vila y Juanma Pastor, en el que se repasan las mejores apuestas y cuotas deportivas, y donde se descubren toda la variedad de juegos de casino, slots y poker de Sportium.</desc></programme>
+<programme start="20260820003000 +0000" stop="20260820014500 +0000" channel="atress"><title lang="es">Con el culo al aire (T2): Ep.17 Los marqueses, ahora albañiles</title><desc lang="es">El techo del baño se cae y Eli tiene que hacerse cargo de la obra porque Chema ha tenido un ataque al corazón. Los marqueses engañan a Eli para que les deje hacer la obra y sacar un dinero extra, pero ellos no tienen ni idea de albañilería.</desc></programme>
+<programme start="20260820014500 +0000" stop="20260820030000 +0000" channel="atress"><title lang="es">Con el culo al aire (T2): Ep.18 Una ola de calor asola el camping</title><desc lang="es">Una ola de calor asola el camping y todos deciden dormir en el bar porque es el único sitio con aire acondicionado. Terminan cargándose el aparato por accidente y Chema les obliga a comprar uno nuevo. Alicia, Candela, Lola y Charo descubren que pueden conseguir uno si apuntan a Roberto a una carrera. Por desgracia, él está ocupado con su rollete, Olga, y las chicas tendrán que convencerle para que participe.</desc></programme>
 <programme start="20260820032000 +0000" stop="20260820220000 +0000" channel="atress"><title lang="es">Más de series</title><desc lang="es">Programa de producción propia que muestra curiosidades sobre las series de Atresmedia.</desc></programme>
 <programme start="20260820040000 +0000" stop="20260820041000 +0000" channel="atress"><title lang="es">Más de series</title><desc lang="es">Programa de producción propia que muestra curiosidades sobre las series de Atresmedia.</desc></programme>
 <programme start="20260820041000 +0000" stop="20260820051700 +0000" channel="atress"><title lang="es">Con el culo al aire</title><desc lang="es">El campin y sus &apos;bungalows&apos; vuelven para seguir acogiendo a ciudadanos maltratados por la crisis. La tercera temporada de la serie da comienzo con el fin de la época estival y el abandono del complejo por parte de los turistas. Ahora, para poder llegar a fin de mes, todos necesitan una nueva fuente de ingresos.</desc></programme>
