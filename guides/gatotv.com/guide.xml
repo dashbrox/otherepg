@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20260821">
 <channel id="1_colombia"><display-name>1 Colombia</display-name><url>https://gatotv.com</url></channel>
+<channel id="2_de_el_salvador"><display-name>2 de El Salvador</display-name><url>https://gatotv.com</url></channel>
 <channel id="XEIPNTDT.mx@SD"><display-name>11 de México</display-name><icon src="https://i.imgur.com/K0351vF.png"/><url>https://gatotv.com</url></channel>
 <channel id="XEIMTTDT2.mx@SD"><display-name>22 de México</display-name><icon src="https://i.imgur.com/MeIfhXp.png"/><url>https://gatotv.com</url></channel>
 <channel id="XEFBTDT.mx@SD"><display-name>4 de Monterrey</display-name><icon src="https://i.imgur.com/21AF8UI.png"/><url>https://gatotv.com</url></channel>
@@ -467,7 +468,6 @@
 <channel id="2_de_republica_dominicana_teleantillas"><display-name>2 de República Dominicana</display-name><url>https://gatotv.com</url></channel>
 <channel id="2_de_panama"><display-name>2 de Panamá</display-name><url>https://gatotv.com</url></channel>
 <channel id="2_de_nicaragua_televicentro"><display-name>2 de Nicaragua</display-name><url>https://gatotv.com</url></channel>
-<channel id="2_de_el_salvador"><display-name>2 de El Salvador</display-name><url>https://gatotv.com</url></channel>
 <programme start="20260821043000 +0000" stop="20260821053000 +0000" channel="1_colombia"><title lang="es">Revelando Mistérios</title></programme>
 <programme start="20260821053000 +0000" stop="20260821060000 +0000" channel="1_colombia"><title lang="es">Prosperidad con Dios</title></programme>
 <programme start="20260821060000 +0000" stop="20260821063000 +0000" channel="1_colombia"><title lang="es">En búsqueda del amor</title></programme>
