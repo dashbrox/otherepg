@@ -1,86 +1,86 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv date="20260823">
 <channel id="7tvmur"><display-name>7 TV Región Murcia</display-name><url>https://movistarplus.es</url></channel>
-<channel id="13tv"><display-name>TRECE</display-name><url>https://movistarplus.es</url></channel>
-<channel id="3_24"><display-name>3CatInfo</display-name><url>https://movistarplus.es</url></channel>
-<channel id="antv"><display-name>Canal Sur Andalucía</display-name><url>https://movistarplus.es</url></channel>
-<channel id="axn"><display-name>AXN</display-name><url>https://movistarplus.es</url></channel>
-<channel id="canar"><display-name>TV Canaria</display-name><url>https://movistarplus.es</url></channel>
-<channel id="dazmot"><display-name>DAZN MotoGP</display-name><url>https://movistarplus.es</url></channel>
-<channel id="dazba"><display-name>DAZN Baloncesto</display-name><url>https://movistarplus.es</url></channel>
-<channel id="can33"><display-name>33</display-name><url>https://movistarplus.es</url></channel>
-<channel id="dazb3"><display-name>DAZN Baloncesto 3</display-name><url>https://movistarplus.es</url></channel>
-<channel id="dazb2"><display-name>DAZN Baloncesto 2</display-name><url>https://movistarplus.es</url></channel>
-<channel id="atress"><display-name>Atreseries</display-name><url>https://movistarplus.es</url></channel>
-<channel id="c33"><display-name>SX3</display-name><url>https://movistarplus.es</url></channel>
-<channel id="dayst"><display-name>Daystar Español HD</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cyltv"><display-name>La 7</display-name><url>https://movistarplus.es</url></channel>
-<channel id="c4"><display-name>Cuatro</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cubav"><display-name>Cubavisión</display-name><url>https://movistarplus.es</url></channel>
-<channel id="csurhd"><display-name>Canal Sur HD</display-name><url>https://movistarplus.es</url></channel>
-<channel id="andatv"><display-name>Andalucía TV</display-name><url>https://movistarplus.es</url></channel>
-<channel id="atlat"><display-name>Atlántico TV</display-name><url>https://movistarplus.es</url></channel>
-<channel id="btv"><display-name>Betevé</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cpdep"><display-name>M+ Deportes</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cpcome"><display-name>M+ Comedia</display-name><url>https://movistarplus.es</url></channel>
-<channel id="boing"><display-name>Boing</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cpcole"><display-name>M+ Drama</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cpacci"><display-name>M+ Acción</display-name><url>https://movistarplus.es</url></channel>
-<channel id="arthur"><display-name>M+ Deportes 2</display-name><url>https://movistarplus.es</url></channel>
-<channel id="bl"><display-name>Bloomberg</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cosmo"><display-name>COSMO</display-name><url>https://movistarplus.es</url></channel>
-<channel id="colomb"><display-name>TV Colombia</display-name><url>https://movistarplus.es</url></channel>
-<channel id="bemad"><display-name>BE MAD</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cnn"><display-name>CNN Int</display-name><url>https://movistarplus.es</url></channel>
-<channel id="classd"><display-name>Classica</display-name><url>https://movistarplus.es</url></channel>
-<channel id="24h"><display-name>24 Horas</display-name><url>https://movistarplus.es</url></channel>
-<channel id="aljaze"><display-name>Al Jazeera English</display-name><url>https://movistarplus.es</url></channel>
-<channel id="arirhd"><display-name>Arirang TV HD</display-name><url>https://movistarplus.es</url></channel>
-<channel id="bbhis"><display-name>BBC History</display-name><url>https://movistarplus.es</url></channel>
-<channel id="clantv"><display-name>Clan TVE</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cl13"><display-name>Calle 13</display-name><url>https://movistarplus.es</url></channel>
-<channel id="bbgea"><display-name>BBC Top Gear</display-name><url>https://movistarplus.es</url></channel>
-<channel id="chile"><display-name>TV Chile</display-name><url>https://movistarplus.es</url></channel>
-<channel id="chapio"><display-name>M+ Liga de Campeones</display-name><url>https://movistarplus.es</url></channel>
-<channel id="aragtv"><display-name>Aragón TV</display-name><url>https://movistarplus.es</url></channel>
-<channel id="bbfoo"><display-name>BBC Food</display-name><url>https://movistarplus.es</url></channel>
-<channel id="chap4"><display-name>M+ Liga de Campeones 5</display-name><url>https://movistarplus.es</url></channel>
-<channel id="chap3"><display-name>M+ Liga de Campeones 4</display-name><url>https://movistarplus.es</url></channel>
-<channel id="bbdra"><display-name>BBC Series</display-name><url>https://movistarplus.es</url></channel>
-<channel id="chap2"><display-name>M+ Liga de Campeones 3</display-name><url>https://movistarplus.es</url></channel>
-<channel id="chap1"><display-name>M+ Liga de Campeones 2</display-name><url>https://movistarplus.es</url></channel>
-<channel id="etb1"><display-name>etb1</display-name><url>https://movistarplus.es</url></channel>
-<channel id="a3"><display-name>Antena 3</display-name><url>https://movistarplus.es</url></channel>
-<channel id="aragon"><display-name>Aragón TV Int</display-name><url>https://movistarplus.es</url></channel>
-<channel id="bbclif"><display-name>BBC Lifestyle</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cgtnfr"><display-name>CGTN Français HD</display-name><url>https://movistarplus.es</url></channel>
-<channel id="etb"><display-name>etb2ON</display-name><url>https://movistarplus.es</url></channel>
-<channel id="esp3"><display-name>Esport 3</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cgtnen"><display-name>CGTN English HD</display-name><url>https://movistarplus.es</url></channel>
-<channel id="esp2"><display-name>Eurosport 2</display-name><url>https://movistarplus.es</url></channel>
-<channel id="esp"><display-name>Eurosport 1</display-name><url>https://movistarplus.es</url></channel>
-<channel id="bbcear"><display-name>BBC Earth</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cgtndo"><display-name>CGTN Documentary HD</display-name><url>https://movistarplus.es</url></channel>
-<channel id="enw"><display-name>Euronews</display-name><url>https://movistarplus.es</url></channel>
-<channel id="energy"><display-name>Energy</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cgtnd"><display-name>CGTN Documentary</display-name><url>https://movistarplus.es</url></channel>
-<channel id="dwsp"><display-name>Dreamworks</display-name><url>https://movistarplus.es</url></channel>
-<channel id="dkiss"><display-name>DKISS</display-name><url>https://movistarplus.es</url></channel>
-<channel id="apunt"><display-name>À Punt</display-name><url>https://movistarplus.es</url></channel>
-<channel id="bbc"><display-name>BBC News</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cctv-e"><display-name>CGTN Español</display-name><url>https://movistarplus.es</url></channel>
-<channel id="divini"><display-name>Divinity</display-name><url>https://movistarplus.es</url></channel>
-<channel id="dcrmax"><display-name>DMAX</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cazpes"><display-name>Caza y Pesca</display-name><url>https://movistarplus.es</url></channel>
-<channel id="dcr"><display-name>Discovery</display-name><url>https://movistarplus.es</url></channel>
-<channel id="dcesp"><display-name>M+ Cine Español</display-name><url>https://movistarplus.es</url></channel>
-<channel id="baby"><display-name>Baby TV</display-name><url>https://movistarplus.es</url></channel>
-<channel id="casman"><display-name>Castilla la Mancha TV</display-name><url>https://movistarplus.es</url></channel>
-<channel id="daznli"><display-name>DAZN LALIGA</display-name><url>https://movistarplus.es</url></channel>
-<channel id="daznl2"><display-name>DAZN LALIGA 2</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cansur"><display-name>Canal Sur</display-name><url>https://movistarplus.es</url></channel>
-<channel id="dazn4"><display-name>DAZN 4</display-name><url>https://movistarplus.es</url></channel>
-<channel id="dazn3"><display-name>DAZN 3</display-name><url>https://movistarplus.es</url></channel>
+<channel id="veo7"><display-name>Veo7</display-name><url>https://movistarplus.es</url></channel>
+<channel id="vamosd"><display-name>M+ Vamos</display-name><url>https://movistarplus.es</url></channel>
+<channel id="vam2sd"><display-name>M+ Vamos 2</display-name><url>https://movistarplus.es</url></channel>
+<channel id="usop11"><display-name>M+ Deportes 5</display-name><url>https://movistarplus.es</url></channel>
+<channel id="usop3"><display-name>M+ Deportes 4</display-name><url>https://movistarplus.es</url></channel>
+<channel id="usop2"><display-name>M+ Deportes 3</display-name><url>https://movistarplus.es</url></channel>
+<channel id="ucl"><display-name>UCL</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tvgal"><display-name>TVG -TV Galicia</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tvg2"><display-name>TVG 2</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tvg"><display-name>TVG Europa</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tve"><display-name>LA 1</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tvc"><display-name>TV3 Cat</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tv5"><display-name>TV5MONDE</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tv3cat"><display-name>TV3</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tpa"><display-name>TPA</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tnt"><display-name>Warner TV</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tlesur"><display-name>Telesur</display-name><url>https://movistarplus.es</url></channel>
+<channel id="ten"><display-name>Ten</display-name><url>https://movistarplus.es</url></channel>
+<channel id="telmin"><display-name>Telemadrid Int.</display-name><url>https://movistarplus.es</url></channel>
+<channel id="telmad"><display-name>Telemadrid</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tdep"><display-name>Teledeporte</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tcm"><display-name>TCM</display-name><url>https://movistarplus.es</url></channel>
+<channel id="t5"><display-name>Telecinco</display-name><url>https://movistarplus.es</url></channel>
+<channel id="squi"><display-name>Squirrel</display-name><url>https://movistarplus.es</url></channel>
+<channel id="skysho"><display-name>SkyShowtime 1</display-name><url>https://movistarplus.es</url></channel>
+<channel id="skynw"><display-name>Sky News</display-name><url>https://movistarplus.es</url></channel>
+<channel id="sexta"><display-name>La Sexta</display-name><url>https://movistarplus.es</url></channel>
+<channel id="set"><display-name>AXN Movies</display-name><url>https://movistarplus.es</url></channel>
+<channel id="sci-fi"><display-name>SYFY</display-name><url>https://movistarplus.es</url></channel>
+<channel id="red"><display-name>Canal RED</display-name><url>https://movistarplus.es</url></channel>
+<channel id="realm"><display-name>Real Madrid TV</display-name><url>https://movistarplus.es</url></channel>
+<channel id="popuhd"><display-name>M+ Wimbledon UHD</display-name><url>https://movistarplus.es</url></channel>
+<channel id="playdc"><display-name>Disney Channel</display-name><url>https://movistarplus.es</url></channel>
+<channel id="pcm"><display-name>Comedy Central</display-name><url>https://movistarplus.es</url></channel>
+<channel id="otra"><display-name>La Otra</display-name><url>https://movistarplus.es</url></channel>
+<channel id="nova"><display-name>Nova</display-name><url>https://movistarplus.es</url></channel>
+<channel id="nickjr"><display-name>NICK JR</display-name><url>https://movistarplus.es</url></channel>
+<channel id="nick"><display-name>Nickelodeon</display-name><url>https://movistarplus.es</url></channel>
+<channel id="neox"><display-name>Neox</display-name><url>https://movistarplus.es</url></channel>
+<channel id="negotv"><display-name>Negocios TV</display-name><url>https://movistarplus.es</url></channel>
+<channel id="nbc"><display-name>CNBC</display-name><url>https://movistarplus.es</url></channel>
+<channel id="nava"><display-name>Navarra TV</display-name><url>https://movistarplus.es</url></channel>
+<channel id="natgw"><display-name>Nat Geo Wild</display-name><url>https://movistarplus.es</url></channel>
+<channel id="natgeo"><display-name>National Geographic</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mvf1"><display-name>DAZN F1</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mvciva"><display-name>M+ Vacaciones</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mv1"><display-name>M+ Estrenos</display-name><url>https://movistarplus.es</url></channel>
+<channel id="multi8"><display-name>M+ Deportes 6</display-name><url>https://movistarplus.es</url></channel>
+<channel id="multi6"><display-name>M+ Deportes 7</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mtv"><display-name>MTV</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mplus"><display-name>Movistar Plus</display-name><url>https://movistarplus.es</url></channel>
+<channel id="morig"><display-name>M+ Originales</display-name><url>https://movistarplus.es</url></channel>
+<channel id="morgul"><display-name>M+ Orgullo</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mliuhd"><display-name>M+ LALIGA 2 HDR</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mliguh"><display-name>M+ LALIGA HDR</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mligs3"><display-name>LALIGA TV HYPERMOTION 3</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mligs2"><display-name>LALIGA TV HYPERMOTION 2</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mligs"><display-name>LALIGA TV HYPERMOTION</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mliga"><display-name>M+ LALIGA</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mlig3"><display-name>M+ LALIGA 4</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mlig2"><display-name>M+ LALIGA 3</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mlig1"><display-name>M+ LALIGA 2</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mindi"><display-name>M+ Indie</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mhits"><display-name>M+ Hits</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mezzo"><display-name>Mezzo</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mezzli"><display-name>Mezzo Live</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mellav"><display-name>M+ Vamos 3</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mega"><display-name>Mega</display-name><url>https://movistarplus.es</url></channel>
+<channel id="medite"><display-name>La Ocho TV</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mdoc"><display-name>M+ Documentales</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mcopa"><display-name>Primera Federación</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mclas"><display-name>M+ Clásicos</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mbalct"><display-name>M+ Baloncesto</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mbalc3"><display-name>M+ Baloncesto 3</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mbalc2"><display-name>M+ Baloncesto 2</display-name><url>https://movistarplus.es</url></channel>
+<channel id="maxava"><display-name>HBO Max Avances</display-name><url>https://movistarplus.es</url></channel>
+<channel id="m2sd"><display-name>DAZN 2</display-name><url>https://movistarplus.es</url></channel>
+<channel id="m1sd"><display-name>DAZN 1</display-name><url>https://movistarplus.es</url></channel>
+<channel id="la2"><display-name>LA 2</display-name><url>https://movistarplus.es</url></channel>
+<channel id="inteua"><display-name>1+1 Internacional</display-name><url>https://movistarplus.es</url></channel>
 <channel id="inteco"><display-name>El Toro TV</display-name><url>https://movistarplus.es</url></channel>
 <channel id="iberal"><display-name>Iberalia TV</display-name><url>https://movistarplus.es</url></channel>
 <channel id="ib3"><display-name>IB3</display-name><url>https://movistarplus.es</url></channel>
@@ -100,86 +100,86 @@
 <channel id="ewtn"><display-name>EWTN</display-name><url>https://movistarplus.es</url></channel>
 <channel id="etb3"><display-name>etb1ON</display-name><url>https://movistarplus.es</url></channel>
 <channel id="etb2"><display-name>etb2</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mvf1"><display-name>DAZN F1</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mvciva"><display-name>M+ Vacaciones</display-name><url>https://movistarplus.es</url></channel>
-<channel id="multi6"><display-name>M+ Deportes 7</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mtv"><display-name>MTV</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mplus"><display-name>Movistar Plus</display-name><url>https://movistarplus.es</url></channel>
-<channel id="morig"><display-name>M+ Originales</display-name><url>https://movistarplus.es</url></channel>
-<channel id="morgul"><display-name>M+ Orgullo</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mliuhd"><display-name>M+ LALIGA 2 HDR</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mligs3"><display-name>LALIGA TV HYPERMOTION 3</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mligs2"><display-name>LALIGA TV HYPERMOTION 2</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mligs"><display-name>LALIGA TV HYPERMOTION</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mlig3"><display-name>M+ LALIGA 4</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mlig2"><display-name>M+ LALIGA 3</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mlig1"><display-name>M+ LALIGA 2</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mhits"><display-name>M+ Hits</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mezzo"><display-name>Mezzo</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mezzli"><display-name>Mezzo Live</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mega"><display-name>Mega</display-name><url>https://movistarplus.es</url></channel>
-<channel id="medite"><display-name>La Ocho TV</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mdoc"><display-name>M+ Documentales</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mclas"><display-name>M+ Clásicos</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mbalct"><display-name>M+ Baloncesto</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mbalc3"><display-name>M+ Baloncesto 3</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mbalc2"><display-name>M+ Baloncesto 2</display-name><url>https://movistarplus.es</url></channel>
-<channel id="maxava"><display-name>HBO Max Avances</display-name><url>https://movistarplus.es</url></channel>
-<channel id="m2sd"><display-name>DAZN 2</display-name><url>https://movistarplus.es</url></channel>
-<channel id="veo7"><display-name>Veo7</display-name><url>https://movistarplus.es</url></channel>
-<channel id="vamosd"><display-name>M+ Vamos</display-name><url>https://movistarplus.es</url></channel>
-<channel id="vam2sd"><display-name>M+ Vamos 2</display-name><url>https://movistarplus.es</url></channel>
-<channel id="usop11"><display-name>M+ Deportes 5</display-name><url>https://movistarplus.es</url></channel>
-<channel id="usop3"><display-name>M+ Deportes 4</display-name><url>https://movistarplus.es</url></channel>
-<channel id="usop2"><display-name>M+ Deportes 3</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tvgal"><display-name>TVG -TV Galicia</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tvg2"><display-name>TVG 2</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tvg"><display-name>TVG Europa</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tvc"><display-name>TV3 Cat</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tv5"><display-name>TV5MONDE</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tv3cat"><display-name>TV3</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tnt"><display-name>Warner TV</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tlesur"><display-name>Telesur</display-name><url>https://movistarplus.es</url></channel>
-<channel id="ten"><display-name>Ten</display-name><url>https://movistarplus.es</url></channel>
-<channel id="telmad"><display-name>Telemadrid</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tdep"><display-name>Teledeporte</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tcm"><display-name>TCM</display-name><url>https://movistarplus.es</url></channel>
-<channel id="squi"><display-name>Squirrel</display-name><url>https://movistarplus.es</url></channel>
-<channel id="skysho"><display-name>SkyShowtime 1</display-name><url>https://movistarplus.es</url></channel>
-<channel id="skynw"><display-name>Sky News</display-name><url>https://movistarplus.es</url></channel>
-<channel id="sexta"><display-name>La Sexta</display-name><url>https://movistarplus.es</url></channel>
-<channel id="set"><display-name>AXN Movies</display-name><url>https://movistarplus.es</url></channel>
-<channel id="sci-fi"><display-name>SYFY</display-name><url>https://movistarplus.es</url></channel>
-<channel id="popuhd"><display-name>M+ Wimbledon UHD</display-name><url>https://movistarplus.es</url></channel>
-<channel id="playdc"><display-name>Disney Channel</display-name><url>https://movistarplus.es</url></channel>
-<channel id="pcm"><display-name>Comedy Central</display-name><url>https://movistarplus.es</url></channel>
-<channel id="nova"><display-name>Nova</display-name><url>https://movistarplus.es</url></channel>
-<channel id="nickjr"><display-name>NICK JR</display-name><url>https://movistarplus.es</url></channel>
-<channel id="nick"><display-name>Nickelodeon</display-name><url>https://movistarplus.es</url></channel>
-<channel id="negotv"><display-name>Negocios TV</display-name><url>https://movistarplus.es</url></channel>
-<channel id="nbc"><display-name>CNBC</display-name><url>https://movistarplus.es</url></channel>
-<channel id="nava"><display-name>Navarra TV</display-name><url>https://movistarplus.es</url></channel>
-<channel id="natgw"><display-name>Nat Geo Wild</display-name><url>https://movistarplus.es</url></channel>
-<channel id="natgeo"><display-name>National Geographic</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mliguh"><display-name>M+ LALIGA HDR</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mliga"><display-name>M+ LALIGA</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mellav"><display-name>M+ Vamos 3</display-name><url>https://movistarplus.es</url></channel>
-<channel id="m1sd"><display-name>DAZN 1</display-name><url>https://movistarplus.es</url></channel>
-<channel id="ucl"><display-name>UCL</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tve"><display-name>LA 1</display-name><url>https://movistarplus.es</url></channel>
-<channel id="telmin"><display-name>Telemadrid Int.</display-name><url>https://movistarplus.es</url></channel>
-<channel id="red"><display-name>Canal RED</display-name><url>https://movistarplus.es</url></channel>
-<channel id="otra"><display-name>La Otra</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mv1"><display-name>M+ Estrenos</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mindi"><display-name>M+ Indie</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mcopa"><display-name>Primera Federación</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tpa"><display-name>TPA</display-name><url>https://movistarplus.es</url></channel>
-<channel id="t5"><display-name>Telecinco</display-name><url>https://movistarplus.es</url></channel>
-<channel id="neox"><display-name>Neox</display-name><url>https://movistarplus.es</url></channel>
-<channel id="la2"><display-name>LA 2</display-name><url>https://movistarplus.es</url></channel>
-<channel id="realm"><display-name>Real Madrid TV</display-name><url>https://movistarplus.es</url></channel>
-<channel id="multi8"><display-name>M+ Deportes 6</display-name><url>https://movistarplus.es</url></channel>
-<channel id="inteua"><display-name>1+1 Internacional</display-name><url>https://movistarplus.es</url></channel>
+<channel id="etb1"><display-name>etb1</display-name><url>https://movistarplus.es</url></channel>
+<channel id="etb"><display-name>etb2ON</display-name><url>https://movistarplus.es</url></channel>
+<channel id="esp3"><display-name>Esport 3</display-name><url>https://movistarplus.es</url></channel>
+<channel id="esp2"><display-name>Eurosport 2</display-name><url>https://movistarplus.es</url></channel>
+<channel id="esp"><display-name>Eurosport 1</display-name><url>https://movistarplus.es</url></channel>
+<channel id="enw"><display-name>Euronews</display-name><url>https://movistarplus.es</url></channel>
+<channel id="energy"><display-name>Energy</display-name><url>https://movistarplus.es</url></channel>
+<channel id="dwsp"><display-name>Dreamworks</display-name><url>https://movistarplus.es</url></channel>
+<channel id="dkiss"><display-name>DKISS</display-name><url>https://movistarplus.es</url></channel>
+<channel id="divini"><display-name>Divinity</display-name><url>https://movistarplus.es</url></channel>
+<channel id="dcrmax"><display-name>DMAX</display-name><url>https://movistarplus.es</url></channel>
+<channel id="dcr"><display-name>Discovery</display-name><url>https://movistarplus.es</url></channel>
+<channel id="dcesp"><display-name>M+ Cine Español</display-name><url>https://movistarplus.es</url></channel>
+<channel id="daznli"><display-name>DAZN LALIGA</display-name><url>https://movistarplus.es</url></channel>
+<channel id="daznl2"><display-name>DAZN LALIGA 2</display-name><url>https://movistarplus.es</url></channel>
+<channel id="dazn4"><display-name>DAZN 4</display-name><url>https://movistarplus.es</url></channel>
+<channel id="dazn3"><display-name>DAZN 3</display-name><url>https://movistarplus.es</url></channel>
+<channel id="dazmot"><display-name>DAZN MotoGP</display-name><url>https://movistarplus.es</url></channel>
+<channel id="dazba"><display-name>DAZN Baloncesto</display-name><url>https://movistarplus.es</url></channel>
+<channel id="dazb3"><display-name>DAZN Baloncesto 3</display-name><url>https://movistarplus.es</url></channel>
+<channel id="dazb2"><display-name>DAZN Baloncesto 2</display-name><url>https://movistarplus.es</url></channel>
+<channel id="dayst"><display-name>Daystar Español HD</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cyltv"><display-name>La 7</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cubav"><display-name>Cubavisión</display-name><url>https://movistarplus.es</url></channel>
+<channel id="csurhd"><display-name>Canal Sur HD</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cpdep"><display-name>M+ Deportes</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cpcome"><display-name>M+ Comedia</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cpcole"><display-name>M+ Drama</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cpacci"><display-name>M+ Acción</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cosmo"><display-name>COSMO</display-name><url>https://movistarplus.es</url></channel>
+<channel id="colomb"><display-name>TV Colombia</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cnn"><display-name>CNN Int</display-name><url>https://movistarplus.es</url></channel>
+<channel id="classd"><display-name>Classica</display-name><url>https://movistarplus.es</url></channel>
+<channel id="clantv"><display-name>Clan TVE</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cl13"><display-name>Calle 13</display-name><url>https://movistarplus.es</url></channel>
+<channel id="chile"><display-name>TV Chile</display-name><url>https://movistarplus.es</url></channel>
+<channel id="chapio"><display-name>M+ Liga de Campeones</display-name><url>https://movistarplus.es</url></channel>
+<channel id="chap4"><display-name>M+ Liga de Campeones 5</display-name><url>https://movistarplus.es</url></channel>
+<channel id="chap3"><display-name>M+ Liga de Campeones 4</display-name><url>https://movistarplus.es</url></channel>
+<channel id="chap2"><display-name>M+ Liga de Campeones 3</display-name><url>https://movistarplus.es</url></channel>
+<channel id="chap1"><display-name>M+ Liga de Campeones 2</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cgtnfr"><display-name>CGTN Français HD</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cgtnen"><display-name>CGTN English HD</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cgtndo"><display-name>CGTN Documentary HD</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cgtnd"><display-name>CGTN Documentary</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cctv-e"><display-name>CGTN Español</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cazpes"><display-name>Caza y Pesca</display-name><url>https://movistarplus.es</url></channel>
+<channel id="casman"><display-name>Castilla la Mancha TV</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cansur"><display-name>Canal Sur</display-name><url>https://movistarplus.es</url></channel>
+<channel id="canar"><display-name>TV Canaria</display-name><url>https://movistarplus.es</url></channel>
+<channel id="can33"><display-name>33</display-name><url>https://movistarplus.es</url></channel>
+<channel id="c33"><display-name>SX3</display-name><url>https://movistarplus.es</url></channel>
+<channel id="c4"><display-name>Cuatro</display-name><url>https://movistarplus.es</url></channel>
+<channel id="btv"><display-name>Betevé</display-name><url>https://movistarplus.es</url></channel>
+<channel id="boing"><display-name>Boing</display-name><url>https://movistarplus.es</url></channel>
+<channel id="bl"><display-name>Bloomberg</display-name><url>https://movistarplus.es</url></channel>
+<channel id="bemad"><display-name>BE MAD</display-name><url>https://movistarplus.es</url></channel>
+<channel id="bbhis"><display-name>BBC History</display-name><url>https://movistarplus.es</url></channel>
+<channel id="bbgea"><display-name>BBC Top Gear</display-name><url>https://movistarplus.es</url></channel>
+<channel id="bbfoo"><display-name>BBC Food</display-name><url>https://movistarplus.es</url></channel>
+<channel id="bbdra"><display-name>BBC Series</display-name><url>https://movistarplus.es</url></channel>
+<channel id="bbclif"><display-name>BBC Lifestyle</display-name><url>https://movistarplus.es</url></channel>
+<channel id="bbcear"><display-name>BBC Earth</display-name><url>https://movistarplus.es</url></channel>
+<channel id="bbc"><display-name>BBC News</display-name><url>https://movistarplus.es</url></channel>
+<channel id="baby"><display-name>Baby TV</display-name><url>https://movistarplus.es</url></channel>
+<channel id="axn"><display-name>AXN</display-name><url>https://movistarplus.es</url></channel>
+<channel id="atress"><display-name>Atreseries</display-name><url>https://movistarplus.es</url></channel>
+<channel id="atlat"><display-name>Atlántico TV</display-name><url>https://movistarplus.es</url></channel>
+<channel id="arthur"><display-name>M+ Deportes 2</display-name><url>https://movistarplus.es</url></channel>
+<channel id="arirhd"><display-name>Arirang TV HD</display-name><url>https://movistarplus.es</url></channel>
+<channel id="aragtv"><display-name>Aragón TV</display-name><url>https://movistarplus.es</url></channel>
+<channel id="aragon"><display-name>Aragón TV Int</display-name><url>https://movistarplus.es</url></channel>
+<channel id="apunt"><display-name>À Punt</display-name><url>https://movistarplus.es</url></channel>
+<channel id="antv"><display-name>Canal Sur Andalucía</display-name><url>https://movistarplus.es</url></channel>
+<channel id="andatv"><display-name>Andalucía TV</display-name><url>https://movistarplus.es</url></channel>
+<channel id="aljaze"><display-name>Al Jazeera English</display-name><url>https://movistarplus.es</url></channel>
+<channel id="a3"><display-name>Antena 3</display-name><url>https://movistarplus.es</url></channel>
+<channel id="3_24"><display-name>3CatInfo</display-name><url>https://movistarplus.es</url></channel>
+<channel id="24h"><display-name>24 Horas</display-name><url>https://movistarplus.es</url></channel>
+<channel id="13tv"><display-name>TRECE</display-name><url>https://movistarplus.es</url></channel>
 <programme start="20260823040000 +0000" stop="20260823050000 +0000" channel="7tvmur"><title lang="es">Oro Molio</title><desc lang="es">Cada semana se descubren nuevos aspectos de los pueblos y pedanías de la Región de Murcia, especialmente a través de sus gentes, que muestran la faceta más natural de sus oficios, costumbres, tradiciones y gastronomía.</desc></programme>
 <programme start="20260823050000 +0000" stop="20260823060000 +0000" channel="7tvmur"><title lang="es">Un paseo por</title><desc lang="es">Programa de divulgación cultural en el que se recorre la geografía murciana. El espacio muestra las calles, los centros históricos, culturales y religiosos de la comunidad, así como los lugares con mayor riqueza en biodiversidad.</desc></programme>
 <programme start="20260823060000 +0000" stop="20260823070000 +0000" channel="7tvmur"><title lang="es">En ruta</title><desc lang="es">Recorrido en bicicleta por la Región de Murcia que visibiliza un turismo más sostenible y equilibrado, poniendo en valor el patrimonio histórico, cultural y natural.</desc></programme>
@@ -718,14 +718,14 @@
 <programme start="20260824040000 +0000" stop="20260824220000 +0000" channel="arirhd"><title lang="es">Arirang TV HD</title></programme>
 <programme start="20260823060000 +0000" stop="20260823130000 +0000" channel="arthur"><title lang="es">M+ Deportes 2</title></programme>
 <programme start="20260823130000 +0000" stop="20260823200000 +0000" channel="arthur"><title lang="es">M+ Deportes 2</title></programme>
-<programme start="20260823200000 +0000" stop="20260823202500 +0000" channel="arthur"><title lang="es">M+ Deportes 2</title></programme>
-<programme start="20260823202500 +0000" stop="20260823232500 +0000" channel="arthur"><title lang="es">Torneo de Cincinnati (2026): Fils vs Tiafoe</title><desc lang="es">Llega a Cincinnati la última gran cita del circuito antes del US Open. El segundo Masters 1000 del verano cierra la preparación para el cuarto Grand Slam.</desc></programme>
-<programme start="20260823232500 +0000" stop="20260824220000 +0000" channel="arthur"><title lang="es">M+ Deportes 2</title></programme>
+<programme start="20260823200000 +0000" stop="20260823203500 +0000" channel="arthur"><title lang="es">M+ Deportes 2</title></programme>
+<programme start="20260823203500 +0000" stop="20260823233500 +0000" channel="arthur"><title lang="es">Torneo de Cincinnati (2026): Fils vs Tiafoe</title><desc lang="es">Llega a Cincinnati la última gran cita del circuito antes del US Open. El segundo Masters 1000 del verano cierra la preparación para el cuarto Grand Slam.</desc></programme>
+<programme start="20260823233500 +0000" stop="20260824220000 +0000" channel="arthur"><title lang="es">M+ Deportes 2</title></programme>
 <programme start="20260824011100 +0000" stop="20260824060000 +0000" channel="arthur"><title lang="es">M+ Deportes 2</title></programme>
-<programme start="20260824060000 +0000" stop="20260824180000 +0000" channel="arthur"><title lang="es">M+ Deportes 2</title></programme>
-<programme start="20260824180000 +0000" stop="20260824220000 +0000" channel="arthur"><title lang="es">M+ Deportes 2</title></programme>
+<programme start="20260824061000 +0000" stop="20260824181000 +0000" channel="arthur"><title lang="es">M+ Deportes 2</title></programme>
+<programme start="20260824181000 +0000" stop="20260824220000 +0000" channel="arthur"><title lang="es">M+ Deportes 2</title></programme>
 <programme start="20260824220000 +0000" stop="20260825220000 +0000" channel="arthur"><title lang="es">M+ Deportes 2</title></programme>
-<programme start="20260824232500 +0000" stop="20260825060000 +0000" channel="arthur"><title lang="es">M+ Deportes 2</title></programme>
+<programme start="20260824233500 +0000" stop="20260825061000 +0000" channel="arthur"><title lang="es">M+ Deportes 2</title></programme>
 <programme start="20260823050000 +0000" stop="20260823054000 +0000" channel="atlat"><title lang="es">Atlántico Interviú</title><desc lang="es">Entrevistas con las figuras más relevantes de la actualidad deportiva con Berto Mata.</desc></programme>
 <programme start="20260823054000 +0000" stop="20260823100000 +0000" channel="atlat"><title lang="es">Servicios informativos</title><desc lang="es">Información regional, nacional e internacional. Datos de interés general, consejos útiles, campañas de prevención y concienciación.</desc></programme>
 <programme start="20260823100000 +0000" stop="20260823104000 +0000" channel="atlat"><title lang="es">Vivir sin miedo</title><desc lang="es">Un espacio de diálogo para reflexionar sobre la memoria democrática, los derechos conquistados y los desafíos que aún nos acompaña.</desc></programme>
@@ -5250,11 +5250,12 @@
 <programme start="20260823060000 +0000" stop="20260823090000 +0000" channel="golf+"><title lang="es">DP World Tour (T25/26): Nexo Championship. Jornada 3. Parte 2.</title><desc lang="es">Segunda edición del Nexo Championship en el DP World Tour. El fiero recorrido de Trump International Golf Links recibe a 12 españoles que buscarán la victoria el domingo.</desc></programme>
 <programme start="20260823090000 +0000" stop="20260823110000 +0000" channel="golf+"><title lang="es">PGA Tour (T2026): BMW Championship. Jornada 3. Parte 2.</title><desc lang="es">Segundo torneo de los Playoffs de la FedEx Cup. Scottie Scheffler llega cómo número 1 al BMW Championship dónde acceden los 50 mejores de la temporada. El objetivo avanzar a la final, dónde entran los 30 mejores.</desc></programme>
 <programme start="20260823110000 +0000" stop="20260823120000 +0000" channel="golf+"><title lang="es">DP World Tour (T25/26): Nexo Championship (V.O). Jornada 4. Parte 1.</title><desc lang="es">Segunda edición del Nexo Championship en el DP World Tour. El fiero recorrido de Trump International Golf Links recibe a 12 españoles que buscarán la victoria el domingo.</desc></programme>
-<programme start="20260823120000 +0000" stop="20260823160000 +0000" channel="golf+"><title lang="es">DP World Tour (T25/26): Nexo Championship. Jornada 4. Parte 2.</title><desc lang="es">Segunda edición del Nexo Championship en el DP World Tour. El fiero recorrido de Trump International Golf Links recibe a 12 españoles que buscarán la victoria el domingo.</desc></programme>
+<programme start="20260823120000 +0000" stop="20260823152600 +0000" channel="golf+"><title lang="es">DP World Tour (T25/26): Nexo Championship. Jornada 4. Parte 2.</title><desc lang="es">Segunda edición del Nexo Championship en el DP World Tour. El fiero recorrido de Trump International Golf Links recibe a 12 españoles que buscarán la victoria el domingo.</desc></programme>
+<programme start="20260823152600 +0000" stop="20260823160000 +0000" channel="golf+"><title lang="es">Lara Academy (T5): Hoy jugamos con Jordi villacampa</title><desc lang="es">José Manuel Lara, dos veces ganador en el European Tour, se convierte en el profesor particular de los abonados de Movistar Golf con consejos en el campo de prácticas, situaciones reales de juego, consultas de los espectadores y análisis de los profesionales del circuito.</desc></programme>
 <programme start="20260823160000 +0000" stop="20260823180000 +0000" channel="golf+"><title lang="es">PGA Tour (T2026): BMW Championship (V.O). Jornada 4. Parte 1.</title><desc lang="es">Segundo torneo de los Playoffs de la FedEx Cup. Scottie Scheffler llega cómo número 1 al BMW Championship dónde acceden los 50 mejores de la temporada. El objetivo avanzar a la final, dónde entran los 30 mejores.</desc></programme>
 <programme start="20260823180000 +0000" stop="20260823220000 +0000" channel="golf+"><title lang="es">PGA Tour (T2026): BMW Championship. Jornada 4. Parte 2.</title><desc lang="es">Segundo torneo de los Playoffs de la FedEx Cup. Scottie Scheffler llega cómo número 1 al BMW Championship dónde acceden los 50 mejores de la temporada. El objetivo avanzar a la final, dónde entran los 30 mejores.</desc></programme>
-<programme start="20260823220000 +0000" stop="20260824010000 +0000" channel="golf+"><title lang="es">LIV Golf (T2026): Indianápolis. Jornada 3. Parte 2.</title><desc lang="es">The Club at Chatham Hills, en Westfield, Indiana, acoge el último torneo individual de la temporada. Jon Rahm, número 1 indiscutible, buscará su quinta victoria en el LIV Golf.</desc></programme>
-<programme start="20260824010000 +0000" stop="20260824220000 +0000" channel="golf+"><title lang="es">M+ Golf</title><desc lang="es">M+ Golf</desc></programme>
+<programme start="20260823220000 +0000" stop="20260824010500 +0000" channel="golf+"><title lang="es">DP World Tour (T25/26): Nexo Championship. Jornada 4. Parte 2.</title><desc lang="es">Segunda edición del Nexo Championship en el DP World Tour. El fiero recorrido de Trump International Golf Links recibe a 12 españoles que buscarán la victoria el domingo.</desc></programme>
+<programme start="20260824010500 +0000" stop="20260824220000 +0000" channel="golf+"><title lang="es">M+ Golf</title><desc lang="es">M+ Golf</desc></programme>
 <programme start="20260824060000 +0000" stop="20260824063000 +0000" channel="golf+"><title lang="es">Lara Academy (T5): Te curamos el slice</title><desc lang="es">José Manuel Lara, dos veces ganador en el European Tour, se convierte en el profesor particular de los abonados de Movistar Golf con consejos en el campo de prácticas, situaciones reales de juego, consultas de los espectadores y análisis de los profesionales del circuito.</desc></programme>
 <programme start="20260824063000 +0000" stop="20260824103000 +0000" channel="golf+"><title lang="es">LIV Golf (T2026): Indianápolis. Jornada 4. Parte 2.</title><desc lang="es">The Club at Chatham Hills, en Westfield, Indiana, acoge el último torneo individual de la temporada. Jon Rahm, número 1 indiscutible, buscará su quinta victoria en el LIV Golf.</desc></programme>
 <programme start="20260824103000 +0000" stop="20260824110500 +0000" channel="golf+"><title lang="es">HotelPlanner Tour Series (T2026): Irish Challenge (19/08/2026)</title><desc lang="es">Desde febrero y hasta octubre, este programa repasa los torneos de la división de plata del circuito europeo mientras conocemos más de cerca a sus protagonistas.</desc></programme>
@@ -6452,25 +6453,25 @@
 <programme start="20260823034600 +0000" stop="20260823055000 +0000" channel="mvf1"><title lang="es">Mundial de Fórmula 1 (T2023): GP de Baréin: Carrera</title><desc lang="es">Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2023 promete más emoción y espectáculo que nunca.</desc></programme>
 <programme start="20260823055000 +0000" stop="20260823075900 +0000" channel="mvf1"><title lang="es">Mundial F1 - GP de México (T2025): Carrera</title><desc lang="es">Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc></programme>
 <programme start="20260823075900 +0000" stop="20260823082500 +0000" channel="mvf1"><title lang="es">Código F1 (T2026): Gran Bretaña</title><desc lang="es">Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición.</desc></programme>
-<programme start="20260823082500 +0000" stop="20260823092000 +0000" channel="mvf1"><title lang="es">F1 Academia: Países Bajos (T2026): Carrera 2</title><desc lang="es">F1 Academy es una serie de carreras para mujeres cuyo objetivo es centrarse en el desarrollo y la preparación de jóvenes pilotos para progresar a niveles más altos de competencia.</desc></programme>
-<programme start="20260823092000 +0000" stop="20260823094000 +0000" channel="mvf1"><title lang="es">Código F1 (T2026): Australia</title><desc lang="es">Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición.</desc></programme>
-<programme start="20260823094000 +0000" stop="20260823104200 +0000" channel="mvf1"><title lang="es">Porsche Supercup - Países Bajos Carrera 2 (T2026)</title><desc lang="es">Desde 1993, la Supercopa Porsche se disputa como complemento al Mundial de Fórmula 1. Es la competición monomarca más veloz, en la que equipos profesionales y pilotos corren bajo las mismas condiciones técnicas y con el mismo coche, un potente Porsche 911 GT3 Cup.</desc></programme>
-<programme start="20260823104200 +0000" stop="20260823110000 +0000" channel="mvf1"><title lang="es">Código F1 (T2026): Japón</title><desc lang="es">Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición.</desc></programme>
+<programme start="20260823082500 +0000" stop="20260823092200 +0000" channel="mvf1"><title lang="es">F1 Academia: Países Bajos (T2026): Carrera 2</title><desc lang="es">F1 Academy es una serie de carreras para mujeres cuyo objetivo es centrarse en el desarrollo y la preparación de jóvenes pilotos para progresar a niveles más altos de competencia.</desc></programme>
+<programme start="20260823092200 +0000" stop="20260823094000 +0000" channel="mvf1"><title lang="es">Código F1 (T2026): Australia</title><desc lang="es">Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición.</desc></programme>
+<programme start="20260823094000 +0000" stop="20260823103400 +0000" channel="mvf1"><title lang="es">Porsche Supercup - Países Bajos Carrera 2 (T2026)</title><desc lang="es">Desde 1993, la Supercopa Porsche se disputa como complemento al Mundial de Fórmula 1. Es la competición monomarca más veloz, en la que equipos profesionales y pilotos corren bajo las mismas condiciones técnicas y con el mismo coche, un potente Porsche 911 GT3 Cup.</desc></programme>
+<programme start="20260823103400 +0000" stop="20260823110000 +0000" channel="mvf1"><title lang="es">Código F1 (T2026): Japón</title><desc lang="es">Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición.</desc></programme>
 <programme start="20260823110000 +0000" stop="20260823125500 +0000" channel="mvf1"><title lang="es">Mundial F1 - GP de Países Bajos (T2026): Previo Carrera</title><desc lang="es">Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc></programme>
-<programme start="20260823125500 +0000" stop="20260823151000 +0000" channel="mvf1"><title lang="es">Mundial F1 - GP de Países Bajos (T2026): Carrera</title><desc lang="es">Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc></programme>
-<programme start="20260823151000 +0000" stop="20260823163500 +0000" channel="mvf1"><title lang="es">Mundial F1 - GP de Países Bajos (T2026): El Post de la Fórmula 1</title><desc lang="es">Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc></programme>
-<programme start="20260823163500 +0000" stop="20260823171500 +0000" channel="mvf1"><title lang="es">Gearbox (T2026): Episodio 26</title><desc lang="es">Los fanáticos de la conducción tienen una cita en Gearbox, donde los volantes del presente, del pasado y del futuro se ponen en las manos de los mejores expertos.</desc></programme>
-<programme start="20260823171500 +0000" stop="20260823173500 +0000" channel="mvf1"><title lang="es">Código F1 (T2026): Hungría</title><desc lang="es">Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición.</desc></programme>
-<programme start="20260823173500 +0000" stop="20260823183500 +0000" channel="mvf1"><title lang="es">Mundial F1 - GP de Países Bajos (T2026): Libres 1</title><desc lang="es">Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc></programme>
-<programme start="20260823183500 +0000" stop="20260823190500 +0000" channel="mvf1"><title lang="es">Mundial F1 - GP de Países Bajos (T2026): Sprint</title><desc lang="es">Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc></programme>
-<programme start="20260823190500 +0000" stop="20260823200500 +0000" channel="mvf1"><title lang="es">Mundial F1 - GP de Países Bajos (T2026): Clasificación</title><desc lang="es">Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc></programme>
-<programme start="20260823200500 +0000" stop="20260823220500 +0000" channel="mvf1"><title lang="es">Mundial F1 - GP de Países Bajos (T2026): Carrera</title><desc lang="es">Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc></programme>
-<programme start="20260823220500 +0000" stop="20260823222000 +0000" channel="mvf1"><title lang="es">75 años de F1</title></programme>
-<programme start="20260823222000 +0000" stop="20260824001000 +0000" channel="mvf1"><title lang="es">Mundial de Fórmula 1 (T2024): GP de Italia: Carrera</title><desc lang="es">Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2024 promete más emoción y espectáculo que nunca.</desc></programme>
+<programme start="20260823125500 +0000" stop="20260823154500 +0000" channel="mvf1"><title lang="es">Mundial F1 - GP de Países Bajos (T2026): Carrera</title><desc lang="es">Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc></programme>
+<programme start="20260823154500 +0000" stop="20260823170500 +0000" channel="mvf1"><title lang="es">Mundial F1 - GP de Países Bajos (T2026): El Post de la Fórmula 1</title><desc lang="es">Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc></programme>
+<programme start="20260823170500 +0000" stop="20260823174500 +0000" channel="mvf1"><title lang="es">Gearbox (T2026): Episodio 26</title><desc lang="es">Los fanáticos de la conducción tienen una cita en Gearbox, donde los volantes del presente, del pasado y del futuro se ponen en las manos de los mejores expertos.</desc></programme>
+<programme start="20260823174500 +0000" stop="20260823180600 +0000" channel="mvf1"><title lang="es">Código F1 (T2026): Hungría</title><desc lang="es">Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición.</desc></programme>
+<programme start="20260823180600 +0000" stop="20260823191500 +0000" channel="mvf1"><title lang="es">Mundial F1 - GP de Países Bajos (T2026): Libres 1</title><desc lang="es">Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc></programme>
+<programme start="20260823191500 +0000" stop="20260823200500 +0000" channel="mvf1"><title lang="es">Mundial F1 - GP de Países Bajos (T2026): Sprint</title><desc lang="es">Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc></programme>
+<programme start="20260823200500 +0000" stop="20260823211800 +0000" channel="mvf1"><title lang="es">Mundial F1 - GP de Países Bajos (T2026): Clasificación</title><desc lang="es">Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc></programme>
+<programme start="20260823211800 +0000" stop="20260823233500 +0000" channel="mvf1"><title lang="es">Mundial F1 - GP de Países Bajos (T2026): Carrera</title><desc lang="es">Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc></programme>
+<programme start="20260823233500 +0000" stop="20260823235000 +0000" channel="mvf1"><title lang="es">75 años de F1</title></programme>
+<programme start="20260823235000 +0000" stop="20260824001000 +0000" channel="mvf1"><title lang="es">Mundial de Fórmula 1 (T2024): GP de Italia: Carrera</title><desc lang="es">Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2024 promete más emoción y espectáculo que nunca.</desc></programme>
 <programme start="20260824001000 +0000" stop="20260824020500 +0000" channel="mvf1"><title lang="es">Mundial de Fórmula 1 (T2023): GP de Arabia Saudi: Carrera</title><desc lang="es">Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2023 promete más emoción y espectáculo que nunca.</desc></programme>
 <programme start="20260824020500 +0000" stop="20260824220000 +0000" channel="mvf1"><title lang="es">Mundial F1 - GP de Brasil (T2025): Carrera</title><desc lang="es">Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc></programme>
 <programme start="20260824031000 +0000" stop="20260824220000 +0000" channel="mvf1"><title lang="es">Mundial de Fórmula 1 (T2024): GP de México: Carrera</title><desc lang="es">Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2024 promete más emoción y espectáculo que nunca.</desc></programme>
-<programme start="20260824041000 +0000" stop="20260824043500 +0000" channel="mvf1"><title lang="es">Código F1 (T2025): Brasil</title><desc lang="es">Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición.</desc></programme>
+<programme start="20260824041100 +0000" stop="20260824043500 +0000" channel="mvf1"><title lang="es">Código F1 (T2025): Brasil</title><desc lang="es">Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición.</desc></programme>
 <programme start="20260824043500 +0000" stop="20260824064500 +0000" channel="mvf1"><title lang="es">Mundial de Fórmula 1 (T2024): GP de Azerbaiyán: Carrera</title><desc lang="es">Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2024 promete más emoción y espectáculo que nunca.</desc></programme>
 <programme start="20260824064500 +0000" stop="20260824072000 +0000" channel="mvf1"><title lang="es">Gearbox (T2025): Episodio 19</title><desc lang="es">Los fanáticos de la conducción tienen una cita en Gearbox, donde los volantes del presente, del pasado y del futuro se ponen en las manos de los mejores expertos.</desc></programme>
 <programme start="20260824072000 +0000" stop="20260824092000 +0000" channel="mvf1"><title lang="es">Mundial de Fórmula 1 (T2023): GP de Miami: Carrera</title><desc lang="es">Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2023 promete más emoción y espectáculo que nunca.</desc></programme>
@@ -6485,7 +6486,7 @@
 <programme start="20260824215000 +0000" stop="20260824235000 +0000" channel="mvf1"><title lang="es">Mundial F1 - GP de Países Bajos (T2026): Carrera</title><desc lang="es">Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc></programme>
 <programme start="20260824235000 +0000" stop="20260825015000 +0000" channel="mvf1"><title lang="es">Mundial F1 - GP de Catar (T2025): Carrera</title><desc lang="es">Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc></programme>
 <programme start="20260825015000 +0000" stop="20260825022000 +0000" channel="mvf1"><title lang="es">Código F1 (T2025): Catar</title><desc lang="es">Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición.</desc></programme>
-<programme start="20260825020500 +0000" stop="20260825041000 +0000" channel="mvf1"><title lang="es">Mundial F1 - GP de Brasil (T2025): Carrera</title><desc lang="es">Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc></programme>
+<programme start="20260825020500 +0000" stop="20260825041100 +0000" channel="mvf1"><title lang="es">Mundial F1 - GP de Brasil (T2025): Carrera</title><desc lang="es">Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc></programme>
 <programme start="20260825022000 +0000" stop="20260825031000 +0000" channel="mvf1"><title lang="es">Mundial F1 - GP de Gran Bretaña (T2026): Sprint</title><desc lang="es">Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc></programme>
 <programme start="20260823030500 +0000" stop="20260823220000 +0000" channel="natgeo"><title lang="es">Mayday: Catástrofes aéreas: Colisión catastrófica</title><desc lang="es">Dos aviones colisionan en los cielos sobrevolando el sur de Alemania, y la catástrofe es vista por numerosas personas desde tierra. El fuselaje no deja lugar a la duda, ambos aviones se destruyeron en el aire. No obstante, los investigadores se enfrentan al misterio. ¿Cómo acabaron estando ambos aviones a la misma altitud al mismo tiempo? ¿Y qué ocurrió con los muchos sistemas de seguridad diseñados para evitar las colisiones en vuelo?</desc></programme>
 <programme start="20260823040000 +0000" stop="20260823044500 +0000" channel="natgeo"><title lang="es">Mayday: Catástrofes aéreas: Amaraje forzoso en el Atlántico</title><desc lang="es">Un helicóptero de última generación que transporta a trabajadores petroleros hasta una plataforma de perforación se estrella contra el océano, frente a la costa de Terranova. Increíblemente, uno de los hombres sobrevive y, en un plazo de horas, se inicia un gran operativo de rescate para extraer, del fondo del océano, a las víctimas, el registrador de vuelo y los restos destrozados. Los investigadores reconstruyen las pruebas y, el último extremo, revelan un fatal error en el diseño del S-92.</desc></programme>
