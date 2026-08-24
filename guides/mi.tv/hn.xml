@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20260824">
 <channel id="3ABNLatino.us@SD"><display-name>3ABN Latino</display-name><icon src="https://i.imgur.com/Ugb4AFo.png"/><url>https://mi.tv</url></channel>
-<channel id="hn#a-e-mundo"><display-name>A&amp;E</display-name><url>https://mi.tv</url></channel>
-<channel id="AlfaOmegaVision.hn@SD"><display-name>Alfa &amp; Omega Vision</display-name><icon src="https://i.imgur.com/4BSKCQT.png"/><url>https://mi.tv</url></channel>
-<channel id="hn#antena3"><display-name>Antena 3</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#azteca-honduras"><display-name>Azteca Honduras</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#animal-planet"><display-name>Animal Planet</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#azteca-13"><display-name>Azteca 13</display-name><url>https://mi.tv</url></channel>
-<channel id="Azteca7.mx@SD"><display-name>Azteca 7</display-name><icon src="https://i.imgur.com/UtFXjIn.png"/><url>https://mi.tv</url></channel>
-<channel id="hn#amc"><display-name>AMC</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#az-corazon"><display-name>Az Corazón</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#boomerang-cartoon"><display-name>Cartoonito</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#bloomberg"><display-name>Bloomberg</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#axn"><display-name>AXN</display-name><url>https://mi.tv</url></channel>
-<channel id="BethelTV.pe@SD"><display-name>Bethel</display-name><icon src="https://i.imgur.com/RYqyAaZ.jpeg"/><url>https://mi.tv</url></channel>
-<channel id="hn#beat-tv"><display-name>Beat TV</display-name><url>https://mi.tv</url></channel>
-<channel id="Bandamax.mx@SD"><display-name>Bandamax</display-name><icon src="https://i.imgur.com/4DfnOTA.png"/><url>https://mi.tv</url></channel>
+<channel id="hn#warner"><display-name>Warner Channel</display-name><url>https://mi.tv</url></channel>
+<channel id="VTV.hn@SD"><display-name>VTV</display-name><icon src="https://i.imgur.com/CsPkwD5.png"/><url>https://mi.tv</url></channel>
+<channel id="hn#vh1-classic-usa"><display-name>VH1 Classic USA</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#vh1"><display-name>VH1</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#venus"><display-name>Venus</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#ve-plus-tv"><display-name>Ve Plus TV</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#utv-universidad-autonoma"><display-name>UTV - Universidad Autónoma</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#univision"><display-name>Univision</display-name><url>https://mi.tv</url></channel>
+<channel id="UniversalTVLatinAmerica.us@Panregional"><display-name>Universal TV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/960px-Universal_TV_logo.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="hn#tvh"><display-name>TVH</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#tve"><display-name>TVE</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#tru-tv"><display-name>TruTV</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#todo-deportes-tdtv"><display-name>Todo Deportes</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#tnt-series"><display-name>TNT Series</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#tnt-hd"><display-name>TNT HD</display-name><url>https://mi.tv</url></channel>
 <channel id="hn#tnt"><display-name>TNT</display-name><url>https://mi.tv</url></channel>
 <channel id="hn#tlnovelas"><display-name>TLNovelas</display-name><url>https://mi.tv</url></channel>
 <channel id="hn#telesur"><display-name>teleSUR</display-name><url>https://mi.tv</url></channel>
@@ -115,21 +115,21 @@
 <channel id="hn#canal-11-sotel-hd"><display-name>Canal 11 HD</display-name><url>https://mi.tv</url></channel>
 <channel id="Canal11.hn@SD"><display-name>Canal 11</display-name><icon src="https://i.imgur.com/Sht2Rd4.png"/><url>https://mi.tv</url></channel>
 <channel id="Televicentro.hn@SD"><display-name>Canal 5</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#ve-plus-tv"><display-name>Ve Plus TV</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#utv-universidad-autonoma"><display-name>UTV - Universidad Autónoma</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#univision"><display-name>Univision</display-name><url>https://mi.tv</url></channel>
-<channel id="UniversalTVLatinAmerica.us@Panregional"><display-name>Universal TV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/960px-Universal_TV_logo.svg.png"/><url>https://mi.tv</url></channel>
-<channel id="hn#tvh"><display-name>TVH</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#tve"><display-name>TVE</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#tru-tv"><display-name>TruTV</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#todo-deportes-tdtv"><display-name>Todo Deportes</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#tnt-series"><display-name>TNT Series</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#warner"><display-name>Warner Channel</display-name><url>https://mi.tv</url></channel>
-<channel id="VTV.hn@SD"><display-name>VTV</display-name><icon src="https://i.imgur.com/CsPkwD5.png"/><url>https://mi.tv</url></channel>
-<channel id="hn#vh1-classic-usa"><display-name>VH1 Classic USA</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#vh1"><display-name>VH1</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#venus"><display-name>Venus</display-name><url>https://mi.tv</url></channel>
-<channel id="hn#tnt-hd"><display-name>TNT HD</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#boomerang-cartoon"><display-name>Cartoonito</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#bloomberg"><display-name>Bloomberg</display-name><url>https://mi.tv</url></channel>
+<channel id="BethelTV.pe@SD"><display-name>Bethel</display-name><icon src="https://i.imgur.com/RYqyAaZ.jpeg"/><url>https://mi.tv</url></channel>
+<channel id="hn#beat-tv"><display-name>Beat TV</display-name><url>https://mi.tv</url></channel>
+<channel id="Bandamax.mx@SD"><display-name>Bandamax</display-name><icon src="https://i.imgur.com/4DfnOTA.png"/><url>https://mi.tv</url></channel>
+<channel id="hn#azteca-honduras"><display-name>Azteca Honduras</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#azteca-13"><display-name>Azteca 13</display-name><url>https://mi.tv</url></channel>
+<channel id="Azteca7.mx@SD"><display-name>Azteca 7</display-name><icon src="https://i.imgur.com/UtFXjIn.png"/><url>https://mi.tv</url></channel>
+<channel id="hn#az-corazon"><display-name>Az Corazón</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#axn"><display-name>AXN</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#antena3"><display-name>Antena 3</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#animal-planet"><display-name>Animal Planet</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#amc"><display-name>AMC</display-name><url>https://mi.tv</url></channel>
+<channel id="AlfaOmegaVision.hn@SD"><display-name>Alfa &amp; Omega Vision</display-name><icon src="https://i.imgur.com/4BSKCQT.png"/><url>https://mi.tv</url></channel>
+<channel id="hn#a-e-mundo"><display-name>A&amp;E</display-name><url>https://mi.tv</url></channel>
 <programme start="20260824060000 +0000" stop="20260824063000 +0000" channel="3ABNLatino.us@SD"><title lang="es">Las avenidas del alma</title><desc lang="es">Un programa de televisión de media hora que presenta estudios bí blicos sobre cómo Satanás, usa los cinco sentidos que poseen los humanos de manera desprevenida y oculta para llevarnos al pecado y la corrupción.</desc><category lang="es">Religioso</category><image>https://cdn.mitvstatic.com/programs/hn_las-avenidas-del-alma_l_m.jpg</image></programme>
 <programme start="20260824063000 +0000" stop="20260824070000 +0000" channel="3ABNLatino.us@SD"><title lang="es">Consulta médica</title><category lang="es">Salud</category><image>https://cdn.mitvstatic.com/programs/hn_consulta-medica_l_m.jpg</image></programme>
 <programme start="20260824070000 +0000" stop="20260824080000 +0000" channel="3ABNLatino.us@SD"><title lang="es">Nuestra redención está cerca</title><desc lang="es">Un seminario presentado por diversos teólogos estudiosos de la Biblia.</desc><category lang="es">Religioso</category><image>https://cdn.mitvstatic.com/programs/hn_nuestra-redencion-esta-cerca_l_m.jpg</image></programme>
@@ -5000,8 +5000,8 @@
 <programme start="20260825003000 +0000" stop="20260825031500 +0000" channel="hn#tve"><title lang="es">El Grand Prix del verano</title><desc lang="es">El Grand Prix del Verano 2025 enfrentará a 10 pueblos de toda España en todo tipo de actividades, desde enfrentamientos físicos hasta desafíos intelectuales. Un programa lleno de diversión donde participa toda la geografía del país.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">0.31.0/1</episode-num><episode-num system="onscreen">S01E32</episode-num><image>https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg</image></programme>
 <programme start="20260825031500 +0000" stop="20260825041500 +0000" channel="hn#tve"><title lang="es">¡Cómo nos reímos!</title><sub-title lang="es">Humor Ochentero</sub-title><desc lang="es">Es la era del pop, de las lentejuelas y los cardados. Pero también, del humor desternillante, de los chistes contados en bares con luces de neón y de las largas horas en familia viendo humor en televisión.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">0.77.0/1</episode-num><episode-num system="onscreen">S01E78</episode-num><image>https://cdn.mitvstatic.com/programs/hn_como-nos-reimos-s00e78-humor-ochentero_l_m.jpg</image></programme>
 <programme start="20260825041500 +0000" stop="20260825055000 +0000" channel="hn#tve"><title lang="es">¡Cómo nos reímos!</title><sub-title lang="es">El trono del humor</sub-title><desc lang="es">&quot;Cómo nos reímos&quot; se inspira en la mítica serie &quot;juego de Tronos&quot; para buscar entre los maestros del humor quien podría ser ese cómico o cómica que ocupe lo más alto del trono del humor.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">0.60.0/1</episode-num><episode-num system="onscreen">S01E61</episode-num><image>https://cdn.mitvstatic.com/programs/hn_como-nos-reimos-s00e61-el-trono-del-humor-1_l_m.jpg</image></programme>
-<programme start="20260825055000 +0000" stop="20260825065000 +0000" channel="hn#tve"><title lang="es">La hora de la 1</title><desc lang="es">Espacio con reportajes y entrevistas dedicados a analizar en profundidad el mundo de la política y la actualidad. El público podrá informarse de la forma más completa respecto del acontecer diario.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">0.166.0/1</episode-num><episode-num system="onscreen">S01E167</episode-num><image>https://cdn.mitvstatic.com/programs/hn_la-hora-de-la-1-s00e167_l_m.jpg</image></programme>
 <programme start="20260825055000 +0000" stop="20260825083500 +0000" channel="hn#tve"><title lang="es">La hora de la 1</title><desc lang="es">Espacio con reportajes y entrevistas dedicados a analizar en profundidad el mundo de la política y la actualidad. El público podrá informarse de la forma más completa respecto del acontecer diario.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">0.166.0/1</episode-num><episode-num system="onscreen">S01E167</episode-num><image>https://cdn.mitvstatic.com/programs/hn_la-hora-de-la-1-s00e167_l_m.jpg</image></programme>
+<programme start="20260825055000 +0000" stop="20260825065000 +0000" channel="hn#tve"><title lang="es">La hora de la 1</title><desc lang="es">Espacio con reportajes y entrevistas dedicados a analizar en profundidad el mundo de la política y la actualidad. El público podrá informarse de la forma más completa respecto del acontecer diario.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">0.166.0/1</episode-num><episode-num system="onscreen">S01E167</episode-num><image>https://cdn.mitvstatic.com/programs/hn_la-hora-de-la-1-s00e167_l_m.jpg</image></programme>
 <programme start="20260825083500 +0000" stop="20260825122000 +0000" channel="hn#tve"><title lang="es">#Mañaneros</title><desc lang="es">Te esperamos todas las mañanas con toda la información que necesitás para empezar el día.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">0.761.0/1</episode-num><episode-num system="onscreen">S01E762</episode-num><image>https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg</image></programme>
 <programme start="20260825122000 +0000" stop="20260825125500 +0000" channel="hn#tve"><title lang="es">#Mañaneros</title><desc lang="es">Te esperamos todas las mañanas con toda la información que necesitás para empezar el día.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">0.761.0/1</episode-num><episode-num system="onscreen">S01E762</episode-num><image>https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg</image></programme>
 <programme start="20260825125500 +0000" stop="20260825133500 +0000" channel="hn#tve"><title lang="es">Telediario 1º edición</title><desc lang="es">Programa de noticias diarias nacionales e internacionales, en directo desde la primera edición del día para que no te pierdas ninguna información.</desc><category lang="es">Noticiero</category><image>https://cdn.mitvstatic.com/programs/hn_telediario-1-edicion_l_m.jpg</image></programme>
