@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20260824">
 <channel id="TVOCanal23.sv@SD"><display-name>TVO Canal 23</display-name><icon src="https://i.imgur.com/nsXXEUZ.png"/><url>https://mi.tv</url></channel>
-<channel id="sv#warner"><display-name>Warner Channel</display-name><url>https://mi.tv</url></channel>
-<channel id="VTVCanal35.sv@SD"><display-name>VTV</display-name><icon src="https://i.imgur.com/RSVzyzp.png"/><url>https://mi.tv</url></channel>
-<channel id="sv#vh1"><display-name>VH1</display-name><url>https://mi.tv</url></channel>
+<channel id="sv#a-e-mundo"><display-name>A&amp;E</display-name><url>https://mi.tv</url></channel>
+<channel id="sv#amc"><display-name>AMC</display-name><url>https://mi.tv</url></channel>
+<channel id="sv#animal-planet"><display-name>Animal Planet</display-name><url>https://mi.tv</url></channel>
 <channel id="sv#ve-plus-tv"><display-name>Ve Plus TV</display-name><url>https://mi.tv</url></channel>
 <channel id="sv#universal-channel"><display-name>Universal TV</display-name><url>https://mi.tv</url></channel>
 <channel id="sv#tvn-chile"><display-name>TVN Chile</display-name><url>https://mi.tv</url></channel>
@@ -84,9 +84,9 @@
 <channel id="sv#azteca-13"><display-name>Azteca 13</display-name><url>https://mi.tv</url></channel>
 <channel id="sv#az-corazon"><display-name>Az Corazón</display-name><url>https://mi.tv</url></channel>
 <channel id="sv#axn"><display-name>AXN</display-name><url>https://mi.tv</url></channel>
-<channel id="sv#animal-planet"><display-name>Animal Planet</display-name><url>https://mi.tv</url></channel>
-<channel id="sv#amc"><display-name>AMC</display-name><url>https://mi.tv</url></channel>
-<channel id="sv#a-e-mundo"><display-name>A&amp;E</display-name><url>https://mi.tv</url></channel>
+<channel id="VTVCanal35.sv@SD"><display-name>VTV</display-name><icon src="https://i.imgur.com/RSVzyzp.png"/><url>https://mi.tv</url></channel>
+<channel id="sv#vh1"><display-name>VH1</display-name><url>https://mi.tv</url></channel>
+<channel id="sv#warner"><display-name>Warner Channel</display-name><url>https://mi.tv</url></channel>
 <programme start="20260824050000 +0000" stop="20260824070000 +0000" channel="Canal2.sv@SD"><title lang="es">En brazos de un asesino</title><title lang="en">Thriller</title><desc lang="es">Sarai tenía solo catorce años cuando su madre la desarraigó para vivir en México con un infame narcotraficante. Con el tiempo se olvidó de lo que era vivir una vida normal, pero nunca abandonó su esperanza de escapar de ese lugar.</desc><image>https://cdn.mitvstatic.com/programs/fallback_movies_l_m.jpg</image></programme>
 <programme start="20260824070000 +0000" stop="20260824112500 +0000" channel="Canal2.sv@SD"><title lang="es">Cierre de transmisión</title><category lang="es">Variedades</category><image>https://cdn.mitvstatic.com/programs/sv_cierre-de-transmision_l_m.jpg</image></programme>
 <programme start="20260824112500 +0000" stop="20260824113000 +0000" channel="Canal2.sv@SD"><title lang="es">El minuto de María</title><desc lang="es">Le dedicamos un pequeño momento a la Virgen María, madre de todos los feligreses de Dios. Comparte con nosotros este pequeño espacio de oración y reflexión.</desc><category lang="es">Religioso</category><image>https://cdn.mitvstatic.com/programs/sv_el-minuto-de-maria_l_m.jpg</image></programme>
