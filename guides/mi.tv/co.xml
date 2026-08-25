@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20260825">
 <channel id="co#a-e-mundo"><display-name>A&amp;E</display-name><url>https://mi.tv</url></channel>
 <channel id="co#a-e-mundo-hd"><display-name>A&amp;E Mundo HD</display-name><url>https://mi.tv</url></channel>
-<channel id="co#zoom"><display-name>Zoom</display-name><url>https://mi.tv</url></channel>
-<channel id="WinSports.co@SD"><display-name>Win Sports HD</display-name><icon src="https://i.imgur.com/DuSSrHV.png"/><url>https://mi.tv</url></channel>
-<channel id="co#win-sports"><display-name>Win Sports</display-name><url>https://mi.tv</url></channel>
+<channel id="AlientoVision.us@SD"><display-name>Aliento Vision</display-name><icon src="https://i.imgur.com/xT10iqB.png"/><url>https://mi.tv</url></channel>
+<channel id="co#amc-hd"><display-name>AMC HD</display-name><url>https://mi.tv</url></channel>
+<channel id="co#amc"><display-name>AMC</display-name><url>https://mi.tv</url></channel>
 <channel id="co#warner"><display-name>Warner Channel</display-name><url>https://mi.tv</url></channel>
 <channel id="co#vmas-tv"><display-name>VMASTV</display-name><url>https://mi.tv</url></channel>
 <channel id="co#vh1-mega-hits"><display-name>VH1 Mega Hits</display-name><url>https://mi.tv</url></channel>
@@ -49,8 +49,6 @@
 <channel id="co#tbs-veryfunny-pan"><display-name>TBS</display-name><url>https://mi.tv</url></channel>
 <channel id="co#sun-channel-hd"><display-name>Sun Channel HD</display-name><url>https://mi.tv</url></channel>
 <channel id="SunChannel.ve@SD"><display-name>Sun Channel</display-name><icon src="https://i.imgur.com/B26qL3e.png"/><url>https://mi.tv</url></channel>
-<channel id="AlientoVision.us@SD"><display-name>Aliento Vision</display-name><icon src="https://i.imgur.com/xT10iqB.png"/><url>https://mi.tv</url></channel>
-<channel id="co#animal-planet"><display-name>Animal Planet</display-name><url>https://mi.tv</url></channel>
 <channel id="co#studio-universal"><display-name>Studio Universal</display-name><url>https://mi.tv</url></channel>
 <channel id="co#space-hd"><display-name>Space HD</display-name><url>https://mi.tv</url></channel>
 <channel id="co#space"><display-name>Space</display-name><url>https://mi.tv</url></channel>
@@ -136,8 +134,6 @@
 <channel id="co#fox-cinema"><display-name>Star Cinema</display-name><url>https://mi.tv</url></channel>
 <channel id="co#fox-action-oeste"><display-name>Star Action (Oeste)</display-name><url>https://mi.tv</url></channel>
 <channel id="co#fox-action-hd"><display-name>Star Action HD</display-name><url>https://mi.tv</url></channel>
-<channel id="AzMundo.mx@SD"><display-name>Az Mundo HD</display-name><icon src="https://i.imgur.com/a7Ejid0.png"/><url>https://mi.tv</url></channel>
-<channel id="co#canal-de-las-estrellas"><display-name>Las Estrellas</display-name><url>https://mi.tv</url></channel>
 <channel id="StarAction.us@SD"><display-name>Star Action</display-name><icon src="https://i.imgur.com/XD1Tpet.png"/><url>https://mi.tv</url></channel>
 <channel id="co#fox-1-oeste"><display-name>Star Series (Oeste)</display-name><url>https://mi.tv</url></channel>
 <channel id="StarSeries.us@SD"><display-name>Star Series HD</display-name><icon src="https://i.imgur.com/A977HvF.png"/><url>https://mi.tv</url></channel>
@@ -201,6 +197,7 @@
 <channel id="Trece.co@SD"><display-name>Canal TR3CE</display-name><icon src="https://i.imgur.com/jsuXXIg.png"/><url>https://mi.tv</url></channel>
 <channel id="CanalRCN.co@SD"><display-name>RCN HD</display-name><icon src="https://i.imgur.com/5PhTaHp.png"/><url>https://mi.tv</url></channel>
 <channel id="co#canal-de-las-estrellas-hd"><display-name>Canal de las Estrellas HD</display-name><url>https://mi.tv</url></channel>
+<channel id="co#canal-de-las-estrellas"><display-name>Las Estrellas</display-name><url>https://mi.tv</url></channel>
 <channel id="CanalCartagena.co@SD"><display-name>Canal Cartagena</display-name><icon src="https://i.imgur.com/1GSOBQO.png"/><url>https://mi.tv</url></channel>
 <channel id="CanalCapital.co@SD"><display-name>Canal Capital</display-name><icon src="https://i.imgur.com/zAYtbYi.png"/><url>https://mi.tv</url></channel>
 <channel id="CanalC.co@SD"><display-name>Canal C</display-name><icon src="https://i.imgur.com/0ff3XdX.png"/><url>https://mi.tv</url></channel>
@@ -211,12 +208,15 @@
 <channel id="co#bloomberg"><display-name>Bloomberg</display-name><url>https://mi.tv</url></channel>
 <channel id="co#bbc-world"><display-name>BBC World</display-name><url>https://mi.tv</url></channel>
 <channel id="co#azteca-13"><display-name>Azteca 13</display-name><url>https://mi.tv</url></channel>
+<channel id="AzMundo.mx@SD"><display-name>Az Mundo HD</display-name><icon src="https://i.imgur.com/a7Ejid0.png"/><url>https://mi.tv</url></channel>
 <channel id="co#az-corazon"><display-name>Az Corazón</display-name><url>https://mi.tv</url></channel>
 <channel id="co#axn-hd"><display-name>AXN HD</display-name><url>https://mi.tv</url></channel>
 <channel id="AXNLatinAmerica.us@Andes"><display-name>AXN</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png"/><url>https://mi.tv</url></channel>
 <channel id="co#antena3"><display-name>Antena 3</display-name><url>https://mi.tv</url></channel>
-<channel id="co#amc-hd"><display-name>AMC HD</display-name><url>https://mi.tv</url></channel>
-<channel id="co#amc"><display-name>AMC</display-name><url>https://mi.tv</url></channel>
+<channel id="co#animal-planet"><display-name>Animal Planet</display-name><url>https://mi.tv</url></channel>
+<channel id="co#zoom"><display-name>Zoom</display-name><url>https://mi.tv</url></channel>
+<channel id="WinSports.co@SD"><display-name>Win Sports HD</display-name><icon src="https://i.imgur.com/DuSSrHV.png"/><url>https://mi.tv</url></channel>
+<channel id="co#win-sports"><display-name>Win Sports</display-name><url>https://mi.tv</url></channel>
 <programme start="20260825060000 +0000" stop="20260825070000 +0000" channel="AlientoVision.us@SD"><title lang="es">Tu nueva vida</title><desc lang="es">Dios te está dando una nueva oportunidad cada día, sólo tienes que conocer y acercarte más a su palabra. Por eso el Pastor Julio Rodríguez te enseñara como estudiar la Biblia y poner en práctica los sagrados mandamientos.</desc><category lang="es">Religioso</category><image>https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg</image></programme>
 <programme start="20260825070000 +0000" stop="20260825073000 +0000" channel="AlientoVision.us@SD"><title lang="es">Vida dura</title><desc lang="es">Omar Murillo te presenta testimonios de personas cuyas vidas han sida transformadas.</desc><category lang="es">Religioso</category><image>https://cdn.mitvstatic.com/programs/co_vida-dura_l_m.jpg</image></programme>
 <programme start="20260825073000 +0000" stop="20260825080000 +0000" channel="AlientoVision.us@SD"><title lang="es">Beats</title><desc lang="es">Espacio musical donde conocerás a tus cantantes favoritos de cerca, a través de una amena conversación donde expondrán sus secretos mejor guardados.</desc><category lang="es">Entrevista</category><image>https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg</image></programme>
