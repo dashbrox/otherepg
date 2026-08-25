@@ -1,88 +1,88 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv date="20260825">
 <channel id="7tvmur"><display-name>7 TV Región Murcia</display-name><url>https://movistarplus.es</url></channel>
-<channel id="veo7"><display-name>Veo7</display-name><url>https://movistarplus.es</url></channel>
-<channel id="vamosd"><display-name>M+ Vamos</display-name><url>https://movistarplus.es</url></channel>
-<channel id="vam2sd"><display-name>M+ Vamos 2</display-name><url>https://movistarplus.es</url></channel>
-<channel id="usop11"><display-name>M+ Deportes 5</display-name><url>https://movistarplus.es</url></channel>
-<channel id="usop3"><display-name>M+ Deportes 4</display-name><url>https://movistarplus.es</url></channel>
-<channel id="usop2"><display-name>M+ Deportes 3</display-name><url>https://movistarplus.es</url></channel>
-<channel id="ucl"><display-name>UCL</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tvgal"><display-name>TVG -TV Galicia</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tvg2"><display-name>TVG 2</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tvg"><display-name>TVG Europa</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tve"><display-name>LA 1</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tvc"><display-name>TV3 Cat</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tv5"><display-name>TV5MONDE</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tv3cat"><display-name>TV3</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tpa"><display-name>TPA</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tnt"><display-name>Warner TV</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tlesur"><display-name>Telesur</display-name><url>https://movistarplus.es</url></channel>
-<channel id="ten"><display-name>Ten</display-name><url>https://movistarplus.es</url></channel>
-<channel id="telmin"><display-name>Telemadrid Int.</display-name><url>https://movistarplus.es</url></channel>
-<channel id="telmad"><display-name>Telemadrid</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tdep"><display-name>Teledeporte</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tcm"><display-name>TCM</display-name><url>https://movistarplus.es</url></channel>
-<channel id="t5"><display-name>Telecinco</display-name><url>https://movistarplus.es</url></channel>
-<channel id="squi"><display-name>Squirrel</display-name><url>https://movistarplus.es</url></channel>
-<channel id="skysho"><display-name>SkyShowtime 1</display-name><url>https://movistarplus.es</url></channel>
-<channel id="skynw"><display-name>Sky News</display-name><url>https://movistarplus.es</url></channel>
-<channel id="sexta"><display-name>La Sexta</display-name><url>https://movistarplus.es</url></channel>
-<channel id="set"><display-name>AXN Movies</display-name><url>https://movistarplus.es</url></channel>
-<channel id="sci-fi"><display-name>SYFY</display-name><url>https://movistarplus.es</url></channel>
-<channel id="red"><display-name>Canal RED</display-name><url>https://movistarplus.es</url></channel>
-<channel id="realm"><display-name>Real Madrid TV</display-name><url>https://movistarplus.es</url></channel>
-<channel id="popuhd"><display-name>M+ Wimbledon UHD</display-name><url>https://movistarplus.es</url></channel>
-<channel id="playdc"><display-name>Disney Channel</display-name><url>https://movistarplus.es</url></channel>
-<channel id="pcm"><display-name>Comedy Central</display-name><url>https://movistarplus.es</url></channel>
-<channel id="otra"><display-name>La Otra</display-name><url>https://movistarplus.es</url></channel>
-<channel id="nova"><display-name>Nova</display-name><url>https://movistarplus.es</url></channel>
-<channel id="nickjr"><display-name>NICK JR</display-name><url>https://movistarplus.es</url></channel>
-<channel id="nick"><display-name>Nickelodeon</display-name><url>https://movistarplus.es</url></channel>
-<channel id="neox"><display-name>Neox</display-name><url>https://movistarplus.es</url></channel>
-<channel id="negotv"><display-name>Negocios TV</display-name><url>https://movistarplus.es</url></channel>
-<channel id="nbc"><display-name>CNBC</display-name><url>https://movistarplus.es</url></channel>
-<channel id="nava"><display-name>Navarra TV</display-name><url>https://movistarplus.es</url></channel>
-<channel id="natgw"><display-name>Nat Geo Wild</display-name><url>https://movistarplus.es</url></channel>
-<channel id="natgeo"><display-name>National Geographic</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mvf1"><display-name>DAZN F1</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mvciva"><display-name>M+ Vacaciones</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mv1"><display-name>M+ Estrenos</display-name><url>https://movistarplus.es</url></channel>
-<channel id="multi8"><display-name>M+ Deportes 6</display-name><url>https://movistarplus.es</url></channel>
-<channel id="multi6"><display-name>M+ Deportes 7</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mtv"><display-name>MTV</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mplus"><display-name>Movistar Plus</display-name><url>https://movistarplus.es</url></channel>
-<channel id="morig"><display-name>M+ Originales</display-name><url>https://movistarplus.es</url></channel>
-<channel id="morgul"><display-name>M+ Orgullo</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mliuhd"><display-name>M+ LALIGA 2 HDR</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mliguh"><display-name>M+ LALIGA HDR</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mligs3"><display-name>LALIGA TV HYPERMOTION 3</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mligs2"><display-name>LALIGA TV HYPERMOTION 2</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mligs"><display-name>LALIGA TV HYPERMOTION</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mliga"><display-name>M+ LALIGA</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mlig3"><display-name>M+ LALIGA 4</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mlig2"><display-name>M+ LALIGA 3</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mlig1"><display-name>M+ LALIGA 2</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mindi"><display-name>M+ Indie</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mhits"><display-name>M+ Hits</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mezzo"><display-name>Mezzo</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mezzli"><display-name>Mezzo Live</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mellav"><display-name>M+ Vamos 3</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mega"><display-name>Mega</display-name><url>https://movistarplus.es</url></channel>
-<channel id="medite"><display-name>La Ocho TV</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mdoc"><display-name>M+ Documentales</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mcopa"><display-name>Primera Federación</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mclas"><display-name>M+ Clásicos</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mbalct"><display-name>M+ Baloncesto</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mbalc3"><display-name>M+ Baloncesto 3</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mbalc2"><display-name>M+ Baloncesto 2</display-name><url>https://movistarplus.es</url></channel>
-<channel id="maxava"><display-name>HBO Max Avances</display-name><url>https://movistarplus.es</url></channel>
-<channel id="m2sd"><display-name>DAZN 2</display-name><url>https://movistarplus.es</url></channel>
-<channel id="m1sd"><display-name>DAZN 1</display-name><url>https://movistarplus.es</url></channel>
-<channel id="la2"><display-name>LA 2</display-name><url>https://movistarplus.es</url></channel>
-<channel id="inteua"><display-name>1+1 Internacional</display-name><url>https://movistarplus.es</url></channel>
-<channel id="inteco"><display-name>El Toro TV</display-name><url>https://movistarplus.es</url></channel>
-<channel id="iberal"><display-name>Iberalia TV</display-name><url>https://movistarplus.es</url></channel>
+<channel id="13tv"><display-name>TRECE</display-name><url>https://movistarplus.es</url></channel>
+<channel id="3_24"><display-name>3CatInfo</display-name><url>https://movistarplus.es</url></channel>
+<channel id="antv"><display-name>Canal Sur Andalucía</display-name><url>https://movistarplus.es</url></channel>
+<channel id="axn"><display-name>AXN</display-name><url>https://movistarplus.es</url></channel>
+<channel id="canar"><display-name>TV Canaria</display-name><url>https://movistarplus.es</url></channel>
+<channel id="dazmot"><display-name>DAZN MotoGP</display-name><url>https://movistarplus.es</url></channel>
+<channel id="dazba"><display-name>DAZN Baloncesto</display-name><url>https://movistarplus.es</url></channel>
+<channel id="can33"><display-name>33</display-name><url>https://movistarplus.es</url></channel>
+<channel id="dazb3"><display-name>DAZN Baloncesto 3</display-name><url>https://movistarplus.es</url></channel>
+<channel id="dazb2"><display-name>DAZN Baloncesto 2</display-name><url>https://movistarplus.es</url></channel>
+<channel id="atress"><display-name>Atreseries</display-name><url>https://movistarplus.es</url></channel>
+<channel id="c33"><display-name>SX3</display-name><url>https://movistarplus.es</url></channel>
+<channel id="dayst"><display-name>Daystar Español HD</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cyltv"><display-name>La 7</display-name><url>https://movistarplus.es</url></channel>
+<channel id="c4"><display-name>Cuatro</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cubav"><display-name>Cubavisión</display-name><url>https://movistarplus.es</url></channel>
+<channel id="csurhd"><display-name>Canal Sur HD</display-name><url>https://movistarplus.es</url></channel>
+<channel id="andatv"><display-name>Andalucía TV</display-name><url>https://movistarplus.es</url></channel>
+<channel id="atlat"><display-name>Atlántico TV</display-name><url>https://movistarplus.es</url></channel>
+<channel id="btv"><display-name>Betevé</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cpdep"><display-name>M+ Deportes</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cpcome"><display-name>M+ Comedia</display-name><url>https://movistarplus.es</url></channel>
+<channel id="boing"><display-name>Boing</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cpcole"><display-name>M+ Drama</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cpacci"><display-name>M+ Acción</display-name><url>https://movistarplus.es</url></channel>
+<channel id="arthur"><display-name>M+ Deportes 2</display-name><url>https://movistarplus.es</url></channel>
+<channel id="bl"><display-name>Bloomberg</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cosmo"><display-name>COSMO</display-name><url>https://movistarplus.es</url></channel>
+<channel id="colomb"><display-name>TV Colombia</display-name><url>https://movistarplus.es</url></channel>
+<channel id="bemad"><display-name>BE MAD</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cnn"><display-name>CNN Int</display-name><url>https://movistarplus.es</url></channel>
+<channel id="classd"><display-name>Classica</display-name><url>https://movistarplus.es</url></channel>
+<channel id="24h"><display-name>24 Horas</display-name><url>https://movistarplus.es</url></channel>
+<channel id="aljaze"><display-name>Al Jazeera English</display-name><url>https://movistarplus.es</url></channel>
+<channel id="arirhd"><display-name>Arirang TV HD</display-name><url>https://movistarplus.es</url></channel>
+<channel id="bbhis"><display-name>BBC History</display-name><url>https://movistarplus.es</url></channel>
+<channel id="clantv"><display-name>Clan TVE</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cl13"><display-name>Calle 13</display-name><url>https://movistarplus.es</url></channel>
+<channel id="bbgea"><display-name>BBC Top Gear</display-name><url>https://movistarplus.es</url></channel>
+<channel id="chile"><display-name>TV Chile</display-name><url>https://movistarplus.es</url></channel>
+<channel id="chapio"><display-name>M+ Liga de Campeones</display-name><url>https://movistarplus.es</url></channel>
+<channel id="aragtv"><display-name>Aragón TV</display-name><url>https://movistarplus.es</url></channel>
+<channel id="bbfoo"><display-name>BBC Food</display-name><url>https://movistarplus.es</url></channel>
+<channel id="chap4"><display-name>M+ Liga de Campeones 5</display-name><url>https://movistarplus.es</url></channel>
+<channel id="chap3"><display-name>M+ Liga de Campeones 4</display-name><url>https://movistarplus.es</url></channel>
+<channel id="bbdra"><display-name>BBC Series</display-name><url>https://movistarplus.es</url></channel>
+<channel id="chap2"><display-name>M+ Liga de Campeones 3</display-name><url>https://movistarplus.es</url></channel>
+<channel id="etb3"><display-name>etb1ON</display-name><url>https://movistarplus.es</url></channel>
+<channel id="chap1"><display-name>M+ Liga de Campeones 2</display-name><url>https://movistarplus.es</url></channel>
+<channel id="etb2"><display-name>etb2</display-name><url>https://movistarplus.es</url></channel>
+<channel id="etb1"><display-name>etb1</display-name><url>https://movistarplus.es</url></channel>
+<channel id="a3"><display-name>Antena 3</display-name><url>https://movistarplus.es</url></channel>
+<channel id="aragon"><display-name>Aragón TV Int</display-name><url>https://movistarplus.es</url></channel>
+<channel id="bbclif"><display-name>BBC Lifestyle</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cgtnfr"><display-name>CGTN Français HD</display-name><url>https://movistarplus.es</url></channel>
+<channel id="etb"><display-name>etb2ON</display-name><url>https://movistarplus.es</url></channel>
+<channel id="esp3"><display-name>Esport 3</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cgtnen"><display-name>CGTN English HD</display-name><url>https://movistarplus.es</url></channel>
+<channel id="esp2"><display-name>Eurosport 2</display-name><url>https://movistarplus.es</url></channel>
+<channel id="esp"><display-name>Eurosport 1</display-name><url>https://movistarplus.es</url></channel>
+<channel id="bbcear"><display-name>BBC Earth</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cgtndo"><display-name>CGTN Documentary HD</display-name><url>https://movistarplus.es</url></channel>
+<channel id="enw"><display-name>Euronews</display-name><url>https://movistarplus.es</url></channel>
+<channel id="energy"><display-name>Energy</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cgtnd"><display-name>CGTN Documentary</display-name><url>https://movistarplus.es</url></channel>
+<channel id="dwsp"><display-name>Dreamworks</display-name><url>https://movistarplus.es</url></channel>
+<channel id="dkiss"><display-name>DKISS</display-name><url>https://movistarplus.es</url></channel>
+<channel id="apunt"><display-name>À Punt</display-name><url>https://movistarplus.es</url></channel>
+<channel id="bbc"><display-name>BBC News</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cctv-e"><display-name>CGTN Español</display-name><url>https://movistarplus.es</url></channel>
+<channel id="divini"><display-name>Divinity</display-name><url>https://movistarplus.es</url></channel>
+<channel id="dcrmax"><display-name>DMAX</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cazpes"><display-name>Caza y Pesca</display-name><url>https://movistarplus.es</url></channel>
+<channel id="dcr"><display-name>Discovery</display-name><url>https://movistarplus.es</url></channel>
+<channel id="dcesp"><display-name>M+ Cine Español</display-name><url>https://movistarplus.es</url></channel>
+<channel id="baby"><display-name>Baby TV</display-name><url>https://movistarplus.es</url></channel>
+<channel id="casman"><display-name>Castilla la Mancha TV</display-name><url>https://movistarplus.es</url></channel>
+<channel id="daznli"><display-name>DAZN LALIGA</display-name><url>https://movistarplus.es</url></channel>
+<channel id="daznl2"><display-name>DAZN LALIGA 2</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cansur"><display-name>Canal Sur</display-name><url>https://movistarplus.es</url></channel>
+<channel id="dazn4"><display-name>DAZN 4</display-name><url>https://movistarplus.es</url></channel>
+<channel id="dazn3"><display-name>DAZN 3</display-name><url>https://movistarplus.es</url></channel>
 <channel id="ib3"><display-name>IB3</display-name><url>https://movistarplus.es</url></channel>
 <channel id="golf+"><display-name>M+ Golf</display-name><url>https://movistarplus.es</url></channel>
 <channel id="golf2"><display-name>M+ Golf 2</display-name><url>https://movistarplus.es</url></channel>
@@ -98,88 +98,88 @@
 <channel id="extrem"><display-name>Canal Extremadura Sat</display-name><url>https://movistarplus.es</url></channel>
 <channel id="extre"><display-name>Canal Extremadura</display-name><url>https://movistarplus.es</url></channel>
 <channel id="ewtn"><display-name>EWTN</display-name><url>https://movistarplus.es</url></channel>
-<channel id="etb3"><display-name>etb1ON</display-name><url>https://movistarplus.es</url></channel>
-<channel id="etb2"><display-name>etb2</display-name><url>https://movistarplus.es</url></channel>
-<channel id="etb1"><display-name>etb1</display-name><url>https://movistarplus.es</url></channel>
-<channel id="etb"><display-name>etb2ON</display-name><url>https://movistarplus.es</url></channel>
-<channel id="esp3"><display-name>Esport 3</display-name><url>https://movistarplus.es</url></channel>
-<channel id="esp2"><display-name>Eurosport 2</display-name><url>https://movistarplus.es</url></channel>
-<channel id="esp"><display-name>Eurosport 1</display-name><url>https://movistarplus.es</url></channel>
-<channel id="enw"><display-name>Euronews</display-name><url>https://movistarplus.es</url></channel>
-<channel id="energy"><display-name>Energy</display-name><url>https://movistarplus.es</url></channel>
-<channel id="dwsp"><display-name>Dreamworks</display-name><url>https://movistarplus.es</url></channel>
-<channel id="dkiss"><display-name>DKISS</display-name><url>https://movistarplus.es</url></channel>
-<channel id="divini"><display-name>Divinity</display-name><url>https://movistarplus.es</url></channel>
-<channel id="dcrmax"><display-name>DMAX</display-name><url>https://movistarplus.es</url></channel>
-<channel id="dcr"><display-name>Discovery</display-name><url>https://movistarplus.es</url></channel>
-<channel id="dcesp"><display-name>M+ Cine Español</display-name><url>https://movistarplus.es</url></channel>
-<channel id="daznli"><display-name>DAZN LALIGA</display-name><url>https://movistarplus.es</url></channel>
-<channel id="daznl2"><display-name>DAZN LALIGA 2</display-name><url>https://movistarplus.es</url></channel>
-<channel id="dazn4"><display-name>DAZN 4</display-name><url>https://movistarplus.es</url></channel>
-<channel id="dazn3"><display-name>DAZN 3</display-name><url>https://movistarplus.es</url></channel>
-<channel id="dazmot"><display-name>DAZN MotoGP</display-name><url>https://movistarplus.es</url></channel>
-<channel id="dazba"><display-name>DAZN Baloncesto</display-name><url>https://movistarplus.es</url></channel>
-<channel id="dazb3"><display-name>DAZN Baloncesto 3</display-name><url>https://movistarplus.es</url></channel>
-<channel id="dazb2"><display-name>DAZN Baloncesto 2</display-name><url>https://movistarplus.es</url></channel>
-<channel id="dayst"><display-name>Daystar Español HD</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cyltv"><display-name>La 7</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cubav"><display-name>Cubavisión</display-name><url>https://movistarplus.es</url></channel>
-<channel id="csurhd"><display-name>Canal Sur HD</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cpdep"><display-name>M+ Deportes</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cpcome"><display-name>M+ Comedia</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cpcole"><display-name>M+ Drama</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cpacci"><display-name>M+ Acción</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cosmo"><display-name>COSMO</display-name><url>https://movistarplus.es</url></channel>
-<channel id="colomb"><display-name>TV Colombia</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cnn"><display-name>CNN Int</display-name><url>https://movistarplus.es</url></channel>
-<channel id="classd"><display-name>Classica</display-name><url>https://movistarplus.es</url></channel>
-<channel id="clantv"><display-name>Clan TVE</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cl13"><display-name>Calle 13</display-name><url>https://movistarplus.es</url></channel>
-<channel id="chile"><display-name>TV Chile</display-name><url>https://movistarplus.es</url></channel>
-<channel id="chapio"><display-name>M+ Liga de Campeones</display-name><url>https://movistarplus.es</url></channel>
-<channel id="chap4"><display-name>M+ Liga de Campeones 5</display-name><url>https://movistarplus.es</url></channel>
-<channel id="chap3"><display-name>M+ Liga de Campeones 4</display-name><url>https://movistarplus.es</url></channel>
-<channel id="chap2"><display-name>M+ Liga de Campeones 3</display-name><url>https://movistarplus.es</url></channel>
-<channel id="chap1"><display-name>M+ Liga de Campeones 2</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cgtnfr"><display-name>CGTN Français HD</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cgtnen"><display-name>CGTN English HD</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cgtndo"><display-name>CGTN Documentary HD</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cgtnd"><display-name>CGTN Documentary</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cctv-e"><display-name>CGTN Español</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cazpes"><display-name>Caza y Pesca</display-name><url>https://movistarplus.es</url></channel>
-<channel id="casman"><display-name>Castilla la Mancha TV</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cansur"><display-name>Canal Sur</display-name><url>https://movistarplus.es</url></channel>
-<channel id="canar"><display-name>TV Canaria</display-name><url>https://movistarplus.es</url></channel>
-<channel id="can33"><display-name>33</display-name><url>https://movistarplus.es</url></channel>
-<channel id="c33"><display-name>SX3</display-name><url>https://movistarplus.es</url></channel>
-<channel id="c4"><display-name>Cuatro</display-name><url>https://movistarplus.es</url></channel>
-<channel id="btv"><display-name>Betevé</display-name><url>https://movistarplus.es</url></channel>
-<channel id="boing"><display-name>Boing</display-name><url>https://movistarplus.es</url></channel>
-<channel id="bl"><display-name>Bloomberg</display-name><url>https://movistarplus.es</url></channel>
-<channel id="bemad"><display-name>BE MAD</display-name><url>https://movistarplus.es</url></channel>
-<channel id="bbhis"><display-name>BBC History</display-name><url>https://movistarplus.es</url></channel>
-<channel id="bbgea"><display-name>BBC Top Gear</display-name><url>https://movistarplus.es</url></channel>
-<channel id="bbfoo"><display-name>BBC Food</display-name><url>https://movistarplus.es</url></channel>
-<channel id="bbdra"><display-name>BBC Series</display-name><url>https://movistarplus.es</url></channel>
-<channel id="bbclif"><display-name>BBC Lifestyle</display-name><url>https://movistarplus.es</url></channel>
-<channel id="bbcear"><display-name>BBC Earth</display-name><url>https://movistarplus.es</url></channel>
-<channel id="bbc"><display-name>BBC News</display-name><url>https://movistarplus.es</url></channel>
-<channel id="baby"><display-name>Baby TV</display-name><url>https://movistarplus.es</url></channel>
-<channel id="axn"><display-name>AXN</display-name><url>https://movistarplus.es</url></channel>
-<channel id="atress"><display-name>Atreseries</display-name><url>https://movistarplus.es</url></channel>
-<channel id="atlat"><display-name>Atlántico TV</display-name><url>https://movistarplus.es</url></channel>
-<channel id="arthur"><display-name>M+ Deportes 2</display-name><url>https://movistarplus.es</url></channel>
-<channel id="arirhd"><display-name>Arirang TV HD</display-name><url>https://movistarplus.es</url></channel>
-<channel id="aragtv"><display-name>Aragón TV</display-name><url>https://movistarplus.es</url></channel>
-<channel id="aragon"><display-name>Aragón TV Int</display-name><url>https://movistarplus.es</url></channel>
-<channel id="apunt"><display-name>À Punt</display-name><url>https://movistarplus.es</url></channel>
-<channel id="antv"><display-name>Canal Sur Andalucía</display-name><url>https://movistarplus.es</url></channel>
-<channel id="andatv"><display-name>Andalucía TV</display-name><url>https://movistarplus.es</url></channel>
-<channel id="aljaze"><display-name>Al Jazeera English</display-name><url>https://movistarplus.es</url></channel>
-<channel id="a3"><display-name>Antena 3</display-name><url>https://movistarplus.es</url></channel>
-<channel id="3_24"><display-name>3CatInfo</display-name><url>https://movistarplus.es</url></channel>
-<channel id="24h"><display-name>24 Horas</display-name><url>https://movistarplus.es</url></channel>
-<channel id="13tv"><display-name>TRECE</display-name><url>https://movistarplus.es</url></channel>
+<channel id="natgeo"><display-name>National Geographic</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mvciva"><display-name>M+ Vacaciones</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mv1"><display-name>M+ Estrenos</display-name><url>https://movistarplus.es</url></channel>
+<channel id="multi8"><display-name>M+ Deportes 6</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mplus"><display-name>Movistar Plus</display-name><url>https://movistarplus.es</url></channel>
+<channel id="morig"><display-name>M+ Originales</display-name><url>https://movistarplus.es</url></channel>
+<channel id="morgul"><display-name>M+ Orgullo</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mliuhd"><display-name>M+ LALIGA 2 HDR</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mliguh"><display-name>M+ LALIGA HDR</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mligs3"><display-name>LALIGA TV HYPERMOTION 3</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mligs"><display-name>LALIGA TV HYPERMOTION</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mliga"><display-name>M+ LALIGA</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mlig3"><display-name>M+ LALIGA 4</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mlig1"><display-name>M+ LALIGA 2</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mindi"><display-name>M+ Indie</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mhits"><display-name>M+ Hits</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mezzli"><display-name>Mezzo Live</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mellav"><display-name>M+ Vamos 3</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mega"><display-name>Mega</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mdoc"><display-name>M+ Documentales</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mcopa"><display-name>Primera Federación</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mclas"><display-name>M+ Clásicos</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mbalc3"><display-name>M+ Baloncesto 3</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mbalc2"><display-name>M+ Baloncesto 2</display-name><url>https://movistarplus.es</url></channel>
+<channel id="maxava"><display-name>HBO Max Avances</display-name><url>https://movistarplus.es</url></channel>
+<channel id="m2sd"><display-name>DAZN 2</display-name><url>https://movistarplus.es</url></channel>
+<channel id="m1sd"><display-name>DAZN 1</display-name><url>https://movistarplus.es</url></channel>
+<channel id="la2"><display-name>LA 2</display-name><url>https://movistarplus.es</url></channel>
+<channel id="veo7"><display-name>Veo7</display-name><url>https://movistarplus.es</url></channel>
+<channel id="vamosd"><display-name>M+ Vamos</display-name><url>https://movistarplus.es</url></channel>
+<channel id="vam2sd"><display-name>M+ Vamos 2</display-name><url>https://movistarplus.es</url></channel>
+<channel id="usop11"><display-name>M+ Deportes 5</display-name><url>https://movistarplus.es</url></channel>
+<channel id="usop3"><display-name>M+ Deportes 4</display-name><url>https://movistarplus.es</url></channel>
+<channel id="usop2"><display-name>M+ Deportes 3</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tvgal"><display-name>TVG -TV Galicia</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tvg2"><display-name>TVG 2</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tvg"><display-name>TVG Europa</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tvc"><display-name>TV3 Cat</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tv5"><display-name>TV5MONDE</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tv3cat"><display-name>TV3</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tnt"><display-name>Warner TV</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tlesur"><display-name>Telesur</display-name><url>https://movistarplus.es</url></channel>
+<channel id="ten"><display-name>Ten</display-name><url>https://movistarplus.es</url></channel>
+<channel id="telmad"><display-name>Telemadrid</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tdep"><display-name>Teledeporte</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tcm"><display-name>TCM</display-name><url>https://movistarplus.es</url></channel>
+<channel id="squi"><display-name>Squirrel</display-name><url>https://movistarplus.es</url></channel>
+<channel id="skysho"><display-name>SkyShowtime 1</display-name><url>https://movistarplus.es</url></channel>
+<channel id="skynw"><display-name>Sky News</display-name><url>https://movistarplus.es</url></channel>
+<channel id="sexta"><display-name>La Sexta</display-name><url>https://movistarplus.es</url></channel>
+<channel id="set"><display-name>AXN Movies</display-name><url>https://movistarplus.es</url></channel>
+<channel id="sci-fi"><display-name>SYFY</display-name><url>https://movistarplus.es</url></channel>
+<channel id="popuhd"><display-name>M+ Wimbledon UHD</display-name><url>https://movistarplus.es</url></channel>
+<channel id="playdc"><display-name>Disney Channel</display-name><url>https://movistarplus.es</url></channel>
+<channel id="pcm"><display-name>Comedy Central</display-name><url>https://movistarplus.es</url></channel>
+<channel id="nova"><display-name>Nova</display-name><url>https://movistarplus.es</url></channel>
+<channel id="nickjr"><display-name>NICK JR</display-name><url>https://movistarplus.es</url></channel>
+<channel id="nick"><display-name>Nickelodeon</display-name><url>https://movistarplus.es</url></channel>
+<channel id="negotv"><display-name>Negocios TV</display-name><url>https://movistarplus.es</url></channel>
+<channel id="nbc"><display-name>CNBC</display-name><url>https://movistarplus.es</url></channel>
+<channel id="nava"><display-name>Navarra TV</display-name><url>https://movistarplus.es</url></channel>
+<channel id="natgw"><display-name>Nat Geo Wild</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mvf1"><display-name>DAZN F1</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mligs2"><display-name>LALIGA TV HYPERMOTION 2</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mlig2"><display-name>M+ LALIGA 3</display-name><url>https://movistarplus.es</url></channel>
+<channel id="medite"><display-name>La Ocho TV</display-name><url>https://movistarplus.es</url></channel>
+<channel id="inteua"><display-name>1+1 Internacional</display-name><url>https://movistarplus.es</url></channel>
+<channel id="ucl"><display-name>UCL</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tve"><display-name>LA 1</display-name><url>https://movistarplus.es</url></channel>
+<channel id="telmin"><display-name>Telemadrid Int.</display-name><url>https://movistarplus.es</url></channel>
+<channel id="red"><display-name>Canal RED</display-name><url>https://movistarplus.es</url></channel>
+<channel id="otra"><display-name>La Otra</display-name><url>https://movistarplus.es</url></channel>
+<channel id="multi6"><display-name>M+ Deportes 7</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mezzo"><display-name>Mezzo</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mbalct"><display-name>M+ Baloncesto</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tpa"><display-name>TPA</display-name><url>https://movistarplus.es</url></channel>
+<channel id="t5"><display-name>Telecinco</display-name><url>https://movistarplus.es</url></channel>
+<channel id="neox"><display-name>Neox</display-name><url>https://movistarplus.es</url></channel>
+<channel id="inteco"><display-name>El Toro TV</display-name><url>https://movistarplus.es</url></channel>
+<channel id="realm"><display-name>Real Madrid TV</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mtv"><display-name>MTV</display-name><url>https://movistarplus.es</url></channel>
+<channel id="iberal"><display-name>Iberalia TV</display-name><url>https://movistarplus.es</url></channel>
 <programme start="20260825050000 +0000" stop="20260825060000 +0000" channel="7tvmur"><title lang="es">Murcia a la vista</title><desc lang="es">Los reporteros del programa se lanzan a las calles, playas o pueblos de la Región para recoger todo lo que ocurre en la Comunidad, tomando el pulso de los ciudadanos sobre los temas más llamativos que se dan cada día en toda la geografía murciana.</desc></programme>
 <programme start="20260825060000 +0000" stop="20260825070000 +0000" channel="7tvmur"><title lang="es">Onda regional Noticias</title><desc lang="es">Toda la actualidad de la región a La 7, con información matinal y resúmenes semanales, conectando radio y TV en un formato dinámico y cercano.</desc></programme>
 <programme start="20260825070000 +0000" stop="20260825100000 +0000" channel="7tvmur"><title lang="es">7Noticias Matinal</title><desc lang="es">Primera edición informativa de la cadena presentada por Marienca Fernández y Tati García.</desc></programme>
@@ -694,14 +694,14 @@
 <programme start="20260826040000 +0000" stop="20260826220000 +0000" channel="arirhd"><title lang="es">Arirang TV HD</title></programme>
 <programme start="20260825060000 +0000" stop="20260825130000 +0000" channel="arthur"><title lang="es">M+ Deportes 2</title></programme>
 <programme start="20260825130000 +0000" stop="20260825150000 +0000" channel="arthur"><title lang="es">M+ Deportes 2</title></programme>
-<programme start="20260825150000 +0000" stop="20260825160000 +0000" channel="arthur"><title lang="es">US Open (2026): Sabalenka/Djokovic vs Siniakova/Patten</title><desc lang="es">Los Grand Slam son los torneos más importantes del circuito del tenis. Cada temporada, cuatro ciudades albergan estos eventos cargados de tradición: Melbourne, París, Londres y Nueva York.</desc></programme>
-<programme start="20260825160000 +0000" stop="20260825170000 +0000" channel="arthur"><title lang="es">US Open (T2026): Dobles Mixtos TBC (partido 2)</title><desc lang="es">Los Grand Slam son los torneos más importantes del circuito del tenis. Cada temporada, cuatro ciudades albergan estos eventos cargados de tradición: Melbourne, París, Londres y Nueva York.</desc></programme>
-<programme start="20260825170000 +0000" stop="20260825180000 +0000" channel="arthur"><title lang="es">US Open (2026): Bencic/Cobolli vs Townsend/Zverev</title><desc lang="es">Los Grand Slam son los torneos más importantes del circuito del tenis. Cada temporada, cuatro ciudades albergan estos eventos cargados de tradición: Melbourne, París, Londres y Nueva York.</desc></programme>
-<programme start="20260825180000 +0000" stop="20260825191500 +0000" channel="arthur"><title lang="es">US Open (2026): Williams/Alcaraz vs Routliffe/Glasspool</title><desc lang="es">Los Grand Slam son los torneos más importantes del circuito del tenis. Cada temporada, cuatro ciudades albergan estos eventos cargados de tradición: Melbourne, París, Londres y Nueva York.</desc></programme>
-<programme start="20260825191500 +0000" stop="20260825214500 +0000" channel="arthur"><title lang="es">US Open (T2026): Dobles Mixtos TBC (partido 5)</title><desc lang="es">Los Grand Slam son los torneos más importantes del circuito del tenis. Cada temporada, cuatro ciudades albergan estos eventos cargados de tradición: Melbourne, París, Londres y Nueva York.</desc></programme>
-<programme start="20260825214500 +0000" stop="20260826000000 +0000" channel="arthur"><title lang="es">M+ Deportes 2</title></programme>
+<programme start="20260825150000 +0000" stop="20260825161000 +0000" channel="arthur"><title lang="es">US Open (2026): Sabalenka/Djokovic vs Siniakova/Patten</title><desc lang="es">Los Grand Slam son los torneos más importantes del circuito del tenis. Cada temporada, cuatro ciudades albergan estos eventos cargados de tradición: Melbourne, París, Londres y Nueva York.</desc></programme>
+<programme start="20260825161000 +0000" stop="20260825171000 +0000" channel="arthur"><title lang="es">US Open (T2026): Dobles Mixtos TBC (partido 2)</title><desc lang="es">Los Grand Slam son los torneos más importantes del circuito del tenis. Cada temporada, cuatro ciudades albergan estos eventos cargados de tradición: Melbourne, París, Londres y Nueva York.</desc></programme>
+<programme start="20260825171000 +0000" stop="20260825181000 +0000" channel="arthur"><title lang="es">US Open (2026): Bencic/Cobolli vs Townsend/Zverev</title><desc lang="es">Los Grand Slam son los torneos más importantes del circuito del tenis. Cada temporada, cuatro ciudades albergan estos eventos cargados de tradición: Melbourne, París, Londres y Nueva York.</desc></programme>
+<programme start="20260825181000 +0000" stop="20260825192500 +0000" channel="arthur"><title lang="es">US Open (2026): Williams/Alcaraz vs Routliffe/Glasspool</title><desc lang="es">Los Grand Slam son los torneos más importantes del circuito del tenis. Cada temporada, cuatro ciudades albergan estos eventos cargados de tradición: Melbourne, París, Londres y Nueva York.</desc></programme>
+<programme start="20260825192500 +0000" stop="20260825215500 +0000" channel="arthur"><title lang="es">US Open (T2026): Dobles Mixtos TBC (partido 5)</title><desc lang="es">Los Grand Slam son los torneos más importantes del circuito del tenis. Cada temporada, cuatro ciudades albergan estos eventos cargados de tradición: Melbourne, París, Londres y Nueva York.</desc></programme>
+<programme start="20260825215500 +0000" stop="20260826001000 +0000" channel="arthur"><title lang="es">M+ Deportes 2</title></programme>
 <programme start="20260825220000 +0000" stop="20260826060000 +0000" channel="arthur"><title lang="es">M+ Deportes 2</title></programme>
-<programme start="20260826000000 +0000" stop="20260826020000 +0000" channel="arthur"><title lang="es">US Open (T2026): Homenaje a Roger Federer</title><desc lang="es">Los Grand Slam son los torneos más importantes del circuito del tenis. Cada temporada, cuatro ciudades albergan estos eventos cargados de tradición: Melbourne, París, Londres y Nueva York.</desc></programme>
+<programme start="20260826001000 +0000" stop="20260826020000 +0000" channel="arthur"><title lang="es">US Open (T2026): Homenaje a Roger Federer</title><desc lang="es">Los Grand Slam son los torneos más importantes del circuito del tenis. Cada temporada, cuatro ciudades albergan estos eventos cargados de tradición: Melbourne, París, Londres y Nueva York.</desc></programme>
 <programme start="20260826020000 +0000" stop="20260826220000 +0000" channel="arthur"><title lang="es">M+ Deportes 2</title></programme>
 <programme start="20260826030000 +0000" stop="20260826220000 +0000" channel="arthur"><title lang="es">M+ Deportes 2</title></programme>
 <programme start="20260826060000 +0000" stop="20260826130000 +0000" channel="arthur"><title lang="es">M+ Deportes 2</title></programme>
@@ -3136,14 +3136,14 @@
 <programme start="20260825124000 +0000" stop="20260825152500 +0000" channel="cpdep"><title lang="es">Diamond League (T2026): Lausanne. Pértiga</title><desc lang="es">La Diamond League volverá a ser uno de los grandes focos de atención del atletismo en la temporada 2025. Serán 14 citas repartidas entre Europa, Asia, África y Estados Unidos, con la gran final de regreso en Zúrich (Suiza) durante el 27 y 28 de agosto. Un circuito que este año celebrará su final antes del Campeonato del Mundo de Tokio que está programado para mediados de septiembre.</desc></programme>
 <programme start="20260825152500 +0000" stop="20260825162500 +0000" channel="cpdep"><title lang="es">Vamos al Frontón (2026): Ezkurdia/Albisu vs Elordi/Mariezkurrena II. Final del Torneo de Ciudad de Donostia</title><desc lang="es">Pelota de calidad en Elizondo. La jornada 5 del Masters CaixaBank nos ofrece un gran partido entre Ezkurdia - Albisu ante Elordi - Mariezkurrena II. Dos zagueros con pegada y que saben manejar los partidos. Y en los cuadros alegres, la experiencia y defensa de Ezkurdia ante la chispa de Elordi a la hora de acabar el tanto.</desc></programme>
 <programme start="20260825162500 +0000" stop="20260825174000 +0000" channel="cpdep"><title lang="es">NCAA (T25/26): Texas - Gonzaga</title><desc lang="es">Arranca la NCAA, la competición que nos hace disfrutar del mejor baloncesto universitario del mundo. 68 equipos luchan por llegar a la gran final de esta 80ª edición, donde North Carolina defiende título.</desc></programme>
-<programme start="20260825174000 +0000" stop="20260825184000 +0000" channel="cpdep"><title lang="es">Highlights ATP (T2026): Cincinnati</title><desc lang="es">Repaso de los mejores puntos, todas las imágenes y los grandes momentos de los torneos de ATP</desc></programme>
+<programme start="20260825174000 +0000" stop="20260825184000 +0000" channel="cpdep"><title lang="es">Informe Plus+. Golden Boys 2.0. El relevo del baloncesto español</title><desc lang="es">En 1999 una nueva generación de jugadores españoles llamaba a las puertas de la selección absoluta después de conquistar el Mundial Junior de Lisboa. 24 años después una renovada hornada de jóvenes españoles ha retomado el camino marcado en su día por Pau Gasol, Navarro, Felipe Reyes y Raúl López. El baloncesto que han conocido Izan Almansa, Baba Miller, Aday Mara y compañía poco tiene que ver con el de finales del siglo XX. El potencial, ambición y ganas de hacer historia de esta nueva generación son idénticos.</desc></programme>
 <programme start="20260825184000 +0000" stop="20260825194000 +0000" channel="cpdep"><title lang="es">Highlights SailGP (T2026): Alemania</title><desc lang="es">Resumen con los mejores momentos de SailGP.</desc></programme>
 <programme start="20260825194000 +0000" stop="20260825213300 +0000" channel="cpdep"><title lang="es">Rugby Test Matches Internationals (2026): Sudáfrica vs Nueva Zelanda</title><desc lang="es">Sudáfrica y Nueva Zelanda, los dos colosos del rugby mundial, abren sus Series del 'Rugby's Greatest Rivalry' con el primer duelo en Johannesburgo. Los Springboks, N°1 del ránking mundial, estuvieron intratables en la primera parte del Nations Championship con pleno de victorias y ahora salen con su equipo de gala para sumar el primer triunfo ante los kiwis. Enfrente, los All Blacks también ganaron sus tres partidos del Nations Championship y llegan fuertes para tomar Ellis Park tras batir a las franquicias bokke Stormers, Sharks y Bulls en los choques de preparación. Imperdible.</desc></programme>
 <programme start="20260825213300 +0000" stop="20260825215000 +0000" channel="cpdep"><title lang="es">Eurofighters Minuto De Infarto (T2026): Episodio 4</title></programme>
 <programme start="20260825215000 +0000" stop="20260826031000 +0000" channel="cpdep"><title lang="es">Professional Fighters League (T2026): Velada Completa Tampa</title><desc lang="es">Las World Series of Fighting son una promotora de artes marciales mixtas auspiciada por la NBC. La velada 35 se celebra en el Turning Stone Resort Casino de Verona, en Nueva York. Destacan los combates entre Ivanov y Jordan; Palmer vs Harrison; o Magomedov vs Frelow.</desc></programme>
 <programme start="20260826031000 +0000" stop="20260826041000 +0000" channel="cpdep"><title lang="es">Informe Plus+. Ilia Topuria, El Matador</title><desc lang="es">Las artes marciales mixtas son una disciplina emergente dentro de los deportes de lucha, en esta suma de especialidades de combate la élite se concentra en la UFC, ahí, empieza a asomar el español de origen georgiano Ilia Topuria. Tras varios años apuntando como la firme promesa dentro de la competición. Topuria empieza su ascenso hacia el cinturón, su velada del 10 de diciembre en Las Vegas, la meca de la UFC, ante Bryce Mitchell, número 8 del mundo, le catapultaría hacia el Top 10. Informe+ se acerca a una disciplina que pese a lo que pueda parecer es mucho más que golpes y que empieza a ganar adeptos en nuestro país gracias al nuevo ídolo español.</desc></programme>
 <programme start="20260826041000 +0000" stop="20260826050500 +0000" channel="cpdep"><title lang="es">Informe Plus+. Faustino Reyes. El precio de la Plata</title><desc lang="es">Fue protagonista de una de las fotos más icónicas de los Juegos Olímpicos de Barcelona 1992. Un niño de 17 años con el ojo marcado junto al Rey de España que sorprendió a todos al colgarse una inesperada medalla de plata. Y tras el éxito llegaron las malas decisiones, una vida enganchada a la droga y el olvido. A punto de cumplir los 50 años, aquella plata regresa ahora a su vida en forma de una nueva y última oportunidad.</desc></programme>
-<programme start="20260826050500 +0000" stop="20260826060000 +0000" channel="cpdep"><title lang="es">Highlights ATP (T2026): Cincinnati</title><desc lang="es">Repaso de los mejores puntos, todas las imágenes y los grandes momentos de los torneos de ATP</desc></programme>
+<programme start="20260826050500 +0000" stop="20260826060000 +0000" channel="cpdep"><title lang="es">Highlights SailGP (T2026): Alemania</title><desc lang="es">Resumen con los mejores momentos de SailGP.</desc></programme>
 <programme start="20260826060000 +0000" stop="20260826071500 +0000" channel="cpdep"><title lang="es">NCAA (T25/26): Texas - Gonzaga</title><desc lang="es">Arranca la NCAA, la competición que nos hace disfrutar del mejor baloncesto universitario del mundo. 68 equipos luchan por llegar a la gran final de esta 80ª edición, donde North Carolina defiende título.</desc></programme>
 <programme start="20260826071500 +0000" stop="20260826073000 +0000" channel="cpdep"><title lang="es">Lo mejor de la Diamond League (T2026): Lausanne</title><desc lang="es">Repasamos los momentos más destacados y las mejores imágenes de las 14 citas de la temporada de Diamond League: desde Doha hasta Bruselas.</desc></programme>
 <programme start="20260826073000 +0000" stop="20260826082000 +0000" channel="cpdep"><title lang="es">Las 500 Millas: Inmortalidad en Indianápolis</title><desc lang="es">El circuito de Indianápolis ha coronado a grandes pilotos durante más de 100 años de historia. En este programa se repasan algunas de las actuaciones que han dejado huella en las 500 millas de Indianápolis y la han convertido en una de las citas más importantes del automovilismo mundial.</desc></programme>
@@ -4066,7 +4066,7 @@
 <programme start="20260825110000 +0000" stop="20260825113000 +0000" channel="esp2"><title lang="es">Copa del mundo de escalada - Chamonix (2026): Dificultad vs Finales</title><desc lang="es">La Copa del Mundo de Escalada en Chamonix es una emblemática cita anual del circuito de la IFSC. Reúne a la élite mundial a los pies del Mont-Blanc para competir en impresionantes muros al aire libre en las disciplinas de dificultad y velocidad.</desc></programme>
 <programme start="20260825113000 +0000" stop="20260825143000 +0000" channel="esp2"><title lang="es">Abierto de Wuhan de snooker (T26/27): Día 3</title><desc lang="es">El circuito profesional de snooker hace parada en China. La ciudad de Wuhan acoge el abierto de esta modalidad de billar del 23 al 29 de agosto.</desc></programme>
 <programme start="20260825143000 +0000" stop="20260825150000 +0000" channel="esp2"><title lang="es">Open de Australia (2026): Sabalenka vs Rybakina</title><desc lang="es">Tal y como ocurrió en 2023, Aryna Sabalenka y Elena Rybakina protagonizan la final del Open de Australia. En aquella ocasión, la de Minsk se impuso en un partido muy ajustado que se decidió en el tercer set. La representante kazaja busca revancha.</desc></programme>
-<programme start="20260825150000 +0000" stop="20260825160000 +0000" channel="esp2"><title lang="es">Juegos Olímpicos</title></programme>
+<programme start="20260825150000 +0000" stop="20260825160000 +0000" channel="esp2"><title lang="es">Juegos Olímpicos</title><desc lang="es">Un espacio que analiza la actualidad y que recuerda el pasado del movimiento olímpico. Los Juegos son la máxima expresión de la superación en el deporte. Cada cuatro años, los mejores atletas de verano y de invierno se esfuerzan al máximo para lograr el oro.</desc></programme>
 <programme start="20260825160000 +0000" stop="20260825170000 +0000" channel="esp2"><title lang="es">Juegos Olímpicos</title><desc lang="es">Un espacio que analiza la actualidad y que recuerda el pasado del movimiento olímpico. Los Juegos son la máxima expresión de la superación en el deporte. Cada cuatro años, los mejores atletas de verano y de invierno se esfuerzan al máximo para lograr el oro.</desc></programme>
 <programme start="20260825170000 +0000" stop="20260825180000 +0000" channel="esp2"><title lang="es">Juegos Olímpicos</title><desc lang="es">Un espacio que analiza la actualidad y que recuerda el pasado del movimiento olímpico. Los Juegos son la máxima expresión de la superación en el deporte. Cada cuatro años, los mejores atletas de verano y de invierno se esfuerzan al máximo para lograr el oro.</desc></programme>
 <programme start="20260825180000 +0000" stop="20260825200000 +0000" channel="esp2"><title lang="es">La Vuelta (2026): Etapa 4 vs Andorra la Vella - Andorra la Vella</title><desc lang="es">El ciclismo completa el calendario 2026 de grandes rondas con la disputa de la Vuelta. La carrera inicia su recorrido el 22 de agosto en Mónaco. La meta final, el 13 de septiembre, se cruzará en Granada. El danés Jonas Vingegaard fue el vencedor en la edición de 2025.</desc></programme>
@@ -5179,8 +5179,8 @@
 <programme start="20260826125500 +0000" stop="20260826143000 +0000" channel="golf+"><title lang="es">LPGA Tour (T2026): CPKC Women's Open. Jornada 4</title><desc lang="es">El Abierto de Canadá reúne a las mejores jugadoras de la LPGA con la local Brooke Henderson peleando por su tercer título en casa, y las atracciones del fenómeno junior Aphdite Deng, de 16 años, y la primera aparición como profesional de Kiara Romero.</desc></programme>
 <programme start="20260826143000 +0000" stop="20260826150500 +0000" channel="golf+"><title lang="es">HotelPlanner Tour Series (T2026): Vierumäki Finnish Challenge (26/08/2026)</title><desc lang="es">Desde febrero y hasta octubre, este programa repasa los torneos de la división de plata del circuito europeo mientras conocemos más de cerca a sus protagonistas.</desc></programme>
 <programme start="20260826150500 +0000" stop="20260826153700 +0000" channel="golf+"><title lang="es">PGA Tour The Cut (T2026): Episodio 29 (25/08/2026)</title><desc lang="es">Una nueva y moderna visión al PGA Tour y sus protagonistas. Desde las previas de los torneos, con estadística y análisis, hasta el lado más personal y familiar de los jugadores.</desc></programme>
-<programme start="20260826153700 +0000" stop="20260826171500 +0000" channel="golf+"><title lang="es">PGA Tour Champions (T2026): Rogers Charity Classic. Jornada 3</title><desc lang="es">Circuito senior norteamericano en el que participan jugadores veteranos, de más de 50 años. Jugadores miembros del salón de la fama, ganadores de grandes, ganadores de torneos del circuito Pga Tour, que disputan grandes eventos por suculentos premios.</desc></programme>
-<programme start="20260826171500 +0000" stop="20260826185000 +0000" channel="golf+"><title lang="es">PGA Tour Champions (T2026): Rogers Charity Classic. Jornada 4</title><desc lang="es">Circuito senior norteamericano en el que participan jugadores veteranos, de más de 50 años. Jugadores miembros del salón de la fama, ganadores de grandes, ganadores de torneos del circuito Pga Tour, que disputan grandes eventos por suculentos premios.</desc></programme>
+<programme start="20260826153700 +0000" stop="20260826171500 +0000" channel="golf+"><title lang="es">PGA Tour Champions (T2026): Rogers Charity Classic. Jornada 2</title><desc lang="es">Circuito senior norteamericano en el que participan jugadores veteranos, de más de 50 años. Jugadores miembros del salón de la fama, ganadores de grandes, ganadores de torneos del circuito Pga Tour, que disputan grandes eventos por suculentos premios.</desc></programme>
+<programme start="20260826171500 +0000" stop="20260826185000 +0000" channel="golf+"><title lang="es">PGA Tour Champions (T2026): Rogers Charity Classic. Jornada 3</title><desc lang="es">Circuito senior norteamericano en el que participan jugadores veteranos, de más de 50 años. Jugadores miembros del salón de la fama, ganadores de grandes, ganadores de torneos del circuito Pga Tour, que disputan grandes eventos por suculentos premios.</desc></programme>
 <programme start="20260826185000 +0000" stop="20260826192000 +0000" channel="golf+"><title lang="es">Campus M+ Golf (T2026): Especial Jon Rahm en el Masters</title><desc lang="es">Nuestro coaches Alejandro Ramos y Pati Sanz analizan y recrean algunos de los golpes que pegó Jon Rahm para ganar su primer Masters de Augusta en 2023.</desc></programme>
 <programme start="20260826192000 +0000" stop="20260826232000 +0000" channel="golf+"><title lang="es">DP World Tour (T25/26): Nexo Championship. Jornada 4. Parte 2.</title><desc lang="es">Segunda edición del Nexo Championship en el DP World Tour. El fiero recorrido de Trump International Golf Links recibe a 12 españoles que buscarán la victoria el domingo.</desc></programme>
 <programme start="20260826231500 +0000" stop="20260827060000 +0000" channel="golf+"><title lang="es">M+ Golf</title><desc lang="es">M+ Golf</desc></programme>
@@ -5881,7 +5881,7 @@
 <programme start="20260826220000 +0000" stop="20260827220000 +0000" channel="mlig3"><title lang="es">M+ LALIGA 4</title></programme>
 <programme start="20260825031200 +0000" stop="20260825045700 +0000" channel="mliga"><title lang="es">LALIGA EA SPORTS (T26/27): Osasuna - Levante</title><desc lang="es">Los mejores clubes del país protagonizan LaLiga, el campeonato de la regularidad del fútbol español. El torneo es una carrera de fondo en la que los equipos pelean por sus metas: la salvación, Europa, la Champions o el título. El Barcelona defiende corona.</desc></programme>
 <programme start="20260825045700 +0000" stop="20260825060000 +0000" channel="mliga"><title lang="es">Universo Valdano (T4): Marcelino</title><desc lang="es">Una mirada futbolística con los ojos de Jorge Valdano. El argentino es una de las voces más autorizadas y respetadas del mundo del balompié. En este espacio, conversa con personajes que ya son historia de este deporte.</desc></programme>
-<programme start="20260825060000 +0000" stop="20260825080000 +0000" channel="mliga"><title lang="es">LALIGA HYPERMOTION (T26/27): Córdoba - Girona</title><desc lang="es">La igualdad es la nota imperante en LaLiga HyperMotion, la Segunda División de fútbol español. Muchos son los aspirantes al ascenso, bien en busca de las dos plazas directas o por la vía del emocionante playoff con el que culmina la temporada. Sin duda, una competición con equipos de primera.</desc></programme>
+<programme start="20260825060000 +0000" stop="20260825080000 +0000" channel="mliga"><title lang="es">LALIGA HYPERMOTION (T26/27): Córdoba - Girona</title><desc lang="es">El Nuevo Arcángel abre la J2 con un Córdoba CF que vuelve a casa con ganas de respuesta tras caer en El Plantío en un partido abierto y decidido en el tramo final. El 3-2 ante el Burgos dejó señales ofensivas, pero también la necesidad de ajustar mejor los momentos sin balón ante un rival que llega con urgencia de sumar. El Girona visita Córdoba después de iniciar el curso con empate en Montilivi ante el Leganés, una puesta en marcha que le obliga a buscar continuidad desde el segundo fin de semana. El duelo mide dos estados de ánimo distintos: el Córdoba necesita transformar la reacción en puntos y el Girona quiere confirmar su candidatura en la zona alta con una victoria fuera de casa.</desc></programme>
 <programme start="20260825080000 +0000" stop="20260825080500 +0000" channel="mliga"><title lang="es">Resúmenes LALIGA HyperMotion (T26/27): Córdoba - Girona</title><desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.</desc></programme>
 <programme start="20260825080500 +0000" stop="20260825081000 +0000" channel="mliga"><title lang="es">Resúmenes LALIGA HyperMotion (T26/27): R. Oviedo - Leganés</title><desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.</desc></programme>
 <programme start="20260825081000 +0000" stop="20260825081500 +0000" channel="mliga"><title lang="es">Resúmenes LALIGA HyperMotion (T26/27): Albacete - Real Sociedad B</title><desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.</desc></programme>
@@ -5915,10 +5915,10 @@
 <programme start="20260825220500 +0000" stop="20260826000000 +0000" channel="mliga"><title lang="es">LALIGA EA SPORTS (T26/27): Elche - FC Barcelona</title><desc lang="es">Los mejores clubes del país protagonizan LaLiga, el campeonato de la regularidad del fútbol español. El torneo es una carrera de fondo en la que los equipos pelean por sus metas: la salvación, Europa, la Champions o el título. El Barcelona defiende corona.</desc></programme>
 <programme start="20260826000000 +0000" stop="20260826005000 +0000" channel="mliga"><title lang="es">Antoine Griezmann. Enamorado del Atleti</title><desc lang="es">Este documental acompaña a Antoine Griezmann en uno de los días más especiales de su carrera: su despedida de la afición que lo ha acompañado durante 12 temporadas.</desc></programme>
 <programme start="20260826005000 +0000" stop="20260826024500 +0000" channel="mliga"><title lang="es">LALIGA EA SPORTS (T26/27): Valencia - Celta</title><desc lang="es">Valencia y Celta juegan su primer partido en esta Liga. El conjunto ché no jugó la primera jornada por tener internacionales, el Celta, por un problema con el césped de Balidos.</desc></programme>
-<programme start="20260826024500 +0000" stop="20260826220000 +0000" channel="mliga"><title lang="es">LALIGA HYPERMOTION (T26/27): Córdoba - Girona</title><desc lang="es">La igualdad es la nota imperante en LaLiga HyperMotion, la Segunda División de fútbol español. Muchos son los aspirantes al ascenso, bien en busca de las dos plazas directas o por la vía del emocionante playoff con el que culmina la temporada. Sin duda, una competición con equipos de primera.</desc></programme>
+<programme start="20260826024500 +0000" stop="20260826220000 +0000" channel="mliga"><title lang="es">LALIGA HYPERMOTION (T26/27): Córdoba - Girona</title><desc lang="es">El Nuevo Arcángel abre la J2 con un Córdoba CF que vuelve a casa con ganas de respuesta tras caer en El Plantío en un partido abierto y decidido en el tramo final. El 3-2 ante el Burgos dejó señales ofensivas, pero también la necesidad de ajustar mejor los momentos sin balón ante un rival que llega con urgencia de sumar. El Girona visita Córdoba después de iniciar el curso con empate en Montilivi ante el Leganés, una puesta en marcha que le obliga a buscar continuidad desde el segundo fin de semana. El duelo mide dos estados de ánimo distintos: el Córdoba necesita transformar la reacción en puntos y el Girona quiere confirmar su candidatura en la zona alta con una victoria fuera de casa.</desc></programme>
 <programme start="20260826030500 +0000" stop="20260826220000 +0000" channel="mliga"><title lang="es">Momentazos de LaLiga (T19/20): Los sonidos que siempre recordaremos</title><desc lang="es">Más de 120 personajes entre los que se encuentran ex jugadores, entrenadores, periodistas y las caras más reconocidas de Movistar + repasan momentos, partidos o jugadores destacados de la historia de LaLiga en un formato de Ranking formado por 15 puestos por cada capítulo.</desc></programme>
 <programme start="20260826044500 +0000" stop="20260826060000 +0000" channel="mliga"><title lang="es">El fútbol según Raúl (T2): Osasuna, 100 años de salud</title><desc lang="es">Raúl Ruiz relata la trascendencia que tiene Osasuna en la sociedad pamplonica y navarra: es el equipo de fútbol de su tierra y funciona como el principal elemento aglutinador del territorio, junto a las fiestas de San Fermín. Es un viaje histórico por el club desde su fundación hasta la inauguración del nuevo estadio, poniendo el foco en sus tres pilares (el Sadar, la afición y Tajonar), para mostrar como de identificada esta Navarra con Osasuna, un club con alma.</desc></programme>
-<programme start="20260826060000 +0000" stop="20260826075000 +0000" channel="mliga"><title lang="es">LALIGA HYPERMOTION (T26/27): Tenerife - Almería</title><desc lang="es">La igualdad es la nota imperante en LaLiga HyperMotion, la Segunda División de fútbol español. Muchos son los aspirantes al ascenso, bien en busca de las dos plazas directas o por la vía del emocionante playoff con el que culmina la temporada. Sin duda, una competición con equipos de primera.</desc></programme>
+<programme start="20260826060000 +0000" stop="20260826075000 +0000" channel="mliga"><title lang="es">LALIGA HYPERMOTION (T26/27): Tenerife - Almería</title><desc lang="es">El Heliodoro recibe uno de los grandes partidos de la jornada entre dos equipos que empezaron con victoria y muy buenas sensaciones. El Tenerife llega lanzado después del 1-3 en Ipurua, un resultado de prestigio que le permite afrontar su estreno en casa con confianza plena. El Almería también aterriza fuerte tras el 3-0 al Eldense, una primera señal de pegada y ambición para un equipo llamado a pelear en la zona alta. La cita enfrenta dos dinámicas positivas: quien gane no solo sumará seis de seis, también enviará un aviso temprano al resto de candidatos.</desc></programme>
 <programme start="20260826075000 +0000" stop="20260826085000 +0000" channel="mliga"><title lang="es">Informe Plus+. Mr. Klein. Un árbitro entre un millón</title><desc lang="es">A sus 90 años este israelí, superviviente de la II Guerra Mundial y ex árbitro, recuerda una carrera formidable marcada por haber dirigido el considerado mejor partido de la historia. El Italia-Brasil del Mundial de España de 1982.</desc></programme>
 <programme start="20260826085000 +0000" stop="20260826104500 +0000" channel="mliga"><title lang="es">LALIGA EA SPORTS (T26/27): Osasuna - Levante</title><desc lang="es">Los mejores clubes del país protagonizan LaLiga, el campeonato de la regularidad del fútbol español. El torneo es una carrera de fondo en la que los equipos pelean por sus metas: la salvación, Europa, la Champions o el título. El Barcelona defiende corona.</desc></programme>
 <programme start="20260826104500 +0000" stop="20260826105000 +0000" channel="mliga"><title lang="es">Resúmenes LALIGA HyperMotion (T26/27): Córdoba - Girona</title><desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.</desc></programme>
@@ -5954,7 +5954,7 @@
 <programme start="20260826215000 +0000" stop="20260826230800 +0000" channel="mliga"><title lang="es">DeportePlus (T26/27): 23/08/2026</title><desc lang="es">El programa Deporte Plus+ se emite en directo todos los sábados de esta nueva temporada con la última hora de la información deportiva.</desc></programme>
 <programme start="20260826230800 +0000" stop="20260827010500 +0000" channel="mliga"><title lang="es">LALIGA HYPERMOTION (T26/27): R. Oviedo - Leganés</title><desc lang="es">El Carlos Tartiere recibe al CD Leganés con el Real Oviedo obligado a corregir sensaciones tras el estreno ante el Granada. El equipo ovetense necesita que su estadio pese desde el principio y que el partido se juegue más cerca del área rival para no dejar que la primera semana derive en dudas. El Leganés llega después de puntuar en Montilivi y con la oportunidad de dar valor a ese resultado si consigue competir con la misma seriedad lejos de casa. En una categoría que premia la regularidad desde muy pronto, sumar en Oviedo sería una señal clara de madurez para un equipo llamado a moverse en la zona alta.</desc></programme>
 <programme start="20260827010500 +0000" stop="20260827030500 +0000" channel="mliga"><title lang="es">LALIGA EA SPORTS (T26/27): Athletic - Sevilla</title><desc lang="es">El Athletic Club inicia una nueva era con Edin Terzic como técnico. El impulso de la cantera y la necesidad de recuperar el mejor nivel de sus estrellas serán cruciales. El Sevilla aún en construcción ganó con esfuerzo en la primera jornada.</desc></programme>
-<programme start="20260827024500 +0000" stop="20260827044500 +0000" channel="mliga"><title lang="es">LALIGA HYPERMOTION (T26/27): Córdoba - Girona</title><desc lang="es">La igualdad es la nota imperante en LaLiga HyperMotion, la Segunda División de fútbol español. Muchos son los aspirantes al ascenso, bien en busca de las dos plazas directas o por la vía del emocionante playoff con el que culmina la temporada. Sin duda, una competición con equipos de primera.</desc></programme>
+<programme start="20260827024500 +0000" stop="20260827044500 +0000" channel="mliga"><title lang="es">LALIGA HYPERMOTION (T26/27): Córdoba - Girona</title><desc lang="es">El Nuevo Arcángel abre la J2 con un Córdoba CF que vuelve a casa con ganas de respuesta tras caer en El Plantío en un partido abierto y decidido en el tramo final. El 3-2 ante el Burgos dejó señales ofensivas, pero también la necesidad de ajustar mejor los momentos sin balón ante un rival que llega con urgencia de sumar. El Girona visita Córdoba después de iniciar el curso con empate en Montilivi ante el Leganés, una puesta en marcha que le obliga a buscar continuidad desde el segundo fin de semana. El duelo mide dos estados de ánimo distintos: el Córdoba necesita transformar la reacción en puntos y el Girona quiere confirmar su candidatura en la zona alta con una victoria fuera de casa.</desc></programme>
 <programme start="20260825040000 +0000" stop="20260825060000 +0000" channel="mligs"><title lang="es">LALIGA TV HYPERMOTION</title></programme>
 <programme start="20260825060000 +0000" stop="20260825100000 +0000" channel="mligs"><title lang="es">LALIGA TV HYPERMOTION</title></programme>
 <programme start="20260825100000 +0000" stop="20260825140000 +0000" channel="mligs"><title lang="es">LALIGA TV HYPERMOTION</title></programme>
@@ -6347,13 +6347,13 @@
 <programme start="20260825094500 +0000" stop="20260825101000 +0000" channel="mvf1"><title lang="es">Código F1 (T2025): Abu Dabi</title><desc lang="es">Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición.</desc></programme>
 <programme start="20260825101000 +0000" stop="20260825130000 +0000" channel="mvf1"><title lang="es">Mundial de Fórmula 1 (T2024): GP de Brasil: Carrera</title><desc lang="es">Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2024 promete más emoción y espectáculo que nunca.</desc></programme>
 <programme start="20260825130000 +0000" stop="20260825151500 +0000" channel="mvf1"><title lang="es">Mundial F1 - GP de Canadá (T2026): Carrera</title><desc lang="es">Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc></programme>
-<programme start="20260825151500 +0000" stop="20260825160500 +0000" channel="mvf1"><title lang="es">Especiales F1 (T2022): 2005, El año que cambió nuestras vidas</title></programme>
-<programme start="20260825160500 +0000" stop="20260825164500 +0000" channel="mvf1"><title lang="es">Gearbox (T2026): Episodio 25</title><desc lang="es">Los fanáticos de la conducción tienen una cita en Gearbox, donde los volantes del presente, del pasado y del futuro se ponen en las manos de los mejores expertos.</desc></programme>
-<programme start="20260825164500 +0000" stop="20260825190000 +0000" channel="mvf1"><title lang="es">Mundial F1 - GP de Países Bajos (T2026): Carrera</title><desc lang="es">Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc></programme>
-<programme start="20260825190000 +0000" stop="20260825193000 +0000" channel="mvf1"><title lang="es">Código F1 (T2026): Países Bajos</title><desc lang="es">Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición.</desc></programme>
-<programme start="20260825193000 +0000" stop="20260825202500 +0000" channel="mvf1"><title lang="es">Mundial F1 - GP de China (T2026): Sprint</title><desc lang="es">Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc></programme>
-<programme start="20260825202500 +0000" stop="20260825225500 +0000" channel="mvf1"><title lang="es">Mundial F1 - GP de Mónaco (T2026): Carrera</title><desc lang="es">Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc></programme>
-<programme start="20260825225500 +0000" stop="20260826003000 +0000" channel="mvf1"><title lang="es">Mundial F1 - GP de Barcelona. Catalunya (T2026): Box, Box</title><desc lang="es">Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc></programme>
+<programme start="20260825151500 +0000" stop="20260825162000 +0000" channel="mvf1"><title lang="es">Decoded: Hamilton</title><desc lang="es">Decoded: Hamilton</desc></programme>
+<programme start="20260825162000 +0000" stop="20260825170000 +0000" channel="mvf1"><title lang="es">Gearbox (T2026): Episodio 25</title><desc lang="es">Los fanáticos de la conducción tienen una cita en Gearbox, donde los volantes del presente, del pasado y del futuro se ponen en las manos de los mejores expertos.</desc></programme>
+<programme start="20260825170000 +0000" stop="20260825191300 +0000" channel="mvf1"><title lang="es">Mundial F1 - GP de Países Bajos (T2026): Carrera</title><desc lang="es">Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc></programme>
+<programme start="20260825191300 +0000" stop="20260825193100 +0000" channel="mvf1"><title lang="es">Código F1 (T2026): Países Bajos</title><desc lang="es">Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición.</desc></programme>
+<programme start="20260825193100 +0000" stop="20260825202600 +0000" channel="mvf1"><title lang="es">Mundial F1 - GP de China (T2026): Sprint</title><desc lang="es">Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc></programme>
+<programme start="20260825202600 +0000" stop="20260825225600 +0000" channel="mvf1"><title lang="es">Mundial F1 - GP de Mónaco (T2026): Carrera</title><desc lang="es">Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc></programme>
+<programme start="20260825225600 +0000" stop="20260826003000 +0000" channel="mvf1"><title lang="es">Mundial F1 - GP de Barcelona. Catalunya (T2026): Box, Box</title><desc lang="es">Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc></programme>
 <programme start="20260826003000 +0000" stop="20260826022500 +0000" channel="mvf1"><title lang="es">Mundial de Fórmula 1 (T2023): GP de España: Carrera</title><desc lang="es">Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2023 promete más emoción y espectáculo que nunca.</desc></programme>
 <programme start="20260826022500 +0000" stop="20260826220000 +0000" channel="mvf1"><title lang="es">Mundial F1 - GP de Australia (T2025): Carrera</title><desc lang="es">Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc></programme>
 <programme start="20260826031500 +0000" stop="20260826220000 +0000" channel="mvf1"><title lang="es">Mundial F1 - GP de Baréin (T2025): Carrera</title><desc lang="es">Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc></programme>
@@ -7485,10 +7485,10 @@
 <programme start="20260825044200 +0000" stop="20260825050000 +0000" channel="sexta"><title lang="es">Pazy: Que te recuerden como has vivido</title><desc lang="es">Pazy: Que te recuerden como has vivido.</desc></programme>
 <programme start="20260825050000 +0000" stop="20260825070300 +0000" channel="sexta"><title lang="es">Previo Aruser@s</title><desc lang="es">Alfonso Arús y su habitual equipo de contertulianos conducen este programa de entretenimiento matinal que se centra en desgranar los temas de actualidad en tono de humor.</desc></programme>
 <programme start="20260825070300 +0000" stop="20260825085900 +0000" channel="sexta"><title lang="es">Aruser@s: Episodio 1693</title><desc lang="es">Alfonso Arús y su habitual equipo de contertulianos conducen este programa de entretenimiento matinal que se centra en desgranar los temas de actualidad en tono de humor.</desc></programme>
-<programme start="20260825085900 +0000" stop="20260825122000 +0000" channel="sexta"><title lang="es">Al rojo vivo: Episodio 3919</title><desc lang="es">Antonio García Ferreras presenta este espacio de debate sobre la actualidad, fundamentalmente política, y lejos de una línea editorial conservadora. Analistas, periodistas y expertos buscarán las claves de las noticias de cada día.</desc></programme>
-<programme start="20260825122000 +0000" stop="20260825131000 +0000" channel="sexta"><title lang="es">laSexta Noticias</title><desc lang="es">Informativo que se emite cada mediodía, de lunes a viernes, y que presenta las noticias que han ocurrido a lo largo de la jornada con un tono social y cercano a la calle. Helena Resano es la encargada de presentar este espacio de actualidad.</desc></programme>
-<programme start="20260825131000 +0000" stop="20260825132000 +0000" channel="sexta"><title lang="es">laSexta Deportes</title><desc lang="es">Conducido por Carlota Reig, este espacio ofrece la más completa información del fútbol, el baloncesto nacional e internacional y lo más destacado del deporte en general. Para analizar los eventos y las polémicas, el programa cuenta con la opinión de especialistas.</desc></programme>
-<programme start="20260825132000 +0000" stop="20260825133000 +0000" channel="sexta"><title lang="es">laSexta Meteo</title><desc lang="es">Tras el informativo, ''laSexta Meteo'' ofrecerá al espectador una información meteorológica cercana y directa, así como todos los aspectos que afectan al medio ambiente de nuestro planeta.</desc></programme>
+<programme start="20260825085900 +0000" stop="20260825122200 +0000" channel="sexta"><title lang="es">Al rojo vivo: Episodio 3919</title><desc lang="es">Antonio García Ferreras presenta este espacio de debate sobre la actualidad, fundamentalmente política, y lejos de una línea editorial conservadora. Analistas, periodistas y expertos buscarán las claves de las noticias de cada día.</desc></programme>
+<programme start="20260825122200 +0000" stop="20260825130700 +0000" channel="sexta"><title lang="es">laSexta Noticias</title><desc lang="es">Informativo que se emite cada mediodía, de lunes a viernes, y que presenta las noticias que han ocurrido a lo largo de la jornada con un tono social y cercano a la calle. Helena Resano es la encargada de presentar este espacio de actualidad.</desc></programme>
+<programme start="20260825130700 +0000" stop="20260825131900 +0000" channel="sexta"><title lang="es">laSexta Deportes</title><desc lang="es">Conducido por Carlota Reig, este espacio ofrece la más completa información del fútbol, el baloncesto nacional e internacional y lo más destacado del deporte en general. Para analizar los eventos y las polémicas, el programa cuenta con la opinión de especialistas.</desc></programme>
+<programme start="20260825131900 +0000" stop="20260825133000 +0000" channel="sexta"><title lang="es">laSexta Meteo</title><desc lang="es">Tras el informativo, ''laSexta Meteo'' ofrecerá al espectador una información meteorológica cercana y directa, así como todos los aspectos que afectan al medio ambiente de nuestro planeta.</desc></programme>
 <programme start="20260825133000 +0000" stop="20260825150000 +0000" channel="sexta"><title lang="es">Zapeando: Episodio 3175</title><desc lang="es">Espacio que analiza con humor el panorama televisivo tanto nacional como internacional con los mejores vídeos, noticias y momentos más disparatados. Dani Mateo junto a un grupo de colaboradores establece una amena mesa de debate sobre la actualidad televisiva.</desc></programme>
 <programme start="20260825150000 +0000" stop="20260825180000 +0000" channel="sexta"><title lang="es">Más vale tarde: Episodio 3483</title><desc lang="es">Espacio diario de actualidad presentado por los periodistas Cristina Pardo e Iñaki López, que busca poner orden al alud informativo actual. Honestidad, rigor y pluralidad son las máximas de este espacio de debate en directo.</desc></programme>
 <programme start="20260825180000 +0000" stop="20260825190000 +0000" channel="sexta"><title lang="es">laSexta Noticias</title><desc lang="es">Informativo que se emite cada tarde, de lunes a viernes, y que presenta las noticias que han ocurrido a lo largo de la jornada con un tono social y cercano a la calle. Cristina Saavedra es la encargada de presentar este espacio de actualidad.</desc></programme>
@@ -7621,22 +7621,22 @@
 <programme start="20260825232900 +0000" stop="20260826005900 +0000" channel="squi"><title lang="es">Sirenas</title><desc lang="es">A comienzos de la década de los 30, la jerarquía eclesiástica de Sidney se escandaliza por un grabado realizado por el célebre y libertino pintor Norman Lindsay, que muestra a una voluptuosa mujer sobre una cruz. Por esta razón, la iglesia decide confiarle una delicada misión a Anthony Campion, un joven clérigo protestante que acaba de llegar de Inglaterra con su mujer Estela.</desc></programme>
 <programme start="20260826005900 +0000" stop="20260826023300 +0000" channel="squi"><title lang="es">Amor del calibre 45</title><desc lang="es">Watty y Billy son dos ladrones que se dedican a desvalijar almacenes y tiendas. Un día, un robo se les va de las manos y Billy mata a una persona convirtiéndose en fugitivo y arrastrando en su huida a su compañero y a su prometida.</desc></programme>
 <programme start="20260826023300 +0000" stop="20260826220000 +0000" channel="squi"><title lang="es">Dalí</title><desc lang="es">En 1940, Dalí y Gala llegan a Nueva York por primera vez. Los estadounidenses no conocen todavía al genial artista, pero Dalí no está dispuesto a permanecer en el anonimato por mucho tiempo. Con la ayuda de un periodista empieza a forjarse su fama. En una entrevista, el pintor le habla de la relación con sus padres; de su amistad con otras personalidades de la cultura, como Federico García Lorca, Luis Buñuel, Jean Cocteau, Henry Miller o Pablo Picasso; y de su vida privada, que comparte con su musa Gala.</desc></programme>
-<programme start="20260826041300 +0000" stop="20260826052400 +0000" channel="squi"><title lang="es">Cuéntame cómo pasó (T13): Ep.13 La hora de la verdad</title><desc lang="es">Mercedes y Antonio van a recoger los resultados de las pruebas médicas. Afortunadamente, el médico les dice que todo está bien y Merche respira tranquila. Quien no respira tranquilo es Antonio con la empresa de banderas que ha montado con sus socios, ya que no dejan de surgir problemas. Habían intentado ampliar el negocio con un encargo de bolsas de tela, pero resulta que el tejido ha encogido y el proveedor no se hace responsable.</desc></programme>
-<programme start="20260826052400 +0000" stop="20260826065500 +0000" channel="squi"><title lang="es">Cuéntame cómo pasó (T13): Ep.15 Sorpresas</title><desc lang="es">La operación de Mercedes tiene a toda la familia más unida que nunca. Todos se organizan como pueden para ocuparse de la casa y no dejar sola a Merche. Antonio, que estos días está más nervioso que de costumbre, no entiende por qué el médico que ha estado tratando a su mujer ni se ha pasado por el hospital.</desc></programme>
-<programme start="20260826065500 +0000" stop="20260826083100 +0000" channel="squi"><title lang="es">Colombo (T4): Ep.2 Reacción negativa</title><desc lang="es">Un fotógrafo de celebridades falsifica pruebas para incriminar a otro hombre en el asesinato de su esposa.</desc></programme>
-<programme start="20260826083100 +0000" stop="20260826100900 +0000" channel="squi"><title lang="es">Colombo (T4): Ep.3 A la luz del amanecer</title><desc lang="es">Columbo trata de burlar a un oficial de una academia militar que planea un asesinato para preservar su carrera.</desc></programme>
-<programme start="20260826100900 +0000" stop="20260826115400 +0000" channel="squi"><title lang="es">Colombo (T5): Ep.6 El último adiós al Comodoro</title><desc lang="es">Columbo investiga el ahogamiento de un ejecutivo de un yate, pero se frustra cuando su principal sospechoso muere.</desc></programme>
-<programme start="20260826115400 +0000" stop="20260826132000 +0000" channel="squi"><title lang="es">Colombo (T6): Ep.1 Próxima Secuencia, Asesinato</title><desc lang="es">Un detective de televisión se enfrenta a Colombo en un insólito juego del gato y el ratón.</desc></programme>
-<programme start="20260826132000 +0000" stop="20260826152700 +0000" channel="squi"><title lang="es">Su juego favorito</title><desc lang="es">Una comedia de Howard Hawks ("La fiera de mi niña", "La novia era él", "Me siento rejuvenecer").</desc></programme>
-<programme start="20260826152700 +0000" stop="20260826165400 +0000" channel="squi"><title lang="es">El hombre de la diligencia</title><desc lang="es">Tres asesinos a sueldo se presentan en un antiguo fuerte dedicado al servicio de cambio de caballerías. Allí informan a Lohman, el encargado, de la inminente llegada de una diligencia en cuyo interior se encuentra un maletín cargado de dólares. Pero para Lohman esta noticia es algo más que un puñado de dinero: es el reencuentro con el juez que lo envió a prisión injustamente por el asesinato del marido de Ruth, la actual prometida del letrado.</desc></programme>
-<programme start="20260826165400 +0000" stop="20260826183100 +0000" channel="squi"><title lang="es">Líneas enemigas</title><desc lang="es">Noviembre de 1943, Segunda Guerra Mundial. Un escuadrón británico se une a un oficial estadounidense en una misión encubierta en la Polonia ocupada. Su misión es buscar a un científico polaco que tiene información sobre innovaciones secretas que serán vitales para los esfuerzos aliados. Trabajando con la resistencia, cruzarán el inhóspito paisaje invernal en una misión a contrarreloj.</desc></programme>
-<programme start="20260826183100 +0000" stop="20260826200000 +0000" channel="squi"><title lang="es">Wanted Man (Se busca)</title><desc lang="es">Cuando un tiroteo entre bandas deja varios agentes de la DEA muertos, un veterano agente de policía debe recuperar a una testigo y llevarla al otro lado de la frontera. Pero cuando se enteran de que el ataque fue ejecutado por fuerzas estadounidenses, deberán decidir en quién pueden confiar.</desc></programme>
-<programme start="20260826200000 +0000" stop="20260826215000 +0000" channel="squi"><title lang="es">Ted</title><desc lang="es">John siempre había deseado que su oso de peluche, Ted, tuviera vida. El milagro sucede y Ted se convierte en su mejor amigo pero pronto John sufre las consecuencias del estilo de vida alocado de su peluche.</desc></programme>
-<programme start="20260826215000 +0000" stop="20260826234000 +0000" channel="squi"><title lang="es">Ted 2</title><desc lang="es">Ted y la Vane acaban de casarse y quieren tener un bebé. Pero antes de ser padre, Ted debe demostrar ante un tribunal de justicia que es una persona.</desc></programme>
-<programme start="20260826234000 +0000" stop="20260827011500 +0000" channel="squi"><title lang="es">Synchronic. Los límites del tiempo</title><desc lang="es">Dos paramédicos de Nueva Orleans descubren una serie de cadáveres cuya muerte parece estar relacionada con una nueva droga experimental. Poco después, esta sustancia entrará en sus vidas y las cambiará drásticamente, dando un vuelco a su percepción del tiempo y de la existencia.</desc></programme>
-<programme start="20260827011500 +0000" stop="20260827024400 +0000" channel="squi"><title lang="es">2:37</title><desc lang="es">La tragedia acaba de desatarse en los lavabos de un instituto de una pequeña localidad australiana. Horas antes nada hace prever el fatal desenlace, los protagonistas son seis chicos normales y corrientes en su último curso, diferentes personalidades con las preocupaciones propias de la edad, cada uno con su particular punto de vista ante la vida y la muerte.</desc></programme>
-<programme start="20260827023300 +0000" stop="20260827041300 +0000" channel="squi"><title lang="es">Dalí</title><desc lang="es">En 1940, Dalí y Gala llegan a Nueva York por primera vez. Los estadounidenses no conocen todavía al genial artista, pero Dalí no está dispuesto a permanecer en el anonimato por mucho tiempo. Con la ayuda de un periodista empieza a forjarse su fama. En una entrevista, el pintor le habla de la relación con sus padres; de su amistad con otras personalidades de la cultura, como Federico García Lorca, Luis Buñuel, Jean Cocteau, Henry Miller o Pablo Picasso; y de su vida privada, que comparte con su musa Gala.</desc></programme>
-<programme start="20260827024400 +0000" stop="20260827220000 +0000" channel="squi"><title lang="es">Ave María</title><desc lang="es">María, la inteligente y bella hija mestiza de un duque español, es despojada de sus bienes a causa de los celos y las envidias que la rodean. Abandona la misión en que vive y llega al pueblo de su abuela indígena, donde se convierte en defensora y protectora de la población. Sus actos incitan a sus enemigos a tomar medidas que traerán graves consecuencias para todos.</desc></programme>
+<programme start="20260826041700 +0000" stop="20260826052800 +0000" channel="squi"><title lang="es">Cuéntame cómo pasó (T13): Ep.13 La hora de la verdad</title><desc lang="es">Mercedes y Antonio van a recoger los resultados de las pruebas médicas. Afortunadamente, el médico les dice que todo está bien y Merche respira tranquila. Quien no respira tranquilo es Antonio con la empresa de banderas que ha montado con sus socios, ya que no dejan de surgir problemas. Habían intentado ampliar el negocio con un encargo de bolsas de tela, pero resulta que el tejido ha encogido y el proveedor no se hace responsable.</desc></programme>
+<programme start="20260826052800 +0000" stop="20260826065900 +0000" channel="squi"><title lang="es">Cuéntame cómo pasó (T13): Ep.15 Sorpresas</title><desc lang="es">La operación de Mercedes tiene a toda la familia más unida que nunca. Todos se organizan como pueden para ocuparse de la casa y no dejar sola a Merche. Antonio, que estos días está más nervioso que de costumbre, no entiende por qué el médico que ha estado tratando a su mujer ni se ha pasado por el hospital.</desc></programme>
+<programme start="20260826065900 +0000" stop="20260826083500 +0000" channel="squi"><title lang="es">Colombo (T4): Ep.2 Reacción negativa</title><desc lang="es">Un fotógrafo de celebridades falsifica pruebas para incriminar a otro hombre en el asesinato de su esposa.</desc></programme>
+<programme start="20260826083500 +0000" stop="20260826101400 +0000" channel="squi"><title lang="es">Colombo (T4): Ep.3 A la luz del amanecer</title><desc lang="es">Columbo trata de burlar a un oficial de una academia militar que planea un asesinato para preservar su carrera.</desc></programme>
+<programme start="20260826101400 +0000" stop="20260826115900 +0000" channel="squi"><title lang="es">Colombo (T5): Ep.6 El último adiós al Comodoro</title><desc lang="es">Columbo investiga el ahogamiento de un ejecutivo de un yate, pero se frustra cuando su principal sospechoso muere.</desc></programme>
+<programme start="20260826115900 +0000" stop="20260826132600 +0000" channel="squi"><title lang="es">Colombo (T6): Ep.1 Próxima Secuencia, Asesinato</title><desc lang="es">Un detective de televisión se enfrenta a Colombo en un insólito juego del gato y el ratón.</desc></programme>
+<programme start="20260826132600 +0000" stop="20260826153400 +0000" channel="squi"><title lang="es">Su juego favorito</title><desc lang="es">Una comedia de Howard Hawks ("La fiera de mi niña", "La novia era él", "Me siento rejuvenecer").</desc></programme>
+<programme start="20260826153400 +0000" stop="20260826170100 +0000" channel="squi"><title lang="es">El hombre de la diligencia</title><desc lang="es">Tres asesinos a sueldo se presentan en un antiguo fuerte dedicado al servicio de cambio de caballerías. Allí informan a Lohman, el encargado, de la inminente llegada de una diligencia en cuyo interior se encuentra un maletín cargado de dólares. Pero para Lohman esta noticia es algo más que un puñado de dinero: es el reencuentro con el juez que lo envió a prisión injustamente por el asesinato del marido de Ruth, la actual prometida del letrado.</desc></programme>
+<programme start="20260826170100 +0000" stop="20260826183800 +0000" channel="squi"><title lang="es">Líneas enemigas</title><desc lang="es">Noviembre de 1943, Segunda Guerra Mundial. Un escuadrón británico se une a un oficial estadounidense en una misión encubierta en la Polonia ocupada. Su misión es buscar a un científico polaco que tiene información sobre innovaciones secretas que serán vitales para los esfuerzos aliados. Trabajando con la resistencia, cruzarán el inhóspito paisaje invernal en una misión a contrarreloj.</desc></programme>
+<programme start="20260826183800 +0000" stop="20260826200700 +0000" channel="squi"><title lang="es">Wanted Man (Se busca)</title><desc lang="es">Cuando un tiroteo entre bandas deja varios agentes de la DEA muertos, un veterano agente de policía debe recuperar a una testigo y llevarla al otro lado de la frontera. Pero cuando se enteran de que el ataque fue ejecutado por fuerzas estadounidenses, deberán decidir en quién pueden confiar.</desc></programme>
+<programme start="20260826200700 +0000" stop="20260826215800 +0000" channel="squi"><title lang="es">Ted</title><desc lang="es">John siempre había deseado que su oso de peluche, Ted, tuviera vida. El milagro sucede y Ted se convierte en su mejor amigo pero pronto John sufre las consecuencias del estilo de vida alocado de su peluche.</desc></programme>
+<programme start="20260826215800 +0000" stop="20260826234900 +0000" channel="squi"><title lang="es">Ted 2</title><desc lang="es">Ted y la Vane acaban de casarse y quieren tener un bebé. Pero antes de ser padre, Ted debe demostrar ante un tribunal de justicia que es una persona.</desc></programme>
+<programme start="20260826234900 +0000" stop="20260827012500 +0000" channel="squi"><title lang="es">Synchronic. Los límites del tiempo</title><desc lang="es">Dos paramédicos de Nueva Orleans descubren una serie de cadáveres cuya muerte parece estar relacionada con una nueva droga experimental. Poco después, esta sustancia entrará en sus vidas y las cambiará drásticamente, dando un vuelco a su percepción del tiempo y de la existencia.</desc></programme>
+<programme start="20260827012500 +0000" stop="20260827025400 +0000" channel="squi"><title lang="es">2:37</title><desc lang="es">La tragedia acaba de desatarse en los lavabos de un instituto de una pequeña localidad australiana. Horas antes nada hace prever el fatal desenlace, los protagonistas son seis chicos normales y corrientes en su último curso, diferentes personalidades con las preocupaciones propias de la edad, cada uno con su particular punto de vista ante la vida y la muerte.</desc></programme>
+<programme start="20260827023300 +0000" stop="20260827041700 +0000" channel="squi"><title lang="es">Dalí</title><desc lang="es">En 1940, Dalí y Gala llegan a Nueva York por primera vez. Los estadounidenses no conocen todavía al genial artista, pero Dalí no está dispuesto a permanecer en el anonimato por mucho tiempo. Con la ayuda de un periodista empieza a forjarse su fama. En una entrevista, el pintor le habla de la relación con sus padres; de su amistad con otras personalidades de la cultura, como Federico García Lorca, Luis Buñuel, Jean Cocteau, Henry Miller o Pablo Picasso; y de su vida privada, que comparte con su musa Gala.</desc></programme>
+<programme start="20260827025400 +0000" stop="20260827220000 +0000" channel="squi"><title lang="es">Ave María</title><desc lang="es">María, la inteligente y bella hija mestiza de un duque español, es despojada de sus bienes a causa de los celos y las envidias que la rodean. Abandona la misión en que vive y llega al pueblo de su abuela indígena, donde se convierte en defensora y protectora de la población. Sus actos incitan a sus enemigos a tomar medidas que traerán graves consecuencias para todos.</desc></programme>
 <programme start="20260825034500 +0000" stop="20260825220000 +0000" channel="t5"><title lang="es">Enphorma</title><desc lang="es">Programa especializado en temas actuales de alimentación, psicología y ejercicio.</desc></programme>
 <programme start="20260825035600 +0000" stop="20260825040900 +0000" channel="t5"><title lang="es">Enphorma</title><desc lang="es">Programa especializado en temas actuales de alimentación, psicología y ejercicio.</desc></programme>
 <programme start="20260825040900 +0000" stop="20260825050000 +0000" channel="t5"><title lang="es">¡Allá tú!: Episodio 42</title><desc lang="es">Concurso que pone a prueba la capacidad de negociación de los concursantes. Pone a prueba la capacidad de negociación, intuición y templanza a la hora de tomar decisiones de 22 concursantes en cada programa.</desc></programme>
@@ -8380,7 +8380,7 @@
 <programme start="20260826194000 +0000" stop="20260826194500 +0000" channel="tve"><title lang="es">Deportes 2</title><desc lang="es">Actualidad deportiva diaria nacional e internacional.</desc></programme>
 <programme start="20260826194500 +0000" stop="20260826202500 +0000" channel="tve"><title lang="es">Viaje al centro de la tele exprés: Especial ABBA (Primera parte)</title><desc lang="es">Una mirada al pasado para recuperar alguno de los mejores momentos de la historia de Televisión Española. La nostalgia, el humor y la ironía son los ingredientes principales de un formato amenizado por el grafismo y las viñetas inconfundibles de Antonio Fraguas Forges.</desc></programme>
 <programme start="20260826202500 +0000" stop="20260826205000 +0000" channel="tve"><title lang="es">Viaje al centro de la tele: 70 momentos de humor express (2ª parte)</title><desc lang="es">Una mirada al pasado para recuperar alguno de los mejores momentos de la historia de Televisión Española. La nostalgia, el humor y la ironía son los ingredientes principales de un formato amenizado por el grafismo y las viñetas inconfundibles de Antonio Fraguas Forges.</desc></programme>
-<programme start="20260826205000 +0000" stop="20260826235500 +0000" channel="tve"><title lang="es">Maestros de la Costura Celebrity: Episodio 10</title><desc lang="es">Un grupo de famosos se enfrentan a diferentes pruebas en las que tienen que demostrar su creatividad y talento transformando prendas o cosiendo sus propias creaciones.</desc></programme>
+<programme start="20260826205000 +0000" stop="20260826235500 +0000" channel="tve"><title lang="es">Maestros de la Costura Celebrity: Episodio 10</title><desc lang="es">Los aprendices reproducirán un traje de Valentino para Naty Abascal. Después, con la ayuda de los diseñadores Andrew Pocrid, Alicia Rueda y Juan Vidal coserán un vestido de novia. Los mejores de los retos anteriores se enfrentan al gran duelo final por la victoria.</desc></programme>
 <programme start="20260826235500 +0000" stop="20260827024000 +0000" channel="tve"><title lang="es">Maestros de la Costura Celebrity</title><desc lang="es">Un grupo de famosos se enfrentan a diferentes pruebas en las que tienen que demostrar su creatividad y talento transformando prendas o cosiendo sus propias creaciones.</desc></programme>
 <programme start="20260827024000 +0000" stop="20260827220000 +0000" channel="tve"><title lang="es">Noticias 24H</title><desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc></programme>
 <programme start="20260825035400 +0000" stop="20260825220000 +0000" channel="tvg"><title lang="es">Pratos Combinados</title><desc lang="es">Comedia ambientada en el Bar Suizo, propiedad de la familia Pereira, en el que suceden las situaciones más divertidas. La serie desarrolla la vida diaria, con las aventuras y desventuras del matrimonio formado por Miro Pereira y Balbina Santos.</desc></programme>
@@ -8606,18 +8606,18 @@
 <programme start="20260827000000 +0000" stop="20260827220000 +0000" channel="ucl"><title lang="es">UCL TV</title><desc lang="es">UCL TV.</desc></programme>
 <programme start="20260825060000 +0000" stop="20260825140000 +0000" channel="usop2"><title lang="es">M+ Deportes 3</title></programme>
 <programme start="20260825140000 +0000" stop="20260825150000 +0000" channel="usop2"><title lang="es">US Open (2026): Svitolina/Monfils vs Eala/Auger-Aliassime</title><desc lang="es">Los Grand Slam son los torneos más importantes del circuito del tenis. Cada temporada, cuatro ciudades albergan estos eventos cargados de tradición: Melbourne, París, Londres y Nueva York.</desc></programme>
-<programme start="20260825150000 +0000" stop="20260825154500 +0000" channel="usop2"><title lang="es">US Open (2026): Muchova/Mensik vs Mladenovic/Arevalo</title><desc lang="es">Los Grand Slam son los torneos más importantes del circuito del tenis. Cada temporada, cuatro ciudades albergan estos eventos cargados de tradición: Melbourne, París, Londres y Nueva York.</desc></programme>
-<programme start="20260825154500 +0000" stop="20260825164500 +0000" channel="usop2"><title lang="es">US Open (2026): Navarro/Paul vs Anisimova/Tien</title><desc lang="es">Los Grand Slam son los torneos más importantes del circuito del tenis. Cada temporada, cuatro ciudades albergan estos eventos cargados de tradición: Melbourne, París, Londres y Nueva York.</desc></programme>
-<programme start="20260825164500 +0000" stop="20260825173000 +0000" channel="usop2"><title lang="es">US Open (T2026): Dobles Mixtos TBC (partido 9)</title><desc lang="es">Los Grand Slam son los torneos más importantes del circuito del tenis. Cada temporada, cuatro ciudades albergan estos eventos cargados de tradición: Melbourne, París, Londres y Nueva York.</desc></programme>
-<programme start="20260825173000 +0000" stop="20260825183000 +0000" channel="usop2"><title lang="es">US Open (2026): Andreeva/Rublev vs Errani/Vavassori</title><desc lang="es">Los Grand Slam son los torneos más importantes del circuito del tenis. Cada temporada, cuatro ciudades albergan estos eventos cargados de tradición: Melbourne, París, Londres y Nueva York.</desc></programme>
-<programme start="20260825183000 +0000" stop="20260825194500 +0000" channel="usop2"><title lang="es">US Open (2026): Shnaider/Ruud vs Pegula/Fritz</title><desc lang="es">Los Grand Slam son los torneos más importantes del circuito del tenis. Cada temporada, cuatro ciudades albergan estos eventos cargados de tradición: Melbourne, París, Londres y Nueva York.</desc></programme>
-<programme start="20260825194500 +0000" stop="20260825220000 +0000" channel="usop2"><title lang="es">US Open (T2026): Dobles Mixtos TBC (partido 12)</title><desc lang="es">Los Grand Slam son los torneos más importantes del circuito del tenis. Cada temporada, cuatro ciudades albergan estos eventos cargados de tradición: Melbourne, París, Londres y Nueva York.</desc></programme>
+<programme start="20260825150000 +0000" stop="20260825162000 +0000" channel="usop2"><title lang="es">US Open (2026): Muchova/Mensik vs Mladenovic/Arevalo</title><desc lang="es">Los Grand Slam son los torneos más importantes del circuito del tenis. Cada temporada, cuatro ciudades albergan estos eventos cargados de tradición: Melbourne, París, Londres y Nueva York.</desc></programme>
+<programme start="20260825162000 +0000" stop="20260825172000 +0000" channel="usop2"><title lang="es">US Open (2026): Navarro/Paul vs Anisimova/Tien</title><desc lang="es">Los Grand Slam son los torneos más importantes del circuito del tenis. Cada temporada, cuatro ciudades albergan estos eventos cargados de tradición: Melbourne, París, Londres y Nueva York.</desc></programme>
+<programme start="20260825172000 +0000" stop="20260825182000 +0000" channel="usop2"><title lang="es">US Open (T2026): Dobles Mixtos TBC (partido 9)</title><desc lang="es">Los Grand Slam son los torneos más importantes del circuito del tenis. Cada temporada, cuatro ciudades albergan estos eventos cargados de tradición: Melbourne, París, Londres y Nueva York.</desc></programme>
+<programme start="20260825182000 +0000" stop="20260825192000 +0000" channel="usop2"><title lang="es">US Open (2026): Andreeva/Rublev vs Errani/Vavassori</title><desc lang="es">Los Grand Slam son los torneos más importantes del circuito del tenis. Cada temporada, cuatro ciudades albergan estos eventos cargados de tradición: Melbourne, París, Londres y Nueva York.</desc></programme>
+<programme start="20260825192000 +0000" stop="20260825203500 +0000" channel="usop2"><title lang="es">US Open (2026): Shnaider/Ruud vs Pegula/Fritz</title><desc lang="es">Los Grand Slam son los torneos más importantes del circuito del tenis. Cada temporada, cuatro ciudades albergan estos eventos cargados de tradición: Melbourne, París, Londres y Nueva York.</desc></programme>
+<programme start="20260825203500 +0000" stop="20260825223500 +0000" channel="usop2"><title lang="es">US Open (T2026): Dobles Mixtos TBC (partido 12)</title><desc lang="es">Los Grand Slam son los torneos más importantes del circuito del tenis. Cada temporada, cuatro ciudades albergan estos eventos cargados de tradición: Melbourne, París, Londres y Nueva York.</desc></programme>
 <programme start="20260825220000 +0000" stop="20260826060000 +0000" channel="usop2"><title lang="es">M+ Deportes 3</title></programme>
-<programme start="20260825220000 +0000" stop="20260826220000 +0000" channel="usop2"><title lang="es">M+ Deportes 3</title></programme>
+<programme start="20260825223500 +0000" stop="20260826220000 +0000" channel="usop2"><title lang="es">M+ Deportes 3</title></programme>
 <programme start="20260826060000 +0000" stop="20260826180000 +0000" channel="usop2"><title lang="es">M+ Deportes 3</title></programme>
 <programme start="20260826180000 +0000" stop="20260826220000 +0000" channel="usop2"><title lang="es">M+ Deportes 3</title></programme>
-<programme start="20260826220000 +0000" stop="20260827060000 +0000" channel="usop2"><title lang="es">M+ Deportes 3</title></programme>
 <programme start="20260826220000 +0000" stop="20260827220000 +0000" channel="usop2"><title lang="es">M+ Deportes 3</title></programme>
+<programme start="20260826223500 +0000" stop="20260827060000 +0000" channel="usop2"><title lang="es">M+ Deportes 3</title></programme>
 <programme start="20260825100000 +0000" stop="20260825220000 +0000" channel="usop3"><title lang="es">M+ Deportes 4</title></programme>
 <programme start="20260825220000 +0000" stop="20260826100000 +0000" channel="usop3"><title lang="es">M+ Deportes 4</title></programme>
 <programme start="20260825220000 +0000" stop="20260826220000 +0000" channel="usop3"><title lang="es">M+ Deportes 4</title></programme>
