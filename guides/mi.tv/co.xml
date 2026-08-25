@@ -1,27 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20260825">
 <channel id="co#a-e-mundo"><display-name>A&amp;E</display-name><url>https://mi.tv</url></channel>
 <channel id="co#a-e-mundo-hd"><display-name>A&amp;E Mundo HD</display-name><url>https://mi.tv</url></channel>
-<channel id="AlientoVision.us@SD"><display-name>Aliento Vision</display-name><icon src="https://i.imgur.com/xT10iqB.png"/><url>https://mi.tv</url></channel>
-<channel id="co#animal-planet"><display-name>Animal Planet</display-name><url>https://mi.tv</url></channel>
-<channel id="AzMundo.mx@SD"><display-name>Az Mundo HD</display-name><icon src="https://i.imgur.com/a7Ejid0.png"/><url>https://mi.tv</url></channel>
-<channel id="co#canal-de-las-estrellas"><display-name>Las Estrellas</display-name><url>https://mi.tv</url></channel>
-<channel id="co#concert-channel"><display-name>Concert Channel</display-name><url>https://mi.tv</url></channel>
-<channel id="co#fox-action-hd"><display-name>Star Action HD</display-name><url>https://mi.tv</url></channel>
-<channel id="SunChannel.ve@SD"><display-name>Sun Channel</display-name><icon src="https://i.imgur.com/B26qL3e.png"/><url>https://mi.tv</url></channel>
-<channel id="StarAction.us@SD"><display-name>Star Action</display-name><icon src="https://i.imgur.com/XD1Tpet.png"/><url>https://mi.tv</url></channel>
-<channel id="co#studio-universal"><display-name>Studio Universal</display-name><url>https://mi.tv</url></channel>
-<channel id="co#space-hd"><display-name>Space HD</display-name><url>https://mi.tv</url></channel>
-<channel id="CanalCartagena.co@SD"><display-name>Canal Cartagena</display-name><icon src="https://i.imgur.com/1GSOBQO.png"/><url>https://mi.tv</url></channel>
-<channel id="ComedyCentralLatinAmerica.us@Panregional"><display-name>Comedy Central HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png"/><url>https://mi.tv</url></channel>
-<channel id="co#fox-1-oeste"><display-name>Star Series (Oeste)</display-name><url>https://mi.tv</url></channel>
-<channel id="co#space"><display-name>Space</display-name><url>https://mi.tv</url></channel>
-<channel id="co#sony-hd"><display-name>Sony HD</display-name><url>https://mi.tv</url></channel>
-<channel id="StarSeries.us@SD"><display-name>Star Series HD</display-name><icon src="https://i.imgur.com/A977HvF.png"/><url>https://mi.tv</url></channel>
-<channel id="co#sony"><display-name>Sony</display-name><url>https://mi.tv</url></channel>
-<channel id="co#senal-institucional-rtvc"><display-name>Canal Institucional</display-name><url>https://mi.tv</url></channel>
-<channel id="co#comedy-central"><display-name>Comedy Central</display-name><url>https://mi.tv</url></channel>
-<channel id="co#fox-1-este"><display-name>Star Series</display-name><url>https://mi.tv</url></channel>
-<channel id="co#senal-colombia"><display-name>Señal Colombia</display-name><url>https://mi.tv</url></channel>
+<channel id="co#zoom"><display-name>Zoom</display-name><url>https://mi.tv</url></channel>
+<channel id="WinSports.co@SD"><display-name>Win Sports HD</display-name><icon src="https://i.imgur.com/DuSSrHV.png"/><url>https://mi.tv</url></channel>
+<channel id="co#win-sports"><display-name>Win Sports</display-name><url>https://mi.tv</url></channel>
+<channel id="co#warner"><display-name>Warner Channel</display-name><url>https://mi.tv</url></channel>
+<channel id="co#vmas-tv"><display-name>VMASTV</display-name><url>https://mi.tv</url></channel>
+<channel id="co#vh1-mega-hits"><display-name>VH1 Mega Hits</display-name><url>https://mi.tv</url></channel>
+<channel id="co#vh1-hd"><display-name>VH1 HD</display-name><url>https://mi.tv</url></channel>
+<channel id="co#vh1-classic-usa"><display-name>VH1 Classic USA</display-name><url>https://mi.tv</url></channel>
+<channel id="co#vh1"><display-name>VH1</display-name><url>https://mi.tv</url></channel>
+<channel id="co#venus"><display-name>Venus</display-name><url>https://mi.tv</url></channel>
+<channel id="VePlus.ve@Panregional"><display-name>Ve Plus TV</display-name><icon src="https://i.imgur.com/uc3zqcP.png"/><url>https://mi.tv</url></channel>
+<channel id="co#univision"><display-name>Univision</display-name><url>https://mi.tv</url></channel>
+<channel id="co#universal-channel"><display-name>Universal TV</display-name><url>https://mi.tv</url></channel>
+<channel id="co#ufc-network-hd"><display-name>UFC Network HD</display-name><url>https://mi.tv</url></channel>
+<channel id="co#tyc-sports-hd"><display-name>TyC Sports HD</display-name><url>https://mi.tv</url></channel>
+<channel id="co#tvn-24-h"><display-name>24 Horas</display-name><url>https://mi.tv</url></channel>
 <channel id="co#tve"><display-name>TVE</display-name><url>https://mi.tv</url></channel>
 <channel id="co#tvc"><display-name>TVC</display-name><url>https://mi.tv</url></channel>
 <channel id="co#tv-agro"><display-name>Tv Agro</display-name><url>https://mi.tv</url></channel>
@@ -53,22 +48,23 @@
 <channel id="co#tcm"><display-name>TCM</display-name><url>https://mi.tv</url></channel>
 <channel id="co#tbs-veryfunny-pan"><display-name>TBS</display-name><url>https://mi.tv</url></channel>
 <channel id="co#sun-channel-hd"><display-name>Sun Channel HD</display-name><url>https://mi.tv</url></channel>
+<channel id="SunChannel.ve@SD"><display-name>Sun Channel</display-name><icon src="https://i.imgur.com/B26qL3e.png"/><url>https://mi.tv</url></channel>
+<channel id="AlientoVision.us@SD"><display-name>Aliento Vision</display-name><icon src="https://i.imgur.com/xT10iqB.png"/><url>https://mi.tv</url></channel>
+<channel id="co#animal-planet"><display-name>Animal Planet</display-name><url>https://mi.tv</url></channel>
+<channel id="co#studio-universal"><display-name>Studio Universal</display-name><url>https://mi.tv</url></channel>
+<channel id="co#space-hd"><display-name>Space HD</display-name><url>https://mi.tv</url></channel>
+<channel id="co#space"><display-name>Space</display-name><url>https://mi.tv</url></channel>
+<channel id="co#sony-hd"><display-name>Sony HD</display-name><url>https://mi.tv</url></channel>
+<channel id="co#sony"><display-name>Sony</display-name><url>https://mi.tv</url></channel>
+<channel id="co#senal-institucional-rtvc"><display-name>Canal Institucional</display-name><url>https://mi.tv</url></channel>
+<channel id="co#senal-colombia"><display-name>Señal Colombia</display-name><url>https://mi.tv</url></channel>
 <channel id="co#russia-today-hd"><display-name>Russia Today HD</display-name><url>https://mi.tv</url></channel>
-<channel id="StarChannel.co@SD"><display-name>Star Channel</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png"/><url>https://mi.tv</url></channel>
 <channel id="co#rumba-tv"><display-name>Rumba TV</display-name><url>https://mi.tv</url></channel>
 <channel id="co#rcn-nuestra-tele"><display-name>RCN Nuestra Tele</display-name><url>https://mi.tv</url></channel>
-<channel id="co#amc-hd"><display-name>AMC HD</display-name><url>https://mi.tv</url></channel>
-<channel id="co#az-corazon"><display-name>Az Corazón</display-name><url>https://mi.tv</url></channel>
-<channel id="CanalCapital.co@SD"><display-name>Canal Capital</display-name><icon src="https://i.imgur.com/zAYtbYi.png"/><url>https://mi.tv</url></channel>
-<channel id="co#cnn-en-espanol"><display-name>CNN en Español</display-name><url>https://mi.tv</url></channel>
-<channel id="co#film-arts"><display-name>film&amp;arts</display-name><url>https://mi.tv</url></channel>
 <channel id="co#rcn-novelas"><display-name>RCN Novelas</display-name><url>https://mi.tv</url></channel>
 <channel id="co#rcn"><display-name>RCN</display-name><url>https://mi.tv</url></channel>
-<channel id="FashionOne.uk@SD"><display-name>Fashion One HD</display-name><icon src="https://i.imgur.com/cyvNhJq.png"/><url>https://mi.tv</url></channel>
 <channel id="co#playboy"><display-name>Playboy</display-name><url>https://mi.tv</url></channel>
 <channel id="co#pasiones"><display-name>Pasiones</display-name><url>https://mi.tv</url></channel>
-<channel id="co#cnn"><display-name>CNN</display-name><url>https://mi.tv</url></channel>
-<channel id="co#f1-latin-america"><display-name>F1 Latin America</display-name><url>https://mi.tv</url></channel>
 <channel id="co#paramount-channel"><display-name>Paramount Network</display-name><url>https://mi.tv</url></channel>
 <channel id="co#nuestra-tele-noticias-24hs"><display-name>NTN24</display-name><url>https://mi.tv</url></channel>
 <channel id="co#nickelodeon"><display-name>Nick</display-name><url>https://mi.tv</url></channel>
@@ -139,21 +135,26 @@
 <channel id="co#fox-classics"><display-name>Star Classics</display-name><url>https://mi.tv</url></channel>
 <channel id="co#fox-cinema"><display-name>Star Cinema</display-name><url>https://mi.tv</url></channel>
 <channel id="co#fox-action-oeste"><display-name>Star Action (Oeste)</display-name><url>https://mi.tv</url></channel>
+<channel id="co#fox-action-hd"><display-name>Star Action HD</display-name><url>https://mi.tv</url></channel>
+<channel id="AzMundo.mx@SD"><display-name>Az Mundo HD</display-name><icon src="https://i.imgur.com/a7Ejid0.png"/><url>https://mi.tv</url></channel>
+<channel id="co#canal-de-las-estrellas"><display-name>Las Estrellas</display-name><url>https://mi.tv</url></channel>
+<channel id="StarAction.us@SD"><display-name>Star Action</display-name><icon src="https://i.imgur.com/XD1Tpet.png"/><url>https://mi.tv</url></channel>
+<channel id="co#fox-1-oeste"><display-name>Star Series (Oeste)</display-name><url>https://mi.tv</url></channel>
+<channel id="StarSeries.us@SD"><display-name>Star Series HD</display-name><icon src="https://i.imgur.com/A977HvF.png"/><url>https://mi.tv</url></channel>
+<channel id="co#fox-1-este"><display-name>Star Series</display-name><url>https://mi.tv</url></channel>
+<channel id="StarChannel.co@SD"><display-name>Star Channel</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="co#film-arts"><display-name>film&amp;arts</display-name><url>https://mi.tv</url></channel>
+<channel id="FashionOne.uk@SD"><display-name>Fashion One HD</display-name><icon src="https://i.imgur.com/cyvNhJq.png"/><url>https://mi.tv</url></channel>
+<channel id="co#f1-latin-america"><display-name>F1 Latin America</display-name><url>https://mi.tv</url></channel>
 <channel id="co#ewtn"><display-name>EWTN</display-name><url>https://mi.tv</url></channel>
-<channel id="CanalC.co@SD"><display-name>Canal C</display-name><icon src="https://i.imgur.com/0ff3XdX.png"/><url>https://mi.tv</url></channel>
-<channel id="co#click"><display-name>Click</display-name><url>https://mi.tv</url></channel>
 <channel id="co#eurochannel"><display-name>Eurochannel</display-name><url>https://mi.tv</url></channel>
 <channel id="co#espn-plus"><display-name>ESPN Extra</display-name><url>https://mi.tv</url></channel>
-<channel id="co#citytv"><display-name>Citytv</display-name><url>https://mi.tv</url></channel>
 <channel id="co#espn-3-hd"><display-name>ESPN 3 HD</display-name><url>https://mi.tv</url></channel>
 <channel id="co#espn-3"><display-name>ESPN 3</display-name><url>https://mi.tv</url></channel>
-<channel id="co#axn-hd"><display-name>AXN HD</display-name><url>https://mi.tv</url></channel>
-<channel id="co#canal-14-cali"><display-name>Canal 14 - Cali</display-name><url>https://mi.tv</url></channel>
-<channel id="co#cinemax"><display-name>Cinemax</display-name><url>https://mi.tv</url></channel>
 <channel id="co#espn-2"><display-name>ESPN 2</display-name><url>https://mi.tv</url></channel>
 <channel id="co#espn"><display-name>ESPN</display-name><url>https://mi.tv</url></channel>
-<channel id="co#cinema"><display-name>Cinema+</display-name><url>https://mi.tv</url></channel>
 <channel id="EnlaceJuvenil.cr@SD"><display-name>Enlace Juvenil</display-name><icon src="https://i.imgur.com/GfpPQ5D.png"/><url>https://mi.tv</url></channel>
+<channel id="co#enlace"><display-name>Enlace</display-name><url>https://mi.tv</url></channel>
 <channel id="co#el-tiempo"><display-name>El Tiempo Televisión</display-name><url>https://mi.tv</url></channel>
 <channel id="co#el-gourmet"><display-name>El Gourmet</display-name><url>https://mi.tv</url></channel>
 <channel id="co#e"><display-name>E!</display-name><url>https://mi.tv</url></channel>
@@ -179,44 +180,43 @@
 <channel id="co#cosmovision-hd"><display-name>Cosmovisión HD</display-name><url>https://mi.tv</url></channel>
 <channel id="Cosmovision.co@SD"><display-name>Cosmovisión</display-name><icon src="https://i.imgur.com/bj7Jd2q.png"/><url>https://mi.tv</url></channel>
 <channel id="co#concert-channel-hd"><display-name>Concert Channel HD</display-name><url>https://mi.tv</url></channel>
-<channel id="co#enlace"><display-name>Enlace</display-name><url>https://mi.tv</url></channel>
-<channel id="CaliTV.co@SD"><display-name>CaliTV</display-name><icon src="https://i.imgur.com/2312Luq.png"/><url>https://mi.tv</url></channel>
+<channel id="co#concert-channel"><display-name>Concert Channel</display-name><url>https://mi.tv</url></channel>
+<channel id="ComedyCentralLatinAmerica.us@Panregional"><display-name>Comedy Central HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="co#comedy-central"><display-name>Comedy Central</display-name><url>https://mi.tv</url></channel>
+<channel id="co#cnn-en-espanol"><display-name>CNN en Español</display-name><url>https://mi.tv</url></channel>
+<channel id="co#cnn"><display-name>CNN</display-name><url>https://mi.tv</url></channel>
+<channel id="co#click"><display-name>Click</display-name><url>https://mi.tv</url></channel>
+<channel id="co#citytv"><display-name>Citytv</display-name><url>https://mi.tv</url></channel>
+<channel id="co#cinemax"><display-name>Cinemax</display-name><url>https://mi.tv</url></channel>
+<channel id="co#cinema"><display-name>Cinema+</display-name><url>https://mi.tv</url></channel>
 <channel id="co#cinelatino"><display-name>Cinelatino</display-name><url>https://mi.tv</url></channel>
 <channel id="co#cinecanal-hd"><display-name>Cinecanal HD</display-name><url>https://mi.tv</url></channel>
-<channel id="co#amc"><display-name>AMC</display-name><url>https://mi.tv</url></channel>
-<channel id="AXNLatinAmerica.us@Andes"><display-name>AXN</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png"/><url>https://mi.tv</url></channel>
-<channel id="co#cablenoticias"><display-name>Cablenoticias</display-name><url>https://mi.tv</url></channel>
 <channel id="co#cinecanal"><display-name>Cinecanal</display-name><url>https://mi.tv</url></channel>
 <channel id="co#cartoon-network"><display-name>Cartoon Network</display-name><url>https://mi.tv</url></channel>
-<channel id="co#boomerang-cartoon"><display-name>Cartoonito</display-name><url>https://mi.tv</url></channel>
 <channel id="co#caracol-novelas"><display-name>Novelas Caracol</display-name><url>https://mi.tv</url></channel>
 <channel id="co#caracol-hd"><display-name>Caracol HD</display-name><url>https://mi.tv</url></channel>
-<channel id="co#antena3"><display-name>Antena 3</display-name><url>https://mi.tv</url></channel>
-<channel id="co#bloomberg"><display-name>Bloomberg</display-name><url>https://mi.tv</url></channel>
 <channel id="CaracolTV.co@SD"><display-name>Caracol</display-name><icon src="https://i.imgur.com/WbfdJbk.png"/><url>https://mi.tv</url></channel>
 <channel id="Canal1.co@SD"><display-name>Canal 1</display-name><icon src="https://i.imgur.com/MiYlN0t.png"/><url>https://mi.tv</url></channel>
 <channel id="CanalU.co@SD"><display-name>Canal U</display-name><icon src="https://i.imgur.com/aXTCB4z.png"/><url>https://mi.tv</url></channel>
 <channel id="Trece.co@SD"><display-name>Canal TR3CE</display-name><icon src="https://i.imgur.com/jsuXXIg.png"/><url>https://mi.tv</url></channel>
 <channel id="CanalRCN.co@SD"><display-name>RCN HD</display-name><icon src="https://i.imgur.com/5PhTaHp.png"/><url>https://mi.tv</url></channel>
 <channel id="co#canal-de-las-estrellas-hd"><display-name>Canal de las Estrellas HD</display-name><url>https://mi.tv</url></channel>
+<channel id="CanalCartagena.co@SD"><display-name>Canal Cartagena</display-name><icon src="https://i.imgur.com/1GSOBQO.png"/><url>https://mi.tv</url></channel>
+<channel id="CanalCapital.co@SD"><display-name>Canal Capital</display-name><icon src="https://i.imgur.com/zAYtbYi.png"/><url>https://mi.tv</url></channel>
+<channel id="CanalC.co@SD"><display-name>Canal C</display-name><icon src="https://i.imgur.com/0ff3XdX.png"/><url>https://mi.tv</url></channel>
+<channel id="co#canal-14-cali"><display-name>Canal 14 - Cali</display-name><url>https://mi.tv</url></channel>
+<channel id="CaliTV.co@SD"><display-name>CaliTV</display-name><icon src="https://i.imgur.com/2312Luq.png"/><url>https://mi.tv</url></channel>
+<channel id="co#cablenoticias"><display-name>Cablenoticias</display-name><url>https://mi.tv</url></channel>
+<channel id="co#boomerang-cartoon"><display-name>Cartoonito</display-name><url>https://mi.tv</url></channel>
+<channel id="co#bloomberg"><display-name>Bloomberg</display-name><url>https://mi.tv</url></channel>
 <channel id="co#bbc-world"><display-name>BBC World</display-name><url>https://mi.tv</url></channel>
 <channel id="co#azteca-13"><display-name>Azteca 13</display-name><url>https://mi.tv</url></channel>
-<channel id="co#vh1-hd"><display-name>VH1 HD</display-name><url>https://mi.tv</url></channel>
-<channel id="co#ufc-network-hd"><display-name>UFC Network HD</display-name><url>https://mi.tv</url></channel>
-<channel id="co#vh1"><display-name>VH1</display-name><url>https://mi.tv</url></channel>
-<channel id="co#univision"><display-name>Univision</display-name><url>https://mi.tv</url></channel>
-<channel id="co#vh1-classic-usa"><display-name>VH1 Classic USA</display-name><url>https://mi.tv</url></channel>
-<channel id="co#warner"><display-name>Warner Channel</display-name><url>https://mi.tv</url></channel>
-<channel id="co#vmas-tv"><display-name>VMASTV</display-name><url>https://mi.tv</url></channel>
-<channel id="co#universal-channel"><display-name>Universal TV</display-name><url>https://mi.tv</url></channel>
-<channel id="co#win-sports"><display-name>Win Sports</display-name><url>https://mi.tv</url></channel>
-<channel id="co#venus"><display-name>Venus</display-name><url>https://mi.tv</url></channel>
-<channel id="co#tvn-24-h"><display-name>24 Horas</display-name><url>https://mi.tv</url></channel>
-<channel id="co#tyc-sports-hd"><display-name>TyC Sports HD</display-name><url>https://mi.tv</url></channel>
-<channel id="co#vh1-mega-hits"><display-name>VH1 Mega Hits</display-name><url>https://mi.tv</url></channel>
-<channel id="VePlus.ve@Panregional"><display-name>Ve Plus TV</display-name><icon src="https://i.imgur.com/uc3zqcP.png"/><url>https://mi.tv</url></channel>
-<channel id="co#zoom"><display-name>Zoom</display-name><url>https://mi.tv</url></channel>
-<channel id="WinSports.co@SD"><display-name>Win Sports HD</display-name><icon src="https://i.imgur.com/DuSSrHV.png"/><url>https://mi.tv</url></channel>
+<channel id="co#az-corazon"><display-name>Az Corazón</display-name><url>https://mi.tv</url></channel>
+<channel id="co#axn-hd"><display-name>AXN HD</display-name><url>https://mi.tv</url></channel>
+<channel id="AXNLatinAmerica.us@Andes"><display-name>AXN</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="co#antena3"><display-name>Antena 3</display-name><url>https://mi.tv</url></channel>
+<channel id="co#amc-hd"><display-name>AMC HD</display-name><url>https://mi.tv</url></channel>
+<channel id="co#amc"><display-name>AMC</display-name><url>https://mi.tv</url></channel>
 <programme start="20260825060000 +0000" stop="20260825070000 +0000" channel="AlientoVision.us@SD"><title lang="es">Tu nueva vida</title><desc lang="es">Dios te está dando una nueva oportunidad cada día, sólo tienes que conocer y acercarte más a su palabra. Por eso el Pastor Julio Rodríguez te enseñara como estudiar la Biblia y poner en práctica los sagrados mandamientos.</desc><category lang="es">Religioso</category><image>https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg</image></programme>
 <programme start="20260825070000 +0000" stop="20260825073000 +0000" channel="AlientoVision.us@SD"><title lang="es">Vida dura</title><desc lang="es">Omar Murillo te presenta testimonios de personas cuyas vidas han sida transformadas.</desc><category lang="es">Religioso</category><image>https://cdn.mitvstatic.com/programs/co_vida-dura_l_m.jpg</image></programme>
 <programme start="20260825073000 +0000" stop="20260825080000 +0000" channel="AlientoVision.us@SD"><title lang="es">Beats</title><desc lang="es">Espacio musical donde conocerás a tus cantantes favoritos de cerca, a través de una amena conversación donde expondrán sus secretos mejor guardados.</desc><category lang="es">Entrevista</category><image>https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg</image></programme>
@@ -4076,8 +4076,8 @@
 <programme start="20260825050000 +0000" stop="20260825100000 +0000" channel="co#win-sports"><title lang="es">Win Sports</title><category lang="es">Win Sports</category><image>https://cdn.mitvstatic.com/programs/co_deportivo-win-sports_l_m.jpg</image></programme>
 <programme start="20260825100000 +0000" stop="20260825110000 +0000" channel="co#win-sports"><title lang="es">Win Noticias</title><desc lang="es">Completo recorrido informativo por los hechos más relevantes del deporte nacional e internacional, con interacción en las ciudades principales del país y las noticias más destacadas del mundo.</desc><category lang="es">Win Noticias</category><image>https://cdn.mitvstatic.com/programs/co_noticiero-win-noticias_l_m.jpg</image></programme>
 <programme start="20260825110000 +0000" stop="20260826010000 +0000" channel="co#win-sports"><title lang="es">Planeta fútbol</title><desc lang="es">Cada mañana, encontrarás una experta visión del acontecer deportivo y las opiniones que serán noticia en el día. Acompañamos tus primeras actividades con variada información, y con las opiniones y los análisis que darán de qué hablar.</desc><category lang="es">Planeta fútbol</category><image>https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg</image></programme>
-<programme start="20260826010000 +0000" stop="20260826053000 +0000" channel="co#win-sports"><title lang="es">Despierta Win</title><desc lang="es">Un programa que va más allá de los titulares para llevar al público al corazón de las historias que moldean el panorama deportivo. Desde las últimas noticias y análisis profundos hasta entrevistas exclusivas con personajes del momento.</desc><category lang="es">Despierta Win</category><image>https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg</image></programme>
 <programme start="20260826010000 +0000" stop="20260826020000 +0000" channel="co#win-sports"><title lang="es">Win Sports</title><category lang="es">Win Sports</category><image>https://cdn.mitvstatic.com/programs/co_deportivo-win-sports_l_m.jpg</image></programme>
+<programme start="20260826010000 +0000" stop="20260826053000 +0000" channel="co#win-sports"><title lang="es">Despierta Win</title><desc lang="es">Un programa que va más allá de los titulares para llevar al público al corazón de las historias que moldean el panorama deportivo. Desde las últimas noticias y análisis profundos hasta entrevistas exclusivas con personajes del momento.</desc><category lang="es">Despierta Win</category><image>https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg</image></programme>
 <programme start="20260826053000 +0000" stop="20260826073000 +0000" channel="co#win-sports"><title lang="es">Medio tiempo</title><category lang="es">Medio tiempo</category><image>https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg</image></programme>
 <programme start="20260826073000 +0000" stop="20260826090000 +0000" channel="co#win-sports"><title lang="es">Win Sports</title><category lang="es">Win Sports</category><image>https://cdn.mitvstatic.com/programs/co_deportivo-win-sports_l_m.jpg</image></programme>
 <programme start="20260826090000 +0000" stop="20260827010000 +0000" channel="co#win-sports"><title lang="es">Saque largo</title><desc lang="es">Es el epicentro del debate y la polémica del fútbol colombiano. Sumérgete en análisis apasionados, discusiones candentes sobre cada jugada y las emociones propias del deporte rey.</desc><category lang="es">Saque largo</category><image>https://cdn.mitvstatic.com/tags/co_futbol_l_m.jpg</image></programme>
@@ -4756,8 +4756,8 @@
 <programme start="20260825050000 +0000" stop="20260825100000 +0000" channel="WinSports.co@SD"><title lang="es">Win Sports</title><category lang="es">Win Sports</category><image>https://cdn.mitvstatic.com/programs/co_deportivo-win-sports_l_m.jpg</image></programme>
 <programme start="20260825100000 +0000" stop="20260825110000 +0000" channel="WinSports.co@SD"><title lang="es">Win Noticias</title><desc lang="es">Completo recorrido informativo por los hechos más relevantes del deporte nacional e internacional, con interacción en las ciudades principales del país y las noticias más destacadas del mundo.</desc><category lang="es">Win Noticias</category><image>https://cdn.mitvstatic.com/programs/co_noticiero-win-noticias_l_m.jpg</image></programme>
 <programme start="20260825110000 +0000" stop="20260826010000 +0000" channel="WinSports.co@SD"><title lang="es">Planeta fútbol</title><desc lang="es">Cada mañana, encontrarás una experta visión del acontecer deportivo y las opiniones que serán noticia en el día. Acompañamos tus primeras actividades con variada información, y con las opiniones y los análisis que darán de qué hablar.</desc><category lang="es">Planeta fútbol</category><image>https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg</image></programme>
-<programme start="20260826010000 +0000" stop="20260826053000 +0000" channel="WinSports.co@SD"><title lang="es">Despierta Win</title><desc lang="es">Un programa que va más allá de los titulares para llevar al público al corazón de las historias que moldean el panorama deportivo. Desde las últimas noticias y análisis profundos hasta entrevistas exclusivas con personajes del momento.</desc><category lang="es">Despierta Win</category><image>https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg</image></programme>
 <programme start="20260826010000 +0000" stop="20260826020000 +0000" channel="WinSports.co@SD"><title lang="es">Win Sports</title><category lang="es">Win Sports</category><image>https://cdn.mitvstatic.com/programs/co_deportivo-win-sports_l_m.jpg</image></programme>
+<programme start="20260826010000 +0000" stop="20260826053000 +0000" channel="WinSports.co@SD"><title lang="es">Despierta Win</title><desc lang="es">Un programa que va más allá de los titulares para llevar al público al corazón de las historias que moldean el panorama deportivo. Desde las últimas noticias y análisis profundos hasta entrevistas exclusivas con personajes del momento.</desc><category lang="es">Despierta Win</category><image>https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg</image></programme>
 <programme start="20260826053000 +0000" stop="20260826073000 +0000" channel="WinSports.co@SD"><title lang="es">Medio tiempo</title><category lang="es">Medio tiempo</category><image>https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg</image></programme>
 <programme start="20260826073000 +0000" stop="20260826090000 +0000" channel="WinSports.co@SD"><title lang="es">Win Sports</title><category lang="es">Win Sports</category><image>https://cdn.mitvstatic.com/programs/co_deportivo-win-sports_l_m.jpg</image></programme>
 <programme start="20260826090000 +0000" stop="20260827010000 +0000" channel="WinSports.co@SD"><title lang="es">Saque largo</title><desc lang="es">Es el epicentro del debate y la polémica del fútbol colombiano. Sumérgete en análisis apasionados, discusiones candentes sobre cada jugada y las emociones propias del deporte rey.</desc><category lang="es">Saque largo</category><image>https://cdn.mitvstatic.com/tags/co_futbol_l_m.jpg</image></programme>
