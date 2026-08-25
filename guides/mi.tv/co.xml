@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20260825">
 <channel id="co#a-e-mundo"><display-name>A&amp;E</display-name><url>https://mi.tv</url></channel>
-<channel id="co#a-e-mundo-hd"><display-name>A&amp;E Mundo HD</display-name><url>https://mi.tv</url></channel>
-<channel id="AlientoVision.us@SD"><display-name>Aliento Vision</display-name><icon src="https://i.imgur.com/xT10iqB.png"/><url>https://mi.tv</url></channel>
-<channel id="co#amc-hd"><display-name>AMC HD</display-name><url>https://mi.tv</url></channel>
-<channel id="co#amc"><display-name>AMC</display-name><url>https://mi.tv</url></channel>
+<channel id="co#zoom"><display-name>Zoom</display-name><url>https://mi.tv</url></channel>
+<channel id="WinSports.co@SD"><display-name>Win Sports HD</display-name><icon src="https://i.imgur.com/DuSSrHV.png"/><url>https://mi.tv</url></channel>
+<channel id="co#win-sports"><display-name>Win Sports</display-name><url>https://mi.tv</url></channel>
 <channel id="co#warner"><display-name>Warner Channel</display-name><url>https://mi.tv</url></channel>
 <channel id="co#vmas-tv"><display-name>VMASTV</display-name><url>https://mi.tv</url></channel>
 <channel id="co#vh1-mega-hits"><display-name>VH1 Mega Hits</display-name><url>https://mi.tv</url></channel>
@@ -214,9 +213,10 @@
 <channel id="AXNLatinAmerica.us@Andes"><display-name>AXN</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png"/><url>https://mi.tv</url></channel>
 <channel id="co#antena3"><display-name>Antena 3</display-name><url>https://mi.tv</url></channel>
 <channel id="co#animal-planet"><display-name>Animal Planet</display-name><url>https://mi.tv</url></channel>
-<channel id="co#zoom"><display-name>Zoom</display-name><url>https://mi.tv</url></channel>
-<channel id="WinSports.co@SD"><display-name>Win Sports HD</display-name><icon src="https://i.imgur.com/DuSSrHV.png"/><url>https://mi.tv</url></channel>
-<channel id="co#win-sports"><display-name>Win Sports</display-name><url>https://mi.tv</url></channel>
+<channel id="co#amc-hd"><display-name>AMC HD</display-name><url>https://mi.tv</url></channel>
+<channel id="co#amc"><display-name>AMC</display-name><url>https://mi.tv</url></channel>
+<channel id="AlientoVision.us@SD"><display-name>Aliento Vision</display-name><icon src="https://i.imgur.com/xT10iqB.png"/><url>https://mi.tv</url></channel>
+<channel id="co#a-e-mundo-hd"><display-name>A&amp;E Mundo HD</display-name><url>https://mi.tv</url></channel>
 <programme start="20260825060000 +0000" stop="20260825070000 +0000" channel="AlientoVision.us@SD"><title lang="es">Tu nueva vida</title><desc lang="es">Dios te está dando una nueva oportunidad cada día, sólo tienes que conocer y acercarte más a su palabra. Por eso el Pastor Julio Rodríguez te enseñara como estudiar la Biblia y poner en práctica los sagrados mandamientos.</desc><category lang="es">Religioso</category><image>https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg</image></programme>
 <programme start="20260825070000 +0000" stop="20260825073000 +0000" channel="AlientoVision.us@SD"><title lang="es">Vida dura</title><desc lang="es">Omar Murillo te presenta testimonios de personas cuyas vidas han sida transformadas.</desc><category lang="es">Religioso</category><image>https://cdn.mitvstatic.com/programs/co_vida-dura_l_m.jpg</image></programme>
 <programme start="20260825073000 +0000" stop="20260825080000 +0000" channel="AlientoVision.us@SD"><title lang="es">Beats</title><desc lang="es">Espacio musical donde conocerás a tus cantantes favoritos de cerca, a través de una amena conversación donde expondrán sus secretos mejor guardados.</desc><category lang="es">Entrevista</category><image>https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg</image></programme>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20260825">
 <channel id="3ABNLatino.us@SD"><display-name>3ABN Latino</display-name><icon src="https://i.imgur.com/Ugb4AFo.png"/><url>https://mi.tv</url></channel>
-<channel id="hn#a-e-mundo"><display-name>A&amp;E</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#warner"><display-name>Warner Channel</display-name><url>https://mi.tv</url></channel>
 <channel id="VTV.hn@SD"><display-name>VTV</display-name><icon src="https://i.imgur.com/CsPkwD5.png"/><url>https://mi.tv</url></channel>
 <channel id="hn#vh1-classic-usa"><display-name>VH1 Classic USA</display-name><url>https://mi.tv</url></channel>
 <channel id="hn#vh1"><display-name>VH1</display-name><url>https://mi.tv</url></channel>
@@ -129,7 +129,7 @@
 <channel id="hn#animal-planet"><display-name>Animal Planet</display-name><url>https://mi.tv</url></channel>
 <channel id="hn#amc"><display-name>AMC</display-name><url>https://mi.tv</url></channel>
 <channel id="AlfaOmegaVision.hn@SD"><display-name>Alfa &amp; Omega Vision</display-name><icon src="https://i.imgur.com/4BSKCQT.png"/><url>https://mi.tv</url></channel>
-<channel id="hn#warner"><display-name>Warner Channel</display-name><url>https://mi.tv</url></channel>
+<channel id="hn#a-e-mundo"><display-name>A&amp;E</display-name><url>https://mi.tv</url></channel>
 <programme start="20260825060000 +0000" stop="20260825070000 +0000" channel="3ABNLatino.us@SD"><title lang="es">Plan de 5 días para dejar de fumar</title><desc lang="es">Un espacio de contenido religioso que comparte un plan efectivo de cinco días para dejar de fumar.</desc><category lang="es">Religioso</category><image>https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg</image></programme>
 <programme start="20260825070000 +0000" stop="20260825080000 +0000" channel="3ABNLatino.us@SD"><title lang="es">Campestre hispano de 3ABN</title><desc lang="es">Un evento donde analizaremos diversas temáticas religiosas, a la luz de la Palabra de Dios.</desc><category lang="es">Religioso</category><image>https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg</image></programme>
 <programme start="20260825080000 +0000" stop="20260825083000 +0000" channel="3ABNLatino.us@SD"><title lang="es">Hay esperanza para la familia</title><desc lang="es">La familia es el nucleo de la sociedad, es nuestro deber cuidar de ella. Aprendamos juntos como hacerlo.</desc><category lang="es">Religioso</category><image>https://cdn.mitvstatic.com/programs/hn_hay-esperanza-para-la-familia_l_m.jpg</image></programme>
