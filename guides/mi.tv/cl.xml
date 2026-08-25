@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20260825">
 <channel id="cl#a-e-mundo"><display-name>A&amp;E</display-name><url>https://mi.tv</url></channel>
-<channel id="ZonaLatina.cl@SD"><display-name>Zona Latina</display-name><icon src="https://i.imgur.com/lMyZZtk.png"/><url>https://mi.tv</url></channel>
-<channel id="WarnerChannel.us@Panregional"><display-name>Warner Channel</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Warner_Channel_2026.svg/960px-Warner_Channel_2026.svg.png"/><url>https://mi.tv</url></channel>
-<channel id="ViaX.cl@SD"><display-name>Vía X</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/d/d3/VIAX-oficial.png"/><url>https://mi.tv</url></channel>
+<channel id="cl#al-jazeera"><display-name>Al Jazeera</display-name><url>https://mi.tv</url></channel>
+<channel id="AMCLatinAmerica.us@SD"><display-name>AMC</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="cl#animal-planet"><display-name>Animal Planet</display-name><url>https://mi.tv</url></channel>
+<channel id="AmericaSports.ar@SD"><display-name>América Sports</display-name><icon src="https://i.imgur.com/GOQ9zOI.png"/><url>https://mi.tv</url></channel>
 <channel id="cl#vh1-mega-hits"><display-name>VH1 Mega Hits</display-name><url>https://mi.tv</url></channel>
 <channel id="cl#vh1"><display-name>VH1</display-name><url>https://mi.tv</url></channel>
 <channel id="cl#universidad-autonoma-temuco-uatv"><display-name>Universidad Autónoma Temuco (UATV)</display-name><url>https://mi.tv</url></channel>
@@ -187,10 +188,9 @@
 <channel id="ARTV.cl@SD"><display-name>ARTV</display-name><icon src="https://i.imgur.com/rKP1ihL.png"/><url>https://mi.tv</url></channel>
 <channel id="cl#antena-3"><display-name>Antena 3</display-name><url>https://mi.tv</url></channel>
 <channel id="cl#animal-planet-hd"><display-name>Animal Planet HD</display-name><url>https://mi.tv</url></channel>
-<channel id="cl#animal-planet"><display-name>Animal Planet</display-name><url>https://mi.tv</url></channel>
-<channel id="AmericaSports.ar@SD"><display-name>América Sports</display-name><icon src="https://i.imgur.com/GOQ9zOI.png"/><url>https://mi.tv</url></channel>
-<channel id="AMCLatinAmerica.us@SD"><display-name>AMC</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png"/><url>https://mi.tv</url></channel>
-<channel id="cl#al-jazeera"><display-name>Al Jazeera</display-name><url>https://mi.tv</url></channel>
+<channel id="ZonaLatina.cl@SD"><display-name>Zona Latina</display-name><icon src="https://i.imgur.com/lMyZZtk.png"/><url>https://mi.tv</url></channel>
+<channel id="WarnerChannel.us@Panregional"><display-name>Warner Channel</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Warner_Channel_2026.svg/960px-Warner_Channel_2026.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="ViaX.cl@SD"><display-name>Vía X</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/d/d3/VIAX-oficial.png"/><url>https://mi.tv</url></channel>
 <programme start="20260825060000 +0000" stop="20260825070000 +0000" channel="13C.cl@SD"><title lang="es">Cultura milenaria</title><sub-title lang="es">Isla Bali - Indonesia</sub-title><desc lang="es">En este viaje, descubrirá los lugares más hermosos e indómitos de Malasia, Tailandia, Indonesia, Vietnam, Laos y Camboya. Países que se han ido transformando en uno de los destinos exóticos más codiciados del mundo.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">0.9.0/1</episode-num><episode-num system="onscreen">S01E10</episode-num><image>https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg</image></programme>
 <programme start="20260825070000 +0000" stop="20260825080000 +0000" channel="13C.cl@SD"><title lang="es">Recomiendo Chile</title><sub-title lang="es">Hualaihué: parada obligada de la carretera austral</sub-title><desc lang="es">Recomiendo Chile es una serie documental que aporta una mirada moderna hacia la gastronomía tradicional de nuestro país.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">9.13.0/1</episode-num><episode-num system="onscreen">S10E14</episode-num><image>https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg</image></programme>
 <programme start="20260825080000 +0000" stop="20260825090000 +0000" channel="13C.cl@SD"><title lang="es">Lugares que hablan</title><sub-title lang="es">Falkland - Parte I</sub-title><desc lang="es">Pancho Saavedra cruzó las fronteras para ir en busca de los chilenos que viven en islas falkland, un archipiélago británico perdido en pleno Océano Atlántico.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">6.3.0/1</episode-num><episode-num system="onscreen">S07E04</episode-num><image>https://cdn.mitvstatic.com/programs/cl_lugares-que-hablan-s07e04-las-remotas-islas-falkland-primera-parte_l_m.jpg</image></programme>

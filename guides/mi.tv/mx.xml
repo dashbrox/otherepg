@@ -2,124 +2,124 @@
 <channel id="mx#a-e-mundo"><display-name>A&amp;E</display-name><url>https://mi.tv</url></channel>
 <channel id="mx#a-plus"><display-name>A+</display-name><url>https://mi.tv</url></channel>
 <channel id="AMCLatinAmerica.us@SD"><display-name>AMC</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="mx#axn"><display-name>AXN</display-name><url>https://mi.tv</url></channel>
+<channel id="CartoonitoLatinAmerica.us@Mexico"><display-name>Cartoonito</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/960px-Cartoonito_-_Logo_2021.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="mx#cinecanal-hd"><display-name>Cinecanal HD</display-name><url>https://mi.tv</url></channel>
+<channel id="mx#espn"><display-name>ESPN</display-name><url>https://mi.tv</url></channel>
+<channel id="mx#cinecanal"><display-name>Cinecanal</display-name><url>https://mi.tv</url></channel>
+<channel id="mx#entertainment"><display-name>E!</display-name><url>https://mi.tv</url></channel>
+<channel id="mx#el-gourmet"><display-name>El Gourmet</display-name><url>https://mi.tv</url></channel>
 <channel id="mx#animal-planet"><display-name>Animal Planet</display-name><url>https://mi.tv</url></channel>
+<channel id="mx#bandamax"><display-name>Bandamax</display-name><url>https://mi.tv</url></channel>
+<channel id="CartoonNetworkLatinAmerica.us@Mexico"><display-name>Cartoon Network</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="ElFinancieroBloombergTV.mx@SD"><display-name>El Financiero Bloomberg</display-name><icon src="https://i.imgur.com/MmoueNU.png"/><url>https://mi.tv</url></channel>
+<channel id="mx#i-sat"><display-name>I-SAT</display-name><url>https://mi.tv</url></channel>
+<channel id="mx#distrito-comedia"><display-name>Distrito Comedia</display-name><url>https://mi.tv</url></channel>
+<channel id="mx#history-hd"><display-name>History HD</display-name><url>https://mi.tv</url></channel>
+<channel id="mx#history"><display-name>History</display-name><url>https://mi.tv</url></channel>
+<channel id="NUMusic.mx@SD"><display-name>Canal NU</display-name><icon src="https://i.imgur.com/b9dqRur.png"/><url>https://mi.tv</url></channel>
+<channel id="mx#disney-xd"><display-name>Disney XD</display-name><url>https://mi.tv</url></channel>
+<channel id="mx#hbo-plus-mexico"><display-name>HBO Plus México</display-name><url>https://mi.tv</url></channel>
+<channel id="mx#hbo-oeste-hd"><display-name>HBO HD</display-name><url>https://mi.tv</url></channel>
+<channel id="mx#disney-jr"><display-name>Disney Junior</display-name><url>https://mi.tv</url></channel>
+<channel id="mx#hbo-oeste"><display-name>HBO</display-name><url>https://mi.tv</url></channel>
+<channel id="mx#hbo-family"><display-name>HBO Family</display-name><url>https://mi.tv</url></channel>
+<channel id="mx#azteca-13"><display-name>Azteca 13</display-name><url>https://mi.tv</url></channel>
+<channel id="LasEstrellas.mx@SD"><display-name>Las Estrellas</display-name><icon src="https://i.imgur.com/g5ShxZ7.png"/><url>https://mi.tv</url></channel>
+<channel id="DisneyChannelLatinAmerica.ar@North"><display-name>Disney Channel</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg"/><url>https://mi.tv</url></channel>
+<channel id="mx#hbo-2"><display-name>HBO 2</display-name><url>https://mi.tv</url></channel>
+<channel id="mx#golden-edge"><display-name>Golden Edge</display-name><url>https://mi.tv</url></channel>
+<channel id="mx#discovery-world-hd"><display-name>Discovery World</display-name><url>https://mi.tv</url></channel>
+<channel id="mx#golden"><display-name>Golden</display-name><url>https://mi.tv</url></channel>
+<channel id="mx#glitz"><display-name>Glitz</display-name><url>https://mi.tv</url></channel>
+<channel id="mx#canal-44-udgtv"><display-name>Canal 44 - udgtv</display-name><url>https://mi.tv</url></channel>
+<channel id="mx#discovery-kids"><display-name>Discovery Kids</display-name><url>https://mi.tv</url></channel>
+<channel id="ElNu9ve.mx@SD"><display-name>El Nu9ve</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Nueve_%282018_logo%29.png/960px-Nueve_%282018_logo%29.png"/><url>https://mi.tv</url></channel>
+<channel id="mx#fx-movies"><display-name>FX Movies</display-name><url>https://mi.tv</url></channel>
+<channel id="mx#discovery-id"><display-name>Investigation Discovery</display-name><url>https://mi.tv</url></channel>
+<channel id="mx#fx"><display-name>FX</display-name><url>https://mi.tv</url></channel>
+<channel id="mx#fox-sy-fy"><display-name>Syfy</display-name><url>https://mi.tv</url></channel>
 <channel id="mx#amc-hd"><display-name>AMC HD</display-name><url>https://mi.tv</url></channel>
+<channel id="Azteca7.mx@SD"><display-name>Azteca 7</display-name><icon src="https://i.imgur.com/UtFXjIn.png"/><url>https://mi.tv</url></channel>
+<channel id="Canal22MetropolitanayNacional.mx@SD"><display-name>Canal 22</display-name><icon src="https://i.imgur.com/j4FWfOT.png"/><url>https://mi.tv</url></channel>
+<channel id="mx#discovery-home-and-health"><display-name>Discovery Home &amp; Health</display-name><url>https://mi.tv</url></channel>
+<channel id="mx#fox-sports-3"><display-name>FOX Sports 3</display-name><url>https://mi.tv</url></channel>
+<channel id="mx#fox-sports-2"><display-name>FOX Sports 2</display-name><url>https://mi.tv</url></channel>
+<channel id="mx#discovery-hd-theater"><display-name>Discovery Theater</display-name><url>https://mi.tv</url></channel>
+<channel id="mx#fox-sports"><display-name>FOX Sports</display-name><url>https://mi.tv</url></channel>
+<channel id="mx#fox-oeste-hd"><display-name>Star Channel HD</display-name><url>https://mi.tv</url></channel>
+<channel id="mx#canal-5-galavision"><display-name>Canal 5 Galavision</display-name><url>https://mi.tv</url></channel>
+<channel id="mx#discovery-hd-mexico"><display-name>Discovery HD</display-name><url>https://mi.tv</url></channel>
+<channel id="mx#fox-movies-hd"><display-name>Star Hits HD</display-name><url>https://mi.tv</url></channel>
+<channel id="mx#fox-movies"><display-name>Star Hits</display-name><url>https://mi.tv</url></channel>
+<channel id="DiscoveryChannelLatinAmerica.us@Mexico"><display-name>Discovery Channel</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="StarLifeLatinAmerica.us@Mexico"><display-name>Star Life</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/960px-Star_Life_2021.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="mx#fox-family-oeste"><display-name>Star Fun (Oeste)</display-name><url>https://mi.tv</url></channel>
+<channel id="mx#az-corazon"><display-name>Az Corazón</display-name><url>https://mi.tv</url></channel>
+<channel id="Foro.mx@SD"><display-name>FOROtv</display-name><icon src="https://i.imgur.com/dDFrONz.png"/><url>https://mi.tv</url></channel>
+<channel id="DePeliculaLatinAmerica.mx@SD"><display-name>De Película HD</display-name><icon src="https://i.imgur.com/aksM8pa.png"/><url>https://mi.tv</url></channel>
+<channel id="mx#fox-family-hd"><display-name>Star Fun HD</display-name><url>https://mi.tv</url></channel>
+<channel id="mx#fox-family"><display-name>Star Fun</display-name><url>https://mi.tv</url></channel>
+<channel id="mx#de-pelicula"><display-name>De Película</display-name><url>https://mi.tv</url></channel>
+<channel id="mx#fox-comedy-hd"><display-name>Star Comedy HD</display-name><url>https://mi.tv</url></channel>
+<channel id="mx#fox-action-hd"><display-name>Star Action HD</display-name><url>https://mi.tv</url></channel>
+<channel id="mx#canal-4"><display-name>Canal 4</display-name><url>https://mi.tv</url></channel>
+<channel id="mx#comedy-central"><display-name>Comedy Central</display-name><url>https://mi.tv</url></channel>
+<channel id="mx#fox-1-oeste"><display-name>Star Series (Oeste)</display-name><url>https://mi.tv</url></channel>
+<channel id="mx#fox-1-hd"><display-name>Star Series HD</display-name><url>https://mi.tv</url></channel>
+<channel id="mx#cnn-en-espanol"><display-name>CNN en Español</display-name><url>https://mi.tv</url></channel>
+<channel id="StarChannel.mx@SD"><display-name>Star Channel</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="mx#film-arts"><display-name>film&amp;arts</display-name><url>https://mi.tv</url></channel>
+<channel id="mx#cadenatres"><display-name>Excelsior TV</display-name><url>https://mi.tv</url></channel>
+<channel id="mx#cnn"><display-name>CNN</display-name><url>https://mi.tv</url></channel>
+<channel id="mx#europa-europa"><display-name>Europa Europa</display-name><url>https://mi.tv</url></channel>
+<channel id="mx#espn-plus-hd"><display-name>ESPN+ HD</display-name><url>https://mi.tv</url></channel>
+<channel id="mx#cinemax"><display-name>Cinemax</display-name><url>https://mi.tv</url></channel>
+<channel id="mx#espn-hd"><display-name>ESPN HD</display-name><url>https://mi.tv</url></channel>
+<channel id="mx#espn-3"><display-name>ESPN 3</display-name><url>https://mi.tv</url></channel>
+<channel id="mx#espn-2"><display-name>ESPN 2</display-name><url>https://mi.tv</url></channel>
+<channel id="mx#telemundo"><display-name>Telemundo</display-name><url>https://mi.tv</url></channel>
+<channel id="mx#xh-gc-canal-5-hd"><display-name>Canal 5 HD</display-name><url>https://mi.tv</url></channel>
+<channel id="Canal5.mx@SD"><display-name>Canal 5</display-name><icon src="https://i.imgur.com/uZdVSoW.png"/><url>https://mi.tv</url></channel>
+<channel id="XEIPNTDT.mx@SD"><display-name>Canal Once</display-name><icon src="https://i.imgur.com/K0351vF.png"/><url>https://mi.tv</url></channel>
 <channel id="WOBI.ar@SD"><display-name>WOBI TV</display-name><icon src="https://i.imgur.com/uW4WIvC.png"/><url>https://mi.tv</url></channel>
-<channel id="WarnerChannel.us@Mexico"><display-name>Warner Channel</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Warner_Channel_2026.svg/960px-Warner_Channel_2026.svg.png"/><url>https://mi.tv</url></channel>
 <channel id="mx#vh1"><display-name>VH1</display-name><url>https://mi.tv</url></channel>
 <channel id="mx#univision"><display-name>Univision</display-name><url>https://mi.tv</url></channel>
 <channel id="UniversalTVLatinAmerica.us@Mexico"><display-name>Universal TV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/960px-Universal_TV_logo.svg.png"/><url>https://mi.tv</url></channel>
-<channel id="mx#tve"><display-name>TVE</display-name><url>https://mi.tv</url></channel>
 <channel id="mx#tvc-platino"><display-name>Platino</display-name><url>https://mi.tv</url></channel>
 <channel id="CineMexicano.mx@SD"><display-name>Cine Mexicano</display-name><icon src="https://i.imgur.com/qHtOVRO.png"/><url>https://mi.tv</url></channel>
 <channel id="mx#tv-unam"><display-name>TV UNAM</display-name><url>https://mi.tv</url></channel>
 <channel id="mx#tru-tv-hd"><display-name>truTV HD</display-name><url>https://mi.tv</url></channel>
-<channel id="mx#tru-tv"><display-name>TruTV</display-name><url>https://mi.tv</url></channel>
-<channel id="mx#tooncast"><display-name>Tooncast</display-name><url>https://mi.tv</url></channel>
 <channel id="mx#tnt-hd"><display-name>TNT HD</display-name><url>https://mi.tv</url></channel>
 <channel id="TNTLatinAmerica.us@Mexico"><display-name>TNT</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png"/><url>https://mi.tv</url></channel>
 <channel id="TlnovelasMexico.mx@SD"><display-name>TLNovelas</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png"/><url>https://mi.tv</url></channel>
 <channel id="mx#tiin"><display-name>TIIN</display-name><url>https://mi.tv</url></channel>
-<channel id="mx#telemundo"><display-name>Telemundo</display-name><url>https://mi.tv</url></channel>
 <channel id="mx#telehit"><display-name>Telehit</display-name><url>https://mi.tv</url></channel>
 <channel id="mx#tdn-hd"><display-name>TDN HD</display-name><url>https://mi.tv</url></channel>
 <channel id="mx#tdn"><display-name>TDN</display-name><url>https://mi.tv</url></channel>
 <channel id="mx#tcm"><display-name>TCM</display-name><url>https://mi.tv</url></channel>
-<channel id="mx#tbs-veryfunny-pan"><display-name>TBS</display-name><url>https://mi.tv</url></channel>
 <channel id="StudioUniversalLatinAmerica.us@Mexico"><display-name>Studio Universal</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/960px-StudioUniversal2016.png"/><url>https://mi.tv</url></channel>
 <channel id="Space.ar@Mexico"><display-name>Space</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/960px-SpaceLogo.svg.png"/><url>https://mi.tv</url></channel>
 <channel id="mx#sony-hd"><display-name>Sony HD</display-name><url>https://mi.tv</url></channel>
 <channel id="mx#sony"><display-name>Sony</display-name><url>https://mi.tv</url></channel>
-<channel id="mx#russia-today-hd"><display-name>Russia Today HD</display-name><url>https://mi.tv</url></channel>
 <channel id="mx#ritmoson-latino"><display-name>RMS</display-name><url>https://mi.tv</url></channel>
 <channel id="mx#proyecto-40"><display-name>adn40</display-name><url>https://mi.tv</url></channel>
 <channel id="mx#nickelodeon-hd"><display-name>Nick 2</display-name><url>https://mi.tv</url></channel>
 <channel id="mx#nickelodeon"><display-name>Nick</display-name><url>https://mi.tv</url></channel>
-<channel id="mx#nick-jr"><display-name>Nick Jr.</display-name><url>https://mi.tv</url></channel>
-<channel id="mx#national-geographic"><display-name>National Geographic</display-name><url>https://mi.tv</url></channel>
 <channel id="mx#muchmusic"><display-name>MuchMusic</display-name><url>https://mi.tv</url></channel>
 <channel id="MilenioTelevision.mx@SD"><display-name>Milenio TV</display-name><icon src="https://i.imgur.com/TG1T5Oh.png"/><url>https://mi.tv</url></channel>
 <channel id="mx#max-prime-mexico"><display-name>Max Prime México</display-name><url>https://mi.tv</url></channel>
 <channel id="mx#max"><display-name>HBO Mundi</display-name><url>https://mi.tv</url></channel>
-<channel id="mx#mas-chic"><display-name>Más Chic</display-name><url>https://mi.tv</url></channel>
 <channel id="mx#m-tv"><display-name>MTV</display-name><url>https://mi.tv</url></channel>
-<channel id="mx#i-sat"><display-name>I-SAT</display-name><url>https://mi.tv</url></channel>
-<channel id="mx#history-hd"><display-name>History HD</display-name><url>https://mi.tv</url></channel>
-<channel id="mx#history"><display-name>History</display-name><url>https://mi.tv</url></channel>
-<channel id="mx#hbo-plus-mexico"><display-name>HBO Plus México</display-name><url>https://mi.tv</url></channel>
-<channel id="mx#hbo-oeste-hd"><display-name>HBO HD</display-name><url>https://mi.tv</url></channel>
-<channel id="mx#hbo-oeste"><display-name>HBO</display-name><url>https://mi.tv</url></channel>
-<channel id="mx#hbo-family"><display-name>HBO Family</display-name><url>https://mi.tv</url></channel>
-<channel id="mx#hbo-2"><display-name>HBO 2</display-name><url>https://mi.tv</url></channel>
-<channel id="mx#golden-edge"><display-name>Golden Edge</display-name><url>https://mi.tv</url></channel>
-<channel id="mx#golden"><display-name>Golden</display-name><url>https://mi.tv</url></channel>
-<channel id="mx#glitz"><display-name>Glitz</display-name><url>https://mi.tv</url></channel>
-<channel id="ElNu9ve.mx@SD"><display-name>El Nu9ve</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Nueve_%282018_logo%29.png/960px-Nueve_%282018_logo%29.png"/><url>https://mi.tv</url></channel>
-<channel id="mx#fx-movies"><display-name>FX Movies</display-name><url>https://mi.tv</url></channel>
-<channel id="mx#fx"><display-name>FX</display-name><url>https://mi.tv</url></channel>
-<channel id="mx#fox-sy-fy"><display-name>Syfy</display-name><url>https://mi.tv</url></channel>
-<channel id="mx#fox-sports-3"><display-name>FOX Sports 3</display-name><url>https://mi.tv</url></channel>
-<channel id="mx#fox-sports-2"><display-name>FOX Sports 2</display-name><url>https://mi.tv</url></channel>
-<channel id="mx#fox-sports"><display-name>FOX Sports</display-name><url>https://mi.tv</url></channel>
-<channel id="mx#fox-oeste-hd"><display-name>Star Channel HD</display-name><url>https://mi.tv</url></channel>
-<channel id="mx#fox-movies-hd"><display-name>Star Hits HD</display-name><url>https://mi.tv</url></channel>
-<channel id="mx#fox-movies"><display-name>Star Hits</display-name><url>https://mi.tv</url></channel>
-<channel id="StarLifeLatinAmerica.us@Mexico"><display-name>Star Life</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/960px-Star_Life_2021.svg.png"/><url>https://mi.tv</url></channel>
-<channel id="mx#fox-family-oeste"><display-name>Star Fun (Oeste)</display-name><url>https://mi.tv</url></channel>
-<channel id="mx#fox-family-hd"><display-name>Star Fun HD</display-name><url>https://mi.tv</url></channel>
-<channel id="mx#fox-family"><display-name>Star Fun</display-name><url>https://mi.tv</url></channel>
-<channel id="mx#fox-comedy-hd"><display-name>Star Comedy HD</display-name><url>https://mi.tv</url></channel>
-<channel id="mx#fox-action-hd"><display-name>Star Action HD</display-name><url>https://mi.tv</url></channel>
-<channel id="mx#fox-1-oeste"><display-name>Star Series (Oeste)</display-name><url>https://mi.tv</url></channel>
-<channel id="mx#fox-1-hd"><display-name>Star Series HD</display-name><url>https://mi.tv</url></channel>
-<channel id="StarChannel.mx@SD"><display-name>Star Channel</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png"/><url>https://mi.tv</url></channel>
-<channel id="mx#film-arts"><display-name>film&amp;arts</display-name><url>https://mi.tv</url></channel>
-<channel id="mx#europa-europa"><display-name>Europa Europa</display-name><url>https://mi.tv</url></channel>
-<channel id="mx#espn-plus-hd"><display-name>ESPN+ HD</display-name><url>https://mi.tv</url></channel>
-<channel id="mx#espn-hd"><display-name>ESPN HD</display-name><url>https://mi.tv</url></channel>
-<channel id="mx#espn-3"><display-name>ESPN 3</display-name><url>https://mi.tv</url></channel>
-<channel id="mx#espn-2"><display-name>ESPN 2</display-name><url>https://mi.tv</url></channel>
-<channel id="mx#espn"><display-name>ESPN</display-name><url>https://mi.tv</url></channel>
-<channel id="mx#entertainment"><display-name>E!</display-name><url>https://mi.tv</url></channel>
-<channel id="mx#el-gourmet"><display-name>El Gourmet</display-name><url>https://mi.tv</url></channel>
-<channel id="ElFinancieroBloombergTV.mx@SD"><display-name>El Financiero Bloomberg</display-name><icon src="https://i.imgur.com/MmoueNU.png"/><url>https://mi.tv</url></channel>
-<channel id="mx#distrito-comedia"><display-name>Distrito Comedia</display-name><url>https://mi.tv</url></channel>
-<channel id="mx#disney-xd"><display-name>Disney XD</display-name><url>https://mi.tv</url></channel>
-<channel id="mx#disney-jr"><display-name>Disney Junior</display-name><url>https://mi.tv</url></channel>
-<channel id="DisneyChannelLatinAmerica.ar@North"><display-name>Disney Channel</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg"/><url>https://mi.tv</url></channel>
-<channel id="mx#discovery-world-hd"><display-name>Discovery World</display-name><url>https://mi.tv</url></channel>
-<channel id="mx#discovery-kids"><display-name>Discovery Kids</display-name><url>https://mi.tv</url></channel>
-<channel id="mx#discovery-id"><display-name>Investigation Discovery</display-name><url>https://mi.tv</url></channel>
-<channel id="mx#discovery-home-and-health"><display-name>Discovery Home &amp; Health</display-name><url>https://mi.tv</url></channel>
-<channel id="mx#discovery-hd-theater"><display-name>Discovery Theater</display-name><url>https://mi.tv</url></channel>
-<channel id="mx#discovery-hd-mexico"><display-name>Discovery HD</display-name><url>https://mi.tv</url></channel>
-<channel id="DiscoveryChannelLatinAmerica.us@Mexico"><display-name>Discovery Channel</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png"/><url>https://mi.tv</url></channel>
-<channel id="DePeliculaLatinAmerica.mx@SD"><display-name>De Película HD</display-name><icon src="https://i.imgur.com/aksM8pa.png"/><url>https://mi.tv</url></channel>
-<channel id="mx#de-pelicula"><display-name>De Película</display-name><url>https://mi.tv</url></channel>
-<channel id="mx#comedy-central"><display-name>Comedy Central</display-name><url>https://mi.tv</url></channel>
-<channel id="mx#cnn-en-espanol"><display-name>CNN en Español</display-name><url>https://mi.tv</url></channel>
-<channel id="mx#cnn"><display-name>CNN</display-name><url>https://mi.tv</url></channel>
-<channel id="mx#cinemax"><display-name>Cinemax</display-name><url>https://mi.tv</url></channel>
-<channel id="mx#cinecanal-hd"><display-name>Cinecanal HD</display-name><url>https://mi.tv</url></channel>
-<channel id="mx#cinecanal"><display-name>Cinecanal</display-name><url>https://mi.tv</url></channel>
-<channel id="CartoonNetworkLatinAmerica.us@Mexico"><display-name>Cartoon Network</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png"/><url>https://mi.tv</url></channel>
-<channel id="NUMusic.mx@SD"><display-name>Canal NU</display-name><icon src="https://i.imgur.com/b9dqRur.png"/><url>https://mi.tv</url></channel>
-<channel id="LasEstrellas.mx@SD"><display-name>Las Estrellas</display-name><icon src="https://i.imgur.com/g5ShxZ7.png"/><url>https://mi.tv</url></channel>
-<channel id="mx#canal-44-udgtv"><display-name>Canal 44 - udgtv</display-name><url>https://mi.tv</url></channel>
-<channel id="Canal22MetropolitanayNacional.mx@SD"><display-name>Canal 22</display-name><icon src="https://i.imgur.com/j4FWfOT.png"/><url>https://mi.tv</url></channel>
-<channel id="mx#canal-5-galavision"><display-name>Canal 5 Galavision</display-name><url>https://mi.tv</url></channel>
-<channel id="Foro.mx@SD"><display-name>FOROtv</display-name><icon src="https://i.imgur.com/dDFrONz.png"/><url>https://mi.tv</url></channel>
-<channel id="mx#canal-4"><display-name>Canal 4</display-name><url>https://mi.tv</url></channel>
-<channel id="mx#cadenatres"><display-name>Excelsior TV</display-name><url>https://mi.tv</url></channel>
-<channel id="CartoonitoLatinAmerica.us@Mexico"><display-name>Cartoonito</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/960px-Cartoonito_-_Logo_2021.svg.png"/><url>https://mi.tv</url></channel>
-<channel id="mx#bandamax"><display-name>Bandamax</display-name><url>https://mi.tv</url></channel>
-<channel id="mx#azteca-13"><display-name>Azteca 13</display-name><url>https://mi.tv</url></channel>
-<channel id="Azteca7.mx@SD"><display-name>Azteca 7</display-name><icon src="https://i.imgur.com/UtFXjIn.png"/><url>https://mi.tv</url></channel>
-<channel id="mx#az-corazon"><display-name>Az Corazón</display-name><url>https://mi.tv</url></channel>
-<channel id="mx#axn"><display-name>AXN</display-name><url>https://mi.tv</url></channel>
-<channel id="mx#xh-gc-canal-5-hd"><display-name>Canal 5 HD</display-name><url>https://mi.tv</url></channel>
-<channel id="Canal5.mx@SD"><display-name>Canal 5</display-name><icon src="https://i.imgur.com/uZdVSoW.png"/><url>https://mi.tv</url></channel>
-<channel id="XEIPNTDT.mx@SD"><display-name>Canal Once</display-name><icon src="https://i.imgur.com/K0351vF.png"/><url>https://mi.tv</url></channel>
+<channel id="mx#tve"><display-name>TVE</display-name><url>https://mi.tv</url></channel>
+<channel id="mx#tooncast"><display-name>Tooncast</display-name><url>https://mi.tv</url></channel>
+<channel id="mx#tbs-veryfunny-pan"><display-name>TBS</display-name><url>https://mi.tv</url></channel>
+<channel id="mx#mas-chic"><display-name>Más Chic</display-name><url>https://mi.tv</url></channel>
+<channel id="mx#national-geographic"><display-name>National Geographic</display-name><url>https://mi.tv</url></channel>
+<channel id="WarnerChannel.us@Mexico"><display-name>Warner Channel</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Warner_Channel_2026.svg/960px-Warner_Channel_2026.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="mx#tru-tv"><display-name>TruTV</display-name><url>https://mi.tv</url></channel>
+<channel id="mx#russia-today-hd"><display-name>Russia Today HD</display-name><url>https://mi.tv</url></channel>
+<channel id="mx#nick-jr"><display-name>Nick Jr.</display-name><url>https://mi.tv</url></channel>
 <programme start="20260825045500 +0000" stop="20260825070500 +0000" channel="AMCLatinAmerica.us@SD"><title lang="es">La saga Crepúsculo: Amanecer - Parte I</title><title lang="en">The Twilight Saga: Breaking Dawn - Part 1</title><desc lang="es">El amor que Edward y Bella sienten el uno por el otro se sella con su casamiento. Durante la luna de miel, Bella queda embarazada. El rápido crecimiento del feto afecta gravemente a su salud, llevándola al borde de la muerte.</desc><category lang="es">Aventura</category><rating><value>4.9</value></rating><image>https://cdn.mitvstatic.com/programs/mx_la-saga-crepusculo-amanecer-parte-i-2011_l_m.jpg</image></programme>
 <programme start="20260825070500 +0000" stop="20260825092000 +0000" channel="AMCLatinAmerica.us@SD"><title lang="es">Sicario</title><title lang="en">Acción</title><desc lang="es">En la zona fronteriza que se extiende entre Estados Unidos y México la joven Kate Macer, una idealista agente del FBI, es reclutada por una fuerza de élite del Gobierno para luchar contra el narcotráfico.</desc><image>https://cdn.mitvstatic.com/programs/mx_sicario-2015_l_m.jpg</image></programme>
 <programme start="20260825092000 +0000" stop="20260825111000 +0000" channel="AMCLatinAmerica.us@SD"><title lang="es">Legalmente rubia</title><title lang="en">Legally Blonde</title><desc lang="es">Una rubia intelectualmente desafiante ingresa en la Escuela de Leyes de Harvard con el único objetivo de recuperar a su novio. Deberá librar la batalla de su vida, por su novio, por ella misma y por todas aquellas que sufren por ser rubias.</desc><category lang="es">Comedia</category><rating><value>6.2</value></rating><image>https://cdn.mitvstatic.com/programs/mx_legalmente-rubia-2001_l_m.jpg</image></programme>
