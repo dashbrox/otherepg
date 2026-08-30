@@ -183,7 +183,6 @@
   <channel site="gatotv.com" site_id="mega_chile" lang="es" xmltv_id="">Mega Chile</channel>
   <channel site="gatotv.com" site_id="meganoticias_mx" lang="es" xmltv_id="">Meganoticias MX</channel>
   <channel site="gatotv.com" site_id="mtv_centro" lang="es" xmltv_id="">MTV Centro</channel>
-  <channel site="gatotv.com" site_id="mtv_mexico" lang="es" xmltv_id="">MTV México</channel>
   <channel site="gatotv.com" site_id="mtv_sur" lang="es" xmltv_id="">MTV Sur</channel>
   <channel site="gatotv.com" site_id="multimedios_costa_rica" lang="es" xmltv_id="">Multimedios Costa Rica</channel>
   <channel site="gatotv.com" site_id="national_geographic_centro" lang="es" xmltv_id="">National Geographic Centro</channel>
@@ -339,7 +338,6 @@
   <channel site="gatotv.com" site_id="discovery_home_and_health_mexico" lang="es" xmltv_id="DiscoveryHomeHealthLatinAmerica.mx@Mexico">Discovery H&amp;H MX</channel>
   <channel site="gatotv.com" site_id="discovery_kids_mexico" lang="es" xmltv_id="DiscoveryKidsLatinAmerica.us@Mexico">Discovery Kids MX</channel>
   <channel site="gatotv.com" site_id="discovery_science_latinoamerica" lang="es" xmltv_id="DiscoveryScienceLatinAmerica.us@SD">Discovery Science LATAM</channel>
-  <channel site="gatotv.com" site_id="disney_channel_mexico" lang="es" xmltv_id="DisneyChannelLatinAmerica.ar@North">Disney Channel México</channel>
   <channel site="gatotv.com" site_id="disney_junior_norte" lang="es" xmltv_id="DisneyJrLatinAmerica.ar@North">Disney Junior Norte</channel>
   <channel site="gatotv.com" site_id="disney_junior_sur" lang="es" xmltv_id="DisneyJrLatinAmerica.ar@South">Disney Junior Sur</channel>
   <channel site="gatotv.com" site_id="disney_junior_espana" lang="es" xmltv_id="DisneyJunior.es@SD">Disney Junior España</channel>
@@ -443,7 +441,6 @@
   <channel site="gatotv.com" site_id="13_de_colombia" lang="es" xmltv_id="Trece.co@SD">13 de Colombia</channel>
   <channel site="gatotv.com" site_id="tudn_mexico" lang="es" xmltv_id="TUDN.mx@SD">TUDN México</channel>
   <channel site="gatotv.com" site_id="tudn_estados_unidos" lang="es" xmltv_id="TUDN.us@SD">TUDN USA</channel>
-  <channel site="gatotv.com" site_id="tv5monde" lang="es" xmltv_id="TV5MondeLatinAmerica.fr@SD">TV5Monde</channel>
   <channel site="gatotv.com" site_id="tvc_deportes" lang="es" xmltv_id="TVCDeportes.mx@SD">TVC Deportes</channel>
   <channel site="gatotv.com" site_id="tv_chile" lang="es" xmltv_id="TVChile.cl@SD">TV Chile</channel>
   <channel site="gatotv.com" site_id="television_publica" lang="es" xmltv_id="TVPublica.ar@SD">Televisión Pública Argentina</channel>
