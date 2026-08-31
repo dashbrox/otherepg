@@ -101,6 +101,7 @@
   <channel site="gatotv.com" site_id="discovery_turbo_latinoamerica" lang="es" xmltv_id="">Discovery Turbo LATAM.</channel>
   <channel site="gatotv.com" site_id="discovery_world_latinoamerica" lang="es" xmltv_id="">Discovery World Lat.</channel>
   <channel site="gatotv.com" site_id="disney_channel_centro" lang="es" xmltv_id="">Disney Channel Centro</channel>
+  <channel site="gatotv.com" site_id="disney_channel_mexico" lang="es" xmltv_id="">Disney Channel México</channel>
   <channel site="gatotv.com" site_id="disney_channel_sur" lang="es" xmltv_id="">Disney Channel Sur</channel>
   <channel site="gatotv.com" site_id="dreamworks_channel_latinoamerica" lang="es" xmltv_id="">DreamWorks Channel LATAM</channel>
   <channel site="gatotv.com" site_id="dw_latinoamerica" lang="es" xmltv_id="">DW Latam.</channel>
@@ -183,6 +184,7 @@
   <channel site="gatotv.com" site_id="mega_chile" lang="es" xmltv_id="">Mega Chile</channel>
   <channel site="gatotv.com" site_id="meganoticias_mx" lang="es" xmltv_id="">Meganoticias MX</channel>
   <channel site="gatotv.com" site_id="mtv_centro" lang="es" xmltv_id="">MTV Centro</channel>
+  <channel site="gatotv.com" site_id="mtv_mexico" lang="es" xmltv_id="">MTV México</channel>
   <channel site="gatotv.com" site_id="mtv_sur" lang="es" xmltv_id="">MTV Sur</channel>
   <channel site="gatotv.com" site_id="multimedios_costa_rica" lang="es" xmltv_id="">Multimedios Costa Rica</channel>
   <channel site="gatotv.com" site_id="national_geographic_centro" lang="es" xmltv_id="">National Geographic Centro</channel>
@@ -239,7 +241,6 @@
   <channel site="gatotv.com" site_id="teleunion_republica_dominicana" lang="es" xmltv_id="">Teleunion</channel>
   <channel site="gatotv.com" site_id="tlc_panregional" lang="es" xmltv_id="">TLC Panregional</channel>
   <channel site="gatotv.com" site_id="tlnovelas_latinoamerica" lang="es" xmltv_id="">TLNovelas LATAM</channel>
-  <channel site="gatotv.com" site_id="tlnovelas_mexico" lang="es" xmltv_id="">TLNovelas México</channel>
   <channel site="gatotv.com" site_id="tn23" lang="es" xmltv_id="">TN23</channel>
   <channel site="gatotv.com" site_id="tnt_centroamerica_y_caribe" lang="es" xmltv_id="">TNT Centroamérica y Caribe</channel>
   <channel site="gatotv.com" site_id="tnt_novelas_guatemala" lang="es" xmltv_id="">TNT Novelas GT</channel>
@@ -250,6 +251,7 @@
   <channel site="gatotv.com" site_id="tro" lang="es" xmltv_id="">Tro</channel>
   <channel site="gatotv.com" site_id="tsi_honduras" lang="es" xmltv_id="">Telesistema Informativo (TSI)</channel>
   <channel site="gatotv.com" site_id="tudn_centroamerica" lang="es" xmltv_id="">TUDN Centroamérica</channel>
+  <channel site="gatotv.com" site_id="tv5monde" lang="es" xmltv_id="">TV5Monde</channel>
   <channel site="gatotv.com" site_id="tv_agro_centroamerica" lang="es" xmltv_id="">TV Agro C. A.</channel>
   <channel site="gatotv.com" site_id="tv_azteca_corazon" lang="es" xmltv_id="">TV Azteca Corazón</channel>
   <channel site="gatotv.com" site_id="tv_azteca_deportes" lang="es" xmltv_id="">TV Azteca Deportes</channel>
