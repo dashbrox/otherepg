@@ -190,7 +190,6 @@
   <channel site="gatotv.com" site_id="national_geographic_centro" lang="es" xmltv_id="">National Geographic Centro</channel>
   <channel site="gatotv.com" site_id="nick_junior_latinoamerica" lang="es" xmltv_id="">Nick Jr. Latinoamérica</channel>
   <channel site="gatotv.com" site_id="nickelodeon_centro" lang="es" xmltv_id="">Nickelodeon Centro</channel>
-  <channel site="gatotv.com" site_id="nickelodeon_mexico" lang="es" xmltv_id="">Nickelodeon México</channel>
   <channel site="gatotv.com" site_id="noticias_py" lang="es" xmltv_id="">Noticias PY</channel>
   <channel site="gatotv.com" site_id="odisea" lang="es" xmltv_id="">Odisea</channel>
   <channel site="gatotv.com" site_id="panamericana_television" lang="es" xmltv_id="">Panamericana Televisión</channel>
@@ -241,6 +240,7 @@
   <channel site="gatotv.com" site_id="teleunion_republica_dominicana" lang="es" xmltv_id="">Teleunion</channel>
   <channel site="gatotv.com" site_id="tlc_panregional" lang="es" xmltv_id="">TLC Panregional</channel>
   <channel site="gatotv.com" site_id="tlnovelas_latinoamerica" lang="es" xmltv_id="">TLNovelas LATAM</channel>
+  <channel site="gatotv.com" site_id="tlnovelas_mexico" lang="es" xmltv_id="">TLNovelas México</channel>
   <channel site="gatotv.com" site_id="tn23" lang="es" xmltv_id="">TN23</channel>
   <channel site="gatotv.com" site_id="tnt_centroamerica_y_caribe" lang="es" xmltv_id="">TNT Centroamérica y Caribe</channel>
   <channel site="gatotv.com" site_id="tnt_novelas_guatemala" lang="es" xmltv_id="">TNT Novelas GT</channel>
@@ -267,9 +267,6 @@
   <channel site="gatotv.com" site_id="ultra_kidz" lang="es" xmltv_id="">Ultra Kidz</channel>
   <channel site="gatotv.com" site_id="ultra_tainment" lang="es" xmltv_id="">Ultra Tainment</channel>
   <channel site="gatotv.com" site_id="unicanal" lang="es" xmltv_id="">Unicanal</channel>
-  <channel site="gatotv.com" site_id="universal_comedy" lang="es" xmltv_id="">Universal Comedy</channel>
-  <channel site="gatotv.com" site_id="universal_premiere" lang="es" xmltv_id="">Universal Premiere</channel>
-  <channel site="gatotv.com" site_id="universal_tv_mexico" lang="es" xmltv_id="">Universal TV México</channel>
   <channel site="gatotv.com" site_id="universal_tv_panregional" lang="es" xmltv_id="">Universal TV Panregional</channel>
   <channel site="gatotv.com" site_id="univision_latinoamerica" lang="es" xmltv_id="">Univision Latinoamérica</channel>
   <channel site="gatotv.com" site_id="usa_network_latinoamerica" lang="es" xmltv_id="">Canal USA Network LATAM</channel>
@@ -449,9 +446,7 @@
   <channel site="gatotv.com" site_id="tvunam" lang="es" xmltv_id="TVUNAM.mx@SD">TVUNAM</channel>
   <channel site="gatotv.com" site_id="tyc_sports" lang="es" xmltv_id="TyCSports.ar@SD">TyC Sports</channel>
   <channel site="gatotv.com" site_id="unicable" lang="es" xmltv_id="Unicable.mx@SD">Unicable MX</channel>
-  <channel site="gatotv.com" site_id="universal_cinema" lang="es" xmltv_id="UniversalCinema.us@SD">Universal Cinema</channel>
   <channel site="gatotv.com" site_id="universal_crime" lang="es" xmltv_id="UniversalCrime.us@East">Universal Crime</channel>
-  <channel site="gatotv.com" site_id="universal_reality" lang="es" xmltv_id="UniversalReality.us@SD">Universal Reality</channel>
   <channel site="gatotv.com" site_id="univision_tlnovelas" lang="es" xmltv_id="UnivisionTlnovelas.us@SD">Univision TLNovelas</channel>
   <channel site="gatotv.com" site_id="_vamos" lang="es" xmltv_id="VamosporMovistarPlusPlus.es@SD">M+ #Vamos</channel>
   <channel site="gatotv.com" site_id="ve_plus_estados_unidos" lang="es" xmltv_id="VePlus.ve@US">Ve Plus Estados Unidos</channel>
