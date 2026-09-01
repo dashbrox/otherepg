@@ -223,7 +223,7 @@
   <channel site="sky.com" site_id="4266" lang="en" xmltv_id="GREATtv.uk@SD">Great! TV</channel>
   <channel site="sky.com" site_id="3580" lang="en" xmltv_id="HighStreetTV1.uk@SD">High Street TV 1</channel>
   <channel site="sky.com" site_id="5706" lang="en" xmltv_id="HighStreetTV2.uk@SD">High Street TV 2</channel>
-  <channel site="sky.com" site_id="3404" lang="en" xmltv_id="HighStreetTV3.uk@SD">Shop Unlimited</channel>
+  <channel site="sky.com" site_id="3404" lang="en" xmltv_id="HighStreetTV3.uk@SD">High Street TV 3</channel>
   <channel site="sky.com" site_id="1169" lang="en" xmltv_id="HobbyMaker.uk@HD">HobbyMakerHD</channel>
   <channel site="sky.com" site_id="4502" lang="en" xmltv_id="HorrorXtra.uk@Plus1">LEGEND XTRA+1</channel>
   <channel site="sky.com" site_id="3605" lang="en" xmltv_id="HorrorXtra.uk@SD">LEGEND XTRA</channel>
@@ -305,8 +305,8 @@
   <channel site="sky.com" site_id="1857" lang="en" xmltv_id="NickJr.uk@SD">Nick Jr.</channel>
   <channel site="sky.com" site_id="5192" lang="en" xmltv_id="NickJrToo.ie@SD">Nick Jr. Too</channel>
   <channel site="sky.com" site_id="4340" lang="en" xmltv_id="NickJrToo.uk@SD">Nick Jr. Too</channel>
-  <channel site="sky.com" site_id="5527" lang="en" xmltv_id="Nicktoons.ie@SD">Nick Alvinnn!!!</channel>
-  <channel site="sky.com" site_id="1849" lang="en" xmltv_id="Nicktoons.uk@SD">Nick Alvinnn!!!</channel>
+  <channel site="sky.com" site_id="5527" lang="en" xmltv_id="Nicktoons.ie@SD">Nicktoons</channel>
+  <channel site="sky.com" site_id="1849" lang="en" xmltv_id="Nicktoons.uk@SD">Nicktoons</channel>
   <channel site="sky.com" site_id="3715" lang="en" xmltv_id="NoorTV.uk@SD">Noor TV</channel>
   <channel site="sky.com" site_id="3403" lang="en" xmltv_id="Now70s.uk@SD">NOW 70s</channel>
   <channel site="sky.com" site_id="4541" lang="en" xmltv_id="Now80s.uk@SD">NOW 80s</channel>
