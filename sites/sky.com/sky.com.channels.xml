@@ -3,6 +3,7 @@
   <channel site="sky.com" site_id="1005" lang="en" xmltv_id="">Times Radio</channel>
   <channel site="sky.com" site_id="1011" lang="en" xmltv_id="">PBC</channel>
   <channel site="sky.com" site_id="1015" lang="en" xmltv_id="">Really+1</channel>
+  <channel site="sky.com" site_id="1027" lang="en" xmltv_id="">TLC HD</channel>
   <channel site="sky.com" site_id="1035" lang="en" xmltv_id="">SkySpBoxOffHD</channel>
   <channel site="sky.com" site_id="1070" lang="en" xmltv_id="">GTC Punjabi</channel>
   <channel site="sky.com" site_id="1083" lang="en" xmltv_id="">Heart 90s</channel>
@@ -447,7 +448,6 @@
   <channel site="sky.com" site_id="4192" lang="en" xmltv_id="TelevisionX.uk@SD">Television X</channel>
   <channel site="sky.com" site_id="4034" lang="en" xmltv_id="TG4.ie@HD">TG4 HD</channel>
   <channel site="sky.com" site_id="1113" lang="en" xmltv_id="TJC.uk@HD">TJC HD</channel>
-  <channel site="sky.com" site_id="2405" lang="en" xmltv_id="TLC.ie@SD">TLC</channel>
   <channel site="sky.com" site_id="3812" lang="en" xmltv_id="TLC.uk@HD">TLC HD</channel>
   <channel site="sky.com" site_id="5451" lang="en" xmltv_id="TLC.uk@Plus1">TLC+1</channel>
   <channel site="sky.com" site_id="5450" lang="en" xmltv_id="TLC.uk@SD">TLC</channel>
