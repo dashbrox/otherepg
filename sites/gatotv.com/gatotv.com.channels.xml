@@ -143,6 +143,7 @@
   <channel site="gatotv.com" site_id="fox_el_salvador" lang="es" xmltv_id="">Fox El Salvador</channel>
   <channel site="gatotv.com" site_id="fox_guatemala" lang="es" xmltv_id="">Fox Guatemala</channel>
   <channel site="gatotv.com" site_id="fox_honduras" lang="es" xmltv_id="">Fox Honduras</channel>
+  <channel site="gatotv.com" site_id="fox_mexico" lang="es" xmltv_id="">Fox México</channel>
   <channel site="gatotv.com" site_id="fox_news" lang="es" xmltv_id="">Fox News</channel>
   <channel site="gatotv.com" site_id="fox_nicaragua" lang="es" xmltv_id="">Fox Nicaragua</channel>
   <channel site="gatotv.com" site_id="fox_plus_costa_rica" lang="es" xmltv_id="">FOX+ Costa Rica</channel>
@@ -190,6 +191,7 @@
   <channel site="gatotv.com" site_id="national_geographic_centro" lang="es" xmltv_id="">National Geographic Centro</channel>
   <channel site="gatotv.com" site_id="nick_junior_latinoamerica" lang="es" xmltv_id="">Nick Jr. Latinoamérica</channel>
   <channel site="gatotv.com" site_id="nickelodeon_centro" lang="es" xmltv_id="">Nickelodeon Centro</channel>
+  <channel site="gatotv.com" site_id="nickelodeon_mexico" lang="es" xmltv_id="">Nickelodeon México</channel>
   <channel site="gatotv.com" site_id="noticias_py" lang="es" xmltv_id="">Noticias PY</channel>
   <channel site="gatotv.com" site_id="odisea" lang="es" xmltv_id="">Odisea</channel>
   <channel site="gatotv.com" site_id="panamericana_television" lang="es" xmltv_id="">Panamericana Televisión</channel>
@@ -268,6 +270,10 @@
   <channel site="gatotv.com" site_id="ultra_tainment" lang="es" xmltv_id="">Ultra Tainment</channel>
   <channel site="gatotv.com" site_id="unicanal" lang="es" xmltv_id="">Unicanal</channel>
   <channel site="gatotv.com" site_id="universal_cinema" lang="es" xmltv_id="">Universal Cinema</channel>
+  <channel site="gatotv.com" site_id="universal_comedy" lang="es" xmltv_id="">Universal Comedy</channel>
+  <channel site="gatotv.com" site_id="universal_premiere" lang="es" xmltv_id="">Universal Premiere</channel>
+  <channel site="gatotv.com" site_id="universal_reality" lang="es" xmltv_id="">Universal Reality</channel>
+  <channel site="gatotv.com" site_id="universal_tv_mexico" lang="es" xmltv_id="">Universal TV México</channel>
   <channel site="gatotv.com" site_id="universal_tv_panregional" lang="es" xmltv_id="">Universal TV Panregional</channel>
   <channel site="gatotv.com" site_id="univision_latinoamerica" lang="es" xmltv_id="">Univision Latinoamérica</channel>
   <channel site="gatotv.com" site_id="usa_network_latinoamerica" lang="es" xmltv_id="">Canal USA Network LATAM</channel>
