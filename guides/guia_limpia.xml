@@ -1,56 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv date="20260903">
 <channel id="7tvmur"><display-name>7 TV Región Murcia</display-name><url>https://movistarplus.es</url></channel>
-<channel id="veo7"><display-name>Veo7</display-name><url>https://movistarplus.es</url></channel>
-<channel id="vamosd"><display-name>M+ Vamos</display-name><url>https://movistarplus.es</url></channel>
-<channel id="vam2sd"><display-name>M+ Vamos 2</display-name><url>https://movistarplus.es</url></channel>
-<channel id="usop11"><display-name>M+ Deportes 5</display-name><url>https://movistarplus.es</url></channel>
-<channel id="usop3"><display-name>M+ Deportes 4</display-name><url>https://movistarplus.es</url></channel>
-<channel id="usop2"><display-name>M+ Deportes 3</display-name><url>https://movistarplus.es</url></channel>
-<channel id="ucl"><display-name>UCL</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tvgal"><display-name>TVG -TV Galicia</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tvg2"><display-name>TVG 2</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tvg"><display-name>TVG Europa</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tve"><display-name>LA 1</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tvc"><display-name>TV3 Cat</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tv5"><display-name>TV5MONDE</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tv3cat"><display-name>TV3</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tpa"><display-name>TPA</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tnt"><display-name>Warner TV</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tlesur"><display-name>Telesur</display-name><url>https://movistarplus.es</url></channel>
-<channel id="ten"><display-name>Ten</display-name><url>https://movistarplus.es</url></channel>
-<channel id="telmin"><display-name>Telemadrid Int.</display-name><url>https://movistarplus.es</url></channel>
-<channel id="telmad"><display-name>Telemadrid</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tdep"><display-name>Teledeporte</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tcm"><display-name>TCM</display-name><url>https://movistarplus.es</url></channel>
-<channel id="t5"><display-name>Telecinco</display-name><url>https://movistarplus.es</url></channel>
-<channel id="squi"><display-name>Squirrel</display-name><url>https://movistarplus.es</url></channel>
-<channel id="skysho"><display-name>SkyShowtime 1</display-name><url>https://movistarplus.es</url></channel>
-<channel id="skynw"><display-name>Sky News</display-name><url>https://movistarplus.es</url></channel>
-<channel id="sexta"><display-name>La Sexta</display-name><url>https://movistarplus.es</url></channel>
-<channel id="set"><display-name>AXN Movies</display-name><url>https://movistarplus.es</url></channel>
-<channel id="sci-fi"><display-name>SYFY</display-name><url>https://movistarplus.es</url></channel>
-<channel id="red"><display-name>Canal RED</display-name><url>https://movistarplus.es</url></channel>
-<channel id="realm"><display-name>Real Madrid TV</display-name><url>https://movistarplus.es</url></channel>
-<channel id="popuhd"><display-name>M+ Wimbledon UHD</display-name><url>https://movistarplus.es</url></channel>
-<channel id="playdc"><display-name>Disney Channel</display-name><url>https://movistarplus.es</url></channel>
-<channel id="pcm"><display-name>Comedy Central</display-name><url>https://movistarplus.es</url></channel>
-<channel id="otra"><display-name>La Otra</display-name><url>https://movistarplus.es</url></channel>
-<channel id="nova"><display-name>Nova</display-name><url>https://movistarplus.es</url></channel>
-<channel id="nickjr"><display-name>NICK JR</display-name><url>https://movistarplus.es</url></channel>
-<channel id="nick"><display-name>Nickelodeon</display-name><url>https://movistarplus.es</url></channel>
-<channel id="neox"><display-name>Neox</display-name><url>https://movistarplus.es</url></channel>
-<channel id="negotv"><display-name>Negocios TV</display-name><url>https://movistarplus.es</url></channel>
-<channel id="nbc"><display-name>CNBC</display-name><url>https://movistarplus.es</url></channel>
-<channel id="nava"><display-name>Navarra TV</display-name><url>https://movistarplus.es</url></channel>
-<channel id="natgw"><display-name>Nat Geo Wild</display-name><url>https://movistarplus.es</url></channel>
-<channel id="natgeo"><display-name>National Geographic</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mvf1"><display-name>DAZN F1</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mvciva"><display-name>M+ Vacaciones</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mv1"><display-name>M+ Estrenos</display-name><url>https://movistarplus.es</url></channel>
-<channel id="multi8"><display-name>M+ Deportes 6</display-name><url>https://movistarplus.es</url></channel>
-<channel id="multi6"><display-name>M+ Deportes 7</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mtv"><display-name>MTV</display-name><url>https://movistarplus.es</url></channel>
+<channel id="13tv"><display-name>TRECE</display-name><url>https://movistarplus.es</url></channel>
+<channel id="3_24"><display-name>3CatInfo</display-name><url>https://movistarplus.es</url></channel>
+<channel id="antv"><display-name>Canal Sur Andalucía</display-name><url>https://movistarplus.es</url></channel>
+<channel id="axn"><display-name>AXN</display-name><url>https://movistarplus.es</url></channel>
+<channel id="canar"><display-name>TV Canaria</display-name><url>https://movistarplus.es</url></channel>
+<channel id="can33"><display-name>33</display-name><url>https://movistarplus.es</url></channel>
+<channel id="atress"><display-name>Atreseries</display-name><url>https://movistarplus.es</url></channel>
+<channel id="c33"><display-name>SX3</display-name><url>https://movistarplus.es</url></channel>
+<channel id="c4"><display-name>Cuatro</display-name><url>https://movistarplus.es</url></channel>
+<channel id="andatv"><display-name>Andalucía TV</display-name><url>https://movistarplus.es</url></channel>
+<channel id="atlat"><display-name>Atlántico TV</display-name><url>https://movistarplus.es</url></channel>
+<channel id="btv"><display-name>Betevé</display-name><url>https://movistarplus.es</url></channel>
+<channel id="boing"><display-name>Boing</display-name><url>https://movistarplus.es</url></channel>
+<channel id="arthur"><display-name>M+ Deportes 2</display-name><url>https://movistarplus.es</url></channel>
+<channel id="bl"><display-name>Bloomberg</display-name><url>https://movistarplus.es</url></channel>
+<channel id="chap12"><display-name>M+ Liga de Campeones 13</display-name><url>https://movistarplus.es</url></channel>
+<channel id="chap11"><display-name>M+ Liga de Campeones 12</display-name><url>https://movistarplus.es</url></channel>
+<channel id="bemad"><display-name>BE MAD</display-name><url>https://movistarplus.es</url></channel>
+<channel id="chap10"><display-name>M+ Liga de Campeones 11</display-name><url>https://movistarplus.es</url></channel>
+<channel id="chap9"><display-name>M+ Liga de Campeones 10</display-name><url>https://movistarplus.es</url></channel>
+<channel id="24h"><display-name>24 Horas</display-name><url>https://movistarplus.es</url></channel>
+<channel id="aljaze"><display-name>Al Jazeera English</display-name><url>https://movistarplus.es</url></channel>
+<channel id="arirhd"><display-name>Arirang TV HD</display-name><url>https://movistarplus.es</url></channel>
+<channel id="bbhis"><display-name>BBC History</display-name><url>https://movistarplus.es</url></channel>
+<channel id="chap8"><display-name>M+ Liga de Campeones 9</display-name><url>https://movistarplus.es</url></channel>
+<channel id="chap7"><display-name>M+ Liga de Campeones 8</display-name><url>https://movistarplus.es</url></channel>
+<channel id="bbgea"><display-name>BBC Top Gear</display-name><url>https://movistarplus.es</url></channel>
+<channel id="chap6"><display-name>M+ Liga de Campeones 7</display-name><url>https://movistarplus.es</url></channel>
+<channel id="chap5"><display-name>M+ Liga de Campeones 6</display-name><url>https://movistarplus.es</url></channel>
+<channel id="aragtv"><display-name>Aragón TV</display-name><url>https://movistarplus.es</url></channel>
+<channel id="bbfoo"><display-name>BBC Food</display-name><url>https://movistarplus.es</url></channel>
+<channel id="chap4"><display-name>M+ Liga de Campeones 5</display-name><url>https://movistarplus.es</url></channel>
+<channel id="chap3"><display-name>M+ Liga de Campeones 4</display-name><url>https://movistarplus.es</url></channel>
+<channel id="bbdra"><display-name>BBC Series</display-name><url>https://movistarplus.es</url></channel>
+<channel id="chap2"><display-name>M+ Liga de Campeones 3</display-name><url>https://movistarplus.es</url></channel>
+<channel id="chap1"><display-name>M+ Liga de Campeones 2</display-name><url>https://movistarplus.es</url></channel>
+<channel id="a3"><display-name>Antena 3</display-name><url>https://movistarplus.es</url></channel>
+<channel id="aragon"><display-name>Aragón TV Int</display-name><url>https://movistarplus.es</url></channel>
+<channel id="bbclif"><display-name>BBC Lifestyle</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cgtnfr"><display-name>CGTN Français HD</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cgtnen"><display-name>CGTN English HD</display-name><url>https://movistarplus.es</url></channel>
+<channel id="bbcear"><display-name>BBC Earth</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cgtndo"><display-name>CGTN Documentary HD</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cgtnd"><display-name>CGTN Documentary</display-name><url>https://movistarplus.es</url></channel>
+<channel id="apunt"><display-name>À Punt</display-name><url>https://movistarplus.es</url></channel>
+<channel id="bbc"><display-name>BBC News</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cctv-e"><display-name>CGTN Español</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cazpes"><display-name>Caza y Pesca</display-name><url>https://movistarplus.es</url></channel>
+<channel id="baby"><display-name>Baby TV</display-name><url>https://movistarplus.es</url></channel>
+<channel id="casman"><display-name>Castilla la Mancha TV</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cansur"><display-name>Canal Sur</display-name><url>https://movistarplus.es</url></channel>
 <channel id="mplus"><display-name>Movistar Plus</display-name><url>https://movistarplus.es</url></channel>
 <channel id="morig"><display-name>M+ Originales</display-name><url>https://movistarplus.es</url></channel>
 <channel id="morgul"><display-name>M+ Orgullo</display-name><url>https://movistarplus.es</url></channel>
@@ -137,57 +138,56 @@
 <channel id="cl13"><display-name>Calle 13</display-name><url>https://movistarplus.es</url></channel>
 <channel id="chile"><display-name>TV Chile</display-name><url>https://movistarplus.es</url></channel>
 <channel id="chapio"><display-name>M+ Liga de Campeones</display-name><url>https://movistarplus.es</url></channel>
-<channel id="chap12"><display-name>M+ Liga de Campeones 13</display-name><url>https://movistarplus.es</url></channel>
-<channel id="chap11"><display-name>M+ Liga de Campeones 12</display-name><url>https://movistarplus.es</url></channel>
-<channel id="chap10"><display-name>M+ Liga de Campeones 11</display-name><url>https://movistarplus.es</url></channel>
-<channel id="chap9"><display-name>M+ Liga de Campeones 10</display-name><url>https://movistarplus.es</url></channel>
-<channel id="chap8"><display-name>M+ Liga de Campeones 9</display-name><url>https://movistarplus.es</url></channel>
-<channel id="chap7"><display-name>M+ Liga de Campeones 8</display-name><url>https://movistarplus.es</url></channel>
-<channel id="chap6"><display-name>M+ Liga de Campeones 7</display-name><url>https://movistarplus.es</url></channel>
-<channel id="chap5"><display-name>M+ Liga de Campeones 6</display-name><url>https://movistarplus.es</url></channel>
-<channel id="chap4"><display-name>M+ Liga de Campeones 5</display-name><url>https://movistarplus.es</url></channel>
-<channel id="chap3"><display-name>M+ Liga de Campeones 4</display-name><url>https://movistarplus.es</url></channel>
-<channel id="chap2"><display-name>M+ Liga de Campeones 3</display-name><url>https://movistarplus.es</url></channel>
-<channel id="chap1"><display-name>M+ Liga de Campeones 2</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cgtnfr"><display-name>CGTN Français HD</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cgtnen"><display-name>CGTN English HD</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cgtndo"><display-name>CGTN Documentary HD</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cgtnd"><display-name>CGTN Documentary</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cctv-e"><display-name>CGTN Español</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cazpes"><display-name>Caza y Pesca</display-name><url>https://movistarplus.es</url></channel>
-<channel id="casman"><display-name>Castilla la Mancha TV</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cansur"><display-name>Canal Sur</display-name><url>https://movistarplus.es</url></channel>
-<channel id="canar"><display-name>TV Canaria</display-name><url>https://movistarplus.es</url></channel>
-<channel id="can33"><display-name>33</display-name><url>https://movistarplus.es</url></channel>
-<channel id="c33"><display-name>SX3</display-name><url>https://movistarplus.es</url></channel>
-<channel id="c4"><display-name>Cuatro</display-name><url>https://movistarplus.es</url></channel>
-<channel id="btv"><display-name>Betevé</display-name><url>https://movistarplus.es</url></channel>
-<channel id="boing"><display-name>Boing</display-name><url>https://movistarplus.es</url></channel>
-<channel id="bl"><display-name>Bloomberg</display-name><url>https://movistarplus.es</url></channel>
-<channel id="bemad"><display-name>BE MAD</display-name><url>https://movistarplus.es</url></channel>
-<channel id="bbhis"><display-name>BBC History</display-name><url>https://movistarplus.es</url></channel>
-<channel id="bbgea"><display-name>BBC Top Gear</display-name><url>https://movistarplus.es</url></channel>
-<channel id="bbfoo"><display-name>BBC Food</display-name><url>https://movistarplus.es</url></channel>
-<channel id="bbdra"><display-name>BBC Series</display-name><url>https://movistarplus.es</url></channel>
-<channel id="bbclif"><display-name>BBC Lifestyle</display-name><url>https://movistarplus.es</url></channel>
-<channel id="bbcear"><display-name>BBC Earth</display-name><url>https://movistarplus.es</url></channel>
-<channel id="bbc"><display-name>BBC News</display-name><url>https://movistarplus.es</url></channel>
-<channel id="baby"><display-name>Baby TV</display-name><url>https://movistarplus.es</url></channel>
-<channel id="axn"><display-name>AXN</display-name><url>https://movistarplus.es</url></channel>
-<channel id="atress"><display-name>Atreseries</display-name><url>https://movistarplus.es</url></channel>
-<channel id="atlat"><display-name>Atlántico TV</display-name><url>https://movistarplus.es</url></channel>
-<channel id="arthur"><display-name>M+ Deportes 2</display-name><url>https://movistarplus.es</url></channel>
-<channel id="arirhd"><display-name>Arirang TV HD</display-name><url>https://movistarplus.es</url></channel>
-<channel id="aragtv"><display-name>Aragón TV</display-name><url>https://movistarplus.es</url></channel>
-<channel id="aragon"><display-name>Aragón TV Int</display-name><url>https://movistarplus.es</url></channel>
-<channel id="apunt"><display-name>À Punt</display-name><url>https://movistarplus.es</url></channel>
-<channel id="antv"><display-name>Canal Sur Andalucía</display-name><url>https://movistarplus.es</url></channel>
-<channel id="andatv"><display-name>Andalucía TV</display-name><url>https://movistarplus.es</url></channel>
-<channel id="aljaze"><display-name>Al Jazeera English</display-name><url>https://movistarplus.es</url></channel>
-<channel id="a3"><display-name>Antena 3</display-name><url>https://movistarplus.es</url></channel>
-<channel id="3_24"><display-name>3CatInfo</display-name><url>https://movistarplus.es</url></channel>
-<channel id="24h"><display-name>24 Horas</display-name><url>https://movistarplus.es</url></channel>
-<channel id="13tv"><display-name>TRECE</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tvc"><display-name>TV3 Cat</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tv5"><display-name>TV5MONDE</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tpa"><display-name>TPA</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tnt"><display-name>Warner TV</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tlesur"><display-name>Telesur</display-name><url>https://movistarplus.es</url></channel>
+<channel id="telmad"><display-name>Telemadrid</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tdep"><display-name>Teledeporte</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tcm"><display-name>TCM</display-name><url>https://movistarplus.es</url></channel>
+<channel id="t5"><display-name>Telecinco</display-name><url>https://movistarplus.es</url></channel>
+<channel id="squi"><display-name>Squirrel</display-name><url>https://movistarplus.es</url></channel>
+<channel id="skysho"><display-name>SkyShowtime 1</display-name><url>https://movistarplus.es</url></channel>
+<channel id="sexta"><display-name>La Sexta</display-name><url>https://movistarplus.es</url></channel>
+<channel id="set"><display-name>AXN Movies</display-name><url>https://movistarplus.es</url></channel>
+<channel id="sci-fi"><display-name>SYFY</display-name><url>https://movistarplus.es</url></channel>
+<channel id="realm"><display-name>Real Madrid TV</display-name><url>https://movistarplus.es</url></channel>
+<channel id="popuhd"><display-name>M+ Wimbledon UHD</display-name><url>https://movistarplus.es</url></channel>
+<channel id="playdc"><display-name>Disney Channel</display-name><url>https://movistarplus.es</url></channel>
+<channel id="otra"><display-name>La Otra</display-name><url>https://movistarplus.es</url></channel>
+<channel id="nova"><display-name>Nova</display-name><url>https://movistarplus.es</url></channel>
+<channel id="nickjr"><display-name>NICK JR</display-name><url>https://movistarplus.es</url></channel>
+<channel id="neox"><display-name>Neox</display-name><url>https://movistarplus.es</url></channel>
+<channel id="negotv"><display-name>Negocios TV</display-name><url>https://movistarplus.es</url></channel>
+<channel id="nbc"><display-name>CNBC</display-name><url>https://movistarplus.es</url></channel>
+<channel id="natgw"><display-name>Nat Geo Wild</display-name><url>https://movistarplus.es</url></channel>
+<channel id="natgeo"><display-name>National Geographic</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mvf1"><display-name>DAZN F1</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mvciva"><display-name>M+ Vacaciones</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mv1"><display-name>M+ Estrenos</display-name><url>https://movistarplus.es</url></channel>
+<channel id="multi8"><display-name>M+ Deportes 6</display-name><url>https://movistarplus.es</url></channel>
+<channel id="veo7"><display-name>Veo7</display-name><url>https://movistarplus.es</url></channel>
+<channel id="vamosd"><display-name>M+ Vamos</display-name><url>https://movistarplus.es</url></channel>
+<channel id="vam2sd"><display-name>M+ Vamos 2</display-name><url>https://movistarplus.es</url></channel>
+<channel id="usop11"><display-name>M+ Deportes 5</display-name><url>https://movistarplus.es</url></channel>
+<channel id="usop3"><display-name>M+ Deportes 4</display-name><url>https://movistarplus.es</url></channel>
+<channel id="usop2"><display-name>M+ Deportes 3</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tvgal"><display-name>TVG -TV Galicia</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tvg2"><display-name>TVG 2</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tvg"><display-name>TVG Europa</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tv3cat"><display-name>TV3</display-name><url>https://movistarplus.es</url></channel>
+<channel id="skynw"><display-name>Sky News</display-name><url>https://movistarplus.es</url></channel>
+<channel id="red"><display-name>Canal RED</display-name><url>https://movistarplus.es</url></channel>
+<channel id="nick"><display-name>Nickelodeon</display-name><url>https://movistarplus.es</url></channel>
+<channel id="multi6"><display-name>M+ Deportes 7</display-name><url>https://movistarplus.es</url></channel>
+<channel id="ucl"><display-name>UCL</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tve"><display-name>LA 1</display-name><url>https://movistarplus.es</url></channel>
+<channel id="ten"><display-name>Ten</display-name><url>https://movistarplus.es</url></channel>
+<channel id="pcm"><display-name>Comedy Central</display-name><url>https://movistarplus.es</url></channel>
+<channel id="nava"><display-name>Navarra TV</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mtv"><display-name>MTV</display-name><url>https://movistarplus.es</url></channel>
+<channel id="telmin"><display-name>Telemadrid Int.</display-name><url>https://movistarplus.es</url></channel>
 <programme start="20260903050000 +0000" stop="20260903060000 +0000" channel="7tvmur"><title lang="es">Murcia a la vista</title><desc lang="es">Los reporteros del programa se lanzan a las calles, playas o pueblos de la Región para recoger todo lo que ocurre en la Comunidad, tomando el pulso de los ciudadanos sobre los temas más llamativos que se dan cada día en toda la geografía murciana.</desc></programme>
 <programme start="20260903060000 +0000" stop="20260903070000 +0000" channel="7tvmur"><title lang="es">Onda regional Noticias</title><desc lang="es">Toda la actualidad de la región a La 7, con información matinal y resúmenes semanales, conectando radio y TV en un formato dinámico y cercano.</desc></programme>
 <programme start="20260903070000 +0000" stop="20260903074500 +0000" channel="7tvmur"><title lang="es">7Noticias Matinal</title><desc lang="es">Primera edición informativa de la cadena presentada por Marienca Fernández y Tati García.</desc></programme>
@@ -712,21 +712,22 @@
 <programme start="20260903224500 +0000" stop="20260903230500 +0000" channel="arthur"><title lang="es">La pista del tenis. US Open 2026 (T2026): Programa 15</title><desc lang="es">La pista del tenis. US Open 2026</desc></programme>
 <programme start="20260903230500 +0000" stop="20260904010500 +0000" channel="arthur"><title lang="es">US Open (2026): Badosa vs Gauff</title><desc lang="es">Los Grand Slam son los torneos más importantes del circuito del tenis. Cada temporada, cuatro ciudades albergan estos eventos cargados de tradición: Melbourne, París, Londres y Nueva York.</desc></programme>
 <programme start="20260904010500 +0000" stop="20260904220000 +0000" channel="arthur"><title lang="es">US Open (2026): Zverev vs Halys</title><desc lang="es">Los Grand Slam son los torneos más importantes del circuito del tenis. Cada temporada, cuatro ciudades albergan estos eventos cargados de tradición: Melbourne, París, Londres y Nueva York.</desc></programme>
+<programme start="20260904030000 +0000" stop="20260904220000 +0000" channel="arthur"><title lang="es">US Open (T2026): TBC</title><desc lang="es">Los Grand Slam son los torneos más importantes del circuito del tenis. Cada temporada, cuatro ciudades albergan estos eventos cargados de tradición: Melbourne, París, Londres y Nueva York.</desc></programme>
 <programme start="20260904042000 +0000" stop="20260904052000 +0000" channel="arthur"><title lang="es">US Open (2026): Sabalenka vs Iatcenko</title><desc lang="es">Los Grand Slam son los torneos más importantes del circuito del tenis. Cada temporada, cuatro ciudades albergan estos eventos cargados de tradición: Melbourne, París, Londres y Nueva York.</desc></programme>
 <programme start="20260904052000 +0000" stop="20260904060000 +0000" channel="arthur"><title lang="es">M+ Deportes 2</title></programme>
-<programme start="20260904060000 +0000" stop="20260904081500 +0000" channel="arthur"><title lang="es">US Open (T2026): TBC</title><desc lang="es">Los Grand Slam son los torneos más importantes del circuito del tenis. Cada temporada, cuatro ciudades albergan estos eventos cargados de tradición: Melbourne, París, Londres y Nueva York.</desc></programme>
-<programme start="20260904081500 +0000" stop="20260904103000 +0000" channel="arthur"><title lang="es">US Open (T2026): TBC</title><desc lang="es">Los Grand Slam son los torneos más importantes del circuito del tenis. Cada temporada, cuatro ciudades albergan estos eventos cargados de tradición: Melbourne, París, Londres y Nueva York.</desc></programme>
-<programme start="20260904103000 +0000" stop="20260904124500 +0000" channel="arthur"><title lang="es">US Open (T2026): TBC</title><desc lang="es">Los Grand Slam son los torneos más importantes del circuito del tenis. Cada temporada, cuatro ciudades albergan estos eventos cargados de tradición: Melbourne, París, Londres y Nueva York.</desc></programme>
-<programme start="20260904124500 +0000" stop="20260904153500 +0000" channel="arthur"><title lang="es">US Open (T2026): TBC</title><desc lang="es">Los Grand Slam son los torneos más importantes del circuito del tenis. Cada temporada, cuatro ciudades albergan estos eventos cargados de tradición: Melbourne, París, Londres y Nueva York.</desc></programme>
-<programme start="20260904153500 +0000" stop="20260904173500 +0000" channel="arthur"><title lang="es">US Open (T2026): TBC</title><desc lang="es">Los Grand Slam son los torneos más importantes del circuito del tenis. Cada temporada, cuatro ciudades albergan estos eventos cargados de tradición: Melbourne, París, Londres y Nueva York.</desc></programme>
+<programme start="20260904060000 +0000" stop="20260904092900 +0000" channel="arthur"><title lang="es">US Open (2026): Auger vs Aliassime - Khachanov</title><desc lang="es">Los Grand Slam son los torneos más importantes del circuito del tenis. Cada temporada, cuatro ciudades albergan estos eventos cargados de tradición: Melbourne, París, Londres y Nueva York.</desc></programme>
+<programme start="20260904092900 +0000" stop="20260904114600 +0000" channel="arthur"><title lang="es">US Open (2026): Osaka vs Siniakova</title><desc lang="es">Los Grand Slam son los torneos más importantes del circuito del tenis. Cada temporada, cuatro ciudades albergan estos eventos cargados de tradición: Melbourne, París, Londres y Nueva York.</desc></programme>
+<programme start="20260904114600 +0000" stop="20260904143500 +0000" channel="arthur"><title lang="es">US Open (2026): Faria vs Alcaraz</title><desc lang="es">Los Grand Slam son los torneos más importantes del circuito del tenis. Cada temporada, cuatro ciudades albergan estos eventos cargados de tradición: Melbourne, París, Londres y Nueva York.</desc></programme>
+<programme start="20260904143500 +0000" stop="20260904153500 +0000" channel="arthur"><title lang="es">US Open (2026): Sabalenka vs Iatcenko</title><desc lang="es">Los Grand Slam son los torneos más importantes del circuito del tenis. Cada temporada, cuatro ciudades albergan estos eventos cargados de tradición: Melbourne, París, Londres y Nueva York.</desc></programme>
+<programme start="20260904153500 +0000" stop="20260904173500 +0000" channel="arthur"><title lang="es">US Open (2026): Pegula vs Fernández</title><desc lang="es">Los Grand Slam son los torneos más importantes del circuito del tenis. Cada temporada, cuatro ciudades albergan estos eventos cargados de tradición: Melbourne, París, Londres y Nueva York.</desc></programme>
 <programme start="20260904173500 +0000" stop="20260904175000 +0000" channel="arthur"><title lang="es">La pista del tenis. US Open 2026 (T2026): Programa 16</title><desc lang="es">La pista del tenis. US Open 2026</desc></programme>
-<programme start="20260904175000 +0000" stop="20260904195000 +0000" channel="arthur"><title lang="es">US Open (T2026): TBC</title><desc lang="es">Los Grand Slam son los torneos más importantes del circuito del tenis. Cada temporada, cuatro ciudades albergan estos eventos cargados de tradición: Melbourne, París, Londres y Nueva York.</desc></programme>
+<programme start="20260904175000 +0000" stop="20260904195000 +0000" channel="arthur"><title lang="es">US Open (2026): Bu vs Alcaraz</title><desc lang="es">Los Grand Slam son los torneos más importantes del circuito del tenis. Cada temporada, cuatro ciudades albergan estos eventos cargados de tradición: Melbourne, París, Londres y Nueva York.</desc></programme>
 <programme start="20260904195000 +0000" stop="20260904200500 +0000" channel="arthur"><title lang="es">La pista del tenis. US Open 2026 (T2026): Programa 17</title><desc lang="es">La pista del tenis. US Open 2026</desc></programme>
-<programme start="20260904200500 +0000" stop="20260904220500 +0000" channel="arthur"><title lang="es">US Open (T2026): TBC</title><desc lang="es">Los Grand Slam son los torneos más importantes del circuito del tenis. Cada temporada, cuatro ciudades albergan estos eventos cargados de tradición: Melbourne, París, Londres y Nueva York.</desc></programme>
-<programme start="20260904220500 +0000" stop="20260904222000 +0000" channel="arthur"><title lang="es">La pista del tenis. US Open 2026 (T2026): Programa 18</title><desc lang="es">La pista del tenis. US Open 2026</desc></programme>
-<programme start="20260904222000 +0000" stop="20260905012000 +0000" channel="arthur"><title lang="es">US Open (T2026): TBC</title><desc lang="es">Los Grand Slam son los torneos más importantes del circuito del tenis. Cada temporada, cuatro ciudades albergan estos eventos cargados de tradición: Melbourne, París, Londres y Nueva York.</desc></programme>
+<programme start="20260904200500 +0000" stop="20260904224500 +0000" channel="arthur"><title lang="es">US Open (T2026): TBC</title><desc lang="es">Los Grand Slam son los torneos más importantes del circuito del tenis. Cada temporada, cuatro ciudades albergan estos eventos cargados de tradición: Melbourne, París, Londres y Nueva York.</desc></programme>
+<programme start="20260904224500 +0000" stop="20260904230500 +0000" channel="arthur"><title lang="es">La pista del tenis. US Open 2026 (T2026): Programa 18</title><desc lang="es">La pista del tenis. US Open 2026</desc></programme>
+<programme start="20260904230500 +0000" stop="20260905010000 +0000" channel="arthur"><title lang="es">US Open (2026): Williams/Williams vs Chat/Joint</title><desc lang="es">Los Grand Slam son los torneos más importantes del circuito del tenis. Cada temporada, cuatro ciudades albergan estos eventos cargados de tradición: Melbourne, París, Londres y Nueva York.</desc></programme>
+<programme start="20260905010000 +0000" stop="20260905030000 +0000" channel="arthur"><title lang="es">US Open (2026): Shelton vs Shappovalov</title><desc lang="es">Los Grand Slam son los torneos más importantes del circuito del tenis. Cada temporada, cuatro ciudades albergan estos eventos cargados de tradición: Melbourne, París, Londres y Nueva York.</desc></programme>
 <programme start="20260905010500 +0000" stop="20260905042000 +0000" channel="arthur"><title lang="es">US Open (2026): Zverev vs Halys</title><desc lang="es">Los Grand Slam son los torneos más importantes del circuito del tenis. Cada temporada, cuatro ciudades albergan estos eventos cargados de tradición: Melbourne, París, Londres y Nueva York.</desc></programme>
-<programme start="20260905012000 +0000" stop="20260905220000 +0000" channel="arthur"><title lang="es">US Open (T2026): TBC</title><desc lang="es">Los Grand Slam son los torneos más importantes del circuito del tenis. Cada temporada, cuatro ciudades albergan estos eventos cargados de tradición: Melbourne, París, Londres y Nueva York.</desc></programme>
 <programme start="20260903134000 +0000" stop="20260903220000 +0000" channel="atlat"><title lang="es">Servicios informativos</title><desc lang="es">Información regional, nacional e internacional. Datos de interés general, consejos útiles, campañas de prevención y concienciación.</desc></programme>
 <programme start="20260903220000 +0000" stop="20260903224000 +0000" channel="atlat"><title lang="es">La Fortuna de hacer Fortuna</title><desc lang="es">Entrevistas con los principales empresarios de Canarias presentado por Antonio Salazar.</desc></programme>
 <programme start="20260903224000 +0000" stop="20260903232000 +0000" channel="atlat"><title lang="es">Vivir sin miedo</title><desc lang="es">Un espacio de diálogo para reflexionar sobre la memoria democrática, los derechos conquistados y los desafíos que aún nos acompaña.</desc></programme>
@@ -6481,16 +6482,18 @@
 <programme start="20260903152500 +0000" stop="20260903171800 +0000" channel="mliga"><title lang="es">LALIGA EA SPORTS (T26/27): Osasuna - Getafe</title><desc lang="es">El Getafe visita El Sadar en busca de sus segunda victoria consecutiva. Los de Bordalás llegan a un acampo difiíl, donde Osasuna empató su primer partido.</desc></programme>
 <programme start="20260903171800 +0000" stop="20260903183000 +0000" channel="mliga"><title lang="es">El fútbol según Raúl (T2): Astures por Europa</title><desc lang="es">De la mano de Raúl Ruiz, conocemos las mejores historias de nuestro fútbol. Desde partidos históricos del fútbol español como la final de la Copa del Rey del 80 entre el Real Madrid y su filial, hasta la historia más reciente retratando el estado del fútbol profesional y amateur en una época sin fútbol a causa del coronavirus.</desc></programme>
 <programme start="20260903183000 +0000" stop="20260903185000 +0000" channel="mliga"><title lang="es">La Casa del Fútbol Previa (T26/27): Real Sociedad - RC Celta</title><desc lang="es">Previa Liga Española. 1ª División.</desc></programme>
-<programme start="20260903185000 +0000" stop="20260903210000 +0000" channel="mliga"><title lang="es">LALIGA EA SPORTS (T26/27): Real Sociedad - RC Celta</title><desc lang="es">Partido adelantado de la sexta jornada debido a los compromisos de UEL de ambos equipos. Los donostiarras lograron su primera victoria ante el RCDE y repiten en casa. Los gallegos sólo suman un punto y aún no han logrado ganar.</desc></programme>
-<programme start="20260903210000 +0000" stop="20260903213500 +0000" channel="mliga"><title lang="es">La Casa del Fútbol Post (T26/27): Real Sociedad - RC Celta</title><desc lang="es">Postpartido Liga</desc></programme>
-<programme start="20260903213500 +0000" stop="20260903220500 +0000" channel="mliga"><title lang="es">LALIGA Show (T26/27): Episodio 4</title><desc lang="es">La previa de cada jornada de LaLiga. Además, el espacio se complementa con entrevistas a los protagonistas de la competición y reportajes sobre temas de actualidad.</desc></programme>
-<programme start="20260903220500 +0000" stop="20260904001000 +0000" channel="mliga"><title lang="es">LALIGA HYPERMOTION (T26/27): RCD Mallorca - Ceuta FC</title><desc lang="es">Son Moix recibe a un Mallorca que necesita rehacerse tras perder 2-0 en Granada, su primer tropiezo después de un estreno ganador. El equipo bermellón vuelve a casa con la obligación de recuperar autoridad y de no dejar que la derrota marque el tono de una temporada con aspiraciones altas. El Ceuta llega aún sin puntuar y con siete goles encajados en dos jornadas, una cifra que convierte esta visita en un examen de resistencia y ajuste defensivo. El reto es competir durante más minutos, reducir errores y encontrar una primera alegría que alivie un inicio especialmente duro.</desc></programme>
+<programme start="20260903185000 +0000" stop="20260903210600 +0000" channel="mliga"><title lang="es">LALIGA EA SPORTS (T26/27): Real Sociedad - RC Celta</title><desc lang="es">Partido adelantado de la sexta jornada debido a los compromisos de UEL de ambos equipos. Los donostiarras lograron su primera victoria ante el RCDE y repiten en casa. Los gallegos sólo suman un punto y aún no han logrado ganar.</desc></programme>
+<programme start="20260903210600 +0000" stop="20260903212600 +0000" channel="mliga"><title lang="es">La Casa del Fútbol Post (T26/27): Real Sociedad - RC Celta</title><desc lang="es">Postpartido Liga</desc></programme>
+<programme start="20260903212600 +0000" stop="20260903215700 +0000" channel="mliga"><title lang="es">LALIGA Show (T26/27): Episodio 4</title><desc lang="es">La previa de cada jornada de LaLiga. Además, el espacio se complementa con entrevistas a los protagonistas de la competición y reportajes sobre temas de actualidad.</desc></programme>
+<programme start="20260903215700 +0000" stop="20260904000000 +0000" channel="mliga"><title lang="es">LALIGA HYPERMOTION (T26/27): RCD Mallorca - Ceuta FC</title><desc lang="es">Son Moix recibe a un Mallorca que necesita rehacerse tras perder 2-0 en Granada, su primer tropiezo después de un estreno ganador. El equipo bermellón vuelve a casa con la obligación de recuperar autoridad y de no dejar que la derrota marque el tono de una temporada con aspiraciones altas. El Ceuta llega aún sin puntuar y con siete goles encajados en dos jornadas, una cifra que convierte esta visita en un examen de resistencia y ajuste defensivo. El reto es competir durante más minutos, reducir errores y encontrar una primera alegría que alivie un inicio especialmente duro.</desc></programme>
+<programme start="20260904000000 +0000" stop="20260904001000 +0000" channel="mliga"><title lang="es">42 Legados (T1): Nuestro Norte: Racing</title><desc lang="es">42 Legados</desc></programme>
 <programme start="20260904001000 +0000" stop="20260904020000 +0000" channel="mliga"><title lang="es">LALIGA EA SPORTS (T26/27): Celta - Athletic</title><desc lang="es">Celta y Athletic se miden con el objetivo de sumar su primera victoria del curso. Los vigueses vienen de ceder en casa ante Osasuna y el Athlétic ante el Barcelona.</desc></programme>
 <programme start="20260904020000 +0000" stop="20260904031700 +0000" channel="mliga"><title lang="es">El fútbol según Raúl (T2): Ese Cádiz, oé</title><desc lang="es">Capta la esencia de la Tacita de Plata y de su gente tratando el fútbol (y lo que no es el fútbol: carnaval, guasa, arte) a través de bloques generacionales (el Cádiz de los ascensos de los 70 de Baena, el de los 80 de Mágico y Mejías, el de los 90 de Kiko, Mami y Arteaga que siempre se salvaba en la última jornada, y así hasta el Cádiz de Cervera del último ascenso) y personajes (Rovira, Macarty, Manolo Santander). Es un recorrido por sus hitos futbolísticos y sus gentes para descubrir por qué el Cádiz y Cádiz son tan especiales.</desc></programme>
 <programme start="20260904030500 +0000" stop="20260904220000 +0000" channel="mliga"><title lang="es">LALIGA EA SPORTS (T26/27): Real Betis - Real Madrid</title><desc lang="es">Los mejores clubes del país protagonizan LaLiga, el campeonato de la regularidad del fútbol español. El torneo es una carrera de fondo en la que los equipos pelean por sus metas: la salvación, Europa, la Champions o el título. El Barcelona defiende corona.</desc></programme>
 <programme start="20260904031700 +0000" stop="20260904051100 +0000" channel="mliga"><title lang="es">LALIGA EA SPORTS (T26/27): R. Sociedad - Espanyol</title><desc lang="es">Los mejores clubes del país protagonizan LaLiga, el campeonato de la regularidad del fútbol español. El torneo es una carrera de fondo en la que los equipos pelean por sus metas: la salvación, Europa, la Champions o el título. El Barcelona defiende corona.</desc></programme>
 <programme start="20260904051100 +0000" stop="20260904060000 +0000" channel="mliga"><title lang="es">Antoine Griezmann. Enamorado del Atleti</title><desc lang="es">Este documental acompaña a Antoine Griezmann en uno de los días más especiales de su carrera: su despedida de la afición que lo ha acompañado durante 12 temporadas.</desc></programme>
-<programme start="20260904060000 +0000" stop="20260904080500 +0000" channel="mliga"><title lang="es">LALIGA EA SPORTS (T26/27): Real Sociedad - RC Celta</title><desc lang="es">Partido adelantado de la sexta jornada debido a los compromisos de UEL de ambos equipos. Los donostiarras lograron su primera victoria ante el RCDE y repiten en casa. Los gallegos sólo suman un punto y aún no han logrado ganar.</desc></programme>
+<programme start="20260904060000 +0000" stop="20260904075500 +0000" channel="mliga"><title lang="es">LALIGA EA SPORTS (T26/27): Real Sociedad - RC Celta</title><desc lang="es">Partido adelantado de la sexta jornada debido a los compromisos de UEL de ambos equipos. Los donostiarras lograron su primera victoria ante el RCDE y repiten en casa. Los gallegos sólo suman un punto y aún no han logrado ganar.</desc></programme>
+<programme start="20260904075500 +0000" stop="20260904080500 +0000" channel="mliga"><title lang="es">42 Legados (T1): Nuestro Norte: Racing</title><desc lang="es">42 Legados</desc></programme>
 <programme start="20260904080500 +0000" stop="20260904083500 +0000" channel="mliga"><title lang="es">LALIGA Show (T26/27): Episodio 4</title><desc lang="es">La previa de cada jornada de LaLiga. Además, el espacio se complementa con entrevistas a los protagonistas de la competición y reportajes sobre temas de actualidad.</desc></programme>
 <programme start="20260904083500 +0000" stop="20260904094500 +0000" channel="mliga"><title lang="es">El fútbol según Raúl (T1): La Copa más blanca</title><desc lang="es">El 4 de junio de 1980 vivimos un partido histórico en el fútbol español, porque nunca se había disputado y nunca más se disputará. Esa noche saltaban al césped del Santiago Bernabéu los jugadores del Real Madrid y los once de su filial para disputar la final de la Copa del Rey. 40 años después Raúl se propone contarnos aquella historia del Castilla matagigantes y qué fue de los jugadores que vivieron aquella noche tan especial.</desc></programme>
 <programme start="20260904094500 +0000" stop="20260904113500 +0000" channel="mliga"><title lang="es">LALIGA EA SPORTS (T26/27): Celta - Athletic</title><desc lang="es">Celta y Athletic se miden con el objetivo de sumar su primera victoria del curso. Los vigueses vienen de ceder en casa ante Osasuna y el Athlétic ante el Barcelona.</desc></programme>
@@ -6499,8 +6502,8 @@
 <programme start="20260904135500 +0000" stop="20260904154500 +0000" channel="mliga"><title lang="es">LALIGA EA SPORTS (T26/27): Real Madrid - Málaga</title><desc lang="es">Los mejores clubes del país protagonizan LaLiga, el campeonato de la regularidad del fútbol español. El torneo es una carrera de fondo en la que los equipos pelean por sus metas: la salvación, Europa, la Champions o el título. El Barcelona defiende corona.</desc></programme>
 <programme start="20260904154500 +0000" stop="20260904173800 +0000" channel="mliga"><title lang="es">LALIGA EA SPORTS (T26/27): Sevilla - At. Madrid</title><desc lang="es">Con los dos equipos cogiendo su fisonomía definitiva y el mercado de fichajes a punto de cerrar Sevilla y Atlético aspiran a lo máximo en el Pizjuán. Los hispalenses son conscientes de la necesidad de blindarse como locales y los madrileños saben que sumar fuera es crucial para pelear el título.</desc></programme>
 <programme start="20260904173800 +0000" stop="20260904180000 +0000" channel="mliga"><title lang="es">Informe Robinson (T1): Ronaldinho. La abdicación del rey</title><desc lang="es">Pocos jugadores trajeron tanta alegría al futbol español como Ronaldinho tras fichar por el FC Barcelona. Sólo una cosa llamó más la atención que su extraordinaria clase. La rapidez con la que llegó su declive.</desc></programme>
-<programme start="20260904180000 +0000" stop="20260904185400 +0000" channel="mliga"><title lang="es">La Casa del Fútbol Previa (T26/27): Real Betis - Real Madrid</title><desc lang="es">Previa Liga Española. 1ª División.</desc></programme>
-<programme start="20260904185400 +0000" stop="20260904210000 +0000" channel="mliga"><title lang="es">LALIGA EA SPORTS (T26/27): Real Betis - Real Madrid</title><desc lang="es">Los mejores clubes del país protagonizan LaLiga, el campeonato de la regularidad del fútbol español. El torneo es una carrera de fondo en la que los equipos pelean por sus metas: la salvación, Europa, la Champions o el título. El Barcelona defiende corona.</desc></programme>
+<programme start="20260904180000 +0000" stop="20260904184900 +0000" channel="mliga"><title lang="es">La Casa del Fútbol Previa (T26/27): Real Betis - Real Madrid</title><desc lang="es">Previa Liga Española. 1ª División.</desc></programme>
+<programme start="20260904184900 +0000" stop="20260904210000 +0000" channel="mliga"><title lang="es">LALIGA EA SPORTS (T26/27): Real Betis - Real Madrid</title><desc lang="es">Los mejores clubes del país protagonizan LaLiga, el campeonato de la regularidad del fútbol español. El torneo es una carrera de fondo en la que los equipos pelean por sus metas: la salvación, Europa, la Champions o el título. El Barcelona defiende corona.</desc></programme>
 <programme start="20260904210000 +0000" stop="20260904220500 +0000" channel="mliga"><title lang="es">La Casa del Fútbol Post (T26/27): Real Betis - Real Madrid</title><desc lang="es">Postpartido Liga</desc></programme>
 <programme start="20260904220500 +0000" stop="20260905000000 +0000" channel="mliga"><title lang="es">LALIGA EA SPORTS (T26/27): Osasuna - Getafe</title><desc lang="es">El Getafe visita El Sadar en busca de sus segunda victoria consecutiva. Los de Bordalás llegan a un acampo difiíl, donde Osasuna empató su primer partido.</desc></programme>
 <programme start="20260905000000 +0000" stop="20260905011000 +0000" channel="mliga"><title lang="es">El fútbol según Raúl (T2): Valencia CF, aquellos maravillosos años</title><desc lang="es">Raúl Ruiz rememora los años dorados, el lustro dorado del Valencia, que arranca con el golazo de Mendieta en la final de Copa 98-99 y la consecución de aquel título y termina en 2004 con el doblete Liga-UEFA con Benítez, su marcha y la Supercopa de Europa de Ranieri, el último título de aquella época dorada en la cual el club ché llegó a disputar dos finales de Champions (ahora se cumplen 20 años de la segunda final) y fue nombrado el mejor equipo del mundo. El hilo conductor del programa es Cañizares y su finca.</desc></programme>
@@ -6824,16 +6827,16 @@
 <programme start="20260903033000 +0000" stop="20260903060000 +0000" channel="multi8"><title lang="es">M+ Deportes 6</title></programme>
 <programme start="20260903060000 +0000" stop="20260903150500 +0000" channel="multi8"><title lang="es">M+ Deportes 6</title></programme>
 <programme start="20260903150500 +0000" stop="20260903191600 +0000" channel="multi8"><title lang="es">US Open (2026): Struff vs Cerundolo</title><desc lang="es">Los Grand Slam son los torneos más importantes del circuito del tenis. Cada temporada, cuatro ciudades albergan estos eventos cargados de tradición: Melbourne, París, Londres y Nueva York.</desc></programme>
-<programme start="20260903191600 +0000" stop="20260903211600 +0000" channel="multi8"><title lang="es">US Open (2026): Blockx vs Trungelliti</title><desc lang="es">Los Grand Slam son los torneos más importantes del circuito del tenis. Cada temporada, cuatro ciudades albergan estos eventos cargados de tradición: Melbourne, París, Londres y Nueva York.</desc></programme>
-<programme start="20260903211600 +0000" stop="20260903231600 +0000" channel="multi8"><title lang="es">US Open (2026): Sakkari vs Starodubtseva</title><desc lang="es">Los Grand Slam son los torneos más importantes del circuito del tenis. Cada temporada, cuatro ciudades albergan estos eventos cargados de tradición: Melbourne, París, Londres y Nueva York.</desc></programme>
-<programme start="20260903231600 +0000" stop="20260904220000 +0000" channel="multi8"><title lang="es">M+ Deportes 6</title></programme>
+<programme start="20260903191600 +0000" stop="20260903214500 +0000" channel="multi8"><title lang="es">US Open (2026): Blockx vs Trungelliti</title><desc lang="es">Los Grand Slam son los torneos más importantes del circuito del tenis. Cada temporada, cuatro ciudades albergan estos eventos cargados de tradición: Melbourne, París, Londres y Nueva York.</desc></programme>
+<programme start="20260903214500 +0000" stop="20260903234500 +0000" channel="multi8"><title lang="es">US Open (2026): Sakkari vs Starodubtseva</title><desc lang="es">Los Grand Slam son los torneos más importantes del circuito del tenis. Cada temporada, cuatro ciudades albergan estos eventos cargados de tradición: Melbourne, París, Londres y Nueva York.</desc></programme>
+<programme start="20260903234500 +0000" stop="20260904220000 +0000" channel="multi8"><title lang="es">M+ Deportes 6</title></programme>
 <programme start="20260904060000 +0000" stop="20260904150500 +0000" channel="multi8"><title lang="es">M+ Deportes 6</title></programme>
 <programme start="20260904150500 +0000" stop="20260904170500 +0000" channel="multi8"><title lang="es">US Open (T2026): TBC</title><desc lang="es">Los Grand Slam son los torneos más importantes del circuito del tenis. Cada temporada, cuatro ciudades albergan estos eventos cargados de tradición: Melbourne, París, Londres y Nueva York.</desc></programme>
 <programme start="20260904170500 +0000" stop="20260904190500 +0000" channel="multi8"><title lang="es">US Open (T2026): TBC</title><desc lang="es">Los Grand Slam son los torneos más importantes del circuito del tenis. Cada temporada, cuatro ciudades albergan estos eventos cargados de tradición: Melbourne, París, Londres y Nueva York.</desc></programme>
 <programme start="20260904190500 +0000" stop="20260904210500 +0000" channel="multi8"><title lang="es">US Open (T2026): TBC</title><desc lang="es">Los Grand Slam son los torneos más importantes del circuito del tenis. Cada temporada, cuatro ciudades albergan estos eventos cargados de tradición: Melbourne, París, Londres y Nueva York.</desc></programme>
 <programme start="20260904210500 +0000" stop="20260904230500 +0000" channel="multi8"><title lang="es">US Open (T2026): TBC</title><desc lang="es">Los Grand Slam son los torneos más importantes del circuito del tenis. Cada temporada, cuatro ciudades albergan estos eventos cargados de tradición: Melbourne, París, Londres y Nueva York.</desc></programme>
 <programme start="20260904230500 +0000" stop="20260905220000 +0000" channel="multi8"><title lang="es">M+ Deportes 6</title></programme>
-<programme start="20260904231600 +0000" stop="20260905060000 +0000" channel="multi8"><title lang="es">M+ Deportes 6</title></programme>
+<programme start="20260904234500 +0000" stop="20260905060000 +0000" channel="multi8"><title lang="es">M+ Deportes 6</title></programme>
 <programme start="20260903033500 +0000" stop="20260903034600 +0000" channel="mv1"><title lang="es">One Way Cycle</title><desc lang="es">Cortometraje preseleccionado para los Goya 2026 en la categoría de mejor cortometraje de animación.</desc></programme>
 <programme start="20260903034600 +0000" stop="20260903220000 +0000" channel="mv1"><title lang="es">Kingsman: Servicio secreto</title><desc lang="es">En 1997, el agente secreto inglés Harry Hart, miembro de una organización de espías ultrasecreta, ve cómo uno de sus reclutas muere durante un programa de entrenamiento a causa de un error suyo. Diecisiete años después, el asesinato de otro agente deja un puesto libre en la organización.</desc></programme>
 <programme start="20260903041500 +0000" stop="20260903042200 +0000" channel="mv1"><title lang="es">Plan de jubilación</title><desc lang="es">Cortometraje nominado al Oscar 2026 en la categoría de mejor cortometraje de animación.</desc></programme>
@@ -9108,22 +9111,22 @@
 <programme start="20260903060000 +0000" stop="20260903150500 +0000" channel="usop2"><title lang="es">M+ Deportes 3</title></programme>
 <programme start="20260903150500 +0000" stop="20260903163900 +0000" channel="usop2"><title lang="es">US Open (2026): Swiatek vs Podoroska</title><desc lang="es">Los Grand Slam son los torneos más importantes del circuito del tenis. Cada temporada, cuatro ciudades albergan estos eventos cargados de tradición: Melbourne, París, Londres y Nueva York.</desc></programme>
 <programme start="20260903163900 +0000" stop="20260903185800 +0000" channel="usop2"><title lang="es">US Open (2026): Tagger vs Anisimova</title><desc lang="es">Los Grand Slam son los torneos más importantes del circuito del tenis. Cada temporada, cuatro ciudades albergan estos eventos cargados de tradición: Melbourne, París, Londres y Nueva York.</desc></programme>
-<programme start="20260903185800 +0000" stop="20260903204900 +0000" channel="usop2"><title lang="es">US Open (2026): Scholkatte vs Cobolli</title><desc lang="es">Los Grand Slam son los torneos más importantes del circuito del tenis. Cada temporada, cuatro ciudades albergan estos eventos cargados de tradición: Melbourne, París, Londres y Nueva York.</desc></programme>
-<programme start="20260903204900 +0000" stop="20260903235100 +0000" channel="usop2"><title lang="es">US Open (2026): Van de Zandschulp vs De Miñaur</title><desc lang="es">Los Grand Slam son los torneos más importantes del circuito del tenis. Cada temporada, cuatro ciudades albergan estos eventos cargados de tradición: Melbourne, París, Londres y Nueva York.</desc></programme>
+<programme start="20260903185800 +0000" stop="20260903213000 +0000" channel="usop2"><title lang="es">US Open (2026): Scholkatte vs Cobolli</title><desc lang="es">Los Grand Slam son los torneos más importantes del circuito del tenis. Cada temporada, cuatro ciudades albergan estos eventos cargados de tradición: Melbourne, París, Londres y Nueva York.</desc></programme>
+<programme start="20260903213000 +0000" stop="20260903235100 +0000" channel="usop2"><title lang="es">US Open (2026): Van de Zandschulp vs De Miñaur</title><desc lang="es">Los Grand Slam son los torneos más importantes del circuito del tenis. Cada temporada, cuatro ciudades albergan estos eventos cargados de tradición: Melbourne, París, Londres y Nueva York.</desc></programme>
 <programme start="20260903235100 +0000" stop="20260904220000 +0000" channel="usop2"><title lang="es">M+ Deportes 3</title></programme>
 <programme start="20260904025500 +0000" stop="20260904060000 +0000" channel="usop2"><title lang="es">M+ Deportes 3</title></programme>
 <programme start="20260904060000 +0000" stop="20260904150500 +0000" channel="usop2"><title lang="es">M+ Deportes 3</title></programme>
-<programme start="20260904150500 +0000" stop="20260904170500 +0000" channel="usop2"><title lang="es">US Open (T2026): TBC</title><desc lang="es">Los Grand Slam son los torneos más importantes del circuito del tenis. Cada temporada, cuatro ciudades albergan estos eventos cargados de tradición: Melbourne, París, Londres y Nueva York.</desc></programme>
-<programme start="20260904170500 +0000" stop="20260904190500 +0000" channel="usop2"><title lang="es">US Open (T2026): TBC</title><desc lang="es">Los Grand Slam son los torneos más importantes del circuito del tenis. Cada temporada, cuatro ciudades albergan estos eventos cargados de tradición: Melbourne, París, Londres y Nueva York.</desc></programme>
-<programme start="20260904190500 +0000" stop="20260904210500 +0000" channel="usop2"><title lang="es">US Open (T2026): TBC</title><desc lang="es">Los Grand Slam son los torneos más importantes del circuito del tenis. Cada temporada, cuatro ciudades albergan estos eventos cargados de tradición: Melbourne, París, Londres y Nueva York.</desc></programme>
-<programme start="20260904210500 +0000" stop="20260904230500 +0000" channel="usop2"><title lang="es">US Open (T2026): TBC</title><desc lang="es">Los Grand Slam son los torneos más importantes del circuito del tenis. Cada temporada, cuatro ciudades albergan estos eventos cargados de tradición: Melbourne, París, Londres y Nueva York.</desc></programme>
-<programme start="20260904230500 +0000" stop="20260905220000 +0000" channel="usop2"><title lang="es">M+ Deportes 3</title></programme>
+<programme start="20260904150500 +0000" stop="20260904163500 +0000" channel="usop2"><title lang="es">US Open (2026): Sabalenka vs Rakhimova</title><desc lang="es">Los Grand Slam son los torneos más importantes del circuito del tenis. Cada temporada, cuatro ciudades albergan estos eventos cargados de tradición: Melbourne, París, Londres y Nueva York.</desc></programme>
+<programme start="20260904163500 +0000" stop="20260904183500 +0000" channel="usop2"><title lang="es">US Open (2026): Bublik vs Paul</title><desc lang="es">Los Grand Slam son los torneos más importantes del circuito del tenis. Cada temporada, cuatro ciudades albergan estos eventos cargados de tradición: Melbourne, París, Londres y Nueva York.</desc></programme>
+<programme start="20260904183500 +0000" stop="20260904203500 +0000" channel="usop2"><title lang="es">M+ Deportes 3</title></programme>
+<programme start="20260904203500 +0000" stop="20260904223500 +0000" channel="usop2"><title lang="es">M+ Deportes 3</title></programme>
+<programme start="20260904223500 +0000" stop="20260905220000 +0000" channel="usop2"><title lang="es">M+ Deportes 3</title></programme>
 <programme start="20260904235100 +0000" stop="20260905060000 +0000" channel="usop2"><title lang="es">M+ Deportes 3</title></programme>
 <programme start="20260903060000 +0000" stop="20260903150500 +0000" channel="usop3"><title lang="es">M+ Deportes 4</title></programme>
 <programme start="20260903150500 +0000" stop="20260903182300 +0000" channel="usop3"><title lang="es">US Open (2026): Keys vs Bondar</title><desc lang="es">Los Grand Slam son los torneos más importantes del circuito del tenis. Cada temporada, cuatro ciudades albergan estos eventos cargados de tradición: Melbourne, París, Londres y Nueva York.</desc></programme>
-<programme start="20260903182300 +0000" stop="20260903210000 +0000" channel="usop3"><title lang="es">US Open (2026): Sweeny vs Musetti</title><desc lang="es">Los Grand Slam son los torneos más importantes del circuito del tenis. Cada temporada, cuatro ciudades albergan estos eventos cargados de tradición: Melbourne, París, Londres y Nueva York.</desc></programme>
-<programme start="20260903210000 +0000" stop="20260903230000 +0000" channel="usop3"><title lang="es">US Open (2026): Andreeva vs Lys</title><desc lang="es">Los Grand Slam son los torneos más importantes del circuito del tenis. Cada temporada, cuatro ciudades albergan estos eventos cargados de tradición: Melbourne, París, Londres y Nueva York.</desc></programme>
-<programme start="20260903230000 +0000" stop="20260904020000 +0000" channel="usop3"><title lang="es">US Open (2026): Jovic vs Jones</title><desc lang="es">Los Grand Slam son los torneos más importantes del circuito del tenis. Cada temporada, cuatro ciudades albergan estos eventos cargados de tradición: Melbourne, París, Londres y Nueva York.</desc></programme>
+<programme start="20260903182300 +0000" stop="20260903211700 +0000" channel="usop3"><title lang="es">US Open (2026): Sweeny vs Musetti</title><desc lang="es">Los Grand Slam son los torneos más importantes del circuito del tenis. Cada temporada, cuatro ciudades albergan estos eventos cargados de tradición: Melbourne, París, Londres y Nueva York.</desc></programme>
+<programme start="20260903211700 +0000" stop="20260903231700 +0000" channel="usop3"><title lang="es">US Open (2026): Andreeva vs Lys</title><desc lang="es">Los Grand Slam son los torneos más importantes del circuito del tenis. Cada temporada, cuatro ciudades albergan estos eventos cargados de tradición: Melbourne, París, Londres y Nueva York.</desc></programme>
+<programme start="20260903231700 +0000" stop="20260904020000 +0000" channel="usop3"><title lang="es">US Open (2026): Jovic vs Jones</title><desc lang="es">Los Grand Slam son los torneos más importantes del circuito del tenis. Cada temporada, cuatro ciudades albergan estos eventos cargados de tradición: Melbourne, París, Londres y Nueva York.</desc></programme>
 <programme start="20260903234500 +0000" stop="20260904060000 +0000" channel="usop3"><title lang="es">M+ Deportes 4</title></programme>
 <programme start="20260904020000 +0000" stop="20260904220000 +0000" channel="usop3"><title lang="es">M+ Deportes 4</title></programme>
 <programme start="20260904060000 +0000" stop="20260904120500 +0000" channel="usop3"><title lang="es">M+ Deportes 4</title></programme>
@@ -9138,17 +9141,17 @@
 <programme start="20260903060000 +0000" stop="20260903150500 +0000" channel="usop11"><title lang="es">M+ Deportes 5</title></programme>
 <programme start="20260903150500 +0000" stop="20260903173000 +0000" channel="usop11"><title lang="es">US Open (2026): Potapova vs Jeanjean</title><desc lang="es">Los Grand Slam son los torneos más importantes del circuito del tenis. Cada temporada, cuatro ciudades albergan estos eventos cargados de tradición: Melbourne, París, Londres y Nueva York.</desc></programme>
 <programme start="20260903173000 +0000" stop="20260903191200 +0000" channel="usop11"><title lang="es">US Open (2026): Detiuc/Khromacheva vs Dabrowski/Stefani</title><desc lang="es">Los Grand Slam son los torneos más importantes del circuito del tenis. Cada temporada, cuatro ciudades albergan estos eventos cargados de tradición: Melbourne, París, Londres y Nueva York.</desc></programme>
-<programme start="20260903191200 +0000" stop="20260903211200 +0000" channel="usop11"><title lang="es">US Open (2026): Bucsa vs Katsumi</title><desc lang="es">Los Grand Slam son los torneos más importantes del circuito del tenis. Cada temporada, cuatro ciudades albergan estos eventos cargados de tradición: Melbourne, París, Londres y Nueva York.</desc></programme>
-<programme start="20260903211200 +0000" stop="20260903232000 +0000" channel="usop11"><title lang="es">US Open (2026): Svajda vs Gea</title><desc lang="es">Los Grand Slam son los torneos más importantes del circuito del tenis. Cada temporada, cuatro ciudades albergan estos eventos cargados de tradición: Melbourne, París, Londres y Nueva York.</desc></programme>
-<programme start="20260903232000 +0000" stop="20260904220000 +0000" channel="usop11"><title lang="es">M+ Deportes 5</title></programme>
+<programme start="20260903191200 +0000" stop="20260903214500 +0000" channel="usop11"><title lang="es">US Open (2026): Bucsa vs Katsumi</title><desc lang="es">Los Grand Slam son los torneos más importantes del circuito del tenis. Cada temporada, cuatro ciudades albergan estos eventos cargados de tradición: Melbourne, París, Londres y Nueva York.</desc></programme>
+<programme start="20260903214500 +0000" stop="20260903235300 +0000" channel="usop11"><title lang="es">US Open (2026): Svajda vs Gea</title><desc lang="es">Los Grand Slam son los torneos más importantes del circuito del tenis. Cada temporada, cuatro ciudades albergan estos eventos cargados de tradición: Melbourne, París, Londres y Nueva York.</desc></programme>
+<programme start="20260903235300 +0000" stop="20260904220000 +0000" channel="usop11"><title lang="es">M+ Deportes 5</title></programme>
 <programme start="20260904023000 +0000" stop="20260904060000 +0000" channel="usop11"><title lang="es">M+ Deportes 5</title></programme>
 <programme start="20260904060000 +0000" stop="20260904150500 +0000" channel="usop11"><title lang="es">M+ Deportes 5</title></programme>
 <programme start="20260904150500 +0000" stop="20260904170500 +0000" channel="usop11"><title lang="es">US Open (T2026): TBC</title><desc lang="es">Los Grand Slam son los torneos más importantes del circuito del tenis. Cada temporada, cuatro ciudades albergan estos eventos cargados de tradición: Melbourne, París, Londres y Nueva York.</desc></programme>
 <programme start="20260904170500 +0000" stop="20260904190500 +0000" channel="usop11"><title lang="es">US Open (T2026): TBC</title><desc lang="es">Los Grand Slam son los torneos más importantes del circuito del tenis. Cada temporada, cuatro ciudades albergan estos eventos cargados de tradición: Melbourne, París, Londres y Nueva York.</desc></programme>
-<programme start="20260904190500 +0000" stop="20260904210500 +0000" channel="usop11"><title lang="es">US Open (T2026): TBC</title><desc lang="es">Los Grand Slam son los torneos más importantes del circuito del tenis. Cada temporada, cuatro ciudades albergan estos eventos cargados de tradición: Melbourne, París, Londres y Nueva York.</desc></programme>
-<programme start="20260904210500 +0000" stop="20260904230500 +0000" channel="usop11"><title lang="es">US Open (T2026): TBC</title><desc lang="es">Los Grand Slam son los torneos más importantes del circuito del tenis. Cada temporada, cuatro ciudades albergan estos eventos cargados de tradición: Melbourne, París, Londres y Nueva York.</desc></programme>
-<programme start="20260904230500 +0000" stop="20260905220000 +0000" channel="usop11"><title lang="es">M+ Deportes 5</title></programme>
-<programme start="20260904232000 +0000" stop="20260905060000 +0000" channel="usop11"><title lang="es">M+ Deportes 5</title></programme>
+<programme start="20260904190500 +0000" stop="20260904200500 +0000" channel="usop11"><title lang="es">US Open (T2026): TBC</title><desc lang="es">Los Grand Slam son los torneos más importantes del circuito del tenis. Cada temporada, cuatro ciudades albergan estos eventos cargados de tradición: Melbourne, París, Londres y Nueva York.</desc></programme>
+<programme start="20260904200500 +0000" stop="20260904220500 +0000" channel="usop11"><title lang="es">US Open (2026): Etcheverry vs Navone</title><desc lang="es">Los Grand Slam son los torneos más importantes del circuito del tenis. Cada temporada, cuatro ciudades albergan estos eventos cargados de tradición: Melbourne, París, Londres y Nueva York.</desc></programme>
+<programme start="20260904220500 +0000" stop="20260905220000 +0000" channel="usop11"><title lang="es">M+ Deportes 5</title></programme>
+<programme start="20260904235300 +0000" stop="20260905060000 +0000" channel="usop11"><title lang="es">M+ Deportes 5</title></programme>
 <programme start="20260903100000 +0000" stop="20260903220000 +0000" channel="vam2sd"><title lang="es">M+ Vamos 2</title></programme>
 <programme start="20260903220000 +0000" stop="20260904100000 +0000" channel="vam2sd"><title lang="es">M+ Vamos 2</title></programme>
 <programme start="20260903220000 +0000" stop="20260904220000 +0000" channel="vam2sd"><title lang="es">M+ Vamos 2</title></programme>
