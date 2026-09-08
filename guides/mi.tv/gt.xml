@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20260908">
 <channel id="gt#3abn"><display-name>3ABN</display-name><url>https://mi.tv</url></channel>
-<channel id="gt#a-e-mundo"><display-name>A&amp;E</display-name><url>https://mi.tv</url></channel>
-<channel id="gt#amc"><display-name>AMC</display-name><url>https://mi.tv</url></channel>
-<channel id="gt#axn"><display-name>AXN</display-name><url>https://mi.tv</url></channel>
-<channel id="Cablenoticias.co@SD"><display-name>Cablenoticias</display-name><icon src="https://i.imgur.com/FfhOGR9.png"/><url>https://mi.tv</url></channel>
-<channel id="gt#animal-planet"><display-name>Animal Planet</display-name><url>https://mi.tv</url></channel>
-<channel id="gt#azteca-guatemala"><display-name>Azteca Guatemala</display-name><url>https://mi.tv</url></channel>
-<channel id="gt#azteca-13"><display-name>Azteca 13</display-name><url>https://mi.tv</url></channel>
-<channel id="gt#caracol-internacional"><display-name>Caracol Internacional</display-name><url>https://mi.tv</url></channel>
-<channel id="gt#canal-nu"><display-name>Canal NU</display-name><url>https://mi.tv</url></channel>
-<channel id="gt#amc-hd"><display-name>AMC HD</display-name><url>https://mi.tv</url></channel>
-<channel id="gt#az-mundo"><display-name>Az Mundo</display-name><url>https://mi.tv</url></channel>
-<channel id="gt#canal-de-las-estrellas"><display-name>Las Estrellas</display-name><url>https://mi.tv</url></channel>
-<channel id="gt#canal-antigua-deportes"><display-name>Canal Antigua Deportes</display-name><url>https://mi.tv</url></channel>
-<channel id="gt#az-corazon"><display-name>Az Corazón</display-name><url>https://mi.tv</url></channel>
-<channel id="CanalAntigua.gt@SD"><display-name>Canal Antigua</display-name><icon src="https://i.imgur.com/edZjzbS.png"/><url>https://mi.tv</url></channel>
-<channel id="gt#canal-27"><display-name>Canal27</display-name><url>https://mi.tv</url></channel>
-<channel id="gt#canal-3"><display-name>Canal 3</display-name><url>https://mi.tv</url></channel>
+<channel id="XTimeChannel.us@SD"><display-name>X-Time</display-name><icon src="https://i.imgur.com/uWjOQAz.png"/><url>https://mi.tv</url></channel>
+<channel id="gt#warner"><display-name>Warner Channel</display-name><url>https://mi.tv</url></channel>
+<channel id="gt#voa-tv"><display-name>Voa TV</display-name><url>https://mi.tv</url></channel>
+<channel id="gt#vh1-classic-usa"><display-name>VH1 Classic USA</display-name><url>https://mi.tv</url></channel>
+<channel id="gt#tyc-sports"><display-name>TyC Sports</display-name><url>https://mi.tv</url></channel>
+<channel id="gt#tvc-platino"><display-name>Platino</display-name><url>https://mi.tv</url></channel>
+<channel id="gt#tvc-cine-mexicano-cmc"><display-name>Cine Mexicano</display-name><url>https://mi.tv</url></channel>
+<channel id="TVAgro.co@SD"><display-name>Tv Agro</display-name><icon src="https://i.imgur.com/9nzY7Ch.png"/><url>https://mi.tv</url></channel>
+<channel id="gt#trecevision-canal-13"><display-name>Canal 13 - Trecevisión</display-name><url>https://mi.tv</url></channel>
+<channel id="gt#tooncast"><display-name>Tooncast</display-name><url>https://mi.tv</url></channel>
+<channel id="gt#tnt-series"><display-name>TNT Series</display-name><url>https://mi.tv</url></channel>
+<channel id="gt#tnt-hd"><display-name>TNT HD</display-name><url>https://mi.tv</url></channel>
+<channel id="TNTSeriesLatinAmerica.us@Panregional"><display-name>TNT</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png"/><url>https://mi.tv</url></channel>
+<channel id="gt#televisiete"><display-name>Canal 7 - Televisiete</display-name><url>https://mi.tv</url></channel>
+<channel id="Televen.ve@SD"><display-name>Televen</display-name><icon src="https://i.imgur.com/cxvkUvK.png"/><url>https://mi.tv</url></channel>
+<channel id="gt#teleonce-canal-11"><display-name>Canal 11 - Teleonce</display-name><url>https://mi.tv</url></channel>
+<channel id="gt#telemundo"><display-name>Telemundo</display-name><url>https://mi.tv</url></channel>
 <channel id="TelemicroInternacional.do@SD"><display-name>Telemicro</display-name><icon src="https://i.imgur.com/507tvMY.png"/><url>https://mi.tv</url></channel>
 <channel id="gt#telemedellin"><display-name>Telemedellín</display-name><url>https://mi.tv</url></channel>
 <channel id="gt#telehit"><display-name>Telehit</display-name><url>https://mi.tv</url></channel>
@@ -80,23 +80,23 @@
 <channel id="gt#cinecanal-hd"><display-name>Cinecanal HD</display-name><url>https://mi.tv</url></channel>
 <channel id="Cinecanal.us@Panregional"><display-name>Cinecanal</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png"/><url>https://mi.tv</url></channel>
 <channel id="CartoonNetworkLatinAmerica.us@NorthAtlantic"><display-name>Cartoon Network</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png"/><url>https://mi.tv</url></channel>
-<channel id="gt#voa-tv"><display-name>Voa TV</display-name><url>https://mi.tv</url></channel>
-<channel id="gt#vh1-classic-usa"><display-name>VH1 Classic USA</display-name><url>https://mi.tv</url></channel>
-<channel id="gt#tyc-sports"><display-name>TyC Sports</display-name><url>https://mi.tv</url></channel>
-<channel id="gt#tvc-platino"><display-name>Platino</display-name><url>https://mi.tv</url></channel>
-<channel id="TVAgro.co@SD"><display-name>Tv Agro</display-name><icon src="https://i.imgur.com/9nzY7Ch.png"/><url>https://mi.tv</url></channel>
-<channel id="gt#trecevision-canal-13"><display-name>Canal 13 - Trecevisión</display-name><url>https://mi.tv</url></channel>
-<channel id="gt#tooncast"><display-name>Tooncast</display-name><url>https://mi.tv</url></channel>
-<channel id="gt#tnt-series"><display-name>TNT Series</display-name><url>https://mi.tv</url></channel>
-<channel id="TNTSeriesLatinAmerica.us@Panregional"><display-name>TNT</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png"/><url>https://mi.tv</url></channel>
-<channel id="gt#televisiete"><display-name>Canal 7 - Televisiete</display-name><url>https://mi.tv</url></channel>
-<channel id="Televen.ve@SD"><display-name>Televen</display-name><icon src="https://i.imgur.com/cxvkUvK.png"/><url>https://mi.tv</url></channel>
-<channel id="gt#teleonce-canal-11"><display-name>Canal 11 - Teleonce</display-name><url>https://mi.tv</url></channel>
-<channel id="XTimeChannel.us@SD"><display-name>X-Time</display-name><icon src="https://i.imgur.com/uWjOQAz.png"/><url>https://mi.tv</url></channel>
-<channel id="gt#warner"><display-name>Warner Channel</display-name><url>https://mi.tv</url></channel>
-<channel id="gt#tnt-hd"><display-name>TNT HD</display-name><url>https://mi.tv</url></channel>
-<channel id="gt#telemundo"><display-name>Telemundo</display-name><url>https://mi.tv</url></channel>
-<channel id="gt#tvc-cine-mexicano-cmc"><display-name>Cine Mexicano</display-name><url>https://mi.tv</url></channel>
+<channel id="gt#caracol-internacional"><display-name>Caracol Internacional</display-name><url>https://mi.tv</url></channel>
+<channel id="gt#canal-nu"><display-name>Canal NU</display-name><url>https://mi.tv</url></channel>
+<channel id="gt#canal-de-las-estrellas"><display-name>Las Estrellas</display-name><url>https://mi.tv</url></channel>
+<channel id="gt#canal-antigua-deportes"><display-name>Canal Antigua Deportes</display-name><url>https://mi.tv</url></channel>
+<channel id="CanalAntigua.gt@SD"><display-name>Canal Antigua</display-name><icon src="https://i.imgur.com/edZjzbS.png"/><url>https://mi.tv</url></channel>
+<channel id="gt#canal-27"><display-name>Canal27</display-name><url>https://mi.tv</url></channel>
+<channel id="gt#canal-3"><display-name>Canal 3</display-name><url>https://mi.tv</url></channel>
+<channel id="Cablenoticias.co@SD"><display-name>Cablenoticias</display-name><icon src="https://i.imgur.com/FfhOGR9.png"/><url>https://mi.tv</url></channel>
+<channel id="gt#azteca-guatemala"><display-name>Azteca Guatemala</display-name><url>https://mi.tv</url></channel>
+<channel id="gt#azteca-13"><display-name>Azteca 13</display-name><url>https://mi.tv</url></channel>
+<channel id="gt#az-mundo"><display-name>Az Mundo</display-name><url>https://mi.tv</url></channel>
+<channel id="gt#az-corazon"><display-name>Az Corazón</display-name><url>https://mi.tv</url></channel>
+<channel id="gt#axn"><display-name>AXN</display-name><url>https://mi.tv</url></channel>
+<channel id="gt#animal-planet"><display-name>Animal Planet</display-name><url>https://mi.tv</url></channel>
+<channel id="gt#amc-hd"><display-name>AMC HD</display-name><url>https://mi.tv</url></channel>
+<channel id="gt#amc"><display-name>AMC</display-name><url>https://mi.tv</url></channel>
+<channel id="gt#a-e-mundo"><display-name>A&amp;E</display-name><url>https://mi.tv</url></channel>
 <programme start="20260908060000 +0000" stop="20260908070000 +0000" channel="Cablenoticias.co@SD"><title lang="es">Hoy en el mundo</title><desc lang="es">Un segmento dedicado a destacar los hechos informativos más destacados que se generan en el ámbito internacional, de una manera ágil, dinámica y elocuente, de la mano de Johan Rendón.</desc><category lang="es">Periodístico</category><image>https://cdn.mitvstatic.com/programs/gt_hoy-en-el-mundo_l_m.jpg</image></programme>
 <programme start="20260908070000 +0000" stop="20260908080000 +0000" channel="Cablenoticias.co@SD"><title lang="es">Cable noticias - Edición central</title><desc lang="es">Informativo que presenta los hechos que marcaron durante el día la atención de los televidentes, crónicas en desarrollo y los personajes que generan impacto durante el día.</desc><category lang="es">Noticiero</category><image>https://cdn.mitvstatic.com/programs/gt_cable-noticias-edicion-central-1_l_m.jpg</image></programme>
 <programme start="20260908080000 +0000" stop="20260908090000 +0000" channel="Cablenoticias.co@SD"><title lang="es">La otra cara de la moneda</title><desc lang="es">Edición de análisis y opinión que ofrece tres puntos de vista: debate, editorial y entrevista, donde los invitados expresan sus opiniones de los temas que causan gran impacto a escala tanto nacional como internacional.</desc><category lang="es">Interés general</category><image>https://cdn.mitvstatic.com/programs/gt_la-otra-cara-de-la-moneda_l_m.jpg</image></programme>
@@ -846,8 +846,8 @@
 <programme start="20260909025000 +0000" stop="20260909034000 +0000" channel="gt#axn"><title lang="es">9-1-1</title><sub-title lang="es">Historias de fantasmas</sub-title><desc lang="es">Los miembros de la 118 corren para rescatar a un hombre que afirma que le robaron el coche, le dispararon y lo enterraron vivo. Luego, llegan a una casa donde el dueño cree que su compañera de cuarto es un fantasma.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">4.6.0/1</episode-num><episode-num system="onscreen">S05E07</episode-num><image>https://cdn.mitvstatic.com/programs/gt_9-1-1-s05e07-historias-de-fantasmas_l_m.jpg</image></programme>
 <programme start="20260909034000 +0000" stop="20260909043000 +0000" channel="gt#axn"><title lang="es">9-1-1</title><sub-title lang="es">Aislar o evacuar</sub-title><desc lang="es">Bobby y el 118 corren para salvar vidas después de que una explosión sacude el hospital donde el Dr. David Hale realiza una cirugía. Mientras tanto, Michael toma una decisión que le cambiará la vida.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">4.7.0/1</episode-num><episode-num system="onscreen">S05E08</episode-num><image>https://cdn.mitvstatic.com/programs/gt_9-1-1-s05e08-aislar-o-evacuar_l_m.jpg</image></programme>
 <programme start="20260909043000 +0000" stop="20260909052000 +0000" channel="gt#axn"><title lang="es">CSI</title><sub-title lang="es">Perdidos y encontrados</sub-title><desc lang="es">Un caso no resuelto del pasado del Capitán Brass reaparece cuando la madre que busca a su familia desaparecida es atropellada por un automóvil, pero ninguno puede estar preparado para las inquietantes respuestas que surgen en el caso.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">9.20.0/1</episode-num><episode-num system="onscreen">S10E21</episode-num><image>https://cdn.mitvstatic.com/programs/gt_csi-s10e21-lost-and-found_l_m.jpg</image></programme>
-<programme start="20260909052000 +0000" stop="20260909062000 +0000" channel="gt#axn"><title lang="es">Hawaii-Five-O</title><sub-title lang="es">Costa Norte de O&apos;ahu</sub-title><desc lang="es">Cuando el CEO de una compañía de surf enormemente exitoso es asesinado, Kono revisa su pasado mientras Five-0 se lanza de cabeza en los mundos variados pero interconectados de North Shore surfeando.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">0.5.0/1</episode-num><episode-num system="onscreen">S01E06</episode-num><image>https://cdn.mitvstatic.com/programs/gt_hawaii-five-o-s01e06-ho-apono-accept_l_m.jpg</image></programme>
 <programme start="20260909052000 +0000" stop="20260909061500 +0000" channel="gt#axn"><title lang="es">Hawaii-Five-O</title><sub-title lang="es">Costa Norte de O&apos;ahu</sub-title><desc lang="es">Cuando el CEO de una compañía de surf enormemente exitoso es asesinado, Kono revisa su pasado mientras Five-0 se lanza de cabeza en los mundos variados pero interconectados de North Shore surfeando.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">0.5.0/1</episode-num><episode-num system="onscreen">S01E06</episode-num><image>https://cdn.mitvstatic.com/programs/gt_hawaii-five-o-s01e06-ho-apono-accept_l_m.jpg</image></programme>
+<programme start="20260909052000 +0000" stop="20260909062000 +0000" channel="gt#axn"><title lang="es">Hawaii-Five-O</title><sub-title lang="es">Costa Norte de O&apos;ahu</sub-title><desc lang="es">Cuando el CEO de una compañía de surf enormemente exitoso es asesinado, Kono revisa su pasado mientras Five-0 se lanza de cabeza en los mundos variados pero interconectados de North Shore surfeando.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">0.5.0/1</episode-num><episode-num system="onscreen">S01E06</episode-num><image>https://cdn.mitvstatic.com/programs/gt_hawaii-five-o-s01e06-ho-apono-accept_l_m.jpg</image></programme>
 <programme start="20260909061500 +0000" stop="20260909071000 +0000" channel="gt#axn"><title lang="es">Hawaii-Five-O</title><sub-title lang="es">Aceptación</sub-title><desc lang="es">McGarrett se ve en medio de una toma de rehenes en el USS Missouri. El secuestrador es un ex- soldado de élite de los Navy Seal que sufre trastorno postraumático y que además es el principal sospechoso del asesinato de su esposa.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">0.6.0/1</episode-num><episode-num system="onscreen">S01E07</episode-num><image>https://cdn.mitvstatic.com/programs/gt_hawaii-five-o-s01e07-mana-o-belief_l_m.jpg</image></programme>
 <programme start="20260909071000 +0000" stop="20260909080500 +0000" channel="gt#axn"><title lang="es">Hawaii-Five-O</title><sub-title lang="es">Confianza</sub-title><desc lang="es">Un ex-compañero de Danny del departamento de policía de Honolulu es encontrado calcinado. Danny insiste en que su compañero no era un hombre corrupto, pero numerosas pruebas indican que estaba involucrado en actos ilícitos.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">0.7.0/1</episode-num><episode-num system="onscreen">S01E08</episode-num><image>https://cdn.mitvstatic.com/programs/gt_hawaii-five-o-s01e08-po-ipu-the-siege_l_m.jpg</image></programme>
 <programme start="20260909080500 +0000" stop="20260909090000 +0000" channel="gt#axn"><title lang="es">9-1-1</title><sub-title lang="es">Brawl in Cell Block 9-1-1</sub-title><desc lang="es">En respuesta a un incendio en una prisión, Bobby y los 118 se encuentran atrapados en un motín mortal.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">4.5.0/1</episode-num><episode-num system="onscreen">S05E06</episode-num><image>https://cdn.mitvstatic.com/programs/gt_9-1-1-s05e06-brawl-in-cell-block-9-1-1_l_m.jpg</image></programme>
