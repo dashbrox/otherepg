@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20260908">
 <channel id="mx#a-e-mundo"><display-name>A&amp;E</display-name><url>https://mi.tv</url></channel>
-<channel id="mx#xh-gc-canal-5-hd"><display-name>Canal 5 HD</display-name><url>https://mi.tv</url></channel>
-<channel id="Canal5.mx@SD"><display-name>Canal 5</display-name><icon src="https://i.imgur.com/uZdVSoW.png"/><url>https://mi.tv</url></channel>
-<channel id="XEIPNTDT.mx@SD"><display-name>Canal Once</display-name><icon src="https://i.imgur.com/K0351vF.png"/><url>https://mi.tv</url></channel>
+<channel id="mx#a-plus"><display-name>A+</display-name><url>https://mi.tv</url></channel>
+<channel id="AMCLatinAmerica.us@SD"><display-name>AMC</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="mx#amc-hd"><display-name>AMC HD</display-name><url>https://mi.tv</url></channel>
 <channel id="WOBI.ar@SD"><display-name>WOBI TV</display-name><icon src="https://i.imgur.com/uW4WIvC.png"/><url>https://mi.tv</url></channel>
 <channel id="WarnerChannel.us@Mexico"><display-name>Warner Channel</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Warner_Channel_2026.svg/960px-Warner_Channel_2026.svg.png"/><url>https://mi.tv</url></channel>
 <channel id="mx#vh1"><display-name>VH1</display-name><url>https://mi.tv</url></channel>
@@ -117,9 +117,9 @@
 <channel id="mx#az-corazon"><display-name>Az Corazón</display-name><url>https://mi.tv</url></channel>
 <channel id="mx#axn"><display-name>AXN</display-name><url>https://mi.tv</url></channel>
 <channel id="mx#animal-planet"><display-name>Animal Planet</display-name><url>https://mi.tv</url></channel>
-<channel id="mx#amc-hd"><display-name>AMC HD</display-name><url>https://mi.tv</url></channel>
-<channel id="AMCLatinAmerica.us@SD"><display-name>AMC</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png"/><url>https://mi.tv</url></channel>
-<channel id="mx#a-plus"><display-name>A+</display-name><url>https://mi.tv</url></channel>
+<channel id="Canal5.mx@SD"><display-name>Canal 5</display-name><icon src="https://i.imgur.com/uZdVSoW.png"/><url>https://mi.tv</url></channel>
+<channel id="XEIPNTDT.mx@SD"><display-name>Canal Once</display-name><icon src="https://i.imgur.com/K0351vF.png"/><url>https://mi.tv</url></channel>
+<channel id="mx#xh-gc-canal-5-hd"><display-name>Canal 5 HD</display-name><url>https://mi.tv</url></channel>
 <programme start="20260908045500 +0000" stop="20260908070000 +0000" channel="AMCLatinAmerica.us@SD"><title lang="es">Hombres de negro: Internacional</title><title lang="en">Men in Black: International</title><desc lang="es">Los Hombres de Negro siempre han protegido a la Tierra de la escoria del universo. En esta nueva aventura, abordan su mayor amenaza hasta la fecha: un topo en la organización Men in Black.</desc><category lang="es">Acción</category><rating><value>5.6</value></rating><image>https://cdn.mitvstatic.com/programs/mx_hombres-de-negro-internacional-2019_l_m.jpg</image></programme>
 <programme start="20260908070000 +0000" stop="20260908090000 +0000" channel="AMCLatinAmerica.us@SD"><title lang="es">La mercenaria</title><title lang="en">Rogue</title><desc lang="es">Una pequeña unidad mercenaria de soldados ha sido contratada por el gobernador de un país africano para rescatar a su hija, quien fue secuestrada por una organización de terroristas.</desc><category lang="es">Acción</category><rating><value>4.2</value></rating><image>https://cdn.mitvstatic.com/programs/fallback_movies_l_m.jpg</image></programme>
 <programme start="20260908090000 +0000" stop="20260908103500 +0000" channel="AMCLatinAmerica.us@SD"><title lang="es">Una sombra en la nube</title><title lang="en">Shadow in the Cloud</title><desc lang="es">En 1943, en plena Segunda Guerra Mundial, la oficial de vuelo Maude Garrett, que lleva consigo un paquete ultrasecreto, se une a la tripulación masculina de un bombardero y debe sobrepasar sus límites para intentar salvar a su tripulación.</desc><category lang="es">Bélica</category><rating><value>5.0</value></rating><image>https://cdn.mitvstatic.com/programs/fallback_movies_l_m.jpg</image></programme>
