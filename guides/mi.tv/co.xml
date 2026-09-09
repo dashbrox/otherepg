@@ -1,90 +1,90 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20260909">
 <channel id="co#a-e-mundo"><display-name>A&amp;E</display-name><url>https://mi.tv</url></channel>
-<channel id="co#a-e-mundo-hd"><display-name>A&amp;E Mundo HD</display-name><url>https://mi.tv</url></channel>
-<channel id="AlientoVision.us@SD"><display-name>Aliento Vision</display-name><icon src="https://i.imgur.com/xT10iqB.png"/><url>https://mi.tv</url></channel>
-<channel id="co#animal-planet"><display-name>Animal Planet</display-name><url>https://mi.tv</url></channel>
-<channel id="AzMundo.mx@SD"><display-name>Az Mundo HD</display-name><icon src="https://i.imgur.com/a7Ejid0.png"/><url>https://mi.tv</url></channel>
-<channel id="co#canal-de-las-estrellas"><display-name>Las Estrellas</display-name><url>https://mi.tv</url></channel>
-<channel id="co#concert-channel"><display-name>Concert Channel</display-name><url>https://mi.tv</url></channel>
-<channel id="co#fox-action-hd"><display-name>Star Action HD</display-name><url>https://mi.tv</url></channel>
-<channel id="StarAction.us@SD"><display-name>Star Action</display-name><icon src="https://i.imgur.com/XD1Tpet.png"/><url>https://mi.tv</url></channel>
-<channel id="CanalCartagena.co@SD"><display-name>Canal Cartagena</display-name><icon src="https://i.imgur.com/1GSOBQO.png"/><url>https://mi.tv</url></channel>
-<channel id="ComedyCentralLatinAmerica.us@Panregional"><display-name>Comedy Central HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png"/><url>https://mi.tv</url></channel>
-<channel id="co#fox-1-oeste"><display-name>Star Series (Oeste)</display-name><url>https://mi.tv</url></channel>
-<channel id="StarSeries.us@SD"><display-name>Star Series HD</display-name><icon src="https://i.imgur.com/A977HvF.png"/><url>https://mi.tv</url></channel>
-<channel id="co#comedy-central"><display-name>Comedy Central</display-name><url>https://mi.tv</url></channel>
-<channel id="co#fox-1-este"><display-name>Star Series</display-name><url>https://mi.tv</url></channel>
-<channel id="StarChannel.co@SD"><display-name>Star Channel</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png"/><url>https://mi.tv</url></channel>
-<channel id="co#amc-hd"><display-name>AMC HD</display-name><url>https://mi.tv</url></channel>
-<channel id="co#az-corazon"><display-name>Az Corazón</display-name><url>https://mi.tv</url></channel>
-<channel id="CanalCapital.co@SD"><display-name>Canal Capital</display-name><icon src="https://i.imgur.com/zAYtbYi.png"/><url>https://mi.tv</url></channel>
-<channel id="co#cnn-en-espanol"><display-name>CNN en Español</display-name><url>https://mi.tv</url></channel>
-<channel id="co#film-arts"><display-name>film&amp;arts</display-name><url>https://mi.tv</url></channel>
-<channel id="FashionOne.uk@SD"><display-name>Fashion One HD</display-name><icon src="https://i.imgur.com/cyvNhJq.png"/><url>https://mi.tv</url></channel>
-<channel id="co#cnn"><display-name>CNN</display-name><url>https://mi.tv</url></channel>
-<channel id="co#f1-latin-america"><display-name>F1 Latin America</display-name><url>https://mi.tv</url></channel>
-<channel id="co#ewtn"><display-name>EWTN</display-name><url>https://mi.tv</url></channel>
-<channel id="CanalC.co@SD"><display-name>Canal C</display-name><icon src="https://i.imgur.com/0ff3XdX.png"/><url>https://mi.tv</url></channel>
-<channel id="co#click"><display-name>Click</display-name><url>https://mi.tv</url></channel>
-<channel id="co#eurochannel"><display-name>Eurochannel</display-name><url>https://mi.tv</url></channel>
-<channel id="co#espn-plus"><display-name>ESPN Extra</display-name><url>https://mi.tv</url></channel>
-<channel id="co#citytv"><display-name>Citytv</display-name><url>https://mi.tv</url></channel>
-<channel id="co#espn-3-hd"><display-name>ESPN 3 HD</display-name><url>https://mi.tv</url></channel>
-<channel id="co#espn-3"><display-name>ESPN 3</display-name><url>https://mi.tv</url></channel>
-<channel id="co#axn-hd"><display-name>AXN HD</display-name><url>https://mi.tv</url></channel>
-<channel id="co#canal-14-cali"><display-name>Canal 14 - Cali</display-name><url>https://mi.tv</url></channel>
-<channel id="co#cinemax"><display-name>Cinemax</display-name><url>https://mi.tv</url></channel>
-<channel id="co#espn-2"><display-name>ESPN 2</display-name><url>https://mi.tv</url></channel>
-<channel id="co#espn"><display-name>ESPN</display-name><url>https://mi.tv</url></channel>
-<channel id="co#cinema"><display-name>Cinema+</display-name><url>https://mi.tv</url></channel>
-<channel id="EnlaceJuvenil.cr@SD"><display-name>Enlace Juvenil</display-name><icon src="https://i.imgur.com/GfpPQ5D.png"/><url>https://mi.tv</url></channel>
-<channel id="co#enlace"><display-name>Enlace</display-name><url>https://mi.tv</url></channel>
-<channel id="CaliTV.co@SD"><display-name>CaliTV</display-name><icon src="https://i.imgur.com/2312Luq.png"/><url>https://mi.tv</url></channel>
-<channel id="co#cinelatino"><display-name>Cinelatino</display-name><url>https://mi.tv</url></channel>
-<channel id="co#el-tiempo"><display-name>El Tiempo Televisión</display-name><url>https://mi.tv</url></channel>
-<channel id="co#el-gourmet"><display-name>El Gourmet</display-name><url>https://mi.tv</url></channel>
-<channel id="co#cinecanal-hd"><display-name>Cinecanal HD</display-name><url>https://mi.tv</url></channel>
-<channel id="co#e"><display-name>E!</display-name><url>https://mi.tv</url></channel>
-<channel id="co#disney-xd-multicountry"><display-name>Disney XD</display-name><url>https://mi.tv</url></channel>
-<channel id="co#amc"><display-name>AMC</display-name><url>https://mi.tv</url></channel>
-<channel id="AXNLatinAmerica.us@Andes"><display-name>AXN</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png"/><url>https://mi.tv</url></channel>
-<channel id="co#cablenoticias"><display-name>Cablenoticias</display-name><url>https://mi.tv</url></channel>
-<channel id="co#cinecanal"><display-name>Cinecanal</display-name><url>https://mi.tv</url></channel>
-<channel id="co#disney-multicountry"><display-name>Disney Channel</display-name><url>https://mi.tv</url></channel>
-<channel id="co#disney-jr-norte"><display-name>Disney Junior</display-name><url>https://mi.tv</url></channel>
-<channel id="co#cartoon-network"><display-name>Cartoon Network</display-name><url>https://mi.tv</url></channel>
-<channel id="co#discovery-turbo"><display-name>Discovery Turbo</display-name><url>https://mi.tv</url></channel>
-<channel id="co#discovery-tlc-hd"><display-name>Discovery World</display-name><url>https://mi.tv</url></channel>
-<channel id="co#boomerang-cartoon"><display-name>Cartoonito</display-name><url>https://mi.tv</url></channel>
-<channel id="co#caracol-novelas"><display-name>Novelas Caracol</display-name><url>https://mi.tv</url></channel>
-<channel id="TLCLatinAmerica.us@Panregional"><display-name>TLC</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png"/><url>https://mi.tv</url></channel>
-<channel id="co#discovery-science"><display-name>Discovery Science</display-name><url>https://mi.tv</url></channel>
-<channel id="co#caracol-hd"><display-name>Caracol HD</display-name><url>https://mi.tv</url></channel>
-<channel id="co#discovery-kids-hd"><display-name>Discovery Kids HD</display-name><url>https://mi.tv</url></channel>
-<channel id="DiscoveryKidsLatinAmerica.us@Panregional"><display-name>Discovery Kids</display-name><url>https://mi.tv</url></channel>
-<channel id="co#antena3"><display-name>Antena 3</display-name><url>https://mi.tv</url></channel>
-<channel id="co#bloomberg"><display-name>Bloomberg</display-name><url>https://mi.tv</url></channel>
-<channel id="CaracolTV.co@SD"><display-name>Caracol</display-name><icon src="https://i.imgur.com/WbfdJbk.png"/><url>https://mi.tv</url></channel>
-<channel id="InvestigationDiscoveryLatinAmerica.us@Panregional"><display-name>Investigation Discovery HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png"/><url>https://mi.tv</url></channel>
-<channel id="co#discovery-id"><display-name>Investigation Discovery</display-name><url>https://mi.tv</url></channel>
-<channel id="Canal1.co@SD"><display-name>Canal 1</display-name><icon src="https://i.imgur.com/MiYlN0t.png"/><url>https://mi.tv</url></channel>
-<channel id="co#discovery-home-and-health"><display-name>Discovery Home &amp; Health</display-name><url>https://mi.tv</url></channel>
-<channel id="co#discovery-hd-lat"><display-name>Discovery HD</display-name><url>https://mi.tv</url></channel>
-<channel id="co#bbc-world"><display-name>BBC World</display-name><url>https://mi.tv</url></channel>
-<channel id="CanalU.co@SD"><display-name>Canal U</display-name><icon src="https://i.imgur.com/aXTCB4z.png"/><url>https://mi.tv</url></channel>
-<channel id="co#discovery-civilization"><display-name>Discovery Civilization</display-name><url>https://mi.tv</url></channel>
-<channel id="co#discovery-channel"><display-name>Discovery Channel</display-name><url>https://mi.tv</url></channel>
-<channel id="Trece.co@SD"><display-name>Canal TR3CE</display-name><icon src="https://i.imgur.com/jsuXXIg.png"/><url>https://mi.tv</url></channel>
-<channel id="co#dia-tv"><display-name>Día TV</display-name><url>https://mi.tv</url></channel>
-<channel id="co#dhe"><display-name>DHE</display-name><url>https://mi.tv</url></channel>
-<channel id="co#azteca-13"><display-name>Azteca 13</display-name><url>https://mi.tv</url></channel>
-<channel id="CanalRCN.co@SD"><display-name>RCN HD</display-name><icon src="https://i.imgur.com/5PhTaHp.png"/><url>https://mi.tv</url></channel>
-<channel id="co#deutsche-welle-amerika"><display-name>DW (Español)</display-name><url>https://mi.tv</url></channel>
-<channel id="Cristovision.co@SD"><display-name>Cristovisión</display-name><icon src="https://i.imgur.com/XIhCUY9.png"/><url>https://mi.tv</url></channel>
-<channel id="co#canal-de-las-estrellas-hd"><display-name>Canal de las Estrellas HD</display-name><url>https://mi.tv</url></channel>
-<channel id="co#cosmovision-hd"><display-name>Cosmovisión HD</display-name><url>https://mi.tv</url></channel>
-<channel id="Cosmovision.co@SD"><display-name>Cosmovisión</display-name><icon src="https://i.imgur.com/bj7Jd2q.png"/><url>https://mi.tv</url></channel>
-<channel id="co#concert-channel-hd"><display-name>Concert Channel HD</display-name><url>https://mi.tv</url></channel>
+<channel id="co#zoom"><display-name>Zoom</display-name><url>https://mi.tv</url></channel>
+<channel id="WinSports.co@SD"><display-name>Win Sports HD</display-name><icon src="https://i.imgur.com/DuSSrHV.png"/><url>https://mi.tv</url></channel>
+<channel id="co#win-sports"><display-name>Win Sports</display-name><url>https://mi.tv</url></channel>
+<channel id="co#warner"><display-name>Warner Channel</display-name><url>https://mi.tv</url></channel>
+<channel id="co#vmas-tv"><display-name>VMASTV</display-name><url>https://mi.tv</url></channel>
+<channel id="co#vh1-mega-hits"><display-name>VH1 Mega Hits</display-name><url>https://mi.tv</url></channel>
+<channel id="co#vh1-hd"><display-name>VH1 HD</display-name><url>https://mi.tv</url></channel>
+<channel id="co#vh1-classic-usa"><display-name>VH1 Classic USA</display-name><url>https://mi.tv</url></channel>
+<channel id="co#vh1"><display-name>VH1</display-name><url>https://mi.tv</url></channel>
+<channel id="co#venus"><display-name>Venus</display-name><url>https://mi.tv</url></channel>
+<channel id="VePlus.ve@Panregional"><display-name>Ve Plus TV</display-name><icon src="https://i.imgur.com/uc3zqcP.png"/><url>https://mi.tv</url></channel>
+<channel id="co#univision"><display-name>Univision</display-name><url>https://mi.tv</url></channel>
+<channel id="co#universal-channel"><display-name>Universal TV</display-name><url>https://mi.tv</url></channel>
+<channel id="co#ufc-network-hd"><display-name>UFC Network HD</display-name><url>https://mi.tv</url></channel>
+<channel id="co#tyc-sports-hd"><display-name>TyC Sports HD</display-name><url>https://mi.tv</url></channel>
+<channel id="co#tvn-24-h"><display-name>24 Horas</display-name><url>https://mi.tv</url></channel>
+<channel id="co#tve"><display-name>TVE</display-name><url>https://mi.tv</url></channel>
+<channel id="co#tvc"><display-name>TVC</display-name><url>https://mi.tv</url></channel>
+<channel id="co#tv-agro"><display-name>Tv Agro</display-name><url>https://mi.tv</url></channel>
+<channel id="co#tru-tv"><display-name>TruTV</display-name><url>https://mi.tv</url></channel>
+<channel id="CanalTRO.co@SD"><display-name>Canal TRO</display-name><icon src="https://i.imgur.com/bdBduvj.png"/><url>https://mi.tv</url></channel>
+<channel id="co#trendy-channel"><display-name>Trendy Channel</display-name><url>https://mi.tv</url></channel>
+<channel id="co#trace-sports-stars-hd"><display-name>TRACE Sports Stars HD</display-name><url>https://mi.tv</url></channel>
+<channel id="TraceSportStars.fr@HD"><display-name>TRACE Sports Stars</display-name><icon src="https://i.imgur.com/FabFP5A.png"/><url>https://mi.tv</url></channel>
+<channel id="co#tooncast"><display-name>Tooncast</display-name><url>https://mi.tv</url></channel>
+<channel id="TNTSeriesLatinAmerica.us@Panregional"><display-name>TNT Series</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png"/><url>https://mi.tv</url></channel>
+<channel id="co#tnt"><display-name>TNT</display-name><url>https://mi.tv</url></channel>
+<channel id="co#tn"><display-name>TN</display-name><url>https://mi.tv</url></channel>
+<channel id="co#tlnovelas"><display-name>TLNovelas</display-name><url>https://mi.tv</url></channel>
+<channel id="co#tigo-music-hd"><display-name>Tigo Music HD</display-name><url>https://mi.tv</url></channel>
+<channel id="co#tigo-music"><display-name>Tigo Music</display-name><url>https://mi.tv</url></channel>
+<channel id="co#televida"><display-name>Tele Vid</display-name><url>https://mi.tv</url></channel>
+<channel id="TeleVid.co@SD"><display-name>Tele Vid HD</display-name><icon src="https://i.imgur.com/kVHJU5V.png"/><url>https://mi.tv</url></channel>
+<channel id="co#telepacifico"><display-name>Telepacifico</display-name><url>https://mi.tv</url></channel>
+<channel id="co#telemundo"><display-name>Telemundo</display-name><url>https://mi.tv</url></channel>
+<channel id="Telemedellin.co@SD"><display-name>Telemedellín HD</display-name><icon src="https://i.imgur.com/6NGOIhH.png"/><url>https://mi.tv</url></channel>
+<channel id="co#telemedellin"><display-name>Telemedellín</display-name><url>https://mi.tv</url></channel>
+<channel id="co#telehit-hd"><display-name>Telehit HD</display-name><url>https://mi.tv</url></channel>
+<channel id="co#telecaribe"><display-name>Telecaribe</display-name><url>https://mi.tv</url></channel>
+<channel id="co#telecafe"><display-name>Telecafé</display-name><url>https://mi.tv</url></channel>
+<channel id="Teleantioquia.co@SD"><display-name>Teleantioquia HD</display-name><icon src="https://i.imgur.com/6WMV2Az.png"/><url>https://mi.tv</url></channel>
+<channel id="co#teleantioquia"><display-name>Teleantioquia</display-name><url>https://mi.tv</url></channel>
+<channel id="co#teleamiga"><display-name>TeleAmiga</display-name><url>https://mi.tv</url></channel>
+<channel id="TeleNostalgia.co@SD"><display-name>Telenostalgia</display-name><icon src="https://i.imgur.com/WZeMZNy.png"/><url>https://mi.tv</url></channel>
+<channel id="co#tcm"><display-name>TCM</display-name><url>https://mi.tv</url></channel>
+<channel id="co#tbs-veryfunny-pan"><display-name>TBS</display-name><url>https://mi.tv</url></channel>
+<channel id="co#sun-channel-hd"><display-name>Sun Channel HD</display-name><url>https://mi.tv</url></channel>
+<channel id="SunChannel.ve@SD"><display-name>Sun Channel</display-name><icon src="https://i.imgur.com/B26qL3e.png"/><url>https://mi.tv</url></channel>
+<channel id="co#studio-universal"><display-name>Studio Universal</display-name><url>https://mi.tv</url></channel>
+<channel id="co#space-hd"><display-name>Space HD</display-name><url>https://mi.tv</url></channel>
+<channel id="co#space"><display-name>Space</display-name><url>https://mi.tv</url></channel>
+<channel id="co#sony-hd"><display-name>Sony HD</display-name><url>https://mi.tv</url></channel>
+<channel id="co#sony"><display-name>Sony</display-name><url>https://mi.tv</url></channel>
+<channel id="co#senal-institucional-rtvc"><display-name>Canal Institucional</display-name><url>https://mi.tv</url></channel>
+<channel id="co#senal-colombia"><display-name>Señal Colombia</display-name><url>https://mi.tv</url></channel>
+<channel id="co#russia-today-hd"><display-name>Russia Today HD</display-name><url>https://mi.tv</url></channel>
+<channel id="co#rumba-tv"><display-name>Rumba TV</display-name><url>https://mi.tv</url></channel>
+<channel id="co#rcn-nuestra-tele"><display-name>RCN Nuestra Tele</display-name><url>https://mi.tv</url></channel>
+<channel id="co#rcn-novelas"><display-name>RCN Novelas</display-name><url>https://mi.tv</url></channel>
+<channel id="co#rcn"><display-name>RCN</display-name><url>https://mi.tv</url></channel>
+<channel id="co#playboy"><display-name>Playboy</display-name><url>https://mi.tv</url></channel>
+<channel id="co#pasiones"><display-name>Pasiones</display-name><url>https://mi.tv</url></channel>
+<channel id="co#paramount-channel"><display-name>Paramount Network</display-name><url>https://mi.tv</url></channel>
+<channel id="co#nuestra-tele-noticias-24hs"><display-name>NTN24</display-name><url>https://mi.tv</url></channel>
+<channel id="co#nickelodeon"><display-name>Nick</display-name><url>https://mi.tv</url></channel>
+<channel id="co#nick-jr"><display-name>Nick Jr.</display-name><url>https://mi.tv</url></channel>
+<channel id="co#nba-tv-hd"><display-name>NBA TV HD</display-name><url>https://mi.tv</url></channel>
+<channel id="co#national-geographic-hd"><display-name>National Geographic HD</display-name><url>https://mi.tv</url></channel>
+<channel id="co#national-geographic"><display-name>National Geographic</display-name><url>https://mi.tv</url></channel>
+<channel id="co#nat-geo-wild-hd"><display-name>Nat Geo Wild HD</display-name><url>https://mi.tv</url></channel>
+<channel id="co#nat-geo-wild"><display-name>National Geographic Wild</display-name><url>https://mi.tv</url></channel>
+<channel id="co#multipremier"><display-name>Multipremier</display-name><url>https://mi.tv</url></channel>
+<channel id="MTVLive.uk@SD"><display-name>MTV Live HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/3/30/MTV_Live_2021_logo.svg"/><url>https://mi.tv</url></channel>
+<channel id="co#mtv-dance"><display-name>MTV Dance</display-name><url>https://mi.tv</url></channel>
+<channel id="co#mi-gente"><display-name>Mi Gente TV</display-name><url>https://mi.tv</url></channel>
+<channel id="co#max-up"><display-name>HBO Pop</display-name><url>https://mi.tv</url></channel>
+<channel id="co#max-prime-panregional-hd"><display-name>HBO Xtreme (Panregional HD)</display-name><url>https://mi.tv</url></channel>
+<channel id="co#max-prime-panamericano-hd"><display-name>HBO Xtreme (Panamericano HD)</display-name><url>https://mi.tv</url></channel>
+<channel id="co#max-prime-o"><display-name>HBO Xtreme (Oeste)</display-name><url>https://mi.tv</url></channel>
+<channel id="co#max-prime"><display-name>HBO Xtreme</display-name><url>https://mi.tv</url></channel>
+<channel id="co#max"><display-name>HBO Mundi</display-name><url>https://mi.tv</url></channel>
+<channel id="co#mas-chic"><display-name>Más Chic</display-name><url>https://mi.tv</url></channel>
+<channel id="co#m-tv"><display-name>MTV</display-name><url>https://mi.tv</url></channel>
+<channel id="co#lifetime"><display-name>Lifetime</display-name><url>https://mi.tv</url></channel>
+<channel id="co#life-design-tv-hd"><display-name>Life Design TV HD</display-name><url>https://mi.tv</url></channel>
 <channel id="co#kmusic"><display-name>K Music</display-name><url>https://mi.tv</url></channel>
 <channel id="co#htv"><display-name>HTV</display-name><url>https://mi.tv</url></channel>
 <channel id="co#hola-tv-hd"><display-name>HOLA TV HD</display-name><url>https://mi.tv</url></channel>
@@ -132,91 +132,91 @@
 <channel id="co#fox-classics"><display-name>Star Classics</display-name><url>https://mi.tv</url></channel>
 <channel id="co#fox-cinema"><display-name>Star Cinema</display-name><url>https://mi.tv</url></channel>
 <channel id="co#fox-action-oeste"><display-name>Star Action (Oeste)</display-name><url>https://mi.tv</url></channel>
-<channel id="co#m-tv"><display-name>MTV</display-name><url>https://mi.tv</url></channel>
-<channel id="co#zoom"><display-name>Zoom</display-name><url>https://mi.tv</url></channel>
-<channel id="WinSports.co@SD"><display-name>Win Sports HD</display-name><icon src="https://i.imgur.com/DuSSrHV.png"/><url>https://mi.tv</url></channel>
-<channel id="co#win-sports"><display-name>Win Sports</display-name><url>https://mi.tv</url></channel>
-<channel id="co#warner"><display-name>Warner Channel</display-name><url>https://mi.tv</url></channel>
-<channel id="co#vh1-mega-hits"><display-name>VH1 Mega Hits</display-name><url>https://mi.tv</url></channel>
-<channel id="co#vh1-hd"><display-name>VH1 HD</display-name><url>https://mi.tv</url></channel>
-<channel id="co#vh1-classic-usa"><display-name>VH1 Classic USA</display-name><url>https://mi.tv</url></channel>
-<channel id="co#vh1"><display-name>VH1</display-name><url>https://mi.tv</url></channel>
-<channel id="VePlus.ve@Panregional"><display-name>Ve Plus TV</display-name><icon src="https://i.imgur.com/uc3zqcP.png"/><url>https://mi.tv</url></channel>
-<channel id="co#univision"><display-name>Univision</display-name><url>https://mi.tv</url></channel>
-<channel id="co#universal-channel"><display-name>Universal TV</display-name><url>https://mi.tv</url></channel>
-<channel id="co#ufc-network-hd"><display-name>UFC Network HD</display-name><url>https://mi.tv</url></channel>
-<channel id="co#tyc-sports-hd"><display-name>TyC Sports HD</display-name><url>https://mi.tv</url></channel>
-<channel id="co#tvn-24-h"><display-name>24 Horas</display-name><url>https://mi.tv</url></channel>
-<channel id="co#tve"><display-name>TVE</display-name><url>https://mi.tv</url></channel>
-<channel id="co#tvc"><display-name>TVC</display-name><url>https://mi.tv</url></channel>
-<channel id="co#tv-agro"><display-name>Tv Agro</display-name><url>https://mi.tv</url></channel>
-<channel id="co#tru-tv"><display-name>TruTV</display-name><url>https://mi.tv</url></channel>
-<channel id="co#trendy-channel"><display-name>Trendy Channel</display-name><url>https://mi.tv</url></channel>
-<channel id="co#trace-sports-stars-hd"><display-name>TRACE Sports Stars HD</display-name><url>https://mi.tv</url></channel>
-<channel id="TraceSportStars.fr@HD"><display-name>TRACE Sports Stars</display-name><icon src="https://i.imgur.com/FabFP5A.png"/><url>https://mi.tv</url></channel>
-<channel id="co#tooncast"><display-name>Tooncast</display-name><url>https://mi.tv</url></channel>
-<channel id="co#tnt"><display-name>TNT</display-name><url>https://mi.tv</url></channel>
-<channel id="co#tn"><display-name>TN</display-name><url>https://mi.tv</url></channel>
-<channel id="co#tlnovelas"><display-name>TLNovelas</display-name><url>https://mi.tv</url></channel>
-<channel id="co#tigo-music-hd"><display-name>Tigo Music HD</display-name><url>https://mi.tv</url></channel>
-<channel id="co#televida"><display-name>Tele Vid</display-name><url>https://mi.tv</url></channel>
-<channel id="TeleVid.co@SD"><display-name>Tele Vid HD</display-name><icon src="https://i.imgur.com/kVHJU5V.png"/><url>https://mi.tv</url></channel>
-<channel id="co#telepacifico"><display-name>Telepacifico</display-name><url>https://mi.tv</url></channel>
-<channel id="co#telemundo"><display-name>Telemundo</display-name><url>https://mi.tv</url></channel>
-<channel id="Telemedellin.co@SD"><display-name>Telemedellín HD</display-name><icon src="https://i.imgur.com/6NGOIhH.png"/><url>https://mi.tv</url></channel>
-<channel id="co#telemedellin"><display-name>Telemedellín</display-name><url>https://mi.tv</url></channel>
-<channel id="co#telehit-hd"><display-name>Telehit HD</display-name><url>https://mi.tv</url></channel>
-<channel id="co#telecaribe"><display-name>Telecaribe</display-name><url>https://mi.tv</url></channel>
-<channel id="co#telecafe"><display-name>Telecafé</display-name><url>https://mi.tv</url></channel>
-<channel id="Teleantioquia.co@SD"><display-name>Teleantioquia HD</display-name><icon src="https://i.imgur.com/6WMV2Az.png"/><url>https://mi.tv</url></channel>
-<channel id="co#teleamiga"><display-name>TeleAmiga</display-name><url>https://mi.tv</url></channel>
-<channel id="TeleNostalgia.co@SD"><display-name>Telenostalgia</display-name><icon src="https://i.imgur.com/WZeMZNy.png"/><url>https://mi.tv</url></channel>
-<channel id="co#tcm"><display-name>TCM</display-name><url>https://mi.tv</url></channel>
-<channel id="co#tbs-veryfunny-pan"><display-name>TBS</display-name><url>https://mi.tv</url></channel>
-<channel id="co#sun-channel-hd"><display-name>Sun Channel HD</display-name><url>https://mi.tv</url></channel>
-<channel id="SunChannel.ve@SD"><display-name>Sun Channel</display-name><icon src="https://i.imgur.com/B26qL3e.png"/><url>https://mi.tv</url></channel>
-<channel id="co#studio-universal"><display-name>Studio Universal</display-name><url>https://mi.tv</url></channel>
-<channel id="co#space-hd"><display-name>Space HD</display-name><url>https://mi.tv</url></channel>
-<channel id="co#space"><display-name>Space</display-name><url>https://mi.tv</url></channel>
-<channel id="co#sony-hd"><display-name>Sony HD</display-name><url>https://mi.tv</url></channel>
-<channel id="co#sony"><display-name>Sony</display-name><url>https://mi.tv</url></channel>
-<channel id="co#senal-institucional-rtvc"><display-name>Canal Institucional</display-name><url>https://mi.tv</url></channel>
-<channel id="co#senal-colombia"><display-name>Señal Colombia</display-name><url>https://mi.tv</url></channel>
-<channel id="co#russia-today-hd"><display-name>Russia Today HD</display-name><url>https://mi.tv</url></channel>
-<channel id="co#rumba-tv"><display-name>Rumba TV</display-name><url>https://mi.tv</url></channel>
-<channel id="co#rcn-nuestra-tele"><display-name>RCN Nuestra Tele</display-name><url>https://mi.tv</url></channel>
-<channel id="co#rcn-novelas"><display-name>RCN Novelas</display-name><url>https://mi.tv</url></channel>
-<channel id="co#rcn"><display-name>RCN</display-name><url>https://mi.tv</url></channel>
-<channel id="co#playboy"><display-name>Playboy</display-name><url>https://mi.tv</url></channel>
-<channel id="co#pasiones"><display-name>Pasiones</display-name><url>https://mi.tv</url></channel>
-<channel id="co#nuestra-tele-noticias-24hs"><display-name>NTN24</display-name><url>https://mi.tv</url></channel>
-<channel id="co#nickelodeon"><display-name>Nick</display-name><url>https://mi.tv</url></channel>
-<channel id="co#nick-jr"><display-name>Nick Jr.</display-name><url>https://mi.tv</url></channel>
-<channel id="co#nba-tv-hd"><display-name>NBA TV HD</display-name><url>https://mi.tv</url></channel>
-<channel id="co#national-geographic-hd"><display-name>National Geographic HD</display-name><url>https://mi.tv</url></channel>
-<channel id="co#national-geographic"><display-name>National Geographic</display-name><url>https://mi.tv</url></channel>
-<channel id="co#nat-geo-wild-hd"><display-name>Nat Geo Wild HD</display-name><url>https://mi.tv</url></channel>
-<channel id="co#nat-geo-wild"><display-name>National Geographic Wild</display-name><url>https://mi.tv</url></channel>
-<channel id="co#multipremier"><display-name>Multipremier</display-name><url>https://mi.tv</url></channel>
-<channel id="MTVLive.uk@SD"><display-name>MTV Live HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/3/30/MTV_Live_2021_logo.svg"/><url>https://mi.tv</url></channel>
-<channel id="co#mtv-dance"><display-name>MTV Dance</display-name><url>https://mi.tv</url></channel>
-<channel id="co#mi-gente"><display-name>Mi Gente TV</display-name><url>https://mi.tv</url></channel>
-<channel id="co#max-up"><display-name>HBO Pop</display-name><url>https://mi.tv</url></channel>
-<channel id="co#max-prime-panregional-hd"><display-name>HBO Xtreme (Panregional HD)</display-name><url>https://mi.tv</url></channel>
-<channel id="co#max-prime-panamericano-hd"><display-name>HBO Xtreme (Panamericano HD)</display-name><url>https://mi.tv</url></channel>
-<channel id="co#max-prime-o"><display-name>HBO Xtreme (Oeste)</display-name><url>https://mi.tv</url></channel>
-<channel id="co#max-prime"><display-name>HBO Xtreme</display-name><url>https://mi.tv</url></channel>
-<channel id="co#max"><display-name>HBO Mundi</display-name><url>https://mi.tv</url></channel>
-<channel id="co#mas-chic"><display-name>Más Chic</display-name><url>https://mi.tv</url></channel>
-<channel id="co#lifetime"><display-name>Lifetime</display-name><url>https://mi.tv</url></channel>
-<channel id="co#vmas-tv"><display-name>VMASTV</display-name><url>https://mi.tv</url></channel>
-<channel id="co#venus"><display-name>Venus</display-name><url>https://mi.tv</url></channel>
-<channel id="TNTSeriesLatinAmerica.us@Panregional"><display-name>TNT Series</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png"/><url>https://mi.tv</url></channel>
-<channel id="co#tigo-music"><display-name>Tigo Music</display-name><url>https://mi.tv</url></channel>
-<channel id="co#paramount-channel"><display-name>Paramount Network</display-name><url>https://mi.tv</url></channel>
-<channel id="CanalTRO.co@SD"><display-name>Canal TRO</display-name><icon src="https://i.imgur.com/bdBduvj.png"/><url>https://mi.tv</url></channel>
-<channel id="co#teleantioquia"><display-name>Teleantioquia</display-name><url>https://mi.tv</url></channel>
-<channel id="co#life-design-tv-hd"><display-name>Life Design TV HD</display-name><url>https://mi.tv</url></channel>
+<channel id="co#fox-action-hd"><display-name>Star Action HD</display-name><url>https://mi.tv</url></channel>
+<channel id="StarAction.us@SD"><display-name>Star Action</display-name><icon src="https://i.imgur.com/XD1Tpet.png"/><url>https://mi.tv</url></channel>
+<channel id="co#fox-1-oeste"><display-name>Star Series (Oeste)</display-name><url>https://mi.tv</url></channel>
+<channel id="StarSeries.us@SD"><display-name>Star Series HD</display-name><icon src="https://i.imgur.com/A977HvF.png"/><url>https://mi.tv</url></channel>
+<channel id="co#fox-1-este"><display-name>Star Series</display-name><url>https://mi.tv</url></channel>
+<channel id="StarChannel.co@SD"><display-name>Star Channel</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="co#film-arts"><display-name>film&amp;arts</display-name><url>https://mi.tv</url></channel>
+<channel id="FashionOne.uk@SD"><display-name>Fashion One HD</display-name><icon src="https://i.imgur.com/cyvNhJq.png"/><url>https://mi.tv</url></channel>
+<channel id="co#f1-latin-america"><display-name>F1 Latin America</display-name><url>https://mi.tv</url></channel>
+<channel id="co#ewtn"><display-name>EWTN</display-name><url>https://mi.tv</url></channel>
+<channel id="co#eurochannel"><display-name>Eurochannel</display-name><url>https://mi.tv</url></channel>
+<channel id="co#espn-plus"><display-name>ESPN Extra</display-name><url>https://mi.tv</url></channel>
+<channel id="co#espn-3-hd"><display-name>ESPN 3 HD</display-name><url>https://mi.tv</url></channel>
+<channel id="co#espn-3"><display-name>ESPN 3</display-name><url>https://mi.tv</url></channel>
+<channel id="co#espn-2"><display-name>ESPN 2</display-name><url>https://mi.tv</url></channel>
+<channel id="co#espn"><display-name>ESPN</display-name><url>https://mi.tv</url></channel>
+<channel id="EnlaceJuvenil.cr@SD"><display-name>Enlace Juvenil</display-name><icon src="https://i.imgur.com/GfpPQ5D.png"/><url>https://mi.tv</url></channel>
+<channel id="co#enlace"><display-name>Enlace</display-name><url>https://mi.tv</url></channel>
+<channel id="co#el-tiempo"><display-name>El Tiempo Televisión</display-name><url>https://mi.tv</url></channel>
+<channel id="co#el-gourmet"><display-name>El Gourmet</display-name><url>https://mi.tv</url></channel>
+<channel id="co#e"><display-name>E!</display-name><url>https://mi.tv</url></channel>
+<channel id="co#disney-xd-multicountry"><display-name>Disney XD</display-name><url>https://mi.tv</url></channel>
+<channel id="co#disney-multicountry"><display-name>Disney Channel</display-name><url>https://mi.tv</url></channel>
+<channel id="co#disney-jr-norte"><display-name>Disney Junior</display-name><url>https://mi.tv</url></channel>
+<channel id="co#discovery-turbo"><display-name>Discovery Turbo</display-name><url>https://mi.tv</url></channel>
+<channel id="co#discovery-tlc-hd"><display-name>Discovery World</display-name><url>https://mi.tv</url></channel>
+<channel id="TLCLatinAmerica.us@Panregional"><display-name>TLC</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="co#discovery-science"><display-name>Discovery Science</display-name><url>https://mi.tv</url></channel>
+<channel id="co#discovery-kids-hd"><display-name>Discovery Kids HD</display-name><url>https://mi.tv</url></channel>
+<channel id="DiscoveryKidsLatinAmerica.us@Panregional"><display-name>Discovery Kids</display-name><url>https://mi.tv</url></channel>
+<channel id="InvestigationDiscoveryLatinAmerica.us@Panregional"><display-name>Investigation Discovery HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="co#discovery-id"><display-name>Investigation Discovery</display-name><url>https://mi.tv</url></channel>
+<channel id="co#discovery-home-and-health"><display-name>Discovery Home &amp; Health</display-name><url>https://mi.tv</url></channel>
+<channel id="co#discovery-hd-lat"><display-name>Discovery HD</display-name><url>https://mi.tv</url></channel>
+<channel id="co#discovery-civilization"><display-name>Discovery Civilization</display-name><url>https://mi.tv</url></channel>
+<channel id="co#discovery-channel"><display-name>Discovery Channel</display-name><url>https://mi.tv</url></channel>
+<channel id="co#dia-tv"><display-name>Día TV</display-name><url>https://mi.tv</url></channel>
+<channel id="co#dhe"><display-name>DHE</display-name><url>https://mi.tv</url></channel>
+<channel id="co#deutsche-welle-amerika"><display-name>DW (Español)</display-name><url>https://mi.tv</url></channel>
+<channel id="Cristovision.co@SD"><display-name>Cristovisión</display-name><icon src="https://i.imgur.com/XIhCUY9.png"/><url>https://mi.tv</url></channel>
+<channel id="co#cosmovision-hd"><display-name>Cosmovisión HD</display-name><url>https://mi.tv</url></channel>
+<channel id="Cosmovision.co@SD"><display-name>Cosmovisión</display-name><icon src="https://i.imgur.com/bj7Jd2q.png"/><url>https://mi.tv</url></channel>
+<channel id="co#concert-channel-hd"><display-name>Concert Channel HD</display-name><url>https://mi.tv</url></channel>
+<channel id="co#concert-channel"><display-name>Concert Channel</display-name><url>https://mi.tv</url></channel>
+<channel id="ComedyCentralLatinAmerica.us@Panregional"><display-name>Comedy Central HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="co#comedy-central"><display-name>Comedy Central</display-name><url>https://mi.tv</url></channel>
+<channel id="co#cnn-en-espanol"><display-name>CNN en Español</display-name><url>https://mi.tv</url></channel>
+<channel id="co#cnn"><display-name>CNN</display-name><url>https://mi.tv</url></channel>
+<channel id="co#click"><display-name>Click</display-name><url>https://mi.tv</url></channel>
+<channel id="co#citytv"><display-name>Citytv</display-name><url>https://mi.tv</url></channel>
+<channel id="co#cinemax"><display-name>Cinemax</display-name><url>https://mi.tv</url></channel>
+<channel id="co#cinema"><display-name>Cinema+</display-name><url>https://mi.tv</url></channel>
+<channel id="co#cinelatino"><display-name>Cinelatino</display-name><url>https://mi.tv</url></channel>
+<channel id="co#cinecanal-hd"><display-name>Cinecanal HD</display-name><url>https://mi.tv</url></channel>
+<channel id="co#cinecanal"><display-name>Cinecanal</display-name><url>https://mi.tv</url></channel>
+<channel id="co#cartoon-network"><display-name>Cartoon Network</display-name><url>https://mi.tv</url></channel>
+<channel id="co#caracol-novelas"><display-name>Novelas Caracol</display-name><url>https://mi.tv</url></channel>
+<channel id="co#caracol-hd"><display-name>Caracol HD</display-name><url>https://mi.tv</url></channel>
+<channel id="CaracolTV.co@SD"><display-name>Caracol</display-name><icon src="https://i.imgur.com/WbfdJbk.png"/><url>https://mi.tv</url></channel>
+<channel id="Canal1.co@SD"><display-name>Canal 1</display-name><icon src="https://i.imgur.com/MiYlN0t.png"/><url>https://mi.tv</url></channel>
+<channel id="CanalU.co@SD"><display-name>Canal U</display-name><icon src="https://i.imgur.com/aXTCB4z.png"/><url>https://mi.tv</url></channel>
+<channel id="Trece.co@SD"><display-name>Canal TR3CE</display-name><icon src="https://i.imgur.com/jsuXXIg.png"/><url>https://mi.tv</url></channel>
+<channel id="CanalRCN.co@SD"><display-name>RCN HD</display-name><icon src="https://i.imgur.com/5PhTaHp.png"/><url>https://mi.tv</url></channel>
+<channel id="co#canal-de-las-estrellas-hd"><display-name>Canal de las Estrellas HD</display-name><url>https://mi.tv</url></channel>
+<channel id="co#canal-de-las-estrellas"><display-name>Las Estrellas</display-name><url>https://mi.tv</url></channel>
+<channel id="CanalCartagena.co@SD"><display-name>Canal Cartagena</display-name><icon src="https://i.imgur.com/1GSOBQO.png"/><url>https://mi.tv</url></channel>
+<channel id="CanalCapital.co@SD"><display-name>Canal Capital</display-name><icon src="https://i.imgur.com/zAYtbYi.png"/><url>https://mi.tv</url></channel>
+<channel id="CanalC.co@SD"><display-name>Canal C</display-name><icon src="https://i.imgur.com/0ff3XdX.png"/><url>https://mi.tv</url></channel>
+<channel id="co#canal-14-cali"><display-name>Canal 14 - Cali</display-name><url>https://mi.tv</url></channel>
+<channel id="CaliTV.co@SD"><display-name>CaliTV</display-name><icon src="https://i.imgur.com/2312Luq.png"/><url>https://mi.tv</url></channel>
+<channel id="co#cablenoticias"><display-name>Cablenoticias</display-name><url>https://mi.tv</url></channel>
+<channel id="co#boomerang-cartoon"><display-name>Cartoonito</display-name><url>https://mi.tv</url></channel>
+<channel id="co#bloomberg"><display-name>Bloomberg</display-name><url>https://mi.tv</url></channel>
+<channel id="co#bbc-world"><display-name>BBC World</display-name><url>https://mi.tv</url></channel>
+<channel id="co#azteca-13"><display-name>Azteca 13</display-name><url>https://mi.tv</url></channel>
+<channel id="AzMundo.mx@SD"><display-name>Az Mundo HD</display-name><icon src="https://i.imgur.com/a7Ejid0.png"/><url>https://mi.tv</url></channel>
+<channel id="co#az-corazon"><display-name>Az Corazón</display-name><url>https://mi.tv</url></channel>
+<channel id="co#axn-hd"><display-name>AXN HD</display-name><url>https://mi.tv</url></channel>
+<channel id="AXNLatinAmerica.us@Andes"><display-name>AXN</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="co#antena3"><display-name>Antena 3</display-name><url>https://mi.tv</url></channel>
+<channel id="co#animal-planet"><display-name>Animal Planet</display-name><url>https://mi.tv</url></channel>
+<channel id="co#amc-hd"><display-name>AMC HD</display-name><url>https://mi.tv</url></channel>
+<channel id="co#amc"><display-name>AMC</display-name><url>https://mi.tv</url></channel>
+<channel id="AlientoVision.us@SD"><display-name>Aliento Vision</display-name><icon src="https://i.imgur.com/xT10iqB.png"/><url>https://mi.tv</url></channel>
+<channel id="co#a-e-mundo-hd"><display-name>A&amp;E Mundo HD</display-name><url>https://mi.tv</url></channel>
 <programme start="20260909060000 +0000" stop="20260909070000 +0000" channel="AlientoVision.us@SD"><title lang="es">Tu nueva vida</title><desc lang="es">Dios te está dando una nueva oportunidad cada día, sólo tienes que conocer y acercarte más a su palabra. Por eso el Pastor Julio Rodríguez te enseñara como estudiar la Biblia y poner en práctica los sagrados mandamientos.</desc><category lang="es">Religioso</category><image>https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg</image></programme>
 <programme start="20260909070000 +0000" stop="20260909073000 +0000" channel="AlientoVision.us@SD"><title lang="es">Vida dura</title><desc lang="es">Omar Murillo te presenta testimonios de personas cuyas vidas han sida transformadas.</desc><category lang="es">Religioso</category><image>https://cdn.mitvstatic.com/programs/co_vida-dura_l_m.jpg</image></programme>
 <programme start="20260909073000 +0000" stop="20260909080000 +0000" channel="AlientoVision.us@SD"><title lang="es">Beats</title><desc lang="es">Espacio musical donde conocerás a tus cantantes favoritos de cerca, a través de una amena conversación donde expondrán sus secretos mejor guardados.</desc><category lang="es">Entrevista</category><image>https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg</image></programme>
@@ -2588,8 +2588,8 @@
 <programme start="20260910021000 +0000" stop="20260910030000 +0000" channel="co#mi-gente"><title lang="es">Play List - Mi Gente TV</title><desc lang="es">Música de los artistas de actualidad, géneros: urbano, popular, vallenato, tropical.</desc><category lang="es">Musical</category><image>https://cdn.mitvstatic.com/programs/co_play-list-mi-gente-tv-2_l_m.jpg</image></programme>
 <programme start="20260910030000 +0000" stop="20260910031500 +0000" channel="co#mi-gente"><title lang="es">Estudio G</title><desc lang="es">Espacio donde el nuevo estudio de grabación de RTV Música es el protagonista de un show de creatividad y tecnología. Grupos, solistas, entrevistas y la producción de un álbum que podría ser el tuyo.</desc><category lang="es">Musical</category><image>https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg</image></programme>
 <programme start="20260910031500 +0000" stop="20260910050000 +0000" channel="co#mi-gente"><title lang="es">Play List - Mi Gente TV</title><desc lang="es">Música de los artistas de actualidad, géneros: urbano, popular, vallenato, tropical.</desc><category lang="es">Musical</category><image>https://cdn.mitvstatic.com/programs/co_play-list-mi-gente-tv-2_l_m.jpg</image></programme>
-<programme start="20260910050000 +0000" stop="20260910050500 +0000" channel="co#mi-gente"><title lang="es">Nota musical</title><desc lang="es">Un programa que explora la musica de los andes venezolanos a través de presentaciones de artistas. El público podrá descubrir el trabajo de aquellas personas que mantienen vivo el legado de las tradiciones y costumbres del país.</desc><category lang="es">Musical</category><image>https://cdn.mitvstatic.com/programs/co_nota-musical_l_m.jpg</image></programme>
 <programme start="20260910050000 +0000" stop="20260910060000 +0000" channel="co#mi-gente"><title lang="es">Play List - Franjas musicales</title><desc lang="es">Grupos de canciones de artistas clasificados por género.</desc><category lang="es">Musical</category><image>https://cdn.mitvstatic.com/programs/co_play-list-franjas-musicales_l_m.jpg</image></programme>
+<programme start="20260910050000 +0000" stop="20260910050500 +0000" channel="co#mi-gente"><title lang="es">Nota musical</title><desc lang="es">Un programa que explora la musica de los andes venezolanos a través de presentaciones de artistas. El público podrá descubrir el trabajo de aquellas personas que mantienen vivo el legado de las tradiciones y costumbres del país.</desc><category lang="es">Musical</category><image>https://cdn.mitvstatic.com/programs/co_nota-musical_l_m.jpg</image></programme>
 <programme start="20260910050500 +0000" stop="20260910080000 +0000" channel="co#mi-gente"><title lang="es">Play List - Mi Gente TV</title><desc lang="es">Música de los artistas de actualidad, géneros: urbano, popular, vallenato, tropical.</desc><category lang="es">Musical</category><image>https://cdn.mitvstatic.com/programs/co_play-list-mi-gente-tv-2_l_m.jpg</image></programme>
 <programme start="20260910080000 +0000" stop="20260910081000 +0000" channel="co#mi-gente"><title lang="es">Estudio G</title><desc lang="es">Espacio donde el nuevo estudio de grabación de RTV Música es el protagonista de un show de creatividad y tecnología. Grupos, solistas, entrevistas y la producción de un álbum que podría ser el tuyo.</desc><category lang="es">Musical</category><image>https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg</image></programme>
 <programme start="20260910081000 +0000" stop="20260910090000 +0000" channel="co#mi-gente"><title lang="es">Play List - Mi Gente TV</title><desc lang="es">Música de los artistas de actualidad, géneros: urbano, popular, vallenato, tropical.</desc><category lang="es">Musical</category><image>https://cdn.mitvstatic.com/programs/co_play-list-mi-gente-tv-2_l_m.jpg</image></programme>
@@ -2609,8 +2609,8 @@
 <programme start="20260909120000 +0000" stop="20260910014500 +0000" channel="co#multipremier"><title lang="es">Viaje a la oscuridad</title><desc lang="es">Freud es un espíritu libre conocido por sus métodos poco ortodoxos. Sabe cómo hacer hablar a los criminales de guerra. Entonces se topa con un caso desconocido: el asesinato de 20 niños en Hamburgo en los últimos días de la guerra.</desc><category lang="es">Miniserie</category><image>https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg</image></programme>
 <programme start="20260910014500 +0000" stop="20260910033000 +0000" channel="co#multipremier"><title lang="es">Mi madre y yo</title><title lang="en">Mothers and Daughters</title><desc lang="es">Historias entrelazadas sobre lo que significa ser madre, vinculadas a través de Rigby Gray, una fotógrafa de conciertos de rock que está en un buen momento de su carrera, pero entonces se queda embarazada de manera inesperada.</desc><category lang="es">Drama</category><rating><value>4.9</value></rating><image>https://cdn.mitvstatic.com/programs/co_mi-madre-y-yo-2016_l_m.jpg</image></programme>
 <programme start="20260910033000 +0000" stop="20260910052000 +0000" channel="co#multipremier"><title lang="es">El camino a la libertad</title><title lang="en">The Path</title><desc lang="es">Huyendo de los nazis, dos niños, un padre periodista y un perro deben abrirse camino a través de la peligrosa cordillera de los Pirineos.</desc><category lang="es">Drama</category><rating><value>6.2</value></rating><image>https://cdn.mitvstatic.com/programs/fallback_movies_l_m.jpg</image></programme>
-<programme start="20260910052000 +0000" stop="20260910073000 +0000" channel="co#multipremier"><title lang="es">Más allá del tiempo</title><title lang="en">Sea of Time</title><desc lang="es">Lucas y Johanna viven en los años 80, perdidamente enamorados, en un mundo lleno de sueños e ideales. Entonces, un desastroso accidente, durante su viaje en barco por el Atlántico, los separa.</desc><category lang="es">Drama</category><rating><value>7.5</value></rating><image>https://cdn.mitvstatic.com/programs/fallback_movies_l_m.jpg</image></programme>
 <programme start="20260910052000 +0000" stop="20260910062000 +0000" channel="co#multipremier"><title lang="es">A su lado</title><title lang="en">In From the Side</title><desc lang="es">Después de disfrutar de un encuentro de una noche, dos hombres gays de un modesto club de rugby se encaminan sin saberlo a una aventura adúltera. Deberán ocultar sus sentimientos o arriesgarse a destruir el club que aman.</desc><category lang="es">Drama</category><rating><value>6.7</value></rating><image>https://cdn.mitvstatic.com/programs/fallback_movies_l_m.jpg</image></programme>
+<programme start="20260910052000 +0000" stop="20260910073000 +0000" channel="co#multipremier"><title lang="es">Más allá del tiempo</title><title lang="en">Sea of Time</title><desc lang="es">Lucas y Johanna viven en los años 80, perdidamente enamorados, en un mundo lleno de sueños e ideales. Entonces, un desastroso accidente, durante su viaje en barco por el Atlántico, los separa.</desc><category lang="es">Drama</category><rating><value>7.5</value></rating><image>https://cdn.mitvstatic.com/programs/fallback_movies_l_m.jpg</image></programme>
 <programme start="20260910073000 +0000" stop="20260910091500 +0000" channel="co#multipremier"><title lang="es">Viaje a la oscuridad</title><desc lang="es">Freud es un espíritu libre conocido por sus métodos poco ortodoxos. Sabe cómo hacer hablar a los criminales de guerra. Entonces se topa con un caso desconocido: el asesinato de 20 niños en Hamburgo en los últimos días de la guerra.</desc><category lang="es">Miniserie</category><image>https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg</image></programme>
 <programme start="20260910091500 +0000" stop="20260910110000 +0000" channel="co#multipremier"><title lang="es">Mi madre y yo</title><title lang="en">Mothers and Daughters</title><desc lang="es">Historias entrelazadas sobre lo que significa ser madre, vinculadas a través de Rigby Gray, una fotógrafa de conciertos de rock que está en un buen momento de su carrera, pero entonces se queda embarazada de manera inesperada.</desc><category lang="es">Drama</category><rating><value>4.9</value></rating><image>https://cdn.mitvstatic.com/programs/co_mi-madre-y-yo-2016_l_m.jpg</image></programme>
 <programme start="20260910110000 +0000" stop="20260910125000 +0000" channel="co#multipremier"><title lang="es">El camino a la libertad</title><title lang="en">The Path</title><desc lang="es">Huyendo de los nazis, dos niños, un padre periodista y un perro deben abrirse camino a través de la peligrosa cordillera de los Pirineos.</desc><category lang="es">Drama</category><rating><value>6.2</value></rating><image>https://cdn.mitvstatic.com/programs/fallback_movies_l_m.jpg</image></programme>
@@ -3041,8 +3041,8 @@
 <programme start="20260910033000 +0000" stop="20260910040000 +0000" channel="co#senal-institucional-rtvc"><title lang="es">Cartas sobre la mesa</title><desc lang="es">Luis Castro se reúne en un informal debate con expertos y especialistas para comentar junto a una taza de café las jugadas políticas de la actualidad latinoamericana.</desc><category lang="es">Interés general</category><image>https://cdn.mitvstatic.com/programs/co_cartas-sobre-la-mesa_l_m.jpg</image></programme>
 <programme start="20260910040000 +0000" stop="20260910043000 +0000" channel="co#senal-institucional-rtvc"><title lang="es">Noticiero científico y cultural iberoamericano</title><desc lang="es">Espacio que contribuye a divulgar, fomentar e interpretar las actividades científicas y culturales en el mundo, así como fortalecer la cooperación y comunicación entre los distintos pueblos de la región.</desc><category lang="es">Noticiero</category><image>https://cdn.mitvstatic.com/programs/co_noticiero-cientifico-y-cultural-iberoamericano_l_m.jpg</image></programme>
 <programme start="20260910043000 +0000" stop="20260910050000 +0000" channel="co#senal-institucional-rtvc"><title lang="es">RT noticias</title><desc lang="es">Desde Moscú llegan las noticias mas importantes de Rusia y el mundo.</desc><category lang="es">Noticiero</category><image>https://cdn.mitvstatic.com/programs/co_rt-noticias_l_m.jpg</image></programme>
-<programme start="20260910050000 +0000" stop="20260910060000 +0000" channel="co#senal-institucional-rtvc"><title lang="es">La hora gourmet</title><desc lang="es">Un espacio donde se reciben diversos invitados para conversar sobre tipos de gastronomía caribeña. El presentador y el entrevistado charlan sobre distintas formas de cocinar, la variedad y calidad de ingredientes y mucho más.</desc><category lang="es">Cocina</category><image>https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg</image></programme>
 <programme start="20260910050000 +0000" stop="20260910060000 +0000" channel="co#senal-institucional-rtvc"><title lang="es">Encuadre real</title><desc lang="es">Historias reales que cuentan otra forma de vivir y de ver la vida. Documentales que cuentan los sucesos que han marcado la historia de nuestro país.</desc><category lang="es">Documental</category><image>https://cdn.mitvstatic.com/programs/co_encuadre-real_l_m.jpg</image></programme>
+<programme start="20260910050000 +0000" stop="20260910060000 +0000" channel="co#senal-institucional-rtvc"><title lang="es">La hora gourmet</title><desc lang="es">Un espacio donde se reciben diversos invitados para conversar sobre tipos de gastronomía caribeña. El presentador y el entrevistado charlan sobre distintas formas de cocinar, la variedad y calidad de ingredientes y mucho más.</desc><category lang="es">Cocina</category><image>https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg</image></programme>
 <programme start="20260910060000 +0000" stop="20260910063000 +0000" channel="co#senal-institucional-rtvc"><title lang="es">Bicentenario, voces de la memoria</title><desc lang="es">Un viaje a través de los acontecimientos, los relatos y las voces de los que dieron origen y forma a la nación colombiana.</desc><category lang="es">Documental</category><image>https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg</image></programme>
 <programme start="20260910063000 +0000" stop="20260910070000 +0000" channel="co#senal-institucional-rtvc"><title lang="es">La búsqueda es contigo</title><desc lang="es">Historias de los familiares de los desaparecidos: las afectaciones familiares, los saberes adquiridos en el proceso, el liderazgo y el trabajo de los colectivos, y por último, las expresiones artísticas y literarias de la búsqueda.</desc><category lang="es">Documental</category><image>https://cdn.mitvstatic.com/programs/co_la-busqueda-es-contigo_l_m.jpg</image></programme>
 <programme start="20260910070000 +0000" stop="20260910073000 +0000" channel="co#senal-institucional-rtvc"><title lang="es">RT entrevista</title><desc lang="es">Políticos, deportistas, artistas y personas de las más variadas esferas son quienes te contarán historias de su vida en una serie de segmentos de entrevista. Descubriremos el lado desconocido de gente famosa y los cuentos de los ídolos.</desc><category lang="es">Entrevista</category><image>https://cdn.mitvstatic.com/programs/co_rt-entrevista_l_m.jpg</image></programme>
@@ -3728,8 +3728,8 @@
 <programme start="20260910043000 +0000" stop="20260910050000 +0000" channel="co#tvc"><title lang="es">Televenta</title><desc lang="es">Transmisión que pone a tu alcance una amplia gama de productos para el hogar, belleza, cuidado del cuerpo y salud ofreciéndote la satisfacción, exclusividad, calidad y servicio que mereces.</desc><category lang="es">Publicidad</category><image>https://cdn.mitvstatic.com/programs/co_televenta_l_m.jpg</image></programme>
 <programme start="20260910050000 +0000" stop="20260910053000 +0000" channel="co#tvc"><title lang="es">Televenta</title><desc lang="es">Transmisión que pone a tu alcance una amplia gama de productos para el hogar, belleza, cuidado del cuerpo y salud ofreciéndote la satisfacción, exclusividad, calidad y servicio que mereces.</desc><category lang="es">Publicidad</category><image>https://cdn.mitvstatic.com/programs/co_televenta_l_m.jpg</image></programme>
 <programme start="20260910053000 +0000" stop="20260910060000 +0000" channel="co#tvc"><title lang="es">Televenta</title><desc lang="es">Transmisión que pone a tu alcance una amplia gama de productos para el hogar, belleza, cuidado del cuerpo y salud ofreciéndote la satisfacción, exclusividad, calidad y servicio que mereces.</desc><category lang="es">Publicidad</category><image>https://cdn.mitvstatic.com/programs/co_televenta_l_m.jpg</image></programme>
-<programme start="20260910060000 +0000" stop="20260910061000 +0000" channel="co#tvc"><title lang="es">Tema MN</title><desc lang="es">La investigación y el análisis de los temas más relevantes de México.</desc><category lang="es">Interés general</category><image>https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg</image></programme>
 <programme start="20260910060000 +0000" stop="20260910070000 +0000" channel="co#tvc"><title lang="es">Televenta</title><desc lang="es">Transmisión que pone a tu alcance una amplia gama de productos para el hogar, belleza, cuidado del cuerpo y salud ofreciéndote la satisfacción, exclusividad, calidad y servicio que mereces.</desc><category lang="es">Publicidad</category><image>https://cdn.mitvstatic.com/programs/co_televenta_l_m.jpg</image></programme>
+<programme start="20260910060000 +0000" stop="20260910061000 +0000" channel="co#tvc"><title lang="es">Tema MN</title><desc lang="es">La investigación y el análisis de los temas más relevantes de México.</desc><category lang="es">Interés general</category><image>https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg</image></programme>
 <programme start="20260910061000 +0000" stop="20260910070000 +0000" channel="co#tvc"><title lang="es">Meganoticias informa con Luis Octavio Pineda</title><desc lang="es">Espacio informativo con la actualización de lo más importante hasta el momento.</desc><category lang="es">Noticiero</category><image>https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg</image></programme>
 <programme start="20260910070000 +0000" stop="20260910071000 +0000" channel="co#tvc"><title lang="es">Tema MN</title><desc lang="es">La investigación y el análisis de los temas más relevantes de México.</desc><category lang="es">Interés general</category><image>https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg</image></programme>
 <programme start="20260910071000 +0000" stop="20260910073000 +0000" channel="co#tvc"><title lang="es">De frente con Alejandra Gómez</title><desc lang="es">Un programa que aborda los hechos más destacados de la agenda de noticias nacional e internacional. A través del trabajo de periodistas, expertos y reporteros, el público podrá disfrutar de un análisis y debate de los temas coyunturales.</desc><category lang="es">Periodístico</category><image>https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg</image></programme>
