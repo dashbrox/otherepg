@@ -220,6 +220,8 @@
   <channel site="gatotv.com" site_id="studio_universal_panregional" lang="es" xmltv_id="">Studio Universal Panregional</channel>
   <channel site="gatotv.com" site_id="sun_channel" lang="es" xmltv_id="">Sun Channel</channel>
   <channel site="gatotv.com" site_id="sur_tv_itapua_paraguay" lang="es" xmltv_id="">Sur TV Itapúa Paraguay</channel>
+  <channel site="gatotv.com" site_id="tc_television" lang="es" xmltv_id="">TC Televisión</channel>
+  <channel site="gatotv.com" site_id="teleamazonas" lang="es" xmltv_id="">Teleamazonas</channel>
   <channel site="gatotv.com" site_id="teleantioquia" lang="es" xmltv_id="">Teleantioquia</channel>
   <channel site="gatotv.com" site_id="telecafe" lang="es" xmltv_id="">Telecafé</channel>
   <channel site="gatotv.com" site_id="telecaribe" lang="es" xmltv_id="">Telecaribe</channel>
