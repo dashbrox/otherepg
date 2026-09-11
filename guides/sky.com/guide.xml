@@ -1,18 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20260911">
 <channel id="1005"><display-name>Times Radio</display-name><url>https://sky.com</url></channel>
-<channel id="ZeeTVUK.uk@SD"><display-name>Zee TV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Zee_TV_Logo_2025.svg"/><url>https://sky.com</url></channel>
-<channel id="ZeeTVUK.uk@HD"><display-name>Zee TV HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Zee_TV_Logo_2025.svg"/><url>https://sky.com</url></channel>
-<channel id="ZeePunjabi.in@SD"><display-name>Zee Punjabi</display-name><icon src="https://dtil.tmsimg.com/assets/GNLZZGG0022JG14.png?lock=720x540"/><url>https://sky.com</url></channel>
-<channel id="ZeeCinema.in@SD"><display-name>Zee Cinema</display-name><icon src="https://dtil.tmsimg.com/assets/GNLZZGG0022HVX3.png?lock=720x540"/><url>https://sky.com</url></channel>
-<channel id="XXXGirlGirl.uk@SD"><display-name>XXX Girl Girl</display-name><icon src="https://www.tvchannellists.com/wiki/images/b/b9/XXX_Girl_Girl.png"/><url>https://sky.com</url></channel>
-<channel id="XpandedTV.uk@SD"><display-name>Xpanded TV</display-name><icon src="https://i.imgur.com/p4RR9GM.png"/><url>https://sky.com</url></channel>
-<channel id="W.ie@SD"><display-name>U&amp;W</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/W_%28UKTV%29_2022.svg/960px-W_%28UKTV%29_2022.svg.png"/><url>https://sky.com</url></channel>
-<channel id="VirginMediaTwo.ie@HD"><display-name>Virgin Two HD</display-name><icon src="https://i.imgur.com/adtqhBy.png"/><url>https://sky.com</url></channel>
-<channel id="VirginMediaThree.ie@SD"><display-name>Virgin Three</display-name><icon src="https://i.imgur.com/lWkazAS.png"/><url>https://sky.com</url></channel>
-<channel id="VirginMediaOne.ie@Plus1"><display-name>Virgin One+1</display-name><icon src="https://i.imgur.com/QN0SMt4.png"/><url>https://sky.com</url></channel>
-<channel id="VirginMediaOne.ie@HD"><display-name>Virgin One HD</display-name><icon src="https://i.imgur.com/QN0SMt4.png"/><url>https://sky.com</url></channel>
-<channel id="VirginMediaFour.ie@HD"><display-name>Virgin Four HD</display-name><icon src="https://i.imgur.com/x4VsyIm.png"/><url>https://sky.com</url></channel>
-<channel id="UYesterday.uk@SD"><display-name>U&amp;Yesterday</display-name><icon src="https://i.imgur.com/r3pqSHl.png"/><url>https://sky.com</url></channel>
+<channel id="1011"><display-name>PBC</display-name><url>https://sky.com</url></channel>
+<channel id="1027"><display-name>TLC HD</display-name><url>https://sky.com</url></channel>
+<channel id="1148"><display-name>Virgin Radio</display-name><url>https://sky.com</url></channel>
+<channel id="1263"><display-name>RTÉ R na G</display-name><url>https://sky.com</url></channel>
+<channel id="1083"><display-name>Heart 90s</display-name><url>https://sky.com</url></channel>
+<channel id="1262"><display-name>RTÉ 2FM</display-name><url>https://sky.com</url></channel>
+<channel id="1261"><display-name>RTÉ Radio 1</display-name><url>https://sky.com</url></channel>
+<channel id="1015"><display-name>Really+1</display-name><url>https://sky.com</url></channel>
+<channel id="1070"><display-name>GTC Punjabi</display-name><url>https://sky.com</url></channel>
+<channel id="1210"><display-name>TNTSBoxOffHD</display-name><url>https://sky.com</url></channel>
+<channel id="1205"><display-name>LBC News</display-name><url>https://sky.com</url></channel>
+<channel id="1035"><display-name>SkySpBoxOffHD</display-name><url>https://sky.com</url></channel>
+<channel id="1190"><display-name>Disney+CineHD</display-name><url>https://sky.com</url></channel>
+<channel id="1183"><display-name>Disney Jr HD</display-name><url>https://sky.com</url></channel>
 <channel id="UYesterday.uk@Plus1"><display-name>U&amp;Yesterday+1</display-name><icon src="https://i.imgur.com/r3pqSHl.png"/><url>https://sky.com</url></channel>
 <channel id="UW.uk@SD"><display-name>U&amp;W</display-name><icon src="https://i.imgur.com/puBkpGj.png"/><url>https://sky.com</url></channel>
 <channel id="UW.uk@Plus1"><display-name>U&amp;W+1</display-name><icon src="https://i.imgur.com/puBkpGj.png"/><url>https://sky.com</url></channel>
@@ -451,20 +452,19 @@
 <channel id="2026"><display-name>BBC R5L</display-name><url>https://sky.com</url></channel>
 <channel id="2021"><display-name>BBC R Cymru 2</display-name><url>https://sky.com</url></channel>
 <channel id="1264"><display-name>RTÉ Lyric fm</display-name><url>https://sky.com</url></channel>
-<channel id="1263"><display-name>RTÉ R na G</display-name><url>https://sky.com</url></channel>
-<channel id="1262"><display-name>RTÉ 2FM</display-name><url>https://sky.com</url></channel>
-<channel id="1261"><display-name>RTÉ Radio 1</display-name><url>https://sky.com</url></channel>
-<channel id="1210"><display-name>TNTSBoxOffHD</display-name><url>https://sky.com</url></channel>
-<channel id="1205"><display-name>LBC News</display-name><url>https://sky.com</url></channel>
-<channel id="1190"><display-name>Disney+CineHD</display-name><url>https://sky.com</url></channel>
-<channel id="1183"><display-name>Disney Jr HD</display-name><url>https://sky.com</url></channel>
-<channel id="1148"><display-name>Virgin Radio</display-name><url>https://sky.com</url></channel>
-<channel id="1083"><display-name>Heart 90s</display-name><url>https://sky.com</url></channel>
-<channel id="1070"><display-name>GTC Punjabi</display-name><url>https://sky.com</url></channel>
-<channel id="1035"><display-name>SkySpBoxOffHD</display-name><url>https://sky.com</url></channel>
-<channel id="1027"><display-name>TLC HD</display-name><url>https://sky.com</url></channel>
-<channel id="1015"><display-name>Really+1</display-name><url>https://sky.com</url></channel>
-<channel id="1011"><display-name>PBC</display-name><url>https://sky.com</url></channel>
+<channel id="ZeeTVUK.uk@SD"><display-name>Zee TV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Zee_TV_Logo_2025.svg"/><url>https://sky.com</url></channel>
+<channel id="ZeePunjabi.in@SD"><display-name>Zee Punjabi</display-name><icon src="https://dtil.tmsimg.com/assets/GNLZZGG0022JG14.png?lock=720x540"/><url>https://sky.com</url></channel>
+<channel id="ZeeCinema.in@SD"><display-name>Zee Cinema</display-name><icon src="https://dtil.tmsimg.com/assets/GNLZZGG0022HVX3.png?lock=720x540"/><url>https://sky.com</url></channel>
+<channel id="XXXGirlGirl.uk@SD"><display-name>XXX Girl Girl</display-name><icon src="https://www.tvchannellists.com/wiki/images/b/b9/XXX_Girl_Girl.png"/><url>https://sky.com</url></channel>
+<channel id="W.ie@SD"><display-name>U&amp;W</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/W_%28UKTV%29_2022.svg/960px-W_%28UKTV%29_2022.svg.png"/><url>https://sky.com</url></channel>
+<channel id="VirginMediaTwo.ie@HD"><display-name>Virgin Two HD</display-name><icon src="https://i.imgur.com/adtqhBy.png"/><url>https://sky.com</url></channel>
+<channel id="VirginMediaThree.ie@SD"><display-name>Virgin Three</display-name><icon src="https://i.imgur.com/lWkazAS.png"/><url>https://sky.com</url></channel>
+<channel id="VirginMediaOne.ie@Plus1"><display-name>Virgin One+1</display-name><icon src="https://i.imgur.com/QN0SMt4.png"/><url>https://sky.com</url></channel>
+<channel id="VirginMediaOne.ie@HD"><display-name>Virgin One HD</display-name><icon src="https://i.imgur.com/QN0SMt4.png"/><url>https://sky.com</url></channel>
+<channel id="VirginMediaFour.ie@HD"><display-name>Virgin Four HD</display-name><icon src="https://i.imgur.com/x4VsyIm.png"/><url>https://sky.com</url></channel>
+<channel id="ZeeTVUK.uk@HD"><display-name>Zee TV HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Zee_TV_Logo_2025.svg"/><url>https://sky.com</url></channel>
+<channel id="UYesterday.uk@SD"><display-name>U&amp;Yesterday</display-name><icon src="https://i.imgur.com/r3pqSHl.png"/><url>https://sky.com</url></channel>
+<channel id="XpandedTV.uk@SD"><display-name>Xpanded TV</display-name><icon src="https://i.imgur.com/p4RR9GM.png"/><url>https://sky.com</url></channel>
 <programme start="20260911011500 +0000" stop="20260911021500 +0000" channel="4seven.uk@SD"><title lang="en">Celebrity Gogglebox</title><desc lang="en">The celebrity Goggleboxers, including Rylan and Mo Gilligan, watch MILF Manor, Under Paris, Bake Off: The Professionals, The Supervet, Countdown and The Motorway Hotel. (S6 Ep3)</desc><episode-num system="xmltv_ns">5.2.0/1</episode-num><episode-num system="onscreen">S06E03</episode-num><image>https://images.metadata.sky.com/pd-image/0f67276d-5f43-30de-932b-899cec06c906/16-9/640</image><icon src="https://images.metadata.sky.com/pd-image/0f67276d-5f43-30de-932b-899cec06c906/16-9/640"/></programme>
 <programme start="20260911021500 +0000" stop="20260911031000 +0000" channel="4seven.uk@SD"><title lang="en">Fred&apos;s Ultimate Hotels</title><desc lang="en">Fred Sirieix heads to the Royal Madikwe Luxury Safari Lodge in South Africa, where unforgettable wildlife encounters meet exceptional luxury hospitality in a stunning remote setting. (Ep2)</desc><episode-num system="xmltv_ns">0.1.0/1</episode-num><episode-num system="onscreen">S01E02</episode-num><image>https://images.metadata.sky.com/pd-image/914041eb-da3a-40f5-a5f2-3c1c5895f3c2/16-9/640</image><icon src="https://images.metadata.sky.com/pd-image/914041eb-da3a-40f5-a5f2-3c1c5895f3c2/16-9/640"/></programme>
 <programme start="20260911031000 +0000" stop="20260911034000 +0000" channel="4seven.uk@SD"><title lang="en">A Place in the Sun</title><desc lang="en">Horse lovers Mel and James want a holiday home in Mijas Pueblo in southern Spain. Laura Hamilton shows them what £180k can buy. Do any of the places leave Mel and James chomping at the bit?</desc><episode-num system="xmltv_ns">2022.56.0/1</episode-num><episode-num system="onscreen">S2023E57</episode-num><image>https://images.metadata.sky.com/pd-image/f78b0128-8834-40e8-bb96-24da09b4ceed/16-9/640</image><icon src="https://images.metadata.sky.com/pd-image/f78b0128-8834-40e8-bb96-24da09b4ceed/16-9/640"/></programme>
