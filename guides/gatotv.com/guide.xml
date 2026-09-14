@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20260914">
 <channel id="1_colombia"><display-name>1 Colombia</display-name><url>https://gatotv.com</url></channel>
-<channel id="2_de_el_salvador"><display-name>2 de El Salvador</display-name><url>https://gatotv.com</url></channel>
-<channel id="2_de_panama"><display-name>2 de Panamá</display-name><url>https://gatotv.com</url></channel>
-<channel id="4_de_costa_rica"><display-name>4 de Costa Rica</display-name><url>https://gatotv.com</url></channel>
-<channel id="2_de_nicaragua_televicentro"><display-name>2 de Nicaragua</display-name><url>https://gatotv.com</url></channel>
-<channel id="3_de_guatemala"><display-name>3 de Guatemala</display-name><url>https://gatotv.com</url></channel>
-<channel id="2_de_republica_dominicana_teleantillas"><display-name>2 de República Dominicana</display-name><url>https://gatotv.com</url></channel>
+<channel id="XEIPNTDT.mx@SD"><display-name>11 de México</display-name><icon src="https://i.imgur.com/K0351vF.png"/><url>https://gatotv.com</url></channel>
+<channel id="XEIMTTDT2.mx@SD"><display-name>22 de México</display-name><icon src="https://i.imgur.com/MeIfhXp.png"/><url>https://gatotv.com</url></channel>
+<channel id="XEFBTDT.mx@SD"><display-name>4 de Monterrey</display-name><icon src="https://i.imgur.com/21AF8UI.png"/><url>https://gatotv.com</url></channel>
+<channel id="WORODT1.pr@SD"><display-name>13 de Puerto Rico</display-name><url>https://gatotv.com</url></channel>
+<channel id="WOBI.ar@SD"><display-name>WOBI</display-name><icon src="https://i.imgur.com/uW4WIvC.png"/><url>https://gatotv.com</url></channel>
 <channel id="WKAQDT2.pr@SD"><display-name>Punto 2</display-name><url>https://gatotv.com</url></channel>
 <channel id="WIPRDT1.pr@SD"><display-name>WIPR</display-name><url>https://gatotv.com</url></channel>
 <channel id="WAPADT2.pr@SD"><display-name>WAPA 2 Deportes</display-name><url>https://gatotv.com</url></channel>
@@ -252,7 +251,6 @@
 <channel id="sun_channel"><display-name>Sun Channel</display-name><url>https://gatotv.com</url></channel>
 <channel id="studio_universal_panregional"><display-name>Studio Universal Panregional</display-name><url>https://gatotv.com</url></channel>
 <channel id="starz_encore_espanol"><display-name>Starz Encore Español</display-name><url>https://gatotv.com</url></channel>
-<channel id="star_tve"><display-name>Star TVE</display-name><url>https://gatotv.com</url></channel>
 <channel id="star_channel_centro"><display-name>Star Channel Centro</display-name><url>https://gatotv.com</url></channel>
 <channel id="star_channel_argentina"><display-name>Star Channel Argentina</display-name><url>https://gatotv.com</url></channel>
 <channel id="space_panregional"><display-name>Space Panregional</display-name><url>https://gatotv.com</url></channel>
@@ -343,7 +341,6 @@
 <channel id="espn_chile"><display-name>ESPN Chile</display-name><url>https://gatotv.com</url></channel>
 <channel id="espn_7_sudamerica"><display-name>ESPN 7 Sudamérica</display-name><url>https://gatotv.com</url></channel>
 <channel id="espn_6_sudamerica"><display-name>ESPN 6 Sur</display-name><url>https://gatotv.com</url></channel>
-<channel id="espn_6_centroamerica_y_republica_dominicana"><display-name>ESPN 6 C. A. y R. D.</display-name><url>https://gatotv.com</url></channel>
 <channel id="espn_5_sudamerica"><display-name>ESPN 5 Sur</display-name><url>https://gatotv.com</url></channel>
 <channel id="espn_5_centroamerica_y_republica_dominicana"><display-name>ESPN 5 C. A. y R. D.</display-name><url>https://gatotv.com</url></channel>
 <channel id="espn_4_sur"><display-name>ESPN 4 Sur</display-name><url>https://gatotv.com</url></channel>
@@ -461,11 +458,12 @@
 <channel id="5_el_lider_honduras"><display-name>5 de Honduras</display-name><url>https://gatotv.com</url></channel>
 <channel id="5_de_republica_dominicana_telemicro"><display-name>Telemicro</display-name><url>https://gatotv.com</url></channel>
 <channel id="4_de_el_salvador"><display-name>4 de El Salvador</display-name><url>https://gatotv.com</url></channel>
-<channel id="XEIPNTDT.mx@SD"><display-name>11 de México</display-name><icon src="https://i.imgur.com/K0351vF.png"/><url>https://gatotv.com</url></channel>
-<channel id="XEFBTDT.mx@SD"><display-name>4 de Monterrey</display-name><icon src="https://i.imgur.com/21AF8UI.png"/><url>https://gatotv.com</url></channel>
-<channel id="WORODT1.pr@SD"><display-name>13 de Puerto Rico</display-name><url>https://gatotv.com</url></channel>
-<channel id="WOBI.ar@SD"><display-name>WOBI</display-name><icon src="https://i.imgur.com/uW4WIvC.png"/><url>https://gatotv.com</url></channel>
-<channel id="XEIMTTDT2.mx@SD"><display-name>22 de México</display-name><icon src="https://i.imgur.com/MeIfhXp.png"/><url>https://gatotv.com</url></channel>
+<channel id="4_de_costa_rica"><display-name>4 de Costa Rica</display-name><url>https://gatotv.com</url></channel>
+<channel id="3_de_guatemala"><display-name>3 de Guatemala</display-name><url>https://gatotv.com</url></channel>
+<channel id="2_de_republica_dominicana_teleantillas"><display-name>2 de República Dominicana</display-name><url>https://gatotv.com</url></channel>
+<channel id="2_de_panama"><display-name>2 de Panamá</display-name><url>https://gatotv.com</url></channel>
+<channel id="2_de_nicaragua_televicentro"><display-name>2 de Nicaragua</display-name><url>https://gatotv.com</url></channel>
+<channel id="2_de_el_salvador"><display-name>2 de El Salvador</display-name><url>https://gatotv.com</url></channel>
 <programme start="20260914050000 +0000" stop="20260914060000 +0000" channel="1_colombia"><title lang="es">Infieles</title></programme>
 <programme start="20260914060000 +0000" stop="20260914070000 +0000" channel="1_colombia"><title lang="es">Prosperidad con Dios</title></programme>
 <programme start="20260914070000 +0000" stop="20260914073000 +0000" channel="1_colombia"><title lang="es">En búsqueda del amor</title></programme>
@@ -10278,8 +10276,6 @@
 <programme start="20260916030000 +0000" stop="20260916033000 +0000" channel="espn_5_sudamerica"><title lang="es">FIM Road Racing World Championship Highlights</title></programme>
 <programme start="20260916033000 +0000" stop="20260916040000 +0000" channel="espn_5_sudamerica"><title lang="es">Vuelta a España</title></programme>
 <programme start="20260916040000 +0000" stop="20260916060000 +0000" channel="espn_5_sudamerica"><title lang="es">Platense vs. Fluminense</title></programme>
-<programme start="20260914180000 +0000" stop="20260915060000 +0000" channel="espn_6_centroamerica_y_republica_dominicana"><title lang="es">ESPN 6</title></programme>
-<programme start="20260915060000 +0000" stop="20260915180000 +0000" channel="espn_6_centroamerica_y_republica_dominicana"><title lang="es">ESPN 6</title></programme>
 <programme start="20260914040000 +0000" stop="20260914060000 +0000" channel="espn_6_sudamerica"><title lang="es">ESPN Knockout</title></programme>
 <programme start="20260914060000 +0000" stop="20260914080000 +0000" channel="espn_6_sudamerica"><title lang="es">Fútbol EFL Championship</title></programme>
 <programme start="20260914080000 +0000" stop="20260914090000 +0000" channel="espn_6_sudamerica"><title lang="es">ESPN Knockout</title></programme>
@@ -17719,29 +17715,6 @@
 <programme start="20260915005000 +0000" stop="20260915025600 +0000" channel="star_channel_centro"><title lang="es">Corazón de dragón La venganza</title></programme>
 <programme start="20260915025600 +0000" stop="20260915032800 +0000" channel="star_channel_centro"><title lang="es">Los Simpson</title><image>https://imagenes.gatotv.com/categorias/programas/miniatura/los_simpson.png</image></programme>
 <programme start="20260915032800 +0000" stop="20260915040000 +0000" channel="star_channel_centro"><title lang="es">Los Simpson</title><image>https://imagenes.gatotv.com/categorias/programas/miniatura/los_simpson.png</image></programme>
-<programme start="20260914035000 +0000" stop="20260914051500 +0000" channel="star_tve"><title lang="es">Guante Blanco - Último capítulo</title></programme>
-<programme start="20260914051500 +0000" stop="20260914055500 +0000" channel="star_tve"><title lang="es">Hope! Estamos a tiempo</title></programme>
-<programme start="20260914055500 +0000" stop="20260914061700 +0000" channel="star_tve"><title lang="es">Flash Moda - Monográficos</title></programme>
-<programme start="20260914061700 +0000" stop="20260914064500 +0000" channel="star_tve"><title lang="es">Flash Moda - Monográficos</title></programme>
-<programme start="20260914064500 +0000" stop="20260914072000 +0000" channel="star_tve"><title lang="es">Zoom tendencias</title></programme>
-<programme start="20260914072000 +0000" stop="20260914074500 +0000" channel="star_tve"><title lang="es">Beatus Ille</title></programme>
-<programme start="20260914074500 +0000" stop="20260914081500 +0000" channel="star_tve"><title lang="es">Seguridad vital</title></programme>
-<programme start="20260914081500 +0000" stop="20260914091000 +0000" channel="star_tve"><title lang="es">España entre el cielo y la tierra</title></programme>
-<programme start="20260914091000 +0000" stop="20260914094000 +0000" channel="star_tve"><title lang="es">Zoom tendencias</title></programme>
-<programme start="20260914094000 +0000" stop="20260914104500 +0000" channel="star_tve"><title lang="es">Fugitiva</title></programme>
-<programme start="20260914104500 +0000" stop="20260914115500 +0000" channel="star_tve"><title lang="es">Los misterios de laura</title></programme>
-<programme start="20260914115500 +0000" stop="20260914130000 +0000" channel="star_tve"><title lang="es">Estoy vivo</title></programme>
-<programme start="20260914130000 +0000" stop="20260914140000 +0000" channel="star_tve"><title lang="es">Seis hermanas</title></programme>
-<programme start="20260914140000 +0000" stop="20260914145500 +0000" channel="star_tve"><title lang="es">Acacias 38</title></programme>
-<programme start="20260914145500 +0000" stop="20260914155500 +0000" channel="star_tve"><title lang="es">Un país para reírlo</title></programme>
-<programme start="20260914155500 +0000" stop="20260914160500 +0000" channel="star_tve"><title lang="es">Esto es España</title></programme>
-<programme start="20260914160500 +0000" stop="20260914170500 +0000" channel="star_tve"><title lang="es">Salón de té La Moderna</title></programme>
-<programme start="20260914170500 +0000" stop="20260914175500 +0000" channel="star_tve"><title lang="es">La promesa</title></programme>
-<programme start="20260914175500 +0000" stop="20260914185500 +0000" channel="star_tve"><title lang="es">La promesa</title></programme>
-<programme start="20260914185500 +0000" stop="20260914200500 +0000" channel="star_tve"><title lang="es">Sabuesos</title></programme>
-<programme start="20260914200500 +0000" stop="20260914210000 +0000" channel="star_tve"><title lang="es">Hope! Estamos a tiempo</title></programme>
-<programme start="20260914210000 +0000" stop="20260914220000 +0000" channel="star_tve"><title lang="es">COMERSE EL MUNDO</title></programme>
-<programme start="20260914220000 +0000" stop="20260914222000 +0000" channel="star_tve"><title lang="es">Esto es España</title></programme>
 <programme start="20260914050000 +0000" stop="20260914065700 +0000" channel="StarChannel.mx@SD"><title lang="es">No One Will Save You</title><desc lang="es">Una joven solitaria que vive en la casa donde creció debe enfrentarse con extraterrestres que amenazan su futuro y la obligan a enfrentarse a su pasado.</desc><image>https://imagenes.gatotv.com/categorias/peliculas/miniatura/nadie_podra_salvarte.jpg</image></programme>
 <programme start="20260914065700 +0000" stop="20260914085300 +0000" channel="StarChannel.mx@SD"><title lang="es">El meme maldito</title></programme>
 <programme start="20260914085300 +0000" stop="20260914105900 +0000" channel="StarChannel.mx@SD"><title lang="es">Una Ciudad Despiadada</title></programme>
