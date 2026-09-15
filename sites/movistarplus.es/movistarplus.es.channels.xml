@@ -135,14 +135,13 @@
   <channel site="movistarplus.es" site_id="mligs3" lang="es" xmltv_id="">LALIGA TV HYPERMOTION 3</channel>
   <channel site="movistarplus.es" site_id="mliguh" lang="es" xmltv_id="">M+ LALIGA HDR</channel>
   <channel site="movistarplus.es" site_id="mliuhd" lang="es" xmltv_id="">M+ LALIGA 2 HDR</channel>
-  <channel site="movistarplus.es" site_id="morgul" lang="es" xmltv_id="">M+ Orgullo</channel>
   <channel site="movistarplus.es" site_id="morig" lang="es" xmltv_id="">M+ Originales</channel>
   <channel site="movistarplus.es" site_id="mplus" lang="es" xmltv_id="">Movistar Plus</channel>
+  <channel site="movistarplus.es" site_id="mroma" lang="es" xmltv_id="">M+ Romance</channel>
   <channel site="movistarplus.es" site_id="mtv" lang="es" xmltv_id="">MTV</channel>
   <channel site="movistarplus.es" site_id="multi6" lang="es" xmltv_id="">M+ Deportes 7</channel>
   <channel site="movistarplus.es" site_id="multi8" lang="es" xmltv_id="">M+ Deportes 6</channel>
   <channel site="movistarplus.es" site_id="mv1" lang="es" xmltv_id="">M+ Estrenos</channel>
-  <channel site="movistarplus.es" site_id="mvciva" lang="es" xmltv_id="">M+ Vacaciones</channel>
   <channel site="movistarplus.es" site_id="mvf1" lang="es" xmltv_id="">DAZN F1</channel>
   <channel site="movistarplus.es" site_id="natgeo" lang="es" xmltv_id="">National Geographic</channel>
   <channel site="movistarplus.es" site_id="natgw" lang="es" xmltv_id="">Nat Geo Wild</channel>
@@ -171,6 +170,7 @@
   <channel site="movistarplus.es" site_id="telmad" lang="es" xmltv_id="">Telemadrid</channel>
   <channel site="movistarplus.es" site_id="telmin" lang="es" xmltv_id="">Telemadrid Int.</channel>
   <channel site="movistarplus.es" site_id="ten" lang="es" xmltv_id="">Ten</channel>
+  <channel site="movistarplus.es" site_id="terror" lang="es" xmltv_id="">M+ Terror</channel>
   <channel site="movistarplus.es" site_id="tlesur" lang="es" xmltv_id="">Telesur</channel>
   <channel site="movistarplus.es" site_id="tnt" lang="es" xmltv_id="">Warner TV</channel>
   <channel site="movistarplus.es" site_id="tpa" lang="es" xmltv_id="">TPA</channel>
