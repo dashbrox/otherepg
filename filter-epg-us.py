@@ -49,6 +49,7 @@ CHANNELS = [
     "CinemaxClassics.us",
     "CinemaxHits.us",
     "TennisChannel.us",
+    "TennisChannel2.us",
     "HallmarkMystery.us",
     "HallmarkChannel.us",
     "CNN.us",
