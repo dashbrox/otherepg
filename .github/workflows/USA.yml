@@ -1,82 +1,102 @@
-name: check
+name: Build US filtered EPG
 
 on:
   workflow_dispatch:
-  pull_request:
-    types: [opened, synchronize, reopened]
-    branches:
-      - master
+
+  schedule:
+    - cron: "17 */6 * * *"
+
+  push:
+    paths:
+      - "filter-epg-us.py"
+      - ".github/workflows/epg-us.yml"
 
 concurrency:
-  group: ${{ github.workflow }}-${{ github.event.pull_request.number || github.ref }}
+  group: filtered-us-epg
   cancel-in-progress: true
 
 permissions:
-  packages: read
+  contents: write
+
+env:
+  SOURCE_URL: https://iptv-epg.org/files/epg-us.xml
+  OUTPUT_FILE: guides/epg-us-custom.xml.gz
+  MAX_CHANNELS: "200"
 
 jobs:
-  main:
+  build:
     runs-on: ubuntu-latest
+    timeout-minutes: 30
 
     steps:
-      - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-      - name: Get list of changed files
-        id: files
+      - name: Download IPTV-EPG US source
+        shell: bash
         run: |
-          ANY_CHANGED=false
+          set -euo pipefail
 
-          JS_ANY_CHANGED=false
-          JS_ALL_CHANGED_FILES=$(git diff --diff-filter=ACMRT --name-only master -- \
-            tests/**/*.js \
-            tests/**/*.ts \
-            scripts/**/*.js \
-            scripts/**/*.mts \
-            scripts/**/*.ts \
-            sites/**/*.js \
-            sites/**/*.ts | tr '\n' ' ')
+          echo "Downloading:"
+          echo "$SOURCE_URL"
 
-          if [ -n "${JS_ALL_CHANGED_FILES}" ]; then
-            JS_ANY_CHANGED=true
-            ANY_CHANGED=true
+          curl \
+            --fail \
+            --location \
+            --retry 5 \
+            --retry-all-errors \
+            --connect-timeout 30 \
+            --max-time 1200 \
+            -A "Mozilla/5.0 GitHub-Actions-EPG/1.0" \
+            "$SOURCE_URL" \
+            --output epg-us-source.xml
+
+          test -s epg-us-source.xml
+
+          echo "Downloaded file:"
+          ls -lh epg-us-source.xml
+
+      - name: Build filtered EPG
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          python3 filter-epg-us.py \
+            --source epg-us-source.xml \
+            --output "$OUTPUT_FILE" \
+            --max-channels "$MAX_CHANNELS"
+
+          test -s "$OUTPUT_FILE"
+
+          echo
+          echo "Generated EPG:"
+          ls -lh "$OUTPUT_FILE"
+
+      - name: Show EPG report
+        shell: bash
+        run: |
+          echo "======================================"
+          echo "FILTERED US EPG REPORT"
+          echo "======================================"
+
+          if [ -f epg-us-report.txt ]; then
+            cat epg-us-report.txt
           fi
 
-          echo "js_all_changed_files=$JS_ALL_CHANGED_FILES" >> "$GITHUB_OUTPUT"
-          echo "js_any_changed=$JS_ANY_CHANGED" >> "$GITHUB_OUTPUT"
+      - name: Commit updated guide
+        shell: bash
+        run: |
+          set -euo pipefail
 
-          CHANNELS_ANY_CHANGED=false
-          CHANNELS_ALL_CHANGED_FILES=$(git diff --diff-filter=ACMRT --name-only master -- \
-            sites/**/*.channels.xml | tr '\n' ' ')
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          if [ -n "${CHANNELS_ALL_CHANGED_FILES}" ]; then
-            CHANNELS_ANY_CHANGED=true
-            ANY_CHANGED=true
+          git add "$OUTPUT_FILE"
+
+          if git diff --cached --quiet; then
+            echo "No changes in EPG. Nothing to commit."
+            exit 0
           fi
 
-          echo "channels_all_changed_files=$CHANNELS_ALL_CHANGED_FILES" >> "$GITHUB_OUTPUT"
-          echo "channels_any_changed=$CHANNELS_ANY_CHANGED" >> "$GITHUB_OUTPUT"
-
-          echo "any_changed=$ANY_CHANGED" >> "$GITHUB_OUTPUT"
-
-      - uses: actions/setup-node@v4
-        if: steps.files.outputs.any_changed == 'true'
-        with:
-          node-version: 22
-          cache: npm
-
-      - name: Install dependencies
-        if: steps.files.outputs.any_changed == 'true'
-        run: SKIP_POSTINSTALL=1 npm install
-
-      - name: Check changed js-files
-        if: steps.files.outputs.js_any_changed == 'true'
-        run: npx eslint ${{ steps.files.outputs.js_all_changed_files }}
-
-      - name: Check changed *.channels.xml files
-        if: steps.files.outputs.channels_any_changed == 'true'
-        run: |
-          npm run postinstall
-          npm run channels:lint -- ${{ steps.files.outputs.channels_all_changed_files }}
-          npm run channels:validate -- ${{ steps.files.outputs.channels_all_changed_files }}
+          git commit -m "Update filtered US EPG"
+          git push
