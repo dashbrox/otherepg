@@ -2,30 +2,31 @@
 <tv date="20260918">
 <channel id="7tvmur"><display-name>7 TV Región Murcia</display-name><url>https://movistarplus.es</url></channel>
 <channel id="13tv"><display-name>TRECE</display-name><url>https://movistarplus.es</url></channel>
-<channel id="veo7"><display-name>Veo7</display-name><url>https://movistarplus.es</url></channel>
-<channel id="vamosd"><display-name>M+ Vamos</display-name><url>https://movistarplus.es</url></channel>
-<channel id="vam2sd"><display-name>M+ Vamos 2</display-name><url>https://movistarplus.es</url></channel>
-<channel id="usop11"><display-name>M+ Deportes 5</display-name><url>https://movistarplus.es</url></channel>
-<channel id="usop3"><display-name>M+ Deportes 4</display-name><url>https://movistarplus.es</url></channel>
-<channel id="usop2"><display-name>M+ Deportes 3</display-name><url>https://movistarplus.es</url></channel>
-<channel id="ucl"><display-name>UCL</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tvgal"><display-name>TVG -TV Galicia</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tvg2"><display-name>TVG 2</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tvg"><display-name>TVG Europa</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tve"><display-name>LA 1</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tvc"><display-name>TV3 Cat</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tv5"><display-name>TV5MONDE</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tv3cat"><display-name>TV3</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tpa"><display-name>TPA</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tnt"><display-name>Warner TV</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tlesur"><display-name>Telesur</display-name><url>https://movistarplus.es</url></channel>
-<channel id="terror"><display-name>M+ Terror</display-name><url>https://movistarplus.es</url></channel>
-<channel id="ten"><display-name>Ten</display-name><url>https://movistarplus.es</url></channel>
-<channel id="telmin"><display-name>Telemadrid Int.</display-name><url>https://movistarplus.es</url></channel>
-<channel id="telmad"><display-name>Telemadrid</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tdep"><display-name>Teledeporte</display-name><url>https://movistarplus.es</url></channel>
-<channel id="tcm"><display-name>TCM</display-name><url>https://movistarplus.es</url></channel>
-<channel id="t5"><display-name>Telecinco</display-name><url>https://movistarplus.es</url></channel>
+<channel id="3_24"><display-name>3CatInfo</display-name><url>https://movistarplus.es</url></channel>
+<channel id="antv"><display-name>Canal Sur Andalucía</display-name><url>https://movistarplus.es</url></channel>
+<channel id="axn"><display-name>AXN</display-name><url>https://movistarplus.es</url></channel>
+<channel id="canar"><display-name>TV Canaria</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cpdep"><display-name>M+ Deportes</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mlig2"><display-name>M+ LALIGA 3</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mlig1"><display-name>M+ LALIGA 2</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cpcome"><display-name>M+ Comedia</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mindi"><display-name>M+ Indie</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mhits"><display-name>M+ Hits</display-name><url>https://movistarplus.es</url></channel>
+<channel id="can33"><display-name>33</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cpcole"><display-name>M+ Drama</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mezzo"><display-name>Mezzo</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mezzli"><display-name>Mezzo Live</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cpacci"><display-name>M+ Acción</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mellav"><display-name>M+ Vamos 3</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mega"><display-name>Mega</display-name><url>https://movistarplus.es</url></channel>
+<channel id="atress"><display-name>Atreseries</display-name><url>https://movistarplus.es</url></channel>
+<channel id="c33"><display-name>SX3</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cosmo"><display-name>COSMO</display-name><url>https://movistarplus.es</url></channel>
+<channel id="medite"><display-name>La Ocho TV</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mdoc"><display-name>M+ Documentales</display-name><url>https://movistarplus.es</url></channel>
+<channel id="colomb"><display-name>TV Colombia</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mcopa"><display-name>Primera Federación</display-name><url>https://movistarplus.es</url></channel>
+<channel id="mclas"><display-name>M+ Clásicos</display-name><url>https://movistarplus.es</url></channel>
 <channel id="squi"><display-name>Squirrel</display-name><url>https://movistarplus.es</url></channel>
 <channel id="skysho"><display-name>SkyShowtime 1</display-name><url>https://movistarplus.es</url></channel>
 <channel id="skynw"><display-name>Sky News</display-name><url>https://movistarplus.es</url></channel>
@@ -62,32 +63,33 @@
 <channel id="mligs"><display-name>LALIGA TV HYPERMOTION</display-name><url>https://movistarplus.es</url></channel>
 <channel id="mliga"><display-name>M+ LALIGA</display-name><url>https://movistarplus.es</url></channel>
 <channel id="mlig3"><display-name>M+ LALIGA 4</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mlig2"><display-name>M+ LALIGA 3</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mlig1"><display-name>M+ LALIGA 2</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mindi"><display-name>M+ Indie</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mhits"><display-name>M+ Hits</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mezzo"><display-name>Mezzo</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mezzli"><display-name>Mezzo Live</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mellav"><display-name>M+ Vamos 3</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mega"><display-name>Mega</display-name><url>https://movistarplus.es</url></channel>
-<channel id="medite"><display-name>La Ocho TV</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mdoc"><display-name>M+ Documentales</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mcopa"><display-name>Primera Federación</display-name><url>https://movistarplus.es</url></channel>
-<channel id="mclas"><display-name>M+ Clásicos</display-name><url>https://movistarplus.es</url></channel>
+<channel id="c4"><display-name>Cuatro</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cnn"><display-name>CNN Int</display-name><url>https://movistarplus.es</url></channel>
 <channel id="mbalct"><display-name>M+ Baloncesto</display-name><url>https://movistarplus.es</url></channel>
 <channel id="mbalc3"><display-name>M+ Baloncesto 3</display-name><url>https://movistarplus.es</url></channel>
+<channel id="classd"><display-name>Classica</display-name><url>https://movistarplus.es</url></channel>
 <channel id="mbalc2"><display-name>M+ Baloncesto 2</display-name><url>https://movistarplus.es</url></channel>
 <channel id="maxava"><display-name>HBO Max Avances</display-name><url>https://movistarplus.es</url></channel>
+<channel id="andatv"><display-name>Andalucía TV</display-name><url>https://movistarplus.es</url></channel>
+<channel id="atlat"><display-name>Atlántico TV</display-name><url>https://movistarplus.es</url></channel>
+<channel id="btv"><display-name>Betevé</display-name><url>https://movistarplus.es</url></channel>
+<channel id="clantv"><display-name>Clan TVE</display-name><url>https://movistarplus.es</url></channel>
 <channel id="m2sd"><display-name>DAZN 2</display-name><url>https://movistarplus.es</url></channel>
 <channel id="m1sd"><display-name>DAZN 1</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cl13"><display-name>Calle 13</display-name><url>https://movistarplus.es</url></channel>
 <channel id="la2"><display-name>LA 2</display-name><url>https://movistarplus.es</url></channel>
 <channel id="inteua"><display-name>1+1 Internacional</display-name><url>https://movistarplus.es</url></channel>
+<channel id="boing"><display-name>Boing</display-name><url>https://movistarplus.es</url></channel>
+<channel id="chile"><display-name>TV Chile</display-name><url>https://movistarplus.es</url></channel>
 <channel id="inteco"><display-name>El Toro TV</display-name><url>https://movistarplus.es</url></channel>
 <channel id="iberal"><display-name>Iberalia TV</display-name><url>https://movistarplus.es</url></channel>
+<channel id="chapio"><display-name>M+ Liga de Campeones</display-name><url>https://movistarplus.es</url></channel>
 <channel id="ib3"><display-name>IB3</display-name><url>https://movistarplus.es</url></channel>
 <channel id="golf+"><display-name>M+ Golf</display-name><url>https://movistarplus.es</url></channel>
+<channel id="arthur"><display-name>M+ Deportes 2</display-name><url>https://movistarplus.es</url></channel>
+<channel id="bl"><display-name>Bloomberg</display-name><url>https://movistarplus.es</url></channel>
+<channel id="chap12"><display-name>M+ Liga de Campeones 13</display-name><url>https://movistarplus.es</url></channel>
 <channel id="golf2"><display-name>M+ Golf 2</display-name><url>https://movistarplus.es</url></channel>
-<channel id="gol"><display-name>GOL</display-name><url>https://movistarplus.es</url></channel>
 <channel id="galav"><display-name>Canal de las Estrellas</display-name><url>https://movistarplus.es</url></channel>
 <channel id="futrep"><display-name>Canal Fútbol Replay</display-name><url>https://movistarplus.es</url></channel>
 <channel id="freeli"><display-name>M+ Cero</display-name><url>https://movistarplus.es</url></channel>
@@ -126,68 +128,66 @@
 <channel id="cyltv"><display-name>La 7</display-name><url>https://movistarplus.es</url></channel>
 <channel id="cubav"><display-name>Cubavisión</display-name><url>https://movistarplus.es</url></channel>
 <channel id="csurhd"><display-name>Canal Sur HD</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cpdep"><display-name>M+ Deportes</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cpcome"><display-name>M+ Comedia</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cpcole"><display-name>M+ Drama</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cpacci"><display-name>M+ Acción</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cosmo"><display-name>COSMO</display-name><url>https://movistarplus.es</url></channel>
-<channel id="colomb"><display-name>TV Colombia</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cnn"><display-name>CNN Int</display-name><url>https://movistarplus.es</url></channel>
-<channel id="classd"><display-name>Classica</display-name><url>https://movistarplus.es</url></channel>
-<channel id="clantv"><display-name>Clan TVE</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cl13"><display-name>Calle 13</display-name><url>https://movistarplus.es</url></channel>
-<channel id="chile"><display-name>TV Chile</display-name><url>https://movistarplus.es</url></channel>
-<channel id="chapio"><display-name>M+ Liga de Campeones</display-name><url>https://movistarplus.es</url></channel>
-<channel id="chap12"><display-name>M+ Liga de Campeones 13</display-name><url>https://movistarplus.es</url></channel>
+<channel id="gol"><display-name>GOL</display-name><url>https://movistarplus.es</url></channel>
 <channel id="chap11"><display-name>M+ Liga de Campeones 12</display-name><url>https://movistarplus.es</url></channel>
+<channel id="bemad"><display-name>BE MAD</display-name><url>https://movistarplus.es</url></channel>
 <channel id="chap10"><display-name>M+ Liga de Campeones 11</display-name><url>https://movistarplus.es</url></channel>
 <channel id="chap9"><display-name>M+ Liga de Campeones 10</display-name><url>https://movistarplus.es</url></channel>
+<channel id="24h"><display-name>24 Horas</display-name><url>https://movistarplus.es</url></channel>
+<channel id="aljaze"><display-name>Al Jazeera English</display-name><url>https://movistarplus.es</url></channel>
+<channel id="arirhd"><display-name>Arirang TV HD</display-name><url>https://movistarplus.es</url></channel>
+<channel id="bbhis"><display-name>BBC History</display-name><url>https://movistarplus.es</url></channel>
 <channel id="chap8"><display-name>M+ Liga de Campeones 9</display-name><url>https://movistarplus.es</url></channel>
 <channel id="chap7"><display-name>M+ Liga de Campeones 8</display-name><url>https://movistarplus.es</url></channel>
+<channel id="bbgea"><display-name>BBC Top Gear</display-name><url>https://movistarplus.es</url></channel>
 <channel id="chap6"><display-name>M+ Liga de Campeones 7</display-name><url>https://movistarplus.es</url></channel>
 <channel id="chap5"><display-name>M+ Liga de Campeones 6</display-name><url>https://movistarplus.es</url></channel>
+<channel id="aragtv"><display-name>Aragón TV</display-name><url>https://movistarplus.es</url></channel>
+<channel id="bbfoo"><display-name>BBC Food</display-name><url>https://movistarplus.es</url></channel>
 <channel id="chap4"><display-name>M+ Liga de Campeones 5</display-name><url>https://movistarplus.es</url></channel>
 <channel id="chap3"><display-name>M+ Liga de Campeones 4</display-name><url>https://movistarplus.es</url></channel>
+<channel id="bbdra"><display-name>BBC Series</display-name><url>https://movistarplus.es</url></channel>
 <channel id="chap2"><display-name>M+ Liga de Campeones 3</display-name><url>https://movistarplus.es</url></channel>
 <channel id="chap1"><display-name>M+ Liga de Campeones 2</display-name><url>https://movistarplus.es</url></channel>
+<channel id="a3"><display-name>Antena 3</display-name><url>https://movistarplus.es</url></channel>
+<channel id="aragon"><display-name>Aragón TV Int</display-name><url>https://movistarplus.es</url></channel>
+<channel id="bbclif"><display-name>BBC Lifestyle</display-name><url>https://movistarplus.es</url></channel>
 <channel id="cgtnfr"><display-name>CGTN Français HD</display-name><url>https://movistarplus.es</url></channel>
-<channel id="cgtnen"><display-name>CGTN English HD</display-name><url>https://movistarplus.es</url></channel>
 <channel id="cgtndo"><display-name>CGTN Documentary HD</display-name><url>https://movistarplus.es</url></channel>
 <channel id="cgtnd"><display-name>CGTN Documentary</display-name><url>https://movistarplus.es</url></channel>
 <channel id="cctv-e"><display-name>CGTN Español</display-name><url>https://movistarplus.es</url></channel>
 <channel id="cazpes"><display-name>Caza y Pesca</display-name><url>https://movistarplus.es</url></channel>
 <channel id="casman"><display-name>Castilla la Mancha TV</display-name><url>https://movistarplus.es</url></channel>
 <channel id="cansur"><display-name>Canal Sur</display-name><url>https://movistarplus.es</url></channel>
-<channel id="canar"><display-name>TV Canaria</display-name><url>https://movistarplus.es</url></channel>
-<channel id="can33"><display-name>33</display-name><url>https://movistarplus.es</url></channel>
-<channel id="c33"><display-name>SX3</display-name><url>https://movistarplus.es</url></channel>
-<channel id="c4"><display-name>Cuatro</display-name><url>https://movistarplus.es</url></channel>
-<channel id="btv"><display-name>Betevé</display-name><url>https://movistarplus.es</url></channel>
-<channel id="boing"><display-name>Boing</display-name><url>https://movistarplus.es</url></channel>
-<channel id="bl"><display-name>Bloomberg</display-name><url>https://movistarplus.es</url></channel>
-<channel id="bemad"><display-name>BE MAD</display-name><url>https://movistarplus.es</url></channel>
-<channel id="bbhis"><display-name>BBC History</display-name><url>https://movistarplus.es</url></channel>
-<channel id="bbgea"><display-name>BBC Top Gear</display-name><url>https://movistarplus.es</url></channel>
-<channel id="bbfoo"><display-name>BBC Food</display-name><url>https://movistarplus.es</url></channel>
-<channel id="bbdra"><display-name>BBC Series</display-name><url>https://movistarplus.es</url></channel>
-<channel id="bbclif"><display-name>BBC Lifestyle</display-name><url>https://movistarplus.es</url></channel>
+<channel id="cgtnen"><display-name>CGTN English HD</display-name><url>https://movistarplus.es</url></channel>
 <channel id="bbcear"><display-name>BBC Earth</display-name><url>https://movistarplus.es</url></channel>
+<channel id="apunt"><display-name>À Punt</display-name><url>https://movistarplus.es</url></channel>
 <channel id="bbc"><display-name>BBC News</display-name><url>https://movistarplus.es</url></channel>
 <channel id="baby"><display-name>Baby TV</display-name><url>https://movistarplus.es</url></channel>
-<channel id="axn"><display-name>AXN</display-name><url>https://movistarplus.es</url></channel>
-<channel id="atress"><display-name>Atreseries</display-name><url>https://movistarplus.es</url></channel>
-<channel id="atlat"><display-name>Atlántico TV</display-name><url>https://movistarplus.es</url></channel>
-<channel id="arthur"><display-name>M+ Deportes 2</display-name><url>https://movistarplus.es</url></channel>
-<channel id="arirhd"><display-name>Arirang TV HD</display-name><url>https://movistarplus.es</url></channel>
-<channel id="aragtv"><display-name>Aragón TV</display-name><url>https://movistarplus.es</url></channel>
-<channel id="aragon"><display-name>Aragón TV Int</display-name><url>https://movistarplus.es</url></channel>
-<channel id="apunt"><display-name>À Punt</display-name><url>https://movistarplus.es</url></channel>
-<channel id="antv"><display-name>Canal Sur Andalucía</display-name><url>https://movistarplus.es</url></channel>
-<channel id="andatv"><display-name>Andalucía TV</display-name><url>https://movistarplus.es</url></channel>
-<channel id="aljaze"><display-name>Al Jazeera English</display-name><url>https://movistarplus.es</url></channel>
-<channel id="a3"><display-name>Antena 3</display-name><url>https://movistarplus.es</url></channel>
-<channel id="3_24"><display-name>3CatInfo</display-name><url>https://movistarplus.es</url></channel>
-<channel id="24h"><display-name>24 Horas</display-name><url>https://movistarplus.es</url></channel>
+<channel id="usop3"><display-name>M+ Deportes 4</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tv5"><display-name>TV5MONDE</display-name><url>https://movistarplus.es</url></channel>
+<channel id="ten"><display-name>Ten</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tnt"><display-name>Warner TV</display-name><url>https://movistarplus.es</url></channel>
+<channel id="veo7"><display-name>Veo7</display-name><url>https://movistarplus.es</url></channel>
+<channel id="usop2"><display-name>M+ Deportes 3</display-name><url>https://movistarplus.es</url></channel>
+<channel id="vamosd"><display-name>M+ Vamos</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tlesur"><display-name>Telesur</display-name><url>https://movistarplus.es</url></channel>
+<channel id="terror"><display-name>M+ Terror</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tv3cat"><display-name>TV3</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tve"><display-name>LA 1</display-name><url>https://movistarplus.es</url></channel>
+<channel id="t5"><display-name>Telecinco</display-name><url>https://movistarplus.es</url></channel>
+<channel id="usop11"><display-name>M+ Deportes 5</display-name><url>https://movistarplus.es</url></channel>
+<channel id="ucl"><display-name>UCL</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tcm"><display-name>TCM</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tvg"><display-name>TVG Europa</display-name><url>https://movistarplus.es</url></channel>
+<channel id="telmin"><display-name>Telemadrid Int.</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tvgal"><display-name>TVG -TV Galicia</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tpa"><display-name>TPA</display-name><url>https://movistarplus.es</url></channel>
+<channel id="telmad"><display-name>Telemadrid</display-name><url>https://movistarplus.es</url></channel>
+<channel id="vam2sd"><display-name>M+ Vamos 2</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tdep"><display-name>Teledeporte</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tvc"><display-name>TV3 Cat</display-name><url>https://movistarplus.es</url></channel>
+<channel id="tvg2"><display-name>TVG 2</display-name><url>https://movistarplus.es</url></channel>
 <programme start="20260918030000 +0000" stop="20260918220000 +0000" channel="7tvmur"><title lang="es">Oro Molio</title><desc lang="es">Cada semana se descubren nuevos aspectos de los pueblos y pedanías de la Región de Murcia, especialmente a través de sus gentes, que muestran la faceta más natural de sus oficios, costumbres, tradiciones y gastronomía.</desc></programme>
 <programme start="20260918040000 +0000" stop="20260918050000 +0000" channel="7tvmur"><title lang="es">Murcia a la vista</title><desc lang="es">Los reporteros del programa se lanzan a las calles, playas o pueblos de la Región para recoger todo lo que ocurre en la Comunidad, tomando el pulso de los ciudadanos sobre los temas más llamativos que se dan cada día en toda la geografía murciana.</desc></programme>
 <programme start="20260918050000 +0000" stop="20260918060000 +0000" channel="7tvmur"><title lang="es">Onda regional Noticias</title><desc lang="es">Toda la actualidad de la región a La 7, con información matinal y resúmenes semanales, conectando radio y TV en un formato dinámico y cercano.</desc></programme>
@@ -5957,12 +5957,12 @@
 <programme start="20260918193000 +0000" stop="20260919023000 +0000" channel="mbalct"><title lang="es">M+ Baloncesto</title><desc lang="es">M+ Baloncesto</desc></programme>
 <programme start="20260918220000 +0000" stop="20260919060000 +0000" channel="mbalct"><title lang="es">M+ Baloncesto</title></programme>
 <programme start="20260919023000 +0000" stop="20260919220000 +0000" channel="mbalct"><title lang="es">M+ Baloncesto</title><desc lang="es">M+ Baloncesto</desc></programme>
-<programme start="20260919060000 +0000" stop="20260919134600 +0000" channel="mbalct"><title lang="es">M+ Baloncesto</title><desc lang="es">M+ Baloncesto</desc></programme>
-<programme start="20260919134600 +0000" stop="20260919140000 +0000" channel="mbalct"><title lang="es">Previa SuperCup Abu Dhabi (T2026): Tercer y cuarto puesto</title></programme>
-<programme start="20260919140000 +0000" stop="20260919163000 +0000" channel="mbalct"><title lang="es">SuperCup Abu Dhabi: Tercer y Cuarto puesto</title><desc lang="es">La Euroliga celebra la primera edición de la supercopa con 4 equipos luchando por inaugurar su palmarés. Olympiakos como vigente campeón, Real Madrid, como finalista, Fenerbahce como campeón de hace dos temporadas y Dubai como equipo anfitrión.</desc></programme>
-<programme start="20260919163000 +0000" stop="20260919164600 +0000" channel="mbalct"><title lang="es">M+ Baloncesto</title><desc lang="es">M+ Baloncesto</desc></programme>
-<programme start="20260919164600 +0000" stop="20260919170000 +0000" channel="mbalct"><title lang="es">Previa SuperCup Abu Dhabi (T2026): Final</title></programme>
-<programme start="20260919170000 +0000" stop="20260919193000 +0000" channel="mbalct"><title lang="es">SuperCup Abu Dhabi: Final</title><desc lang="es">La Euroliga celebra la primera edición de la supercopa con 4 equipos luchando por inaugurar su palmarés. Olympiakos como vigente campeón, Real Madrid, como finalista, Fenerbahce como campeón de hace dos temporadas y Dubai como equipo anfitrión.</desc></programme>
+<programme start="20260919060000 +0000" stop="20260919134500 +0000" channel="mbalct"><title lang="es">M+ Baloncesto</title><desc lang="es">M+ Baloncesto</desc></programme>
+<programme start="20260919134500 +0000" stop="20260919135900 +0000" channel="mbalct"><title lang="es">Previa SuperCup Abu Dhabi (2026): Fenerbache vs Dubái</title></programme>
+<programme start="20260919135900 +0000" stop="20260919162900 +0000" channel="mbalct"><title lang="es">SuperCup Abu Dhabi: Fenerbache - Dubái</title><desc lang="es">La Euroliga celebra la primera edición de la supercopa con 4 equipos luchando por inaugurar su palmarés. Olympiakos como vigente campeón, Real Madrid, como finalista, Fenerbahce como campeón de hace dos temporadas y Dubai como equipo anfitrión.</desc></programme>
+<programme start="20260919162900 +0000" stop="20260919164600 +0000" channel="mbalct"><title lang="es">M+ Baloncesto</title><desc lang="es">M+ Baloncesto</desc></programme>
+<programme start="20260919164600 +0000" stop="20260919170000 +0000" channel="mbalct"><title lang="es">Previa SuperCup Abu Dhabi (2026): Olympiacos vs Real Madrid</title></programme>
+<programme start="20260919170000 +0000" stop="20260919193000 +0000" channel="mbalct"><title lang="es">SuperCup Abu Dhabi: Olympiacos - Real Madrid</title><desc lang="es">La Euroliga celebra la primera edición de la supercopa con 4 equipos luchando por inaugurar su palmarés. Olympiakos como vigente campeón, Real Madrid, como finalista, Fenerbahce como campeón de hace dos temporadas y Dubai como equipo anfitrión.</desc></programme>
 <programme start="20260919193000 +0000" stop="20260920023000 +0000" channel="mbalct"><title lang="es">M+ Baloncesto</title><desc lang="es">M+ Baloncesto</desc></programme>
 <programme start="20260920023000 +0000" stop="20260920060000 +0000" channel="mbalct"><title lang="es">M+ Baloncesto</title><desc lang="es">M+ Baloncesto</desc></programme>
 <programme start="20260920023000 +0000" stop="20260920220000 +0000" channel="mbalct"><title lang="es">M+ Baloncesto</title><desc lang="es">M+ Baloncesto</desc></programme>
@@ -7822,9 +7822,9 @@
 <programme start="20260918124800 +0000" stop="20260918133800 +0000" channel="sci-fi"><title lang="es">Grimm (T2): Ep.2 El beso</title><desc lang="es">Nick une fuerzas con su madre para continuar luchando contra Mauvais Dentes. Por otra parte, Monroe y Rosalee pelean contrarreloj para curar a Juliette y, al mismo tiempo, descubren nuevos detalles sobre el origen de su enfermedad.</desc></programme>
 <programme start="20260918133800 +0000" stop="20260918152100 +0000" channel="sci-fi"><title lang="es">Morbius</title><desc lang="es">Michael Morbius, un médico infectado con un tipo de vampirismo, afronta su nueva y aterradora naturaleza adquiriendo habilidades sobrehumanas.</desc></programme>
 <programme start="20260918152100 +0000" stop="20260918172300 +0000" channel="sci-fi"><title lang="es">Iron Man</title><desc lang="es">Tony Stark, un multimillonario propietario de una empresa de armamento que heredó de su padre, viaja a Afganistán para mostrar su nuevo producto al Ejército estadounidense. Allí, unos terroristas lo secuestran empleando armas de su propia compañía.</desc></programme>
-<programme start="20260918172300 +0000" stop="20260918181400 +0000" channel="sci-fi"><title lang="es">Grimm (T2): Ep.3 Malos presagios</title><desc lang="es">Nick ayuda a un viejo amigo de Hank a localizar a su hija desaparecida.</desc></programme>
-<programme start="20260918181400 +0000" stop="20260918190500 +0000" channel="sci-fi"><title lang="es">Grimm (T2): Ep.4 Púas</title><desc lang="es">Mientras investiga la escena de un accidente, Nick descubre una enfermedad que se propaga rápidamente.</desc></programme>
-<programme start="20260918190500 +0000" stop="20260918200000 +0000" channel="sci-fi"><title lang="es">Grimm (T2): Ep.5 El buen pastor</title><desc lang="es">Tras producirse un robo en una iglesia Wesen, Nick y Monroe investigan las actividades de sus miembros.</desc></programme>
+<programme start="20260918172300 +0000" stop="20260918181400 +0000" channel="sci-fi"><title lang="es">Grimm (T2): Ep.3 Malos presagios</title><desc lang="es">Un viejo amigo de Hank solicita su ayuda para localizar a su hija pequeña, desaparecida. La investigación de esta misteriosa desaparición les conducirá hasta los secretos más ocultos de una perturbadora familia, de la que le costará deshacerse.</desc></programme>
+<programme start="20260918181400 +0000" stop="20260918190500 +0000" channel="sci-fi"><title lang="es">Grimm (T2): Ep.4 Púas</title><desc lang="es">Nick tropieza con lo que parece ser una extraña enfermedad que comienza a esparcirse.</desc></programme>
+<programme start="20260918190500 +0000" stop="20260918200000 +0000" channel="sci-fi"><title lang="es">Grimm (T2): Ep.5 El buen pastor</title><desc lang="es">Nick y Hank participan en un extraño caso en que el presunto culpable aparece muerto.</desc></programme>
 <programme start="20260918200000 +0000" stop="20260918214700 +0000" channel="sci-fi"><title lang="es">Geostorm</title><desc lang="es">La red de satélites diseñada para controlar el clima mundial se descontrola,y su creador se ve en una carrera para descubrir la verdadera amenaza.</desc></programme>
 <programme start="20260918214700 +0000" stop="20260918233300 +0000" channel="sci-fi"><title lang="es">Predators</title><desc lang="es">A regañadientes, el mercenario Royce encabeza un grupo de guerreros de élite, formado por asesinos desalmados, que es llevado a otro planeta... para servir de presa.</desc></programme>
 <programme start="20260918233300 +0000" stop="20260919002700 +0000" channel="sci-fi"><title lang="es">Embrujadas (T6): Ep.1 El paraíso de las muñecas (I)</title><desc lang="es">A pesar de que Leo se ha ido, Piper está de muy buen humor, lo que hace sospechar a Paige que Leo le hizo un hechizo de memoria antes de irse. En su intento de arreglarlo, Paige le hace un conjuro lo que le provoca una amnesia total.</desc></programme>
@@ -8953,8 +8953,8 @@
 <programme start="20260918220000 +0000" stop="20260919100000 +0000" channel="usop2"><title lang="es">M+ Deportes 3</title></programme>
 <programme start="20260918220000 +0000" stop="20260919220000 +0000" channel="usop2"><title lang="es">M+ Deportes 3</title></programme>
 <programme start="20260919060000 +0000" stop="20260919120500 +0000" channel="usop2"><title lang="es">M+ Deportes 3</title></programme>
-<programme start="20260919120500 +0000" stop="20260919140000 +0000" channel="usop2"><title lang="es">Copa Davis República Checa - EE.UU. Partido 3 (dobles) (T2026)</title><desc lang="es">La selección española de tenis disputa en Chile la segunda eliminatoria clasificatoria de la Copa Davis 2026. El enfrentamiento ante el combinado chileno pondrá en juego una plaza para la Final 8 de la competición.</desc></programme>
-<programme start="20260919140000 +0000" stop="20260919160000 +0000" channel="usop2"><title lang="es">Copa Davis República Checa - EE.UU. Partido 4 (T2026)</title><desc lang="es">La selección española de tenis disputa en Chile la segunda eliminatoria clasificatoria de la Copa Davis 2026. El enfrentamiento ante el combinado chileno pondrá en juego una plaza para la Final 8 de la competición.</desc></programme>
+<programme start="20260919120500 +0000" stop="20260919141000 +0000" channel="usop2"><title lang="es">Copa Davis República Checa - EE.UU. Partido 3 (dobles) (T2026)</title><desc lang="es">La selección española de tenis disputa en Chile la segunda eliminatoria clasificatoria de la Copa Davis 2026. El enfrentamiento ante el combinado chileno pondrá en juego una plaza para la Final 8 de la competición.</desc></programme>
+<programme start="20260919141000 +0000" stop="20260919160000 +0000" channel="usop2"><title lang="es">Copa Davis República Checa - EE.UU. Partido 4 (T2026)</title><desc lang="es">La selección española de tenis disputa en Chile la segunda eliminatoria clasificatoria de la Copa Davis 2026. El enfrentamiento ante el combinado chileno pondrá en juego una plaza para la Final 8 de la competición.</desc></programme>
 <programme start="20260919160000 +0000" stop="20260919180500 +0000" channel="usop2"><title lang="es">Copa Davis República Checa - EE.UU. Partido 5 (T2026)</title><desc lang="es">La selección española de tenis disputa en Chile la segunda eliminatoria clasificatoria de la Copa Davis 2026. El enfrentamiento ante el combinado chileno pondrá en juego una plaza para la Final 8 de la competición.</desc></programme>
 <programme start="20260919180500 +0000" stop="20260919200000 +0000" channel="usop2"><title lang="es">Copa Davis Canadá - Francia. Partido 3 (dobles VO) (T2026)</title><desc lang="es">La selección española de tenis disputa en Chile la segunda eliminatoria clasificatoria de la Copa Davis 2026. El enfrentamiento ante el combinado chileno pondrá en juego una plaza para la Final 8 de la competición.</desc></programme>
 <programme start="20260919200000 +0000" stop="20260919220000 +0000" channel="usop2"><title lang="es">Copa Davis Canadá - Francia. Partido 4 (VO) (T2026)</title><desc lang="es">La selección española de tenis disputa en Chile la segunda eliminatoria clasificatoria de la Copa Davis 2026. El enfrentamiento ante el combinado chileno pondrá en juego una plaza para la Final 8 de la competición.</desc></programme>
@@ -8991,19 +8991,19 @@
 <programme start="20260918222000 +0000" stop="20260919012000 +0000" channel="vam2sd"><title lang="es">Ladies European Tour (T2026): Solheim Cup. Jornada 3. Parte 2</title><desc lang="es">La 20ª edición de la Solheim Cup llega a Bernardus, en Países Bajos. Europa intentará recuperar la Copa en casa con dos españolas en el eqiuipo, la debutante Julia López y la veterana Carlota Ciganda. USA busca su 12º triunfo en la competición.</desc></programme>
 <programme start="20260919012000 +0000" stop="20260919220000 +0000" channel="vam2sd"><title lang="es">M+ Vamos 2</title></programme>
 <programme start="20260919060000 +0000" stop="20260919065000 +0000" channel="vam2sd"><title lang="es">M+ Vamos 2</title></programme>
-<programme start="20260919065000 +0000" stop="20260919082000 +0000" channel="vam2sd"><title lang="es">Noche de Europa League (T26/27): 17/9/2026</title><desc lang="es">Revive los partidos de la UEFA Europa League, los goles de la jornada y todo tipo de informaciones relacionadas con esta competición.</desc></programme>
-<programme start="20260919082000 +0000" stop="20260919101000 +0000" channel="vam2sd"><title lang="es">Copa Libertadores (2026): Quito vs Palmeiras</title><desc lang="es">El fútbol sudamericano tiene una competición por encima del resto, la Copa Libertadores. Se trata de un torneo equivalente a la Champions y que ha sido dominado tradicionalmente por clubes argentinos, brasileños y uruguayos. El Atlético Nacional es el campeón actual.</desc></programme>
-<programme start="20260919101000 +0000" stop="20260919104000 +0000" channel="vam2sd"><title lang="es">Magazine Champions League (T26/27): Episodio 3</title><desc lang="es">Magacín que repasa toda la actualidad de la Champions League, la máxima competición del fútbol europeo. El programa ofrece entrevistas, reportajes y resúmenes de los partidos que se disputan durante el torneo.</desc></programme>
-<programme start="20260919104000 +0000" stop="20260919134000 +0000" channel="vam2sd"><title lang="es">World Athletics Ultimate (T2026): Jornada 2</title><desc lang="es">Competición internacional de atletismo que reúne a los mejores atletas del mundo en tres jornadas de competición con pruebas de velocidad, medio fondo, saltos, lanzamientos y relevos mixtos para decidir a los nuevos Ultimate Champions.</desc></programme>
-<programme start="20260919134000 +0000" stop="20260919151500 +0000" channel="vam2sd"><title lang="es">Derecho a boxear</title><desc lang="es">En el Nueva York de los años 70, las mujeres no podían boxear. Esta es la historia de Marian “Lady Tyger” y Cathy “Cat” Davis, dos mujeres que se enfrentaron a la sociedad de la época para poder competir en el ring.</desc></programme>
-<programme start="20260919151500 +0000" stop="20260919154500 +0000" channel="vam2sd"><title lang="es">Planeta Tenis (T2026): Especial US Open</title><desc lang="es">Magazine semanal en el que repasamos toda la actualidad del mundo del tenis, escuchamos a sus protagonistas y echamos una mirada a la historia.</desc></programme>
+<programme start="20260919065000 +0000" stop="20260919080500 +0000" channel="vam2sd"><title lang="es">Noche de Europa League (T26/27): 17/9/2026</title><desc lang="es">Revive los partidos de la UEFA Europa League, los goles de la jornada y todo tipo de informaciones relacionadas con esta competición.</desc></programme>
+<programme start="20260919080500 +0000" stop="20260919100300 +0000" channel="vam2sd"><title lang="es">Copa Libertadores (2026): Quito vs Palmeiras</title><desc lang="es">El fútbol sudamericano tiene una competición por encima del resto, la Copa Libertadores. Se trata de un torneo equivalente a la Champions y que ha sido dominado tradicionalmente por clubes argentinos, brasileños y uruguayos. El Atlético Nacional es el campeón actual.</desc></programme>
+<programme start="20260919100300 +0000" stop="20260919103000 +0000" channel="vam2sd"><title lang="es">Magazine Champions League (T26/27): Episodio 3</title><desc lang="es">Magacín que repasa toda la actualidad de la Champions League, la máxima competición del fútbol europeo. El programa ofrece entrevistas, reportajes y resúmenes de los partidos que se disputan durante el torneo.</desc></programme>
+<programme start="20260919103000 +0000" stop="20260919133300 +0000" channel="vam2sd"><title lang="es">World Athletics Ultimate (T2026): Jornada 2</title><desc lang="es">Competición internacional de atletismo que reúne a los mejores atletas del mundo en tres jornadas de competición con pruebas de velocidad, medio fondo, saltos, lanzamientos y relevos mixtos para decidir a los nuevos Ultimate Champions.</desc></programme>
+<programme start="20260919133300 +0000" stop="20260919150800 +0000" channel="vam2sd"><title lang="es">Derecho a boxear</title><desc lang="es">En el Nueva York de los años 70, las mujeres no podían boxear. Esta es la historia de Marian “Lady Tyger” y Cathy “Cat” Davis, dos mujeres que se enfrentaron a la sociedad de la época para poder competir en el ring.</desc></programme>
+<programme start="20260919150800 +0000" stop="20260919154500 +0000" channel="vam2sd"><title lang="es">Planeta Tenis (T2026): Especial US Open</title><desc lang="es">Magazine semanal en el que repasamos toda la actualidad del mundo del tenis, escuchamos a sus protagonistas y echamos una mirada a la historia.</desc></programme>
 <programme start="20260919154500 +0000" stop="20260919160000 +0000" channel="vam2sd"><title lang="es">La pista del tenis. Copa Davis. Clasificación (T2026): TBC</title></programme>
 <programme start="20260919160000 +0000" stop="20260919180000 +0000" channel="vam2sd"><title lang="es">Copa Davis (2026): Tabilo vs Mérida</title><desc lang="es">La selección española de tenis disputa en Chile la segunda eliminatoria clasificatoria de la Copa Davis 2026. El enfrentamiento ante el combinado chileno pondrá en juego una plaza para la Final 8 de la competición.</desc></programme>
 <programme start="20260919180000 +0000" stop="20260919181500 +0000" channel="vam2sd"><title lang="es">La pista del tenis. Copa Davis. Clasificación (T2026): TBC</title></programme>
 <programme start="20260919181500 +0000" stop="20260919201500 +0000" channel="vam2sd"><title lang="es">Copa Davis (2026): Garín vs Jódar</title><desc lang="es">La selección española de tenis disputa en Chile la segunda eliminatoria clasificatoria de la Copa Davis 2026. El enfrentamiento ante el combinado chileno pondrá en juego una plaza para la Final 8 de la competición.</desc></programme>
 <programme start="20260919201500 +0000" stop="20260919203000 +0000" channel="vam2sd"><title lang="es">La pista del tenis. Copa Davis. Clasificación (T2026): TBC</title></programme>
 <programme start="20260919203000 +0000" stop="20260919212000 +0000" channel="vam2sd"><title lang="es">Informe Plus+. Daria Bilodid. Deporte en guerra</title><desc lang="es">Daria Bilodid tuvo que abandonar su casa cuando, en la madrugada del 22 de febrero de 2022, las bombas comenzaron a caer sobre Kiev. En la maleta, preparada en pocos minutos, su judogi y la esperanza de volver pronto a casa. Dos veces campeona del mundo y bronce olímpico en Tokio, la invasión rusa de Ucrania cambió la vida de la joven judoca, que apenas un mes después llegó a Valencia.</desc></programme>
-<programme start="20260919212000 +0000" stop="20260919231000 +0000" channel="vam2sd"><title lang="es">SuperCup Abu Dhabi: Final</title><desc lang="es">La Euroliga celebra la primera edición de la supercopa con 4 equipos luchando por inaugurar su palmarés. Olympiakos como vigente campeón, Real Madrid, como finalista, Fenerbahce como campeón de hace dos temporadas y Dubai como equipo anfitrión.</desc></programme>
+<programme start="20260919212000 +0000" stop="20260919231000 +0000" channel="vam2sd"><title lang="es">SuperCup Abu Dhabi: Olympiacos - Real Madrid</title><desc lang="es">La Euroliga celebra la primera edición de la supercopa con 4 equipos luchando por inaugurar su palmarés. Olympiakos como vigente campeón, Real Madrid, como finalista, Fenerbahce como campeón de hace dos temporadas y Dubai como equipo anfitrión.</desc></programme>
 <programme start="20260919231000 +0000" stop="20260920220000 +0000" channel="vam2sd"><title lang="es">M+ Vamos 2</title></programme>
 <programme start="20260920012000 +0000" stop="20260920060000 +0000" channel="vam2sd"><title lang="es">M+ Vamos 2</title></programme>
 <programme start="20260918053500 +0000" stop="20260918062500 +0000" channel="vamosd"><title lang="es">Pelé: o rei del fútbol</title><desc lang="es">El 29 de diciembre de 2022 el mundo del fútbol perdía a una de sus figuras más importantes y reconocidas, Pelé. Con una carrera que duró tres décadas, el jugador brasileño fue la cara del deporte rey en todo el mundo.</desc></programme>
@@ -9025,30 +9025,29 @@
 <programme start="20260918205900 +0000" stop="20260918215900 +0000" channel="vamosd"><title lang="es">Universo Valdano (T10): Lamine Yamal</title><desc lang="es">Lamine Yamal es el primer invitado de la décima temporada de Universo Valdano. Tras conseguir el Mundial 2026 con la Selección Española, el extremo de Barça nos recibe para hablar sobre su meteórico ascenso, el Balón de Oro, la obsesión por la Champions League y todo lo que ha vivido en los cuatro años que han pasado desde su debut con el primer equipo culé. Sin pelos en la lengua, Lamine no esquiva ningún tema y responde muchas de las preguntas que todo futbolero querría saber sobre él.</desc></programme>
 <programme start="20260918215900 +0000" stop="20260919000500 +0000" channel="vamosd"><title lang="es">Diego Maradona</title><desc lang="es">En el verano de 1984, Diego Maradona deja el FC Barcelona tras fichar por el Nápoles, un club relativamente modesto en una de las ciudades más calientes y peligrosas de Europa.</desc></programme>
 <programme start="20260919000500 +0000" stop="20260919001500 +0000" channel="vamosd"><title lang="es">Top Bakalá (T26/27): Episodio 2</title><desc lang="es">Un programa que combina el deporte actual con lo mejor del archivo de la casa. Te contamos todo lo acontecido durante la semana, a la vez que recordamos imágenes míticas. Todo ello amenizado con la voz de Raúl Pérez y sus personajes.</desc></programme>
-<programme start="20260919001500 +0000" stop="20260919022500 +0000" channel="vamosd"><title lang="es">SuperCup Abu Dhabi: Dubái - Real Madrid</title><desc lang="es">La Euroliga celebra la primera edición de la supercopa con 4 equipos luchando por inaugurar su palmarés. Olympiakos como vigente campeón, Real Madrid, como finalista, Fenerbahce como campeón de hace dos temporadas y Dubai como equipo anfitrión.</desc></programme>
-<programme start="20260919022500 +0000" stop="20260919220000 +0000" channel="vamosd"><title lang="es">SuperCup Abu Dhabi: Olympiacos - Fenerbache</title><desc lang="es">La Euroliga celebra la primera edición de la supercopa con 4 equipos luchando por inaugurar su palmarés. Olympiakos como vigente campeón, Real Madrid, como finalista, Fenerbahce como campeón de hace dos temporadas y Dubai como equipo anfitrión.</desc></programme>
+<programme start="20260919001500 +0000" stop="20260919022700 +0000" channel="vamosd"><title lang="es">SuperCup Abu Dhabi: Dubái - Real Madrid</title><desc lang="es">La Euroliga celebra la primera edición de la supercopa con 4 equipos luchando por inaugurar su palmarés. Olympiakos como vigente campeón, Real Madrid, como finalista, Fenerbahce como campeón de hace dos temporadas y Dubai como equipo anfitrión.</desc></programme>
+<programme start="20260919022700 +0000" stop="20260919220000 +0000" channel="vamosd"><title lang="es">SuperCup Abu Dhabi: Olympiacos - Fenerbache</title><desc lang="es">La Euroliga celebra la primera edición de la supercopa con 4 equipos luchando por inaugurar su palmarés. Olympiakos como vigente campeón, Real Madrid, como finalista, Fenerbahce como campeón de hace dos temporadas y Dubai como equipo anfitrión.</desc></programme>
 <programme start="20260919023300 +0000" stop="20260919053500 +0000" channel="vamosd"><title lang="es">World Athletics Ultimate (T2026): Jornada 3</title><desc lang="es">Competición internacional de atletismo que reúne a los mejores atletas del mundo en tres jornadas de competición con pruebas de velocidad, medio fondo, saltos, lanzamientos y relevos mixtos para decidir a los nuevos Ultimate Champions.</desc></programme>
-<programme start="20260919035500 +0000" stop="20260919220000 +0000" channel="vamosd"><title lang="es">SuperCup Abu Dhabi: Olympiacos - Real Madrid</title><desc lang="es">La Euroliga celebra la primera edición de la supercopa con 4 equipos luchando por inaugurar su palmarés. Olympiakos como vigente campeón, Real Madrid, como finalista, Fenerbahce como campeón de hace dos temporadas y Dubai como equipo anfitrión.</desc></programme>
-<programme start="20260919040400 +0000" stop="20260919053500 +0000" channel="vamosd"><title lang="es">Soy Leyenda (T1): El Cholo Simeone</title><desc lang="es">Mucho se ha comentado sobre la filosofía del entrenador del Atlético de Madrid. En este capítulo viajamos a la etapa del Simeone jugador, así como sus primeros años en los banquillos para buscar las bases de las que bebe el 'cholismo'.</desc></programme>
-<programme start="20260919053500 +0000" stop="20260919063500 +0000" channel="vamosd"><title lang="es">Merckx: el caníbal del ciclismo</title><desc lang="es">De 1967 a 1975, en apenas una década, Eddy Merckx lo ganó todo. Esta película narra la grandeza y los reveses de una figura icónica del ciclismo mundial.</desc></programme>
-<programme start="20260919063500 +0000" stop="20260919070500 +0000" channel="vamosd"><title lang="es">Bakalá (T26/27): Episodio 2</title><desc lang="es">Un programa que combina el deporte actual con lo mejor del archivo de la casa. Te contamos todo lo acontecido durante la semana, a la vez que recordamos imágenes míticas. Todo ello amenizado con la voz de Raúl Pérez y sus personajes.</desc></programme>
-<programme start="20260919070500 +0000" stop="20260919083000 +0000" channel="vamosd"><title lang="es">La mejor escaladora</title><desc lang="es">"La mejor escaladora" acompaña a la alpinista de élite Emily Harrington en su intento de conquistar el Capitán de Yosemite en menos de 24 horas, una de las ascensiones más exigentes y peligrosas del mundo.</desc></programme>
-<programme start="20260919083000 +0000" stop="20260919092000 +0000" channel="vamosd"><title lang="es">Soy Leyenda (T1): Samuel Eto`o</title><desc lang="es">Seguimos los pasos de un delantero único, goleador en dos finales de Champions. Amigos y excompañeros recuerdan algunos de los momentos vividos junto a Samuel Eto'o en sus distintos equipos en el fútbol español.</desc></programme>
-<programme start="20260919092000 +0000" stop="20260919111000 +0000" channel="vamosd"><title lang="es">SuperCup Abu Dhabi: Dubái - Real Madrid</title><desc lang="es">La Euroliga celebra la primera edición de la supercopa con 4 equipos luchando por inaugurar su palmarés. Olympiakos como vigente campeón, Real Madrid, como finalista, Fenerbahce como campeón de hace dos temporadas y Dubai como equipo anfitrión.</desc></programme>
-<programme start="20260919111000 +0000" stop="20260919124500 +0000" channel="vamosd"><title lang="es">El rey Puma</title><desc lang="es">Durante la década de 1970, Puma y Adidas se encontraban en una feroz competencia. Hans Henningsen, un visionario español, cambió la historia del marketing deportivo y llevó a Puma al éxito. Esta es la historia de un hombre que se convirtió en un mito entre las estrellas del fútbol, pese a ser un desconocido para el mundo.</desc></programme>
+<programme start="20260919041700 +0000" stop="20260919050500 +0000" channel="vamosd"><title lang="es">Soy Leyenda (T1): El Cholo Simeone</title><desc lang="es">Mucho se ha comentado sobre la filosofía del entrenador del Atlético de Madrid. En este capítulo viajamos a la etapa del Simeone jugador, así como sus primeros años en los banquillos para buscar las bases de las que bebe el 'cholismo'.</desc></programme>
+<programme start="20260919050500 +0000" stop="20260919060500 +0000" channel="vamosd"><title lang="es">Merckx: el caníbal del ciclismo</title><desc lang="es">De 1967 a 1975, en apenas una década, Eddy Merckx lo ganó todo. Esta película narra la grandeza y los reveses de una figura icónica del ciclismo mundial.</desc></programme>
+<programme start="20260919060500 +0000" stop="20260919063500 +0000" channel="vamosd"><title lang="es">Bakalá (T26/27): Episodio 2</title><desc lang="es">Un programa que combina el deporte actual con lo mejor del archivo de la casa. Te contamos todo lo acontecido durante la semana, a la vez que recordamos imágenes míticas. Todo ello amenizado con la voz de Raúl Pérez y sus personajes.</desc></programme>
+<programme start="20260919063500 +0000" stop="20260919080000 +0000" channel="vamosd"><title lang="es">La mejor escaladora</title><desc lang="es">"La mejor escaladora" acompaña a la alpinista de élite Emily Harrington en su intento de conquistar el Capitán de Yosemite en menos de 24 horas, una de las ascensiones más exigentes y peligrosas del mundo.</desc></programme>
+<programme start="20260919080000 +0000" stop="20260919085500 +0000" channel="vamosd"><title lang="es">Soy Leyenda (T1): Samuel Eto`o</title><desc lang="es">Seguimos los pasos de un delantero único, goleador en dos finales de Champions. Amigos y excompañeros recuerdan algunos de los momentos vividos junto a Samuel Eto'o en sus distintos equipos en el fútbol español.</desc></programme>
+<programme start="20260919085500 +0000" stop="20260919111100 +0000" channel="vamosd"><title lang="es">SuperCup Abu Dhabi: Dubái - Real Madrid</title><desc lang="es">La Euroliga celebra la primera edición de la supercopa con 4 equipos luchando por inaugurar su palmarés. Olympiakos como vigente campeón, Real Madrid, como finalista, Fenerbahce como campeón de hace dos temporadas y Dubai como equipo anfitrión.</desc></programme>
+<programme start="20260919111100 +0000" stop="20260919124500 +0000" channel="vamosd"><title lang="es">El rey Puma</title><desc lang="es">Durante la década de 1970, Puma y Adidas se encontraban en una feroz competencia. Hans Henningsen, un visionario español, cambió la historia del marketing deportivo y llevó a Puma al éxito. Esta es la historia de un hombre que se convirtió en un mito entre las estrellas del fútbol, pese a ser un desconocido para el mundo.</desc></programme>
 <programme start="20260919124500 +0000" stop="20260919134500 +0000" channel="vamosd"><title lang="es">Universo Valdano (T10): Lamine Yamal</title><desc lang="es">Lamine Yamal es el primer invitado de la décima temporada de Universo Valdano. Tras conseguir el Mundial 2026 con la Selección Española, el extremo de Barça nos recibe para hablar sobre su meteórico ascenso, el Balón de Oro, la obsesión por la Champions League y todo lo que ha vivido en los cuatro años que han pasado desde su debut con el primer equipo culé. Sin pelos en la lengua, Lamine no esquiva ningún tema y responde muchas de las preguntas que todo futbolero querría saber sobre él.</desc></programme>
 <programme start="20260919134500 +0000" stop="20260919140000 +0000" channel="vamosd"><title lang="es">Previa SuperCup Abu Dhabi (2026): Fenerbache vs Dubái</title></programme>
 <programme start="20260919140000 +0000" stop="20260919160000 +0000" channel="vamosd"><title lang="es">SuperCup Abu Dhabi: Fenerbache - Dubái</title><desc lang="es">La Euroliga celebra la primera edición de la supercopa con 4 equipos luchando por inaugurar su palmarés. Olympiakos como vigente campeón, Real Madrid, como finalista, Fenerbahce como campeón de hace dos temporadas y Dubai como equipo anfitrión.</desc></programme>
 <programme start="20260919160000 +0000" stop="20260919164500 +0000" channel="vamosd"><title lang="es">Informe Plus+. Eternas</title><desc lang="es">La selección española femenina de waterpolo nunca se había clasificado para los Juegos Olímpicos y nunca se había subido al podio en los Campeonatos del mundo. Con la llegada de Miki Oca como seleccionador arrancó un ciclo ganador que las ha llevado a conquistar, en los últimos 12 años, un botín de 13 medallas. La que más brilla, sin duda, la del reciente oro en los Juegos de París.</desc></programme>
-<programme start="20260919164500 +0000" stop="20260919170000 +0000" channel="vamosd"><title lang="es">Previa SuperCup Abu Dhabi (T2026): Final</title></programme>
-<programme start="20260919170000 +0000" stop="20260919191000 +0000" channel="vamosd"><title lang="es">SuperCup Abu Dhabi: Olympiacos - Real Madrid</title><desc lang="es">La Euroliga celebra la primera edición de la supercopa con 4 equipos luchando por inaugurar su palmarés. Olympiakos como vigente campeón, Real Madrid, como finalista, Fenerbahce como campeón de hace dos temporadas y Dubai como equipo anfitrión.</desc></programme>
-<programme start="20260919191000 +0000" stop="20260919200700 +0000" channel="vamosd"><title lang="es">Informe Plus+. Golden Boys 2.0. El relevo del baloncesto español</title><desc lang="es">En 1999 una nueva generación de jugadores españoles llamaba a las puertas de la selección absoluta después de conquistar el Mundial Junior de Lisboa. 24 años después una renovada hornada de jóvenes españoles ha retomado el camino marcado en su día por Pau Gasol, Navarro, Felipe Reyes y Raúl López. El baloncesto que han conocido Izan Almansa, Baba Miller, Aday Mara y compañía poco tiene que ver con el de finales del siglo XX. El potencial, ambición y ganas de hacer historia de esta nueva generación son idénticos.</desc></programme>
-<programme start="20260919200700 +0000" stop="20260919210000 +0000" channel="vamosd"><title lang="es">Informe Plus+. Andrea Fuentes, locura artística</title><desc lang="es">Andrea Fuentes ha sido uno de los nombres del deporte español en 2025. Pero su historia va mucho más allá, desde sus años de nadadora a las órdenes de Anna Tarrés a su medalla de plata con Estados Unidos, digna de un guion de Hollywood. Con una personalidad y un método únicos, la actual seleccionadora de natación artística plantea una visión del deporte de élite rompedora y llena de carisma, mientras en lo personal rebosa humanidad y emoción.</desc></programme>
+<programme start="20260919164500 +0000" stop="20260919165900 +0000" channel="vamosd"><title lang="es">Previa SuperCup Abu Dhabi (2026): Olympiacos vs Real Madrid</title></programme>
+<programme start="20260919165900 +0000" stop="20260919190700 +0000" channel="vamosd"><title lang="es">SuperCup Abu Dhabi: Olympiacos - Real Madrid</title><desc lang="es">La Euroliga celebra la primera edición de la supercopa con 4 equipos luchando por inaugurar su palmarés. Olympiakos como vigente campeón, Real Madrid, como finalista, Fenerbahce como campeón de hace dos temporadas y Dubai como equipo anfitrión.</desc></programme>
+<programme start="20260919190700 +0000" stop="20260919200600 +0000" channel="vamosd"><title lang="es">Informe Plus+. Golden Boys 2.0. El relevo del baloncesto español</title><desc lang="es">En 1999 una nueva generación de jugadores españoles llamaba a las puertas de la selección absoluta después de conquistar el Mundial Junior de Lisboa. 24 años después una renovada hornada de jóvenes españoles ha retomado el camino marcado en su día por Pau Gasol, Navarro, Felipe Reyes y Raúl López. El baloncesto que han conocido Izan Almansa, Baba Miller, Aday Mara y compañía poco tiene que ver con el de finales del siglo XX. El potencial, ambición y ganas de hacer historia de esta nueva generación son idénticos.</desc></programme>
+<programme start="20260919200600 +0000" stop="20260919210000 +0000" channel="vamosd"><title lang="es">Informe Plus+. Andrea Fuentes, locura artística</title><desc lang="es">Andrea Fuentes ha sido uno de los nombres del deporte español en 2025. Pero su historia va mucho más allá, desde sus años de nadadora a las órdenes de Anna Tarrés a su medalla de plata con Estados Unidos, digna de un guion de Hollywood. Con una personalidad y un método únicos, la actual seleccionadora de natación artística plantea una visión del deporte de élite rompedora y llena de carisma, mientras en lo personal rebosa humanidad y emoción.</desc></programme>
 <programme start="20260919210000 +0000" stop="20260919224500 +0000" channel="vamosd"><title lang="es">Premier League (T26/27): Brighton - Arsenal</title><desc lang="es">El Brighton, tras eliminar al Man.United en Copa de la Liga y actualmente quinto en la Premier, pone a prueba a un Arsenal que ha ganado todos sus partidos oficiales de la temporada.</desc></programme>
 <programme start="20260919224500 +0000" stop="20260920000500 +0000" channel="vamosd"><title lang="es">DeportePlus (T26/27): 19/09/2026</title><desc lang="es">El programa Deporte Plus+ se emite en directo todos los sábados de esta nueva temporada con la última hora de la información deportiva.</desc></programme>
-<programme start="20260920000500 +0000" stop="20260920020500 +0000" channel="vamosd"><title lang="es">Rugby Test Matches Internationals (2026): Sudáfrica vs Nueva Zelanda</title><desc lang="es">Día D y Hora H para Sudáfrica y Nueva Zelanda, que clausuran el Rugby’s Greatest Rivalry con el 4º y último duelo en Baltimore.</desc></programme>
-<programme start="20260920020500 +0000" stop="20260920035500 +0000" channel="vamosd"><title lang="es">Copa Davis (2026): Garín vs Jódar</title><desc lang="es">La selección española de tenis disputa en Chile la segunda eliminatoria clasificatoria de la Copa Davis 2026. El enfrentamiento ante el combinado chileno pondrá en juego una plaza para la Final 8 de la competición.</desc></programme>
-<programme start="20260920021400 +0000" stop="20260920040400 +0000" channel="vamosd"><title lang="es">SuperCup Abu Dhabi: Olympiacos - Fenerbache</title><desc lang="es">La Euroliga celebra la primera edición de la supercopa con 4 equipos luchando por inaugurar su palmarés. Olympiakos como vigente campeón, Real Madrid, como finalista, Fenerbahce como campeón de hace dos temporadas y Dubai como equipo anfitrión.</desc></programme>
+<programme start="20260920000500 +0000" stop="20260920020800 +0000" channel="vamosd"><title lang="es">Rugby Test Matches Internationals (2026): Sudáfrica vs Nueva Zelanda</title><desc lang="es">Día D y Hora H para Sudáfrica y Nueva Zelanda, que clausuran el Rugby’s Greatest Rivalry con el 4º y último duelo en Baltimore.</desc></programme>
+<programme start="20260920020800 +0000" stop="20260920220000 +0000" channel="vamosd"><title lang="es">Copa Davis (2026): Garín vs Jódar</title><desc lang="es">La selección española de tenis disputa en Chile la segunda eliminatoria clasificatoria de la Copa Davis 2026. El enfrentamiento ante el combinado chileno pondrá en juego una plaza para la Final 8 de la competición.</desc></programme>
+<programme start="20260920022700 +0000" stop="20260920041700 +0000" channel="vamosd"><title lang="es">SuperCup Abu Dhabi: Olympiacos - Fenerbache</title><desc lang="es">La Euroliga celebra la primera edición de la supercopa con 4 equipos luchando por inaugurar su palmarés. Olympiakos como vigente campeón, Real Madrid, como finalista, Fenerbahce como campeón de hace dos temporadas y Dubai como equipo anfitrión.</desc></programme>
 <programme start="20260918034000 +0000" stop="20260918220000 +0000" channel="veo7"><title lang="es">Profilage: Perfiles criminales (T4): Ep.4 En el aire</title><desc lang="es">Chloe se aviene a colaborar en un programa de radio nocturno dedicado a la psicología. Una noche llama una mujer asegurando que su marido abusa de ella.</desc></programme>
 <programme start="20260918040000 +0000" stop="20260918044000 +0000" channel="veo7"><title lang="es">Ley y orden: unidad de víctimas especiales (T12): Ep.9 Gris</title><desc lang="es">El detective Stabler acude a la universidad de su hija para hablar sobre la prevención de las violaciones y allí mismo se encontrará con un caso.</desc></programme>
 <programme start="20260918044000 +0000" stop="20260918052000 +0000" channel="veo7"><title lang="es">Ley y orden: unidad de víctimas especiales (T12): Ep.10 Rescate</title><desc lang="es">Benson continúa con la búsqueda de la madre drogadicta del pequeño Calvin y cada vez resulta más duro por el vínculo que le une al niño.</desc></programme>
