@@ -4,7 +4,6 @@
   <channel site="sky.com" site_id="1011" lang="en" xmltv_id="">PBC</channel>
   <channel site="sky.com" site_id="1015" lang="en" xmltv_id="">Really+1</channel>
   <channel site="sky.com" site_id="1027" lang="en" xmltv_id="">TLC HD</channel>
-  <channel site="sky.com" site_id="1035" lang="en" xmltv_id="">SkySpBoxOffHD</channel>
   <channel site="sky.com" site_id="1070" lang="en" xmltv_id="">GTC Punjabi</channel>
   <channel site="sky.com" site_id="1083" lang="en" xmltv_id="">Heart 90s</channel>
   <channel site="sky.com" site_id="1148" lang="en" xmltv_id="">Virgin Radio</channel>
@@ -355,7 +354,6 @@
   <channel site="sky.com" site_id="1752" lang="en" xmltv_id="SkyArts.uk@SD">Sky Arts</channel>
   <channel site="sky.com" site_id="1414" lang="en" xmltv_id="SkyAtlantic.ie@SD">Sky Atlantic</channel>
   <channel site="sky.com" site_id="4053" lang="en" xmltv_id="SkyAtlantic.uk@HD">Sky Atlantic HD</channel>
-  <channel site="sky.com" site_id="1413" lang="en" xmltv_id="SkyAtlantic.uk@Plus1">Sky Atlantic+1</channel>
   <channel site="sky.com" site_id="1412" lang="en" xmltv_id="SkyAtlantic.uk@SD">Sky Atlantic</channel>
   <channel site="sky.com" site_id="4014" lang="en" xmltv_id="SkyCinemaAction.uk@HD">Sky Action HD</channel>
   <channel site="sky.com" site_id="4019" lang="en" xmltv_id="SkyCinemaComedy.uk@HD">Sky Comedy HD</channel>
@@ -373,7 +371,6 @@
   <channel site="sky.com" site_id="3012" lang="en" xmltv_id="SkyCrime.ie@HD">Sky Crime HD</channel>
   <channel site="sky.com" site_id="1056" lang="en" xmltv_id="SkyCrime.ie@SD">Sky Crime</channel>
   <channel site="sky.com" site_id="1212" lang="en" xmltv_id="SkyCrime.uk@HD">Sky Crime HD</channel>
-  <channel site="sky.com" site_id="4330" lang="en" xmltv_id="SkyCrime.uk@Plus1">Sky Crime+1</channel>
   <channel site="sky.com" site_id="2207" lang="en" xmltv_id="SkyCrime.uk@SD">Sky Crime</channel>
   <channel site="sky.com" site_id="1230" lang="en" xmltv_id="SkyDocumentaries.ie@SD">SkyDocumntrs</channel>
   <channel site="sky.com" site_id="1136" lang="en" xmltv_id="SkyDocumentaries.uk@HD">SkyDocmntrsHD</channel>
@@ -428,7 +425,6 @@
   <channel site="sky.com" site_id="3051" lang="en" xmltv_id="SkyWitness.ie@HD">Sky Witness HD</channel>
   <channel site="sky.com" site_id="4334" lang="en" xmltv_id="SkyWitness.ie@SD">Sky Witness</channel>
   <channel site="sky.com" site_id="4066" lang="en" xmltv_id="SkyWitness.uk@HD">Sky Witness HD</channel>
-  <channel site="sky.com" site_id="2205" lang="en" xmltv_id="SkyWitness.uk@Plus1">Sky Witness+1</channel>
   <channel site="sky.com" site_id="2201" lang="en" xmltv_id="SkyWitness.uk@SD">Sky Witness</channel>
   <channel site="sky.com" site_id="4045" lang="en" xmltv_id="SonyEntertainmentTelevisionAsia.in@HD">SONY TV HD</channel>
   <channel site="sky.com" site_id="2601" lang="en" xmltv_id="SonyEntertainmentTelevisionAsia.in@SD">SONY TV</channel>
