@@ -280,8 +280,8 @@
   <channel site="sky.com" site_id="4043" lang="en" xmltv_id="More4.uk@HD">More4 HD</channel>
   <channel site="sky.com" site_id="3310" lang="en" xmltv_id="More4.uk@Plus1">More4+1</channel>
   <channel site="sky.com" site_id="3340" lang="en" xmltv_id="More4.uk@SD">More4</channel>
-  <channel site="sky.com" site_id="4420" lang="en" xmltv_id="Movies24.uk@SD">Movies24</channel>
-  <channel site="sky.com" site_id="4421" lang="en" xmltv_id="Movies24Plus.uk@SD">Movies24+</channel>
+  <channel site="sky.com" site_id="4420" lang="en" xmltv_id="Movies24.uk@SD">Christmas24</channel>
+  <channel site="sky.com" site_id="4421" lang="en" xmltv_id="Movies24Plus.uk@SD">Christmas24+</channel>
   <channel site="sky.com" site_id="3202" lang="en" xmltv_id="MTA1World.uk@HD">MTA1 World HD</channel>
   <channel site="sky.com" site_id="2516" lang="en" xmltv_id="MTV.ie@SD">MTV</channel>
   <channel site="sky.com" site_id="3831" lang="en" xmltv_id="MTV.uk@HD">MTV HD</channel>
