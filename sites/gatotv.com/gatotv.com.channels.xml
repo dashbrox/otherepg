@@ -176,6 +176,7 @@
   <channel site="gatotv.com" site_id="investigation_discovery_panregional" lang="es" xmltv_id="">ID Panregional</channel>
   <channel site="gatotv.com" site_id="la_red_chile" lang="es" xmltv_id="">La Red Chile</channel>
   <channel site="gatotv.com" site_id="la_red_tv_guatemala" lang="es" xmltv_id="">La Red TV Guatemala</channel>
+  <channel site="gatotv.com" site_id="la_tele_paraguay" lang="es" xmltv_id="">La Tele Paraguay</channel>
   <channel site="gatotv.com" site_id="las_estrellas_latinoamerica" lang="es" xmltv_id="">Las Estrellas LATAM</channel>
   <channel site="gatotv.com" site_id="lifetime_panregional" lang="es" xmltv_id="">Lifetime PAN</channel>
   <channel site="gatotv.com" site_id="max_anime_latinoamerica" lang="es" xmltv_id="">Max Anime LATAM</channel>
@@ -183,6 +184,7 @@
   <channel site="gatotv.com" site_id="mega_chile" lang="es" xmltv_id="">Mega Chile</channel>
   <channel site="gatotv.com" site_id="meganoticias_mx" lang="es" xmltv_id="">Meganoticias MX</channel>
   <channel site="gatotv.com" site_id="mtv_centro" lang="es" xmltv_id="">MTV Centro</channel>
+  <channel site="gatotv.com" site_id="mtv_mexico" lang="es" xmltv_id="">MTV México</channel>
   <channel site="gatotv.com" site_id="mtv_sur" lang="es" xmltv_id="">MTV Sur</channel>
   <channel site="gatotv.com" site_id="multimedios_costa_rica" lang="es" xmltv_id="">Multimedios Costa Rica</channel>
   <channel site="gatotv.com" site_id="national_geographic_centro" lang="es" xmltv_id="">National Geographic Centro</channel>
