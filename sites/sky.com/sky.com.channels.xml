@@ -4,6 +4,7 @@
   <channel site="sky.com" site_id="1011" lang="en" xmltv_id="">PBC</channel>
   <channel site="sky.com" site_id="1015" lang="en" xmltv_id="">Really+1</channel>
   <channel site="sky.com" site_id="1027" lang="en" xmltv_id="">TLC HD</channel>
+  <channel site="sky.com" site_id="1035" lang="en" xmltv_id="">SkySpBoxOffHD</channel>
   <channel site="sky.com" site_id="1070" lang="en" xmltv_id="">GTC Punjabi</channel>
   <channel site="sky.com" site_id="1083" lang="en" xmltv_id="">Heart 90s</channel>
   <channel site="sky.com" site_id="1148" lang="en" xmltv_id="">Virgin Radio</channel>
@@ -360,9 +361,9 @@
   <channel site="sky.com" site_id="4016" lang="en" xmltv_id="SkyCinemaDrama.uk@HD">Sky Drama HD</channel>
   <channel site="sky.com" site_id="4018" lang="en" xmltv_id="SkyCinemaFamily.uk@HD">Sky Family HD</channel>
   <channel site="sky.com" site_id="4015" lang="en" xmltv_id="SkyCinemaGreats.uk@SD">Sky Greats HD</channel>
-  <channel site="sky.com" site_id="4033" lang="en" xmltv_id="SkyCinemaHits.uk@SD">TransformersHD</channel>
+  <channel site="sky.com" site_id="4033" lang="en" xmltv_id="SkyCinemaHits.uk@SD">Halloween HD</channel>
   <channel site="sky.com" site_id="4021" lang="en" xmltv_id="SkyCinemaPremiere.uk@HD">SkyPremiereHD</channel>
-  <channel site="sky.com" site_id="4017" lang="en" xmltv_id="SkyCinemaSciFiHorror.uk@HD">Sky ScFi/HorHD</channel>
+  <channel site="sky.com" site_id="4017" lang="en" xmltv_id="SkyCinemaSciFiHorror.uk@HD">Sky Sci-Fi HD</channel>
   <channel site="sky.com" site_id="4020" lang="en" xmltv_id="SkyCinemaSelect.uk@SD">SkyAnimationHD</channel>
   <channel site="sky.com" site_id="4062" lang="en" xmltv_id="SkyCinemaThriller.uk@HD">Sky Thriller HD</channel>
   <channel site="sky.com" site_id="1146" lang="en" xmltv_id="SkyComedy.ie@SD">Sky Comedy</channel>
