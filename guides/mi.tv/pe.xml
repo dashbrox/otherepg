@@ -1,19 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20261022">
 <channel id="pe#a-e-mundo"><display-name>A&amp;E</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#amc"><display-name>AMC</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#america-sports"><display-name>América Sports</display-name><url>https://mi.tv</url></channel>
-<channel id="ATV.pe@SD"><display-name>ATV</display-name><icon src="https://i.imgur.com/eUzYZfg.png"/><url>https://mi.tv</url></channel>
-<channel id="pe#azteca-13"><display-name>Azteca 13</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#cinecanal"><display-name>Cinecanal</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#enlace-tbn"><display-name>Enlace TBN</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#pfc"><display-name>PFC</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#pat"><display-name>PAT</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#cine-latino"><display-name>Cinelatino</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#el-gourmet"><display-name>El Gourmet</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#paramount-channel"><display-name>Paramount Network</display-name><url>https://mi.tv</url></channel>
-<channel id="PanamericanaTV.pe@SD"><display-name>Panamericana TV</display-name><icon src="https://i.imgur.com/uQhEDES.png"/><url>https://mi.tv</url></channel>
-<channel id="pe#e"><display-name>E!</display-name><url>https://mi.tv</url></channel>
-<channel id="NickelodeonLatinAmerica.us@Panregional"><display-name>Nick</display-name><icon src="https://i.imgur.com/E84jnP8.png"/><url>https://mi.tv</url></channel>
+<channel id="WillaxTV.pe@SD"><display-name>Willax</display-name><icon src="https://i.imgur.com/bZnDDPH.png"/><url>https://mi.tv</url></channel>
+<channel id="pe#warner"><display-name>Warner Channel</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#ve-plus-tv"><display-name>Ve Plus TV</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#universal-channel"><display-name>Universal TV</display-name><url>https://mi.tv</url></channel>
+<channel id="UnitelSantaCruz.bo@SD"><display-name>Unitel</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#tyc-sports"><display-name>TyC Sports</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#tvn-chile"><display-name>TVN Chile</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#tve"><display-name>TVE</display-name><url>https://mi.tv</url></channel>
+<channel id="TVPeru.pe@SD"><display-name>TV Perú</display-name><icon src="https://i.imgur.com/6io0IrX.png"/><url>https://mi.tv</url></channel>
 <channel id="pe#tv-agro"><display-name>Tv Agro</display-name><url>https://mi.tv</url></channel>
 <channel id="pe#tru-tv"><display-name>TruTV</display-name><url>https://mi.tv</url></channel>
 <channel id="pe#tnt-series"><display-name>TNT Series</display-name><url>https://mi.tv</url></channel>
@@ -34,18 +29,16 @@
 <channel id="pe#rt-tv-russia-today"><display-name>Russia Today</display-name><url>https://mi.tv</url></channel>
 <channel id="pe#ritmoson-latino"><display-name>RMS</display-name><url>https://mi.tv</url></channel>
 <channel id="pe#rbc"><display-name>RBC</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#pfc"><display-name>PFC</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#pat"><display-name>PAT</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#paramount-channel"><display-name>Paramount Network</display-name><url>https://mi.tv</url></channel>
+<channel id="PanamericanaTV.pe@SD"><display-name>Panamericana TV</display-name><icon src="https://i.imgur.com/uQhEDES.png"/><url>https://mi.tv</url></channel>
+<channel id="NickelodeonLatinAmerica.us@Panregional"><display-name>Nick</display-name><icon src="https://i.imgur.com/E84jnP8.png"/><url>https://mi.tv</url></channel>
 <channel id="pe#nick-jr"><display-name>Nick Jr.</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#animal-planet"><display-name>Animal Planet</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#az-corazon"><display-name>Az Corazón</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#chilevision"><display-name>Chilevisión</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#distrito-comedia"><display-name>Distrito Comedia</display-name><url>https://mi.tv</url></channel>
 <channel id="GlobalTV.pe@SD"><display-name>NexTV</display-name><icon src="https://i.imgur.com/yuEou9C.png"/><url>https://mi.tv</url></channel>
 <channel id="pe#national-geographic"><display-name>National Geographic</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#disney-xd-multicountry"><display-name>Disney XD</display-name><url>https://mi.tv</url></channel>
 <channel id="pe#nat-geo-wild"><display-name>National Geographic Wild</display-name><url>https://mi.tv</url></channel>
 <channel id="pe#nat-geo-kids"><display-name>Nat Geo Kids</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#cctv-4"><display-name>CCTV 4</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#disney-multicountry"><display-name>Disney Channel</display-name><url>https://mi.tv</url></channel>
 <channel id="pe#multipremier"><display-name>Multipremier</display-name><url>https://mi.tv</url></channel>
 <channel id="pe#mtv-hits"><display-name>MTV Hits</display-name><url>https://mi.tv</url></channel>
 <channel id="MiGenteTV.co@SD"><display-name>Mi Gente TV</display-name><icon src="https://i.imgur.com/CSbmQlu.png"/><url>https://mi.tv</url></channel>
@@ -79,12 +72,15 @@
 <channel id="pe#espn-3"><display-name>ESPN 3</display-name><url>https://mi.tv</url></channel>
 <channel id="pe#espn-2"><display-name>ESPN 2</display-name><url>https://mi.tv</url></channel>
 <channel id="pe#espn"><display-name>ESPN</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#enlace-tbn"><display-name>Enlace TBN</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#el-gourmet"><display-name>El Gourmet</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#e"><display-name>E!</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#distrito-comedia"><display-name>Distrito Comedia</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#disney-xd-multicountry"><display-name>Disney XD</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#disney-multicountry"><display-name>Disney Channel</display-name><url>https://mi.tv</url></channel>
 <channel id="pe#disney-jr"><display-name>Disney Junior</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#axn"><display-name>AXN</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#cartoon-network"><display-name>Cartoon Network</display-name><url>https://mi.tv</url></channel>
 <channel id="pe#discovery-tlc"><display-name>TLC</display-name><url>https://mi.tv</url></channel>
 <channel id="pe#discovery-kids"><display-name>Discovery Kids</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#canal-7"><display-name>Canal 7</display-name><url>https://mi.tv</url></channel>
 <channel id="pe#discovery-id"><display-name>Investigation Discovery</display-name><url>https://mi.tv</url></channel>
 <channel id="pe#discovery-home-and-health"><display-name>Discovery Home &amp; Health</display-name><url>https://mi.tv</url></channel>
 <channel id="pe#discovery-channel"><display-name>Discovery Channel</display-name><url>https://mi.tv</url></channel>
@@ -97,23 +93,27 @@
 <channel id="CitytvBogota.co@SD"><display-name>Citytv</display-name><icon src="https://i.imgur.com/h7K9EW9.png"/><url>https://mi.tv</url></channel>
 <channel id="pe#cinemax"><display-name>Cinemax</display-name><url>https://mi.tv</url></channel>
 <channel id="pe#cinema"><display-name>Cinema+</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#america-television"><display-name>América Televisión</display-name><url>https://mi.tv</url></channel>
-<channel id="ATVSur.pe@SD"><display-name>ATV Sur</display-name><icon src="https://i.imgur.com/LnyVa5H.png"/><url>https://mi.tv</url></channel>
+<channel id="pe#cinecanal"><display-name>Cinecanal</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#cine-latino"><display-name>Cinelatino</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#chilevision"><display-name>Chilevisión</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#cctv-4"><display-name>CCTV 4</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#cartoon-network"><display-name>Cartoon Network</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#canal-7"><display-name>Canal 7</display-name><url>https://mi.tv</url></channel>
 <channel id="pe#cablenoticias"><display-name>Cablenoticias</display-name><url>https://mi.tv</url></channel>
 <channel id="BYUTV.us@SD"><display-name>BYUtv</display-name><icon src="https://i.imgur.com/mruGyuu.png"/><url>https://mi.tv</url></channel>
-<channel id="ATVPlus.pe@SD"><display-name>ATV +</display-name><icon src="https://i.imgur.com/fY9256H.png"/><url>https://mi.tv</url></channel>
 <channel id="pe#boomerang-cartoon"><display-name>Cartoonito</display-name><url>https://mi.tv</url></channel>
 <channel id="pe#bethel"><display-name>Bethel</display-name><url>https://mi.tv</url></channel>
 <channel id="pe#bbc-world"><display-name>BBC World</display-name><url>https://mi.tv</url></channel>
-<channel id="WillaxTV.pe@SD"><display-name>Willax</display-name><icon src="https://i.imgur.com/bZnDDPH.png"/><url>https://mi.tv</url></channel>
-<channel id="pe#warner"><display-name>Warner Channel</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#ve-plus-tv"><display-name>Ve Plus TV</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#tve"><display-name>TVE</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#tvn-chile"><display-name>TVN Chile</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#tyc-sports"><display-name>TyC Sports</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#universal-channel"><display-name>Universal TV</display-name><url>https://mi.tv</url></channel>
-<channel id="TVPeru.pe@SD"><display-name>TV Perú</display-name><icon src="https://i.imgur.com/6io0IrX.png"/><url>https://mi.tv</url></channel>
-<channel id="UnitelSantaCruz.bo@SD"><display-name>Unitel</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#azteca-13"><display-name>Azteca 13</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#az-corazon"><display-name>Az Corazón</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#axn"><display-name>AXN</display-name><url>https://mi.tv</url></channel>
+<channel id="ATVSur.pe@SD"><display-name>ATV Sur</display-name><icon src="https://i.imgur.com/LnyVa5H.png"/><url>https://mi.tv</url></channel>
+<channel id="ATVPlus.pe@SD"><display-name>ATV +</display-name><icon src="https://i.imgur.com/fY9256H.png"/><url>https://mi.tv</url></channel>
+<channel id="ATV.pe@SD"><display-name>ATV</display-name><icon src="https://i.imgur.com/eUzYZfg.png"/><url>https://mi.tv</url></channel>
+<channel id="pe#animal-planet"><display-name>Animal Planet</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#america-television"><display-name>América Televisión</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#america-sports"><display-name>América Sports</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#amc"><display-name>AMC</display-name><url>https://mi.tv</url></channel>
 <programme start="20261022060000 +0000" stop="20261022103000 +0000" channel="ATV.pe@SD"><title lang="es">Los hombres de Paco</title><desc lang="es">La historia de la familia del inspector Paco Miranda, que es trasladado a la comisaría de San Antonio, junto a los subinspectores y amigos, Lucas y Mariano.</desc><category lang="es">Comedia</category><image>https://cdn.mitvstatic.com/programs/pe_los-hombres-de-paco_l_m.jpg</image></programme>
 <programme start="20261022103000 +0000" stop="20261022113000 +0000" channel="ATV.pe@SD"><title lang="es">ATV Noticias - Edición matinal</title><desc lang="es">Disfrute de la mejor cobertura de las noticias locales e internacionales de la actualidad para mantenerse actualizado en todo momento.</desc><category lang="es">Noticiero</category><image>https://cdn.mitvstatic.com/programs/pe_atv-noticias-edicion-matinal-2_l_m.jpg</image></programme>
 <programme start="20261022113000 +0000" stop="20261022153000 +0000" channel="ATV.pe@SD"><title lang="es">ATV Noticias - Edición matinal</title><desc lang="es">Disfrute de la mejor cobertura de las noticias locales e internacionales de la actualidad para mantenerse actualizado en todo momento.</desc><category lang="es">Noticiero</category><image>https://cdn.mitvstatic.com/programs/pe_atv-noticias-edicion-matinal-2_l_m.jpg</image></programme>
@@ -3043,8 +3043,8 @@
 <programme start="20261022215000 +0000" stop="20261023001500 +0000" channel="pe#cinecanal"><title lang="es">Una nueva eternidad</title><title lang="en">The Lost Husband</title><desc lang="es">Después de la repentina muerte de su esposo, Libby se muda con su madre hipercrítica. De la nada, su distanciada tía Jean le ofrece a Libby y sus hijos un escape: trabajar y vivir en su granja en Texas Hill Country.</desc><category lang="es">Romántica</category><rating><value>6.0</value></rating><image>https://cdn.mitvstatic.com/programs/pe_una-nueva-eternidad-2020_l_m.jpg</image></programme>
 <programme start="20261023001500 +0000" stop="20261023030000 +0000" channel="pe#cinecanal"><title lang="es">El rey Arturo</title><title lang="en">King Arthur</title><desc lang="es">Tras la caída de Roma, Bretaña necesitará un rey, alguien que la defienda de la invasión sajona y les guíe hacia los nuevos tiempos. Con Merlín y Ginebra, Arturo tendrá que encontrar la fuerza para cambiar el curso de la historia.</desc><category lang="es">Acción</category><rating><value>6.3</value></rating><image>https://cdn.mitvstatic.com/programs/pe_el-rey-arturo-2004_l_m.jpg</image></programme>
 <programme start="20261023030000 +0000" stop="20261023050900 +0000" channel="pe#cinecanal"><title lang="es">A los trece</title><title lang="en">Thirteen</title><desc lang="es">Tracy, una joven de 13 años, bajo la peligrosa influencia de Evie, la chica más popular de la escuela, se mete en un acelerado ritmo de vida, deambulando por un mundo salvaje de sexo, crimen y drogas sobre el que no tiene control.</desc><category lang="es">Drama</category><rating><value>6.8</value></rating><image>https://cdn.mitvstatic.com/programs/pe_a-los-trece-2003_l_m.jpg</image></programme>
-<programme start="20261023050900 +0000" stop="20261023060900 +0000" channel="pe#cinecanal"><title lang="es">Mujer bonita</title><title lang="en">Pretty Woman</title><desc lang="es">Edward es un hombre de negocios que se especializa en comprar compañías para luego venderlas por partes. Sin embargo, en un viaje de trabajo, decide contratar una prostituta para que haga de su acompañante en reuniones sociales.</desc><category lang="es">Comedia</category><rating><value>7.0</value></rating><image>https://cdn.mitvstatic.com/programs/pe_mujer-bonita-1990_l_m.jpg</image></programme>
 <programme start="20261023050900 +0000" stop="20261023073200 +0000" channel="pe#cinecanal"><title lang="es">Mujer bonita</title><title lang="en">Pretty Woman</title><desc lang="es">Edward es un hombre de negocios que se especializa en comprar compañías para luego venderlas por partes. Sin embargo, en un viaje de trabajo, decide contratar una prostituta para que haga de su acompañante en reuniones sociales.</desc><category lang="es">Comedia</category><rating><value>7.0</value></rating><image>https://cdn.mitvstatic.com/programs/pe_mujer-bonita-1990_l_m.jpg</image></programme>
+<programme start="20261023050900 +0000" stop="20261023060900 +0000" channel="pe#cinecanal"><title lang="es">Mujer bonita</title><title lang="en">Pretty Woman</title><desc lang="es">Edward es un hombre de negocios que se especializa en comprar compañías para luego venderlas por partes. Sin embargo, en un viaje de trabajo, decide contratar una prostituta para que haga de su acompañante en reuniones sociales.</desc><category lang="es">Comedia</category><rating><value>7.0</value></rating><image>https://cdn.mitvstatic.com/programs/pe_mujer-bonita-1990_l_m.jpg</image></programme>
 <programme start="20261023073200 +0000" stop="20261023090700 +0000" channel="pe#cinecanal"><title lang="es">Policía: turno nocturno</title><title lang="en">Police</title><desc lang="es">Tres policías reconducen a un extranjero a la frontera. Durante el camino al aeropuerto, Virginie entiende que si el prisionero pone un pie en su país de origen sufre el riesgo de morir.</desc><category lang="es">Drama</category><rating><value>6.1</value></rating><image>https://cdn.mitvstatic.com/programs/fallback_movies_l_m.jpg</image></programme>
 <programme start="20261023090700 +0000" stop="20261023120000 +0000" channel="pe#cinecanal"><title lang="es">Terremoto 8.5</title><title lang="en">Baekdusan</title><desc lang="es">Una inesperada erupción del volcán más alto de Corea, ubicado en la frontera entre China y Corea del Norte, deja la península coreana en ruinas. Los sismólogos advierten que aún está por llegar una erupción mucho más devastadora.</desc><category lang="es">Acción</category><image>https://cdn.mitvstatic.com/programs/fallback_movies_l_m.jpg</image></programme>
 <programme start="20261023120000 +0000" stop="20261023134800 +0000" channel="pe#cinecanal"><title lang="es">Henry y Klauss: maestros de la magia</title><desc lang="es">¡Prepárate para vivir lo imposible! Maestros de la Magia es el espectáculo de ilusionismo más grande de América Latina, con actos que desafían la lógica y la realidad. Levitaciones, teletransportaciones, impresionantes escapes y más.</desc><category lang="es">Especial</category><image>https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg</image></programme>
@@ -7664,8 +7664,8 @@
 <programme start="20261023030000 +0000" stop="20261023035000 +0000" channel="pe#universal-channel"><title lang="es">El novato</title><sub-title lang="es">Tigre Oso</sub-title><desc lang="es">Un incidente preocupante en una escuela lleva al equipo a enfrentarse a un caso complejo, mientras que la misión temporal de Celina la pone en peligro.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">7.13.0/1</episode-num><episode-num system="onscreen">S08E14</episode-num><image>https://cdn.mitvstatic.com/programs/pe_el-novato-s08e14-tigre-oso_l_m.jpg</image></programme>
 <programme start="20261023035000 +0000" stop="20261023044000 +0000" channel="pe#universal-channel"><title lang="es">Policías de Chicago</title><sub-title lang="es">Desaparecido</sub-title><desc lang="es">La unidad se apresura a buscar a uno de los suyos que corre grave peligro.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">8.14.0/1</episode-num><episode-num system="onscreen">S09E15</episode-num><image>https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg</image></programme>
 <programme start="20261023044000 +0000" stop="20261023053000 +0000" channel="pe#universal-channel"><title lang="es">Policías de Chicago</title><sub-title lang="es">Más cerca</sub-title><desc lang="es">Cuando un joven recibe un disparo fuera de la Panadería Cárabo, el equipo trabaja para conectar el tiroteo con el propietario de la panadería, Javier Escano, quien ha estado bajo vigilancia.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">8.15.0/1</episode-num><episode-num system="onscreen">S09E16</episode-num><image>https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg</image></programme>
-<programme start="20261023053000 +0000" stop="20261023063000 +0000" channel="pe#universal-channel"><title lang="es">Chicago Fire</title><sub-title lang="es">Sesenta días</sub-title><desc lang="es">Cruz se encuentra en una situación difícil cuando un incidente fuera de su horario de trabajo comienza a tener consecuencias, obligando a Mouch a intervenir y ofrecer ayuda con la esperanza de evitar las repercusiones.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">4.20.0/1</episode-num><episode-num system="onscreen">S05E21</episode-num><image>https://cdn.mitvstatic.com/programs/pe_chicago-fire-s05e21-sesenta-dias_l_m.jpg</image></programme>
 <programme start="20261023053000 +0000" stop="20261023062000 +0000" channel="pe#universal-channel"><title lang="es">Chicago Fire</title><sub-title lang="es">Sesenta días</sub-title><desc lang="es">Cruz se encuentra en una situación difícil cuando un incidente fuera de su horario de trabajo comienza a tener consecuencias, obligando a Mouch a intervenir y ofrecer ayuda con la esperanza de evitar las repercusiones.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">4.20.0/1</episode-num><episode-num system="onscreen">S05E21</episode-num><image>https://cdn.mitvstatic.com/programs/pe_chicago-fire-s05e21-sesenta-dias_l_m.jpg</image></programme>
+<programme start="20261023053000 +0000" stop="20261023063000 +0000" channel="pe#universal-channel"><title lang="es">Chicago Fire</title><sub-title lang="es">Sesenta días</sub-title><desc lang="es">Cruz se encuentra en una situación difícil cuando un incidente fuera de su horario de trabajo comienza a tener consecuencias, obligando a Mouch a intervenir y ofrecer ayuda con la esperanza de evitar las repercusiones.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">4.20.0/1</episode-num><episode-num system="onscreen">S05E21</episode-num><image>https://cdn.mitvstatic.com/programs/pe_chicago-fire-s05e21-sesenta-dias_l_m.jpg</image></programme>
 <programme start="20261023062000 +0000" stop="20261023071000 +0000" channel="pe#universal-channel"><title lang="es">Chicago Fire</title><sub-title lang="es">Mi milagro</sub-title><desc lang="es">Un peligroso incendio en un depósito pone en peligro a los bomberos y a los rescatistas. Además, aumenta la tensión para Dawson y Casey cuando el padre de Dawson se queda demasiado tiempo en su hogar.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">4.21.0/1</episode-num><episode-num system="onscreen">S05E22</episode-num><image>https://cdn.mitvstatic.com/programs/pe_chicago-fire-s05e22-mi-milagro_l_m.jpg</image></programme>
 <programme start="20261023071000 +0000" stop="20261023080000 +0000" channel="pe#universal-channel"><title lang="es">Chicago Fire</title><sub-title lang="es">No fue suficiente</sub-title><desc lang="es">Con la mayor parte del escuadrón aún atrapado en el incendio del almacén, el Jefe Boden toma una arriesgada decisión de último minuto para salvarlos.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">5.0.0/1</episode-num><episode-num system="onscreen">S06E01</episode-num><image>https://cdn.mitvstatic.com/programs/pe_chicago-fire-s06e01-no-fue-suficiente_l_m.jpg</image></programme>
 <programme start="20261023080000 +0000" stop="20261023084500 +0000" channel="pe#universal-channel"><title lang="es">Policías de Chicago</title><sub-title lang="es">Tú y yo</sub-title><desc lang="es">El equipo se esfuerza por acabar de una vez por todas con Escano, mientras todos se acercan a su punto de quiebre.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">8.21.0/1</episode-num><episode-num system="onscreen">S09E22</episode-num><image>https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg</image></programme>
