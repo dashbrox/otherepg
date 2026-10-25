@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20261025">
 <channel id="mx#a-e-mundo"><display-name>A&amp;E</display-name><url>https://mi.tv</url></channel>
-<channel id="mx#xh-gc-canal-5-hd"><display-name>Canal 5 HD</display-name><url>https://mi.tv</url></channel>
+<channel id="mx#a-plus"><display-name>A+</display-name><url>https://mi.tv</url></channel>
 <channel id="Canal5.mx@SD"><display-name>Canal 5</display-name><icon src="https://i.imgur.com/uZdVSoW.png"/><url>https://mi.tv</url></channel>
 <channel id="XEIPNTDT.mx@SD"><display-name>Canal Once</display-name><icon src="https://i.imgur.com/K0351vF.png"/><url>https://mi.tv</url></channel>
 <channel id="WOBI.ar@SD"><display-name>WOBI TV</display-name><icon src="https://i.imgur.com/uW4WIvC.png"/><url>https://mi.tv</url></channel>
@@ -119,7 +119,7 @@
 <channel id="mx#animal-planet"><display-name>Animal Planet</display-name><url>https://mi.tv</url></channel>
 <channel id="mx#amc-hd"><display-name>AMC HD</display-name><url>https://mi.tv</url></channel>
 <channel id="AMCLatinAmerica.us@SD"><display-name>AMC</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png"/><url>https://mi.tv</url></channel>
-<channel id="mx#a-plus"><display-name>A+</display-name><url>https://mi.tv</url></channel>
+<channel id="mx#xh-gc-canal-5-hd"><display-name>Canal 5 HD</display-name><url>https://mi.tv</url></channel>
 <programme start="20261025060000 +0000" stop="20261025081500 +0000" channel="AMCLatinAmerica.us@SD"><title lang="es">El desafío</title><title lang="en">The Walk</title><desc lang="es">Basada en las memorias escritas por Philippe Petit, un funambulista francés que se propuso un reto nunca antes realizado: recorrer sobre un cable el espacio que separaba las Torres Gemelas de Nueva York.</desc><category lang="es">Aventura</category><rating><value>7.4</value></rating><image>https://cdn.mitvstatic.com/programs/mx_el-desafio-2015_l_m.jpg</image></programme>
 <programme start="20261025081500 +0000" stop="20261025091000 +0000" channel="AMCLatinAmerica.us@SD"><title lang="es">El terror</title><sub-title lang="es">Bermellón</sub-title><desc lang="es">El joven Dorry es forzado a someterse a una lobotomía. New Hyde cerrará y el demonio quiere salir. Dorry pierde la cabeza.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">2.4.0/1</episode-num><episode-num system="onscreen">S03E05</episode-num><image>https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg</image></programme>
 <programme start="20261025091000 +0000" stop="20261025111000 +0000" channel="AMCLatinAmerica.us@SD"><title lang="es">El profesor Marston y la Mujer Maravilla</title><title lang="en">Professor Marston and the Wonder Women</title><desc lang="es">Basada en la vida del Dr. William Marston, psicólogo y teórico de Harvard, quien ayudó a crear el detector de mentiras y el famoso personaje ficticio de la Mujer Maravilla.</desc><category lang="es">Drama</category><rating><value>7.1</value></rating><image>https://cdn.mitvstatic.com/programs/mx_el-profesor-marston-y-la-mujer-maravilla-2017_l_m.jpg</image></programme>
