@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20261027">
 <channel id="cl#a-e-mundo"><display-name>A&amp;E</display-name><url>https://mi.tv</url></channel>
-<channel id="cl#al-jazeera"><display-name>Al Jazeera</display-name><url>https://mi.tv</url></channel>
-<channel id="AMCLatinAmerica.us@SD"><display-name>AMC</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png"/><url>https://mi.tv</url></channel>
-<channel id="cl#animal-planet"><display-name>Animal Planet</display-name><url>https://mi.tv</url></channel>
-<channel id="AmericaSports.ar@SD"><display-name>América Sports</display-name><icon src="https://i.imgur.com/GOQ9zOI.png"/><url>https://mi.tv</url></channel>
+<channel id="ZonaLatina.cl@SD"><display-name>Zona Latina</display-name><icon src="https://i.imgur.com/lMyZZtk.png"/><url>https://mi.tv</url></channel>
+<channel id="WarnerChannel.us@Panregional"><display-name>Warner Channel</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Warner_Channel_2026.svg/960px-Warner_Channel_2026.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="ViaX.cl@SD"><display-name>Vía X</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/d/d3/VIAX-oficial.png"/><url>https://mi.tv</url></channel>
 <channel id="cl#vh1-mega-hits"><display-name>VH1 Mega Hits</display-name><url>https://mi.tv</url></channel>
 <channel id="cl#vh1"><display-name>VH1</display-name><url>https://mi.tv</url></channel>
 <channel id="cl#universidad-autonoma-temuco-uatv"><display-name>Universidad Autónoma Temuco (UATV)</display-name><url>https://mi.tv</url></channel>
@@ -188,9 +187,10 @@
 <channel id="ARTV.cl@SD"><display-name>ARTV</display-name><icon src="https://i.imgur.com/rKP1ihL.png"/><url>https://mi.tv</url></channel>
 <channel id="cl#antena-3"><display-name>Antena 3</display-name><url>https://mi.tv</url></channel>
 <channel id="cl#animal-planet-hd"><display-name>Animal Planet HD</display-name><url>https://mi.tv</url></channel>
-<channel id="ZonaLatina.cl@SD"><display-name>Zona Latina</display-name><icon src="https://i.imgur.com/lMyZZtk.png"/><url>https://mi.tv</url></channel>
-<channel id="WarnerChannel.us@Panregional"><display-name>Warner Channel</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Warner_Channel_2026.svg/960px-Warner_Channel_2026.svg.png"/><url>https://mi.tv</url></channel>
-<channel id="ViaX.cl@SD"><display-name>Vía X</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/d/d3/VIAX-oficial.png"/><url>https://mi.tv</url></channel>
+<channel id="cl#animal-planet"><display-name>Animal Planet</display-name><url>https://mi.tv</url></channel>
+<channel id="AmericaSports.ar@SD"><display-name>América Sports</display-name><icon src="https://i.imgur.com/GOQ9zOI.png"/><url>https://mi.tv</url></channel>
+<channel id="AMCLatinAmerica.us@SD"><display-name>AMC</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="cl#al-jazeera"><display-name>Al Jazeera</display-name><url>https://mi.tv</url></channel>
 <programme start="20261027060000 +0000" stop="20261027070000 +0000" channel="13C.cl@SD"><title lang="es">Recomiendo Chile</title><sub-title lang="es">Panguipulli</sub-title><desc lang="es">Recomiendo Chile es una serie documental que aporta una mirada moderna hacia la gastronomía tradicional de nuestro país.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">13.10.0/1</episode-num><episode-num system="onscreen">S14E11</episode-num><image>https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg</image></programme>
 <programme start="20261027070000 +0000" stop="20261027080000 +0000" channel="13C.cl@SD"><title lang="es">Lugares que hablan</title><sub-title lang="es">Chañaral de aceituno</sub-title><desc lang="es">Francisco Saavedra realiza un viaje especial para conocer la geografía de Chile, su gente y sus tradiciones. En esta ocasión, se sumerge en las gélidas aguas del extremo sur chileno para llegar a la recóndita localidad de Puerto Edén.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">3.32.0/1</episode-num><episode-num system="onscreen">S04E33</episode-num><image>https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg</image></programme>
 <programme start="20261027080000 +0000" stop="20261027090000 +0000" channel="13C.cl@SD"><title lang="es">Cultura indómita</title><sub-title lang="es">Isla de Utila, Honduras</sub-title><desc lang="es">Atrévete a realizar un recorrido por los destinos más fascinantes de Sudamérica, donde podrás conocer su historia, geografía, tradiciones, manifestaciones culturales, creencias y algo más.</desc><category lang="es">Serie</category><episode-num system="xmltv_ns">0.176.0/1</episode-num><episode-num system="onscreen">S01E177</episode-num><image>https://cdn.mitvstatic.com/programs/cl_cultura-indomita-s01e177-isla-de-utila-honduras_l_m.jpg</image></programme>
