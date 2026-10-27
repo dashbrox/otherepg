@@ -6,114 +6,114 @@
 <channel id="pe#azteca-13"><display-name>Azteca 13</display-name><url>https://mi.tv</url></channel>
 <channel id="pe#cinecanal"><display-name>Cinecanal</display-name><url>https://mi.tv</url></channel>
 <channel id="pe#enlace-tbn"><display-name>Enlace TBN</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#pat"><display-name>PAT</display-name><url>https://mi.tv</url></channel>
 <channel id="pe#cine-latino"><display-name>Cinelatino</display-name><url>https://mi.tv</url></channel>
 <channel id="pe#el-gourmet"><display-name>El Gourmet</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#paramount-channel"><display-name>Paramount Network</display-name><url>https://mi.tv</url></channel>
+<channel id="PanamericanaTV.pe@SD"><display-name>Panamericana TV</display-name><icon src="https://i.imgur.com/uQhEDES.png"/><url>https://mi.tv</url></channel>
 <channel id="pe#e"><display-name>E!</display-name><url>https://mi.tv</url></channel>
+<channel id="NickelodeonLatinAmerica.us@Panregional"><display-name>Nick</display-name><icon src="https://i.imgur.com/E84jnP8.png"/><url>https://mi.tv</url></channel>
+<channel id="pe#nick-jr"><display-name>Nick Jr.</display-name><url>https://mi.tv</url></channel>
 <channel id="pe#animal-planet"><display-name>Animal Planet</display-name><url>https://mi.tv</url></channel>
 <channel id="pe#az-corazon"><display-name>Az Corazón</display-name><url>https://mi.tv</url></channel>
 <channel id="pe#chilevision"><display-name>Chilevisión</display-name><url>https://mi.tv</url></channel>
 <channel id="pe#distrito-comedia"><display-name>Distrito Comedia</display-name><url>https://mi.tv</url></channel>
+<channel id="GlobalTV.pe@SD"><display-name>NexTV</display-name><icon src="https://i.imgur.com/yuEou9C.png"/><url>https://mi.tv</url></channel>
+<channel id="pe#national-geographic"><display-name>National Geographic</display-name><url>https://mi.tv</url></channel>
 <channel id="pe#disney-xd-multicountry"><display-name>Disney XD</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#nat-geo-wild"><display-name>National Geographic Wild</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#nat-geo-kids"><display-name>Nat Geo Kids</display-name><url>https://mi.tv</url></channel>
 <channel id="pe#cctv-4"><display-name>CCTV 4</display-name><url>https://mi.tv</url></channel>
 <channel id="pe#disney-multicountry"><display-name>Disney Channel</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#multipremier"><display-name>Multipremier</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#mtv-hits"><display-name>MTV Hits</display-name><url>https://mi.tv</url></channel>
 <channel id="pe#disney-jr"><display-name>Disney Junior</display-name><url>https://mi.tv</url></channel>
+<channel id="MiGenteTV.co@SD"><display-name>Mi Gente TV</display-name><icon src="https://i.imgur.com/CSbmQlu.png"/><url>https://mi.tv</url></channel>
+<channel id="MasChic.ar@Panregional"><display-name>Más Chic</display-name><icon src="https://i.imgur.com/cJC22gJ.png"/><url>https://mi.tv</url></channel>
 <channel id="pe#axn"><display-name>AXN</display-name><url>https://mi.tv</url></channel>
 <channel id="pe#cartoon-network"><display-name>Cartoon Network</display-name><url>https://mi.tv</url></channel>
 <channel id="pe#discovery-tlc"><display-name>TLC</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#mariavision"><display-name>Mariavisión</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#lifetime"><display-name>Lifetime</display-name><url>https://mi.tv</url></channel>
 <channel id="pe#discovery-kids"><display-name>Discovery Kids</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#las-estrellas"><display-name>Las Estrellas</display-name><url>https://mi.tv</url></channel>
+<channel id="LaTele.pe@SD"><display-name>La Tele</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LaTele_Per%C3%BA_2018_Logo.png/960px-LaTele_Per%C3%BA_2018_Logo.png"/><url>https://mi.tv</url></channel>
 <channel id="pe#canal-7"><display-name>Canal 7</display-name><url>https://mi.tv</url></channel>
 <channel id="pe#discovery-id"><display-name>Investigation Discovery</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#i-sat"><display-name>I.Sat</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#htv"><display-name>HTV</display-name><url>https://mi.tv</url></channel>
 <channel id="pe#discovery-home-and-health"><display-name>Discovery Home &amp; Health</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#history"><display-name>History</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#hbo"><display-name>HBO</display-name><url>https://mi.tv</url></channel>
 <channel id="pe#america-television"><display-name>América Televisión</display-name><url>https://mi.tv</url></channel>
 <channel id="ATVSur.pe@SD"><display-name>ATV Sur</display-name><icon src="https://i.imgur.com/LnyVa5H.png"/><url>https://mi.tv</url></channel>
 <channel id="pe#cablenoticias"><display-name>Cablenoticias</display-name><url>https://mi.tv</url></channel>
 <channel id="pe#discovery-channel"><display-name>Discovery Channel</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#h2"><display-name>History 2</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#golden-edge"><display-name>Golden Edge</display-name><url>https://mi.tv</url></channel>
 <channel id="DW.de@DeutschPlus"><display-name>DW (Español)</display-name><icon src="https://i.imgur.com/MNKkgfa.png"/><url>https://mi.tv</url></channel>
+<channel id="pe#golden"><display-name>Golden</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#gol-tv"><display-name>GOL TV</display-name><url>https://mi.tv</url></channel>
 <channel id="BYUTV.us@SD"><display-name>BYUtv</display-name><icon src="https://i.imgur.com/mruGyuu.png"/><url>https://mi.tv</url></channel>
 <channel id="pe#destinos-tv"><display-name>Destinos TV</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#glitz"><display-name>Glitz</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#fx"><display-name>FX</display-name><url>https://mi.tv</url></channel>
 <channel id="pe#de-pelicula"><display-name>De Película</display-name><url>https://mi.tv</url></channel>
+<channel id="Latina.pe@SD"><display-name>Latina</display-name><icon src="https://i.imgur.com/MOsWriY.png"/><url>https://mi.tv</url></channel>
+<channel id="pe#fox-sports-3"><display-name>FOX Sports 3</display-name><url>https://mi.tv</url></channel>
 <channel id="ATVPlus.pe@SD"><display-name>ATV +</display-name><icon src="https://i.imgur.com/fY9256H.png"/><url>https://mi.tv</url></channel>
 <channel id="pe#boomerang-cartoon"><display-name>Cartoonito</display-name><url>https://mi.tv</url></channel>
 <channel id="pe#cnn-en-espanol"><display-name>CNN en Español</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#fox-sports-2"><display-name>FOX Sports 2</display-name><url>https://mi.tv</url></channel>
 <channel id="pe#fox-sports"><display-name>FOX Sports</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#cnn-domestico"><display-name>CNN (EE.UU.)</display-name><url>https://mi.tv</url></channel>
 <channel id="pe#fox-life"><display-name>Star Life</display-name><url>https://mi.tv</url></channel>
 <channel id="pe#fox"><display-name>Star Channel</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#bethel"><display-name>Bethel</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#cnn"><display-name>CNN</display-name><url>https://mi.tv</url></channel>
 <channel id="pe#film-zone"><display-name>Film Zone</display-name><url>https://mi.tv</url></channel>
 <channel id="pe#film-arts"><display-name>film&amp;arts</display-name><url>https://mi.tv</url></channel>
-<channel id="CitytvBogota.co@SD"><display-name>Citytv</display-name><icon src="https://i.imgur.com/h7K9EW9.png"/><url>https://mi.tv</url></channel>
 <channel id="pe#ewtn"><display-name>EWTN</display-name><url>https://mi.tv</url></channel>
 <channel id="pe#europa-europa"><display-name>Europa Europa</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#bbc-world"><display-name>BBC World</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#cinemax"><display-name>Cinemax</display-name><url>https://mi.tv</url></channel>
 <channel id="pe#euronews"><display-name>Euronews</display-name><url>https://mi.tv</url></channel>
 <channel id="pe#eurochannel"><display-name>Eurochannel</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#cinema"><display-name>Cinema+</display-name><url>https://mi.tv</url></channel>
 <channel id="pe#espn-3"><display-name>ESPN 3</display-name><url>https://mi.tv</url></channel>
 <channel id="pe#espn-2"><display-name>ESPN 2</display-name><url>https://mi.tv</url></channel>
 <channel id="pe#espn"><display-name>ESPN</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#gol-tv"><display-name>GOL TV</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#glitz"><display-name>Glitz</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#fx"><display-name>FX</display-name><url>https://mi.tv</url></channel>
-<channel id="Latina.pe@SD"><display-name>Latina</display-name><icon src="https://i.imgur.com/MOsWriY.png"/><url>https://mi.tv</url></channel>
-<channel id="pe#fox-sports-3"><display-name>FOX Sports 3</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#fox-sports-2"><display-name>FOX Sports 2</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#pfc"><display-name>PFC</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#pat"><display-name>PAT</display-name><url>https://mi.tv</url></channel>
-<channel id="PanamericanaTV.pe@SD"><display-name>Panamericana TV</display-name><icon src="https://i.imgur.com/uQhEDES.png"/><url>https://mi.tv</url></channel>
-<channel id="NickelodeonLatinAmerica.us@Panregional"><display-name>Nick</display-name><icon src="https://i.imgur.com/E84jnP8.png"/><url>https://mi.tv</url></channel>
-<channel id="pe#nick-jr"><display-name>Nick Jr.</display-name><url>https://mi.tv</url></channel>
-<channel id="GlobalTV.pe@SD"><display-name>NexTV</display-name><icon src="https://i.imgur.com/yuEou9C.png"/><url>https://mi.tv</url></channel>
-<channel id="pe#national-geographic"><display-name>National Geographic</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#nat-geo-wild"><display-name>National Geographic Wild</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#nat-geo-kids"><display-name>Nat Geo Kids</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#multipremier"><display-name>Multipremier</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#mtv-hits"><display-name>MTV Hits</display-name><url>https://mi.tv</url></channel>
-<channel id="MiGenteTV.co@SD"><display-name>Mi Gente TV</display-name><icon src="https://i.imgur.com/CSbmQlu.png"/><url>https://mi.tv</url></channel>
-<channel id="pe#mariavision"><display-name>Mariavisión</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#lifetime"><display-name>Lifetime</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#las-estrellas"><display-name>Las Estrellas</display-name><url>https://mi.tv</url></channel>
-<channel id="LaTele.pe@SD"><display-name>La Tele</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LaTele_Per%C3%BA_2018_Logo.png/960px-LaTele_Per%C3%BA_2018_Logo.png"/><url>https://mi.tv</url></channel>
-<channel id="pe#htv"><display-name>HTV</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#history"><display-name>History</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#hbo"><display-name>HBO</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#h2"><display-name>History 2</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#cnn-domestico"><display-name>CNN (EE.UU.)</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#bethel"><display-name>Bethel</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#cnn"><display-name>CNN</display-name><url>https://mi.tv</url></channel>
+<channel id="CitytvBogota.co@SD"><display-name>Citytv</display-name><icon src="https://i.imgur.com/h7K9EW9.png"/><url>https://mi.tv</url></channel>
+<channel id="pe#bbc-world"><display-name>BBC World</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#cinemax"><display-name>Cinemax</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#cinema"><display-name>Cinema+</display-name><url>https://mi.tv</url></channel>
 <channel id="WillaxTV.pe@SD"><display-name>Willax</display-name><icon src="https://i.imgur.com/bZnDDPH.png"/><url>https://mi.tv</url></channel>
-<channel id="pe#warner"><display-name>Warner Channel</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#ve-plus-tv"><display-name>Ve Plus TV</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#universal-channel"><display-name>Universal TV</display-name><url>https://mi.tv</url></channel>
 <channel id="pe#tyc-sports"><display-name>TyC Sports</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#tvn-chile"><display-name>TVN Chile</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#tve"><display-name>TVE</display-name><url>https://mi.tv</url></channel>
-<channel id="TVPeru.pe@SD"><display-name>TV Perú</display-name><icon src="https://i.imgur.com/6io0IrX.png"/><url>https://mi.tv</url></channel>
 <channel id="pe#tru-tv"><display-name>TruTV</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#tnt-series"><display-name>TNT Series</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#tnt"><display-name>TNT</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#tlnovelas"><display-name>TLNovelas</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#televen"><display-name>Televen</display-name><url>https://mi.tv</url></channel>
 <channel id="pe#telesur"><display-name>Telesur</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#telenostalgia"><display-name>Telenostalgia</display-name><url>https://mi.tv</url></channel>
 <channel id="pe#telemundo"><display-name>Telemundo</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#telehit"><display-name>Telehit</display-name><url>https://mi.tv</url></channel>
-<channel id="Telefuturo.py@SD"><display-name>Telefuturo</display-name><icon src="https://i.imgur.com/6lVrFvb.png"/><url>https://mi.tv</url></channel>
-<channel id="pe#tbs-veryfunny-pan"><display-name>TBS</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#syfy"><display-name>Syfy</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#ritmoson-latino"><display-name>RMS</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#universal-channel"><display-name>Universal TV</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#tnt"><display-name>TNT</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#tve"><display-name>TVE</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#tlnovelas"><display-name>TLNovelas</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#pfc"><display-name>PFC</display-name><url>https://mi.tv</url></channel>
+<channel id="TVPeru.pe@SD"><display-name>TV Perú</display-name><icon src="https://i.imgur.com/6io0IrX.png"/><url>https://mi.tv</url></channel>
+<channel id="pe#telenostalgia"><display-name>Telenostalgia</display-name><url>https://mi.tv</url></channel>
 <channel id="pe#space"><display-name>Space</display-name><url>https://mi.tv</url></channel>
 <channel id="pe#sony"><display-name>Sony</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#rt-tv-russia-today"><display-name>Russia Today</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#ritmoson-latino"><display-name>RMS</display-name><url>https://mi.tv</url></channel>
 <channel id="pe#rbc"><display-name>RBC</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#paramount-channel"><display-name>Paramount Network</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#i-sat"><display-name>I.Sat</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#golden-edge"><display-name>Golden Edge</display-name><url>https://mi.tv</url></channel>
 <channel id="UnitelSantaCruz.bo@SD"><display-name>Unitel</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#tvn-chile"><display-name>TVN Chile</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#warner"><display-name>Warner Channel</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#tnt-series"><display-name>TNT Series</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#televen"><display-name>Televen</display-name><url>https://mi.tv</url></channel>
+<channel id="Telefuturo.py@SD"><display-name>Telefuturo</display-name><icon src="https://i.imgur.com/6lVrFvb.png"/><url>https://mi.tv</url></channel>
+<channel id="pe#syfy"><display-name>Syfy</display-name><url>https://mi.tv</url></channel>
 <channel id="pe#tv-agro"><display-name>Tv Agro</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#telehit"><display-name>Telehit</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#rt-tv-russia-today"><display-name>Russia Today</display-name><url>https://mi.tv</url></channel>
 <channel id="RumbaTV.co@SD"><display-name>Rumba TV</display-name><icon src="https://i.imgur.com/WtVpWwI.png"/><url>https://mi.tv</url></channel>
-<channel id="MasChic.ar@Panregional"><display-name>Más Chic</display-name><icon src="https://i.imgur.com/cJC22gJ.png"/><url>https://mi.tv</url></channel>
 <channel id="pe#tcm"><display-name>TCM</display-name><url>https://mi.tv</url></channel>
-<channel id="pe#golden"><display-name>Golden</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#ve-plus-tv"><display-name>Ve Plus TV</display-name><url>https://mi.tv</url></channel>
+<channel id="pe#tbs-veryfunny-pan"><display-name>TBS</display-name><url>https://mi.tv</url></channel>
 <programme start="20261027060000 +0000" stop="20261027103000 +0000" channel="ATV.pe@SD"><title lang="es">Los hombres de Paco</title><desc lang="es">La historia de la familia del inspector Paco Miranda, que es trasladado a la comisaría de San Antonio, junto a los subinspectores y amigos, Lucas y Mariano.</desc><category lang="es">Comedia</category><image>https://cdn.mitvstatic.com/programs/pe_los-hombres-de-paco_l_m.jpg</image></programme>
 <programme start="20261027103000 +0000" stop="20261027113000 +0000" channel="ATV.pe@SD"><title lang="es">ATV Noticias - Edición matinal</title><desc lang="es">Disfrute de la mejor cobertura de las noticias locales e internacionales de la actualidad para mantenerse actualizado en todo momento.</desc><category lang="es">Noticiero</category><image>https://cdn.mitvstatic.com/programs/pe_atv-noticias-edicion-matinal-2_l_m.jpg</image></programme>
 <programme start="20261027113000 +0000" stop="20261027153000 +0000" channel="ATV.pe@SD"><title lang="es">ATV Noticias - Edición matinal</title><desc lang="es">Disfrute de la mejor cobertura de las noticias locales e internacionales de la actualidad para mantenerse actualizado en todo momento.</desc><category lang="es">Noticiero</category><image>https://cdn.mitvstatic.com/programs/pe_atv-noticias-edicion-matinal-2_l_m.jpg</image></programme>
