@@ -105,6 +105,7 @@ CHANNELS = [
     "XITEHits.us",
     "TelemundoWSCV.us",
     "TennisTV247.us",
+    "Showtime2.us",
 ]
 
 
