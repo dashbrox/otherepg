@@ -1,0 +1,156 @@
+name: Generate TVTV.us lineup guide
+
+on:
+  workflow_dispatch:
+    inputs:
+      lineup_url:
+        description: "TVTV.us lineup URL"
+        required: true
+        default: "https://www.tvtv.us/10080/lineup/luUSA-NY63086-X/"
+        type: string
+      days:
+        description: "Number of days to scrape"
+        required: true
+        default: "2"
+        type: choice
+        options:
+          - "1"
+          - "2"
+          - "3"
+          - "4"
+          - "5"
+          - "6"
+          - "7"
+          - "8"
+  schedule:
+    # 07:43 UTC = 01:43 America/Mexico_City (avoid the top of the hour).
+    - cron: "43 7 * * *"
+
+permissions:
+  contents: write
+
+# Coordinate with custom-epg.yml because both workflows update custom-guides/.
+concurrency:
+  group: epg-custom-guides
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    services:
+      flaresolverr:
+        image: ghcr.io/flaresolverr/flaresolverr:latest
+        ports:
+          - 8191:8191
+
+    env:
+      TVTV_LINEUP_URL: ${{ inputs.lineup_url || 'https://www.tvtv.us/10080/lineup/luUSA-NY63086-X/' }}
+      FLARESOLVERR_URL: http://localhost:8191
+      GRAB_DAYS: ${{ inputs.days || '2' }}
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v5
+        with:
+          ref: master
+          fetch-depth: 0
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Wait for FlareSolverr
+        shell: bash
+        run: |
+          set -euo pipefail
+          for attempt in $(seq 1 90); do
+            if curl -fsS http://localhost:8191/health >/dev/null; then
+              echo "FlareSolverr está listo."
+              exit 0
+            fi
+            sleep 2
+          done
+          echo "::error::FlareSolverr no respondió en el tiempo esperado."
+          exit 1
+
+      - name: Discover channels in the selected TVTV.us lineup
+        run: node scripts/commands/epg/tvtv-us-lineup.js
+
+      - name: Scrape TVTV.us and generate XMLTV
+        shell: bash
+        run: |
+          set -euo pipefail
+          case "$GRAB_DAYS" in
+            1|2|3|4|5|6|7|8) ;;
+            *) echo "::error::GRAB_DAYS no válido: $GRAB_DAYS"; exit 1 ;;
+          esac
+          npm run grab -- \
+            --channels=custom_channels/tvtv.us.channels.xml \
+            --output=output/tvtv-us.xml \
+            --gzip \
+            --maxConnections=2 \
+            --delay=2000 \
+            --days="$GRAB_DAYS"
+          test -s output/tvtv-us.xml.gz
+          gzip -t output/tvtv-us.xml.gz
+
+      - name: Validate XMLTV before publishing
+        run: python3 validate_tvtv_us.py
+
+      - name: Show lineup report
+        if: always()
+        run: |
+          if [ -f output/tvtv-us-lineup-report.json ]; then
+            cat output/tvtv-us-lineup-report.json
+          fi
+
+      - name: Upload diagnostic reports
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: tvtv-us-diagnostics
+          if-no-files-found: ignore
+          path: |
+            output/tvtv-us-lineup-report.json
+            custom_channels/tvtv.us.channels.xml
+
+      - name: Publish TVTV.us guide without replacing other guides
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p custom-guides
+          cp output/tvtv-us.xml.gz custom-guides/tvtv-us.xml.gz
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add custom-guides/tvtv-us.xml.gz
+
+          if git diff --cached --quiet; then
+            echo "La guía TVTV.us no cambió; no hay nada que publicar."
+            exit 0
+          fi
+
+          git commit -m "Actualizar guía TVTV.us del lineup NY63086"
+
+          for attempt in 1 2 3; do
+            git fetch origin master
+            if git rebase origin/master; then
+              if git push origin HEAD:master; then
+                echo "Publicación correcta (intento $attempt)."
+                exit 0
+              fi
+            else
+              git rebase --abort || true
+              echo "No se pudo rebasar en el intento $attempt."
+            fi
+            sleep 10
+          done
+
+          echo "::error::No se pudo publicar custom-guides/tvtv-us.xml.gz."
+          exit 1
