@@ -1,18 +1,27 @@
+'use strict'
+
 const axios = require('axios')
 
 const DEFAULT_LINEUP_URL = 'https://www.tvtv.us/10080/lineup/luUSA-NY63086-X/'
 const FLARESOLVERR_URL = (process.env.FLARESOLVERR_URL || 'http://localhost:8191').replace(/\/$/, '')
-const transport = axios.create({ timeout: 120000, maxRedirects: 5 })
+const SESSION_ID = `tvtv-us-${process.pid}`
+const transport = axios.create({ timeout: 180000, maxRedirects: 5 })
 
-let clearancePromise = null
+let sessionPromise = null
+let requestQueue = Promise.resolve()
+let cleanupRegistered = false
 
 function lineupUrl() {
   const value = process.env.TVTV_LINEUP_URL || DEFAULT_LINEUP_URL
   const parsed = new URL(value)
-  if (!['tvtv.us', 'www.tvtv.us'].includes(parsed.hostname)) {
-    throw new Error(`TVTV_LINEUP_URL must use tvtv.us; received ${parsed.hostname}`)
-  }
+  assertTvtvHost(parsed)
   return parsed.toString()
+}
+
+function assertTvtvHost(parsed) {
+  if (!['tvtv.us', 'www.tvtv.us'].includes(parsed.hostname)) {
+    throw new Error(`TVTV URL must use tvtv.us; received ${parsed.hostname}`)
+  }
 }
 
 function plainHeaders(headers) {
@@ -20,110 +29,182 @@ function plainHeaders(headers) {
   return typeof headers.toJSON === 'function' ? headers.toJSON() : { ...headers }
 }
 
-async function requestFlareSolverr(url) {
-  const response = await transport.post(
-    `${FLARESOLVERR_URL}/v1`,
-    { cmd: 'request.get', url, maxTimeout: 120000 },
-    { headers: { 'Content-Type': 'application/json' }, timeout: 180000 }
-  )
-
-  const payload = response.data
-  if (!payload || payload.status !== 'ok') {
-    throw new Error(`FlareSolverr failed for ${url}: ${payload && payload.message ? payload.message : 'unknown response'}`)
+function browserHeaders(input = {}) {
+  const headers = {}
+  for (const [name, value] of Object.entries(input)) {
+    const lower = name.toLowerCase()
+    // These are controlled by the FlareSolverr browser/session. Replaying
+    // cookies or a different UA from Node can invalidate Cloudflare clearance.
+    if (['host', 'content-length', 'cookie', 'user-agent', 'connection'].includes(lower)) continue
+    if (value !== undefined && value !== null) headers[name] = String(value)
   }
 
-  const solution = payload.solution || {}
-  const cookies = Array.isArray(solution.cookies) ? solution.cookies : []
-  const userAgent = solution.userAgent || ''
-  const html = solution.response || ''
-
-  if (!cookies.length || !userAgent) {
-    throw new Error('FlareSolverr did not return TVTV clearance cookies and a user-agent')
-  }
-
-  return { cookies, userAgent, html }
+  headers.Accept = headers.Accept || headers.accept || '*/*'
+  headers['Accept-Language'] = headers['Accept-Language'] || headers['accept-language'] || 'en-US,en;q=0.9'
+  headers['HX-Request'] = 'true'
+  headers.Referer = lineupUrl()
+  headers['HX-Current-URL'] = lineupUrl()
+  return headers
 }
 
-function getClearance(targetUrl = lineupUrl()) {
-  if (!clearancePromise) {
-    clearancePromise = requestFlareSolverr(targetUrl).catch(error => {
-      clearancePromise = null
+async function flarePost(payload, timeout = 180000) {
+  let response
+  try {
+    response = await transport.post(`${FLARESOLVERR_URL}/v1`, payload, {
+      headers: { 'Content-Type': 'application/json' },
+      timeout
+    })
+  } catch (error) {
+    const detail = error && error.message ? error.message : String(error)
+    throw new Error(`Cannot contact FlareSolverr at ${FLARESOLVERR_URL}: ${detail}`)
+  }
+
+  const data = response.data
+  if (!data || data.status !== 'ok') {
+    const message = data && data.message ? data.message : 'unknown FlareSolverr response'
+    throw new Error(`FlareSolverr command ${payload.cmd} failed: ${message}`)
+  }
+  return data
+}
+
+async function requestInSession(url, headers = {}, session = SESSION_ID) {
+  const data = await flarePost({
+    cmd: 'request.get',
+    url,
+    session,
+    maxTimeout: 120000,
+    waitInSeconds: 0,
+    headers
+  })
+
+  const solution = data.solution || {}
+  const status = Number(solution.status)
+  const body = typeof solution.response === 'string' ? solution.response : ''
+
+  if (!Number.isFinite(status) || status < 200 || status >= 300) {
+    const snippet = body.replace(/\s+/g, ' ').slice(0, 300)
+    throw new Error(
+      `TVTV.us returned HTTP ${Number.isFinite(status) ? status : 'unknown'} for ${url}. ` +
+      `FlareSolverr response: ${snippet || data.message || 'empty response'}`
+    )
+  }
+
+  if (/cf-chl-|challenge-platform|<title>Just a moment|Attention Required!/i.test(body)) {
+    throw new Error(`TVTV.us returned a Cloudflare challenge instead of page data for ${url}.`)
+  }
+
+  return {
+    body,
+    status,
+    statusText: String(solution.headers && solution.headers.statusText || 'OK'),
+    headers: solution.headers || {}
+  }
+}
+
+async function destroySession() {
+  try {
+    await transport.post(`${FLARESOLVERR_URL}/v1`, {
+      cmd: 'sessions.destroy',
+      session: SESSION_ID
+    }, {
+      headers: { 'Content-Type': 'application/json' },
+      timeout: 15000
+    })
+  } catch (_) {
+    // The Actions service container is temporary; cleanup is best-effort.
+  }
+}
+
+async function createSession() {
+  await flarePost({ cmd: 'sessions.create', session: SESSION_ID })
+
+  const url = lineupUrl()
+  const page = await requestInSession(url, browserHeaders({}), SESSION_ID)
+  if (!page.body.includes('channels-template')) {
+    throw new Error(
+      'TVTV lineup was reached, but template#channels-template was not found. ' +
+      'Cloudflare may still be blocking this runner or TVTV changed its HTML.'
+    )
+  }
+
+  if (!cleanupRegistered) {
+    cleanupRegistered = true
+    process.once('beforeExit', () => {
+      // The pending HTTP request keeps Node alive until FlareSolverr closes it.
+      void destroySession()
+    })
+  }
+
+  return { id: SESSION_ID, lineupHtml: page.body }
+}
+
+function getSession() {
+  if (!sessionPromise) {
+    sessionPromise = createSession().catch(async error => {
+      await destroySession()
+      sessionPromise = null
       throw error
     })
   }
-  return clearancePromise
+  return sessionPromise
 }
 
-function cookieHeader(cookies) {
-  return cookies
-    .filter(cookie => cookie && cookie.name && cookie.value !== undefined)
-    .filter(cookie => !cookie.domain || cookie.domain.includes('tvtv.us'))
-    .map(cookie => `${cookie.name}=${cookie.value}`)
-    .join('; ')
+function serializeSessionRequest(task) {
+  const result = requestQueue.then(task, task)
+  requestQueue = result.catch(() => {})
+  return result
+}
+
+function withParams(url, params) {
+  if (!params || typeof params !== 'object') return url
+  const parsed = new URL(url)
+  for (const [key, value] of Object.entries(params)) {
+    if (value === undefined || value === null) continue
+    if (Array.isArray(value)) {
+      for (const item of value) parsed.searchParams.append(`${key}[]`, String(item))
+    } else {
+      parsed.searchParams.set(key, String(value))
+    }
+  }
+  return parsed.toString()
+}
+
+async function tvtvAxiosAdapter(config) {
+  if (!config || !config.url) throw new Error('TVTV adapter received a request without a URL')
+
+  const parsed = new URL(config.url, config.baseURL)
+  assertTvtvHost(parsed)
+
+  const method = String(config.method || 'get').toLowerCase()
+  if (method !== 'get') {
+    throw new Error(`TVTV FlareSolverr adapter only supports GET requests; received ${method.toUpperCase()}`)
+  }
+
+  const targetUrl = withParams(parsed.toString(), config.params)
+  await getSession()
+
+  // FlareSolverr sessions keep Cloudflare cookies in the same browser context.
+  // Serialize calls so concurrent epg-grabber workers do not navigate the
+  // same persistent browser session simultaneously.
+  const result = await serializeSessionRequest(() =>
+    requestInSession(targetUrl, browserHeaders(plainHeaders(config.headers)), SESSION_ID)
+  )
+
+  return {
+    data: result.body,
+    status: result.status,
+    statusText: result.statusText,
+    headers: result.headers,
+    config,
+    request: null
+  }
 }
 
 async function fetchLineupHtml(url = lineupUrl()) {
   const parsed = new URL(url)
-  if (!['tvtv.us', 'www.tvtv.us'].includes(parsed.hostname)) {
-    throw new Error(`Lineup URL must use tvtv.us; received ${parsed.hostname}`)
-  }
-
-  let clearance = await getClearance(parsed.toString())
-  let html = clearance.html
-
-  // A second FlareSolverr request is a fallback for instances that return
-  // clearance cookies first but omit the SPA body in that same response.
-  if (!html.includes('channels-template')) {
-    clearance = await requestFlareSolverr(parsed.toString())
-    html = clearance.html
-  }
-
-  if (!html.includes('channels-template')) {
-    throw new Error('TVTV page loaded without channels-template. Cloudflare may still be blocking this runner.')
-  }
-
-  return html
-}
-
-async function tvtvAxiosAdapter(config) {
-  const url = config && config.url
-  if (!url) throw new Error('TVTV adapter received a request without a URL')
-  const parsed = new URL(url, config.baseURL)
-  if (!['tvtv.us', 'www.tvtv.us'].includes(parsed.hostname)) {
-    throw new Error(`TVTV adapter refused a non-TVTV URL: ${parsed.hostname}`)
-  }
-
-  const clearance = await getClearance()
-  const originalHeaders = plainHeaders(config.headers)
-  const headers = {
-    ...originalHeaders,
-    'User-Agent': clearance.userAgent,
-    Cookie: cookieHeader(clearance.cookies),
-    'HX-Request': 'true',
-    Referer: lineupUrl(),
-    Accept: originalHeaders.Accept || originalHeaders.accept || '*/*'
-  }
-
-  const response = await transport.request({
-    url: parsed.toString(),
-    method: config.method || 'GET',
-    headers,
-    data: config.data,
-    params: config.params,
-    timeout: config.timeout || 60000,
-    responseType: 'text',
-    responseEncoding: 'utf8',
-    validateStatus: status => status >= 200 && status < 300
-  })
-
-  return {
-    data: response.data,
-    status: response.status,
-    statusText: response.statusText,
-    headers: response.headers,
-    config,
-    request: response.request
-  }
+  assertTvtvHost(parsed)
+  const session = await getSession()
+  return session.lineupHtml
 }
 
 module.exports = {
