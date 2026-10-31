@@ -55,8 +55,24 @@ async function flarePost(payload, timeout = 180000) {
       timeout
     })
   } catch (error) {
+    // Axios throws for non-2xx responses too. Preserve the FlareSolverr
+    // response body so an HTTP 500 is not misreported as a network failure.
+    if (error && error.response) {
+      const status = error.response.status
+      const body = error.response.data
+      let detail = ''
+      if (body && typeof body === 'object') {
+        detail = body.message || JSON.stringify(body)
+      } else if (body !== undefined && body !== null) {
+        detail = String(body)
+      }
+      detail = detail.replace(/\s+/g, ' ').slice(0, 1200)
+      throw new Error(
+        `FlareSolverr HTTP ${status} for ${payload.cmd}: ${detail || error.message}`
+      )
+    }
     const detail = error && error.message ? error.message : String(error)
-    throw new Error(`Cannot contact FlareSolverr at ${FLARESOLVERR_URL}: ${detail}`)
+    throw new Error(`Cannot reach FlareSolverr at ${FLARESOLVERR_URL}: ${detail}`)
   }
 
   const data = response.data
