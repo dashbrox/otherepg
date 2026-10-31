@@ -1,15 +1,56 @@
-HBODrama.us,HBO Drama,hbo-signature-hbo-3--eastern-hd/7099,,9233008160,en
-HBO.us@East,HBO East,,10240,,en
-HBO2.us@East,HBO2 East,,10241,,en
-HBO2.us@West,HBO2 West,,10242,,en
-HBOSignature.us@East,HBO Signature East,,10243,,en
-HBO.us@West,HBO West,,10244,,en
-Showtime2.us@East,Showtime 2 East,,11116,,en
-Starz.us@East,Starz East,,12719,,en
-Starz.us@West,Starz West,,12741,,en
-StarzEncoreClassic.us@East,Starz Encore Classic East,,14764,,en
-StarzEncoreWesterns.us@East,Starz Encore Westerns East,,14765,,en
-StarzEncoreSuspense.us@East,Starz Encore Suspense East,,14766,,en
-StarzEncoreBlack.us@East,Starz Encore Black East,,14870,,en
-StarzEncoreAction.us@East,Starz Encore Action East,,14871,,en
-StarzEncoreFamily.us@East,Starz Encore Family East,,14886,,en
+xmltv_id,name,tvpassport_site_id,tvtv_site_id,tvguide_site_id,lang
+HBO.us,HBO (East),hbo--eastern-feed/614,10240,9200004886,en
+HBO.us@West,HBO West,hbo-west-hd/6425,10244,,en
+HBOHits.us,HBO Hits (ex HBO 2 East),hbo-2--eastern-feed-hd/6313,10241,9233003524,en
+HBOHits.us@West,HBO Hits West (ex HBO 2 West),hbo-2--pacific-feed-hd/6314,10242,,en
+HBOMovies.us@East,HBO Movies East (ex HBO Zone),hbo-zone--east/630,18431,9233009866,en
+HBOMovies.us@West,HBO Movies West (ex HBO Zone),hbo-zone--pacific/2594,18432,,en
+HBOComedy.us,HBO Comedy (East),hbo-comedy-hd--east/7105,18429,9200006981,en
+HBODrama.us,HBO Drama (ex HBO Signature),hbo-signature-hbo-3--eastern-hd/7099,10243,9233008160,en
+HBOLatino.us,HBO Latino,hbo-latino-hbo-7-hd--eastern/7096,,,en
+Cinemax.us@East,Cinemax (East),cinemax--eastern-hd/3567,10120,9233009829,en
+Cinemax.us@West,Cinemax West,cinemax--pacific-feed/1215,12508,,en
+CinemaxHits.us,Cinemax Hits (ex MoreMax),moremax--eastern-hd/7097,10121,9233015766,en
+CinemaxAction.us,Cinemax Action (ex ActionMax),actionmax--eastern-hd/7094,18433,9200016592,en
+CinemaxClassics.us,Cinemax Classics (ex 5StarMax),5-star-max-hd--eastern/7093,25620,9233011931,en
+Starz.us,Starz (East),starz1--east-hd/3613,12719,9233013809,en
+Starz.us@West,Starz West,starz1--west-hd/5895,12741,,en
+StarzEdge.us,Starz Edge (East),starz-edge-hd--eastern/7089,16311,9233011247,en
+StarzComedy.us,Starz Comedy (East),starz-comedy-hd--eastern/7088,34901,9233003558,en
+StarzCinema.us,Starz Cinema (East),starz-cinema-hd--eastern/7087,19634,9233008357,en
+StarzEncore.us,Starz Encore (East),starz-encore--eastern/667,10178,9200009649,en
+StarzEncoreAction.us,Starz Encore Action (East),starz-encore-action-hd--eastern/10812,14871,9233005667,en
+StarzEncoreSuspense.us,Starz Encore Suspense (East),starz-encore-suspense-hd--eastern/11437,14766,9200011866,en
+StarzEncoreFamily.us,Starz Encore Family (East),starz-encore-family-hd--eastern/11441,14886,9200011867,en
+StarzEncoreClassic.us,Starz Encore Classic (East),starz-encore-classic--eastern/2080,14764,9200003144,en
+StarzEncoreBlack.us,Starz Encore Black (East),starz-encore-black-hd--eastern/10814,14870,9200001097,en
+StarzEncoreWesterns.us,Starz Encore Westerns (East),starz-encore-westerns-hd--eastern/11439,14765,9233008131,en
+Showtime2.us@East,Showtime 2 East,showtime-2-hd--eastern/7111,11116,9200018178,en
+ABCEast_WABC.us,ABC (WABC) New York,abc-wabc-new-york-ny-hd/4553,20453,9233011874,en
+ABCKABC.us,ABC (KABC) Los Angeles,abc-kabc-los-angeles-ca-hd/4552,19570,9233011874,en
+NBCEast_WNBC.us,NBC (WNBC) New York,nbc--network-eastern/1227,20459,9233009876,en
+NBCKNBC.us,NBC (KNBC) Los Angeles,nbc-knbc-los-angeles-ca-hd/4558,19568,9233009876,en
+CBSEast_WCBS.us,CBS (WCBS) New York,cbs-wcbs-new-york-ny-hd/4555,16689,9200018514,en
+FoxEast_WNYW.us,FOX (WNYW) New York,fox--eastern/1229,20360,9233002271,en
+CWWPIX.us,CW (WPIX) New York,cw--network-eastern/1231,20373,9233011398,en
+EEntertainmentTelevision.us,E! Entertainment (East),e-entertainment-usa-hd--east/6659,10989,9200012343,en
+Bravo.us,Bravo (East),bravo-usa-hd--eastern-feed/6120,10057,9200002886,en
+Bravo.us@West,Bravo West,bravo-usa-hd--pacific-feed/16226,31555,,en
+TennisChannel.us,Tennis Channel,the-tennis-channel-hd/7051,33395,9200017917,en
+HallmarkChannel.us,Hallmark Channel,hallmark-channel-hd--eastern/6213,11221,9200016034,en
+HallmarkMystery.us,Hallmark Mystery,hallmark-mystery-eastern--hd/6214,61522,9233013351,en
+TSN1.ca,TSN1,tsn1-hd/2819,11182,,en
+TSN2.ca,TSN2,tsn2-hd/5920,18990,,en
+TSN3.ca,TSN3,tsn3-hd/13768,90119,,en
+TSN4.ca,TSN4,tsn4-hd/13769,90122,,en
+TSN5.ca,TSN5,tsn5-hd/13770,90125,,en
+TCM.us@East,TCM,turner-classic-movies-usa-hd/7049,12852,9200017928,en
+CHBCDT2.ca@SD,Global Vernon (CHBC-DT-2),global-chbc-dt-2-vernon-bc/13834,13834,,en
+ChannelI.bd@SD,Channel i,channel-i-bangladesh/14202,14202,,en
+FX.us@East,FX East,fx-networks-east-coast-hd/6111,14321,9200006932,en
+FX.us@West,FX West,fx-networks-west-coast-hd/8989,14753,,en
+Univision.us@West,Univision West (National Feed),univision--pacific-feed-hd/8137,14762,,en
+TBN.us@East,TBN East,tbn--trinity-broadcasting-network-hd--east/8467,14767,,en
+OutdoorChannel.us@SD,Outdoor Channel,outdoor-channel-us-hd/4638,14776,9233003538,en
+TVGuide.us@SD,TV Guide,tv-guide-channel-hd/10018,14781,,en
+IFC.us@East,IFC East,independent-film-channel-us-hd/6215,14873,9200004303,en
