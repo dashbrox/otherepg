@@ -1,2 +1,28 @@
 xmltv_id,name,tvpassport_site_id,tvtv_site_id,tvguide_site_id,lang
 HBODrama.us,HBO Drama,hbo-signature-hbo-3--eastern-hd/7099,10243,9233008160,en
+xmltv_id,name,tvpassport_site_id,tvtv_site_id,tvguide_site_id,lang
+HBODrama.us,HBO Drama,hbo-signature-hbo-3--eastern-hd/7099,,9233008160,en
+HBO.us@East,HBO East,,10240,,en
+HBO2.us@East,HBO2 East,,10241,,en
+HBO2.us@West,HBO2 West,,10242,,en
+HBOSignature.us@East,HBO Signature East,,10243,,en
+HBO.us@West,HBO West,,10244,,en
+Showtime2.us@East,Showtime 2 East,,11116,,en
+Starz.us@East,Starz East,,12719,,en
+Starz.us@West,Starz West,,12741,,en
+TCM.us@East,TCM,,12852,,en
+CHBCDT2.ca@SD,Global Vernon (CHBC-DT-2),,13834,,en
+ChannelI.bd@SD,Channel i,,14202,,en
+FX.us@East,FX East,,14321,,en
+FX.us@West,FX West,,14753,,en
+Univision.us@West,Univision West (National Feed),,14762,,en
+StarzEncoreClassic.us@East,Starz Encore Classic East,,14764,,en
+StarzEncoreWesterns.us@East,Starz Encore Westerns East,,14765,,en
+StarzEncoreSuspense.us@East,Starz Encore Suspense East,,14766,,en
+TBN.us@East,TBN East,,14767,,en
+OutdoorChannel.us@SD,Outdoor Channel,,14776,,en
+TVGuide.us@SD,TV Guide,,14781,,en
+StarzEncoreBlack.us@East,Starz Encore Black East,,14870,,en
+StarzEncoreAction.us@East,Starz Encore Action East,,14871,,en
+IFC.us@East,IFC East,,14873,,en
+StarzEncoreFamily.us@East,Starz Encore Family East,,14886,,en
