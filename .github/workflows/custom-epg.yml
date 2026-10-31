@@ -1,0 +1,80 @@
+name: Generate custom US EPG guides
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 */3 * * *"
+  push:
+    branches:
+      - master
+    paths:
+      - "channels_map.csv"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: epg-custom-guides
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+          ref: ${{ github.ref_name }}
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "npm"
+
+      - name: Instalar dependencias
+        run: npm ci
+
+      - name: Preparar listas personalizadas
+        run: python3 build_custom_lists.py
+
+      - name: Generar guias (tvpassport, tvtv, tvguide)
+        run: bash run_guides.sh
+
+      - name: Validar archivos gzip
+        run: |
+          set -euo pipefail
+          mkdir -p custom-guides
+          ok=1
+          for f in output/tvpassport.xml.gz output/tvtv.xml.gz output/tvguide.xml.gz; do
+            if [ ! -s "$f" ] || ! gzip -t "$f"; then
+              echo "::error::Archivo invalido o vacio: $f"
+              ok=0
+            fi
+          done
+          [ "$ok" -eq 1 ] || exit 1
+          cp output/tvpassport.xml.gz custom-guides/tvpassport.xml.gz
+          cp output/tvtv.xml.gz custom-guides/tvtv.xml.gz
+          cp output/tvguide.xml.gz custom-guides/tvguide.xml.gz
+          ls -lh custom-guides/
+
+      - name: Commit si hubo cambios
+        id: commit_changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          if [ -z "$(git status --porcelain custom-guides)" ]; then
+            echo "Sin cambios en las guias personalizadas."
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            git add custom-guides
+            git commit -m "Actualizar guias EPG personalizadas"
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Push
+        if: steps.commit_changes.outputs.changed == 'true'
+        run: git push origin HEAD:${{ github.ref_name }}
