@@ -1,4 +1,41 @@
 <?xml version='1.0' encoding='utf-8'?>
 <channels>
-  <channel site="tvguide.com" site_id="9233008160" lang="en" xmltv_id="HBODrama.us">HBO Drama</channel>
+  <channel site="tvguide.com" site_id="9200004886" lang="en" xmltv_id="HBO.us">HBO (East)</channel>
+  <channel site="tvguide.com" site_id="9233003524" lang="en" xmltv_id="HBOHits.us">HBO Hits (ex HBO 2 East)</channel>
+  <channel site="tvguide.com" site_id="9233009866" lang="en" xmltv_id="HBOMovies.us@East">HBO Movies East (ex HBO Zone)</channel>
+  <channel site="tvguide.com" site_id="9200006981" lang="en" xmltv_id="HBOComedy.us">HBO Comedy (East)</channel>
+  <channel site="tvguide.com" site_id="9233008160" lang="en" xmltv_id="HBODrama.us">HBO Drama (ex HBO Signature)</channel>
+  <channel site="tvguide.com" site_id="9233009829" lang="en" xmltv_id="Cinemax.us@East">Cinemax (East)</channel>
+  <channel site="tvguide.com" site_id="9233015766" lang="en" xmltv_id="CinemaxHits.us">Cinemax Hits (ex MoreMax)</channel>
+  <channel site="tvguide.com" site_id="9200016592" lang="en" xmltv_id="CinemaxAction.us">Cinemax Action (ex ActionMax)</channel>
+  <channel site="tvguide.com" site_id="9233011931" lang="en" xmltv_id="CinemaxClassics.us">Cinemax Classics (ex 5StarMax)</channel>
+  <channel site="tvguide.com" site_id="9233013809" lang="en" xmltv_id="Starz.us">Starz (East)</channel>
+  <channel site="tvguide.com" site_id="9233011247" lang="en" xmltv_id="StarzEdge.us">Starz Edge (East)</channel>
+  <channel site="tvguide.com" site_id="9233003558" lang="en" xmltv_id="StarzComedy.us">Starz Comedy (East)</channel>
+  <channel site="tvguide.com" site_id="9233008357" lang="en" xmltv_id="StarzCinema.us">Starz Cinema (East)</channel>
+  <channel site="tvguide.com" site_id="9200009649" lang="en" xmltv_id="StarzEncore.us">Starz Encore (East)</channel>
+  <channel site="tvguide.com" site_id="9233005667" lang="en" xmltv_id="StarzEncoreAction.us">Starz Encore Action (East)</channel>
+  <channel site="tvguide.com" site_id="9200011866" lang="en" xmltv_id="StarzEncoreSuspense.us">Starz Encore Suspense (East)</channel>
+  <channel site="tvguide.com" site_id="9200011867" lang="en" xmltv_id="StarzEncoreFamily.us">Starz Encore Family (East)</channel>
+  <channel site="tvguide.com" site_id="9200003144" lang="en" xmltv_id="StarzEncoreClassic.us">Starz Encore Classic (East)</channel>
+  <channel site="tvguide.com" site_id="9200001097" lang="en" xmltv_id="StarzEncoreBlack.us">Starz Encore Black (East)</channel>
+  <channel site="tvguide.com" site_id="9233008131" lang="en" xmltv_id="StarzEncoreWesterns.us">Starz Encore Westerns (East)</channel>
+  <channel site="tvguide.com" site_id="9200018178" lang="en" xmltv_id="Showtime2.us@East">Showtime 2 East</channel>
+  <channel site="tvguide.com" site_id="9233011874" lang="en" xmltv_id="ABCEast_WABC.us">ABC (WABC) New York</channel>
+  <channel site="tvguide.com" site_id="9233011874" lang="en" xmltv_id="ABCKABC.us">ABC (KABC) Los Angeles</channel>
+  <channel site="tvguide.com" site_id="9233009876" lang="en" xmltv_id="NBCEast_WNBC.us">NBC (WNBC) New York</channel>
+  <channel site="tvguide.com" site_id="9233009876" lang="en" xmltv_id="NBCKNBC.us">NBC (KNBC) Los Angeles</channel>
+  <channel site="tvguide.com" site_id="9200018514" lang="en" xmltv_id="CBSEast_WCBS.us">CBS (WCBS) New York</channel>
+  <channel site="tvguide.com" site_id="9233002271" lang="en" xmltv_id="FoxEast_WNYW.us">FOX (WNYW) New York</channel>
+  <channel site="tvguide.com" site_id="9233011398" lang="en" xmltv_id="CWWPIX.us">CW (WPIX) New York</channel>
+  <channel site="tvguide.com" site_id="9200012343" lang="en" xmltv_id="EEntertainmentTelevision.us">E! Entertainment (East)</channel>
+  <channel site="tvguide.com" site_id="9200002886" lang="en" xmltv_id="Bravo.us">Bravo (East)</channel>
+  <channel site="tvguide.com" site_id="9200017917" lang="en" xmltv_id="TennisChannel.us">Tennis Channel</channel>
+  <channel site="tvguide.com" site_id="9200016034" lang="en" xmltv_id="HallmarkChannel.us">Hallmark Channel</channel>
+  <channel site="tvguide.com" site_id="9233013351" lang="en" xmltv_id="HallmarkMystery.us">Hallmark Mystery</channel>
+  <channel site="tvguide.com" site_id="9200017928" lang="en" xmltv_id="TCM.us@East">TCM</channel>
+  <channel site="tvguide.com" site_id="9200006932" lang="en" xmltv_id="FX.us@East">FX East</channel>
+  <channel site="tvguide.com" site_id="9233003538" lang="en" xmltv_id="OutdoorChannel.us@SD">Outdoor Channel</channel>
+  <channel site="tvguide.com" site_id="9200004303" lang="en" xmltv_id="IFC.us@East">IFC East</channel>
+  <channel site="tvguide.com" site_id="9200014754" lang="en" xmltv_id="MTV.us">MTV (East)</channel>
 </channels>

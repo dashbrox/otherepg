@@ -45,8 +45,8 @@ TSN3.ca,TSN3,tsn3-hd/13768,90119,,en
 TSN4.ca,TSN4,tsn4-hd/13769,90122,,en
 TSN5.ca,TSN5,tsn5-hd/13770,90125,,en
 TCM.us@East,TCM,turner-classic-movies-usa-hd/7049,12852,9200017928,en
-CHBCDT2.ca@SD,Global Vernon (CHBC-DT-2),global-chbc-dt-2-vernon-bc/13834,13834,,en
-ChannelI.bd@SD,Channel i,channel-i-bangladesh/14202,14202,,en
+CHBCDT2.ca@SD,Global Vernon (CHBC-DT-2),global-chbc-dt-2-vernon-bc/13834,,,en
+ChannelI.bd@SD,Channel i,channel-i-bangladesh/14202,,,en
 FX.us@East,FX East,fx-networks-east-coast-hd/6111,14321,9200006932,en
 FX.us@West,FX West,fx-networks-west-coast-hd/8989,14753,,en
 Univision.us@West,Univision West (National Feed),univision--pacific-feed-hd/8137,14762,,en
@@ -54,3 +54,11 @@ TBN.us@East,TBN East,tbn--trinity-broadcasting-network-hd--east/8467,14767,,en
 OutdoorChannel.us@SD,Outdoor Channel,outdoor-channel-us-hd/4638,14776,9233003538,en
 TVGuide.us@SD,TV Guide,tv-guide-channel-hd/10018,14781,,en
 IFC.us@East,IFC East,independent-film-channel-us-hd/6215,14873,9200004303,en
+MTV.us,MTV (East),mtv-usa-hd--eastern/4525,10986,9200014754,en
+HBO.mx,HBO Latinoamérica (Este),hbo-east-panamerica/34316,,,es
+HBOPlus.mx,HBO Plus México,hbo-plus-mexico/33257,,,es
+HBOSignature.mx,HBO Signature Panamericano,hbo-signature-pan-americano/31995,,,es
+HBOFamily.mx,HBO Family Panamericano (Español),hbo-family-panamericano--spanish/32933,32933,,es
+HBOMundi.mx,HBO Mundi México,hbo-mundi-mexico/32897,,,es
+HBOXtreme.mx,HBO Xtreme Latam,hbo-xtreme-latam/8866,,,es
+HBOPop.mx,HBO Pop México,hbo-pop-mexico/33194,,,es

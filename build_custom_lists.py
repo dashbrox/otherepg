@@ -22,7 +22,10 @@ OUT_DIR = ROOT / "custom_channels"
 
 SOURCES = {
     "tvpassport": {"site": "tvpassport.com", "column": "tvpassport_site_id"},
-    "tvtv": {"site": "tvtv.us", "column": "tvtv_site_id"},
+    # tvtv.us murió (API JSON eliminada en jul-2026, iptv-org/epg#3187).
+    # tvtv.ca sirve horarios de EE.UU. y de Canadá con la misma base de IDs:
+    # un solo sitio para todas las filas con tvtv_site_id.
+    "tvtv": {"site": "tvtv.ca", "column": "tvtv_site_id", "out": "tvtv.ca.channels.xml"},
     "tvguide": {"site": "tvguide.com", "column": "tvguide_site_id"},
 }
 
@@ -85,7 +88,7 @@ def write_source_file(source_key: str, source: dict[str, str], rows: list[dict[s
 
     tree = ET.ElementTree(channels)
     ET.indent(tree, space="  ")
-    output_path = OUT_DIR / f"{source_key}.channels.xml"
+    output_path = OUT_DIR / source.get("out", f"{source_key}.channels.xml")
     tree.write(output_path, encoding="utf-8", xml_declaration=True)
     return included, missing
 
@@ -106,7 +109,7 @@ def main() -> int:
         print(f"{source['site']}: {included} canal(es) incluidos")
         if missing:
             print("  Sin ID configurado para esta fuente: " + ", ".join(missing))
-        print(f"  Archivo: custom_channels/{key}.channels.xml")
+        print(f"  Archivo: custom_channels/{source.get('out', f'{key}.channels.xml')}")
 
     print(f"\nTotal de entradas generadas entre las tres fuentes: {total}")
     print("Importante: revisa que los site_id de cada fila correspondan al canal deseado.")

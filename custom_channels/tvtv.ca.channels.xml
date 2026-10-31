@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<channels>
+  <channel site="tvtv.ca" site_id="10240" lang="en" xmltv_id="HBO.us">HBO (East)</channel>
+  <channel site="tvtv.ca" site_id="10244" lang="en" xmltv_id="HBO.us@West">HBO West</channel>
+  <channel site="tvtv.ca" site_id="10241" lang="en" xmltv_id="HBOHits.us">HBO Hits (ex HBO 2 East)</channel>
+  <channel site="tvtv.ca" site_id="10242" lang="en" xmltv_id="HBOHits.us@West">HBO Hits West (ex HBO 2 West)</channel>
+  <channel site="tvtv.ca" site_id="18431" lang="en" xmltv_id="HBOMovies.us@East">HBO Movies East (ex HBO Zone)</channel>
+  <channel site="tvtv.ca" site_id="18432" lang="en" xmltv_id="HBOMovies.us@West">HBO Movies West (ex HBO Zone)</channel>
+  <channel site="tvtv.ca" site_id="18429" lang="en" xmltv_id="HBOComedy.us">HBO Comedy (East)</channel>
+  <channel site="tvtv.ca" site_id="10243" lang="en" xmltv_id="HBODrama.us">HBO Drama (ex HBO Signature)</channel>
+  <channel site="tvtv.ca" site_id="10120" lang="en" xmltv_id="Cinemax.us@East">Cinemax (East)</channel>
+  <channel site="tvtv.ca" site_id="12508" lang="en" xmltv_id="Cinemax.us@West">Cinemax West</channel>
+  <channel site="tvtv.ca" site_id="10121" lang="en" xmltv_id="CinemaxHits.us">Cinemax Hits (ex MoreMax)</channel>
+  <channel site="tvtv.ca" site_id="18433" lang="en" xmltv_id="CinemaxAction.us">Cinemax Action (ex ActionMax)</channel>
+  <channel site="tvtv.ca" site_id="25620" lang="en" xmltv_id="CinemaxClassics.us">Cinemax Classics (ex 5StarMax)</channel>
+  <channel site="tvtv.ca" site_id="12719" lang="en" xmltv_id="Starz.us">Starz (East)</channel>
+  <channel site="tvtv.ca" site_id="12741" lang="en" xmltv_id="Starz.us@West">Starz West</channel>
+  <channel site="tvtv.ca" site_id="16311" lang="en" xmltv_id="StarzEdge.us">Starz Edge (East)</channel>
+  <channel site="tvtv.ca" site_id="34901" lang="en" xmltv_id="StarzComedy.us">Starz Comedy (East)</channel>
+  <channel site="tvtv.ca" site_id="19634" lang="en" xmltv_id="StarzCinema.us">Starz Cinema (East)</channel>
+  <channel site="tvtv.ca" site_id="10178" lang="en" xmltv_id="StarzEncore.us">Starz Encore (East)</channel>
+  <channel site="tvtv.ca" site_id="14871" lang="en" xmltv_id="StarzEncoreAction.us">Starz Encore Action (East)</channel>
+  <channel site="tvtv.ca" site_id="14766" lang="en" xmltv_id="StarzEncoreSuspense.us">Starz Encore Suspense (East)</channel>
+  <channel site="tvtv.ca" site_id="14886" lang="en" xmltv_id="StarzEncoreFamily.us">Starz Encore Family (East)</channel>
+  <channel site="tvtv.ca" site_id="14764" lang="en" xmltv_id="StarzEncoreClassic.us">Starz Encore Classic (East)</channel>
+  <channel site="tvtv.ca" site_id="14870" lang="en" xmltv_id="StarzEncoreBlack.us">Starz Encore Black (East)</channel>
+  <channel site="tvtv.ca" site_id="14765" lang="en" xmltv_id="StarzEncoreWesterns.us">Starz Encore Westerns (East)</channel>
+  <channel site="tvtv.ca" site_id="11116" lang="en" xmltv_id="Showtime2.us@East">Showtime 2 East</channel>
+  <channel site="tvtv.ca" site_id="20453" lang="en" xmltv_id="ABCEast_WABC.us">ABC (WABC) New York</channel>
+  <channel site="tvtv.ca" site_id="19570" lang="en" xmltv_id="ABCKABC.us">ABC (KABC) Los Angeles</channel>
+  <channel site="tvtv.ca" site_id="20459" lang="en" xmltv_id="NBCEast_WNBC.us">NBC (WNBC) New York</channel>
+  <channel site="tvtv.ca" site_id="19568" lang="en" xmltv_id="NBCKNBC.us">NBC (KNBC) Los Angeles</channel>
+  <channel site="tvtv.ca" site_id="16689" lang="en" xmltv_id="CBSEast_WCBS.us">CBS (WCBS) New York</channel>
+  <channel site="tvtv.ca" site_id="20360" lang="en" xmltv_id="FoxEast_WNYW.us">FOX (WNYW) New York</channel>
+  <channel site="tvtv.ca" site_id="20373" lang="en" xmltv_id="CWWPIX.us">CW (WPIX) New York</channel>
+  <channel site="tvtv.ca" site_id="10989" lang="en" xmltv_id="EEntertainmentTelevision.us">E! Entertainment (East)</channel>
+  <channel site="tvtv.ca" site_id="10057" lang="en" xmltv_id="Bravo.us">Bravo (East)</channel>
+  <channel site="tvtv.ca" site_id="31555" lang="en" xmltv_id="Bravo.us@West">Bravo West</channel>
+  <channel site="tvtv.ca" site_id="33395" lang="en" xmltv_id="TennisChannel.us">Tennis Channel</channel>
+  <channel site="tvtv.ca" site_id="11221" lang="en" xmltv_id="HallmarkChannel.us">Hallmark Channel</channel>
+  <channel site="tvtv.ca" site_id="61522" lang="en" xmltv_id="HallmarkMystery.us">Hallmark Mystery</channel>
+  <channel site="tvtv.ca" site_id="11182" lang="en" xmltv_id="TSN1.ca">TSN1</channel>
+  <channel site="tvtv.ca" site_id="18990" lang="en" xmltv_id="TSN2.ca">TSN2</channel>
+  <channel site="tvtv.ca" site_id="90119" lang="en" xmltv_id="TSN3.ca">TSN3</channel>
+  <channel site="tvtv.ca" site_id="90122" lang="en" xmltv_id="TSN4.ca">TSN4</channel>
+  <channel site="tvtv.ca" site_id="90125" lang="en" xmltv_id="TSN5.ca">TSN5</channel>
+  <channel site="tvtv.ca" site_id="12852" lang="en" xmltv_id="TCM.us@East">TCM</channel>
+  <channel site="tvtv.ca" site_id="14321" lang="en" xmltv_id="FX.us@East">FX East</channel>
+  <channel site="tvtv.ca" site_id="14753" lang="en" xmltv_id="FX.us@West">FX West</channel>
+  <channel site="tvtv.ca" site_id="14762" lang="en" xmltv_id="Univision.us@West">Univision West (National Feed)</channel>
+  <channel site="tvtv.ca" site_id="14767" lang="en" xmltv_id="TBN.us@East">TBN East</channel>
+  <channel site="tvtv.ca" site_id="14776" lang="en" xmltv_id="OutdoorChannel.us@SD">Outdoor Channel</channel>
+  <channel site="tvtv.ca" site_id="14781" lang="en" xmltv_id="TVGuide.us@SD">TV Guide</channel>
+  <channel site="tvtv.ca" site_id="14873" lang="en" xmltv_id="IFC.us@East">IFC East</channel>
+  <channel site="tvtv.ca" site_id="10986" lang="en" xmltv_id="MTV.us">MTV (East)</channel>
+  <channel site="tvtv.ca" site_id="32933" lang="es" xmltv_id="HBOFamily.mx">HBO Family Panamericano (Español)</channel>
+</channels>

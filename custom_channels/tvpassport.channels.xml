@@ -1,4 +1,66 @@
 <?xml version='1.0' encoding='utf-8'?>
 <channels>
-  <channel site="tvpassport.com" site_id="hbo-signature-hbo-3--eastern-hd/7099" lang="en" xmltv_id="HBODrama.us">HBO Drama</channel>
+  <channel site="tvpassport.com" site_id="hbo--eastern-feed/614" lang="en" xmltv_id="HBO.us">HBO (East)</channel>
+  <channel site="tvpassport.com" site_id="hbo-west-hd/6425" lang="en" xmltv_id="HBO.us@West">HBO West</channel>
+  <channel site="tvpassport.com" site_id="hbo-2--eastern-feed-hd/6313" lang="en" xmltv_id="HBOHits.us">HBO Hits (ex HBO 2 East)</channel>
+  <channel site="tvpassport.com" site_id="hbo-2--pacific-feed-hd/6314" lang="en" xmltv_id="HBOHits.us@West">HBO Hits West (ex HBO 2 West)</channel>
+  <channel site="tvpassport.com" site_id="hbo-zone--east/630" lang="en" xmltv_id="HBOMovies.us@East">HBO Movies East (ex HBO Zone)</channel>
+  <channel site="tvpassport.com" site_id="hbo-zone--pacific/2594" lang="en" xmltv_id="HBOMovies.us@West">HBO Movies West (ex HBO Zone)</channel>
+  <channel site="tvpassport.com" site_id="hbo-comedy-hd--east/7105" lang="en" xmltv_id="HBOComedy.us">HBO Comedy (East)</channel>
+  <channel site="tvpassport.com" site_id="hbo-signature-hbo-3--eastern-hd/7099" lang="en" xmltv_id="HBODrama.us">HBO Drama (ex HBO Signature)</channel>
+  <channel site="tvpassport.com" site_id="hbo-latino-hbo-7-hd--eastern/7096" lang="en" xmltv_id="HBOLatino.us">HBO Latino</channel>
+  <channel site="tvpassport.com" site_id="cinemax--eastern-hd/3567" lang="en" xmltv_id="Cinemax.us@East">Cinemax (East)</channel>
+  <channel site="tvpassport.com" site_id="cinemax--pacific-feed/1215" lang="en" xmltv_id="Cinemax.us@West">Cinemax West</channel>
+  <channel site="tvpassport.com" site_id="moremax--eastern-hd/7097" lang="en" xmltv_id="CinemaxHits.us">Cinemax Hits (ex MoreMax)</channel>
+  <channel site="tvpassport.com" site_id="actionmax--eastern-hd/7094" lang="en" xmltv_id="CinemaxAction.us">Cinemax Action (ex ActionMax)</channel>
+  <channel site="tvpassport.com" site_id="5-star-max-hd--eastern/7093" lang="en" xmltv_id="CinemaxClassics.us">Cinemax Classics (ex 5StarMax)</channel>
+  <channel site="tvpassport.com" site_id="starz1--east-hd/3613" lang="en" xmltv_id="Starz.us">Starz (East)</channel>
+  <channel site="tvpassport.com" site_id="starz1--west-hd/5895" lang="en" xmltv_id="Starz.us@West">Starz West</channel>
+  <channel site="tvpassport.com" site_id="starz-edge-hd--eastern/7089" lang="en" xmltv_id="StarzEdge.us">Starz Edge (East)</channel>
+  <channel site="tvpassport.com" site_id="starz-comedy-hd--eastern/7088" lang="en" xmltv_id="StarzComedy.us">Starz Comedy (East)</channel>
+  <channel site="tvpassport.com" site_id="starz-cinema-hd--eastern/7087" lang="en" xmltv_id="StarzCinema.us">Starz Cinema (East)</channel>
+  <channel site="tvpassport.com" site_id="starz-encore--eastern/667" lang="en" xmltv_id="StarzEncore.us">Starz Encore (East)</channel>
+  <channel site="tvpassport.com" site_id="starz-encore-action-hd--eastern/10812" lang="en" xmltv_id="StarzEncoreAction.us">Starz Encore Action (East)</channel>
+  <channel site="tvpassport.com" site_id="starz-encore-suspense-hd--eastern/11437" lang="en" xmltv_id="StarzEncoreSuspense.us">Starz Encore Suspense (East)</channel>
+  <channel site="tvpassport.com" site_id="starz-encore-family-hd--eastern/11441" lang="en" xmltv_id="StarzEncoreFamily.us">Starz Encore Family (East)</channel>
+  <channel site="tvpassport.com" site_id="starz-encore-classic--eastern/2080" lang="en" xmltv_id="StarzEncoreClassic.us">Starz Encore Classic (East)</channel>
+  <channel site="tvpassport.com" site_id="starz-encore-black-hd--eastern/10814" lang="en" xmltv_id="StarzEncoreBlack.us">Starz Encore Black (East)</channel>
+  <channel site="tvpassport.com" site_id="starz-encore-westerns-hd--eastern/11439" lang="en" xmltv_id="StarzEncoreWesterns.us">Starz Encore Westerns (East)</channel>
+  <channel site="tvpassport.com" site_id="showtime-2-hd--eastern/7111" lang="en" xmltv_id="Showtime2.us@East">Showtime 2 East</channel>
+  <channel site="tvpassport.com" site_id="abc-wabc-new-york-ny-hd/4553" lang="en" xmltv_id="ABCEast_WABC.us">ABC (WABC) New York</channel>
+  <channel site="tvpassport.com" site_id="abc-kabc-los-angeles-ca-hd/4552" lang="en" xmltv_id="ABCKABC.us">ABC (KABC) Los Angeles</channel>
+  <channel site="tvpassport.com" site_id="nbc--network-eastern/1227" lang="en" xmltv_id="NBCEast_WNBC.us">NBC (WNBC) New York</channel>
+  <channel site="tvpassport.com" site_id="nbc-knbc-los-angeles-ca-hd/4558" lang="en" xmltv_id="NBCKNBC.us">NBC (KNBC) Los Angeles</channel>
+  <channel site="tvpassport.com" site_id="cbs-wcbs-new-york-ny-hd/4555" lang="en" xmltv_id="CBSEast_WCBS.us">CBS (WCBS) New York</channel>
+  <channel site="tvpassport.com" site_id="fox--eastern/1229" lang="en" xmltv_id="FoxEast_WNYW.us">FOX (WNYW) New York</channel>
+  <channel site="tvpassport.com" site_id="cw--network-eastern/1231" lang="en" xmltv_id="CWWPIX.us">CW (WPIX) New York</channel>
+  <channel site="tvpassport.com" site_id="e-entertainment-usa-hd--east/6659" lang="en" xmltv_id="EEntertainmentTelevision.us">E! Entertainment (East)</channel>
+  <channel site="tvpassport.com" site_id="bravo-usa-hd--eastern-feed/6120" lang="en" xmltv_id="Bravo.us">Bravo (East)</channel>
+  <channel site="tvpassport.com" site_id="bravo-usa-hd--pacific-feed/16226" lang="en" xmltv_id="Bravo.us@West">Bravo West</channel>
+  <channel site="tvpassport.com" site_id="the-tennis-channel-hd/7051" lang="en" xmltv_id="TennisChannel.us">Tennis Channel</channel>
+  <channel site="tvpassport.com" site_id="hallmark-channel-hd--eastern/6213" lang="en" xmltv_id="HallmarkChannel.us">Hallmark Channel</channel>
+  <channel site="tvpassport.com" site_id="hallmark-mystery-eastern--hd/6214" lang="en" xmltv_id="HallmarkMystery.us">Hallmark Mystery</channel>
+  <channel site="tvpassport.com" site_id="tsn1-hd/2819" lang="en" xmltv_id="TSN1.ca">TSN1</channel>
+  <channel site="tvpassport.com" site_id="tsn2-hd/5920" lang="en" xmltv_id="TSN2.ca">TSN2</channel>
+  <channel site="tvpassport.com" site_id="tsn3-hd/13768" lang="en" xmltv_id="TSN3.ca">TSN3</channel>
+  <channel site="tvpassport.com" site_id="tsn4-hd/13769" lang="en" xmltv_id="TSN4.ca">TSN4</channel>
+  <channel site="tvpassport.com" site_id="tsn5-hd/13770" lang="en" xmltv_id="TSN5.ca">TSN5</channel>
+  <channel site="tvpassport.com" site_id="turner-classic-movies-usa-hd/7049" lang="en" xmltv_id="TCM.us@East">TCM</channel>
+  <channel site="tvpassport.com" site_id="global-chbc-dt-2-vernon-bc/13834" lang="en" xmltv_id="CHBCDT2.ca@SD">Global Vernon (CHBC-DT-2)</channel>
+  <channel site="tvpassport.com" site_id="channel-i-bangladesh/14202" lang="en" xmltv_id="ChannelI.bd@SD">Channel i</channel>
+  <channel site="tvpassport.com" site_id="fx-networks-east-coast-hd/6111" lang="en" xmltv_id="FX.us@East">FX East</channel>
+  <channel site="tvpassport.com" site_id="fx-networks-west-coast-hd/8989" lang="en" xmltv_id="FX.us@West">FX West</channel>
+  <channel site="tvpassport.com" site_id="univision--pacific-feed-hd/8137" lang="en" xmltv_id="Univision.us@West">Univision West (National Feed)</channel>
+  <channel site="tvpassport.com" site_id="tbn--trinity-broadcasting-network-hd--east/8467" lang="en" xmltv_id="TBN.us@East">TBN East</channel>
+  <channel site="tvpassport.com" site_id="outdoor-channel-us-hd/4638" lang="en" xmltv_id="OutdoorChannel.us@SD">Outdoor Channel</channel>
+  <channel site="tvpassport.com" site_id="tv-guide-channel-hd/10018" lang="en" xmltv_id="TVGuide.us@SD">TV Guide</channel>
+  <channel site="tvpassport.com" site_id="independent-film-channel-us-hd/6215" lang="en" xmltv_id="IFC.us@East">IFC East</channel>
+  <channel site="tvpassport.com" site_id="mtv-usa-hd--eastern/4525" lang="en" xmltv_id="MTV.us">MTV (East)</channel>
+  <channel site="tvpassport.com" site_id="hbo-east-panamerica/34316" lang="es" xmltv_id="HBO.mx">HBO Latinoamérica (Este)</channel>
+  <channel site="tvpassport.com" site_id="hbo-plus-mexico/33257" lang="es" xmltv_id="HBOPlus.mx">HBO Plus México</channel>
+  <channel site="tvpassport.com" site_id="hbo-signature-pan-americano/31995" lang="es" xmltv_id="HBOSignature.mx">HBO Signature Panamericano</channel>
+  <channel site="tvpassport.com" site_id="hbo-family-panamericano--spanish/32933" lang="es" xmltv_id="HBOFamily.mx">HBO Family Panamericano (Español)</channel>
+  <channel site="tvpassport.com" site_id="hbo-mundi-mexico/32897" lang="es" xmltv_id="HBOMundi.mx">HBO Mundi México</channel>
+  <channel site="tvpassport.com" site_id="hbo-xtreme-latam/8866" lang="es" xmltv_id="HBOXtreme.mx">HBO Xtreme Latam</channel>
+  <channel site="tvpassport.com" site_id="hbo-pop-mexico/33194" lang="es" xmltv_id="HBOPop.mx">HBO Pop México</channel>
 </channels>
