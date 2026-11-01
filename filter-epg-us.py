@@ -27,6 +27,7 @@ CHANNELS = [
     "StarzComedy.us",
     "StarzEncoreSuspense.us",
     "StarzEncoreFamilyPacific.us",
+    "StarzKidsPacific.us",
     "HBO.us",
     "HBOLatino.us",
     "HBOHits.us",
