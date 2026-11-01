@@ -106,6 +106,11 @@ CHANNELS = [
     "TelemundoWSCV.us",
     "TennisTV247.us",
     "Showtime2.us",
+    "Paramount+withShowtime.us",
+    "ShowtimeExtreme.us",
+    "ShowtimeFamilyzone.us",
+    "ShowtimeNext.us",
+    "ShowtimeShowcase.us",
 ]
 
 
