@@ -163,6 +163,7 @@
   <channel site="gatotv.com" site_id="golden_mexico" lang="es" xmltv_id="">Golden México</channel>
   <channel site="gatotv.com" site_id="golden_mpx" lang="es" xmltv_id="">Golden MPX</channel>
   <channel site="gatotv.com" site_id="golden_panregional" lang="es" xmltv_id="">Golden Panregional</channel>
+  <channel site="gatotv.com" site_id="golden_premier" lang="es" xmltv_id="">Golden Premier</channel>
   <channel site="gatotv.com" site_id="hbo_chile" lang="es" xmltv_id="">HBO Chile</channel>
   <channel site="gatotv.com" site_id="hbo_plus" lang="es" xmltv_id="">HBO Plus</channel>
   <channel site="gatotv.com" site_id="history_2_panregional" lang="es" xmltv_id="">History 2 Panregional</channel>
