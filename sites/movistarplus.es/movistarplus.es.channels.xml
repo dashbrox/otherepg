@@ -159,6 +159,7 @@
   <channel site="movistarplus.es" site_id="realm" lang="es" xmltv_id="">Real Madrid TV</channel>
   <channel site="movistarplus.es" site_id="red" lang="es" xmltv_id="">Canal RED</channel>
   <channel site="movistarplus.es" site_id="sci-fi" lang="es" xmltv_id="">SciFi</channel>
+  <channel site="movistarplus.es" site_id="septim" lang="es" xmltv_id="">La Séptima</channel>
   <channel site="movistarplus.es" site_id="set" lang="es" xmltv_id="">AXN Movies</channel>
   <channel site="movistarplus.es" site_id="sexta" lang="es" xmltv_id="">La Sexta</channel>
   <channel site="movistarplus.es" site_id="skynw" lang="es" xmltv_id="">Sky News</channel>
