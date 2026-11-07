@@ -109,6 +109,7 @@
   <channel site="gatotv.com" site_id="e_entertainment_television_chile" lang="es" xmltv_id="">E! Entertainment Television Chile</channel>
   <channel site="gatotv.com" site_id="e_entertainment_television_panregional" lang="es" xmltv_id="">E! Entertainment Television Panregional</channel>
   <channel site="gatotv.com" site_id="ecuador_tv" lang="es" xmltv_id="">Ecuador TV</channel>
+  <channel site="gatotv.com" site_id="ecuavisa_ecuador" lang="es" xmltv_id="">Ecuavisa Ecuador</channel>
   <channel site="gatotv.com" site_id="el_financiero_tv" lang="es" xmltv_id="">El Financiero TV</channel>
   <channel site="gatotv.com" site_id="elgourmet" lang="es" xmltv_id="">Elgourmet</channel>
   <channel site="gatotv.com" site_id="enlace" lang="es" xmltv_id="">TBN</channel>
@@ -158,6 +159,7 @@
   <channel site="gatotv.com" site_id="fx_centro" lang="es" xmltv_id="">FX Centro</channel>
   <channel site="gatotv.com" site_id="fx_chile" lang="es" xmltv_id="">FX Chile</channel>
   <channel site="gatotv.com" site_id="galicia_tv" lang="es" xmltv_id="">Galicia TV</channel>
+  <channel site="gatotv.com" site_id="gamavision" lang="es" xmltv_id="">Gamavisión</channel>
   <channel site="gatotv.com" site_id="gol_play_espana" lang="es" xmltv_id="">Gol Play España</channel>
   <channel site="gatotv.com" site_id="golden_edge" lang="es" xmltv_id="">Golden Edge</channel>
   <channel site="gatotv.com" site_id="golden_mexico" lang="es" xmltv_id="">Golden México</channel>
@@ -205,6 +207,7 @@
   <channel site="gatotv.com" site_id="rcn_novelas" lang="es" xmltv_id="">RCN Novelas</channel>
   <channel site="gatotv.com" site_id="rcn_nuestra_tele_internacional" lang="es" xmltv_id="">RCN Internacional</channel>
   <channel site="gatotv.com" site_id="region_mas" lang="es" xmltv_id="">Región+</channel>
+  <channel site="gatotv.com" site_id="rts" lang="es" xmltv_id="">RTS</channel>
   <channel site="gatotv.com" site_id="semillitas" lang="es" xmltv_id="">Semillitas</channel>
   <channel site="gatotv.com" site_id="senal_colombia" lang="es" xmltv_id="">Señal Colombia</channel>
   <channel site="gatotv.com" site_id="sky_one_mexico" lang="es" xmltv_id="">Sky One México</channel>
