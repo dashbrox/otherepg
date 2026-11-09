@@ -367,7 +367,6 @@
   <channel site="sky.com" site_id="1056" lang="en" xmltv_id="SkyCrime.ie@SD">Sky Crime</channel>
   <channel site="sky.com" site_id="1212" lang="en" xmltv_id="SkyCrime.uk@HD">Sky Crime HD</channel>
   <channel site="sky.com" site_id="2207" lang="en" xmltv_id="SkyCrime.uk@SD">Sky Crime</channel>
-  <channel site="sky.com" site_id="1230" lang="en" xmltv_id="SkyDocumentaries.ie@SD">SkyDocumntrs</channel>
   <channel site="sky.com" site_id="1136" lang="en" xmltv_id="SkyDocumentaries.uk@HD">SkyDocmntrsHD</channel>
   <channel site="sky.com" site_id="1127" lang="en" xmltv_id="SkyDocumentaries.uk@SD">SkyDocumntrs</channel>
   <channel site="sky.com" site_id="1879" lang="en" xmltv_id="SkyHistory2.uk@SD">MysteryX</channel>
@@ -377,7 +376,6 @@
   <channel site="sky.com" site_id="1401" lang="en" xmltv_id="SkyMax.ie@SD">Sky One</channel>
   <channel site="sky.com" site_id="4061" lang="en" xmltv_id="SkyMax.uk@HD">Sky One HD</channel>
   <channel site="sky.com" site_id="1402" lang="en" xmltv_id="SkyMax.uk@SD">Sky One</channel>
-  <channel site="sky.com" site_id="3052" lang="en" xmltv_id="SkyMix.ie@HD">Sky Mix HD</channel>
   <channel site="sky.com" site_id="1831" lang="en" xmltv_id="SkyMix.uk@HD">Sky Mix HD</channel>
   <channel site="sky.com" site_id="1165" lang="en" xmltv_id="SkyNature.uk@HD">Sky Nature HD</channel>
   <channel site="sky.com" site_id="1194" lang="en" xmltv_id="SkyNature.uk@SD">Sky Nature</channel>
