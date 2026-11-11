@@ -56,6 +56,7 @@
   <channel site="sky.com" site_id="4163" lang="en" xmltv_id="">EWTN Catholic</channel>
   <channel site="sky.com" site_id="4604" lang="en" xmltv_id="">Euronews</channel>
   <channel site="sky.com" site_id="4611" lang="en" xmltv_id="">LEGEND</channel>
+  <channel site="sky.com" site_id="6765" lang="en" xmltv_id="">Ahlebait TV</channel>
   <channel site="sky.com" site_id="3150" lang="en" xmltv_id="4seven.uk@SD">4seven</channel>
   <channel site="sky.com" site_id="1036" lang="en" xmltv_id="5Action.uk@SD">5ACTION</channel>
   <channel site="sky.com" site_id="3028" lang="en" xmltv_id="5SELECT.uk@SD">5DRAMA</channel>
@@ -263,7 +264,6 @@
   <channel site="sky.com" site_id="3026" lang="en" xmltv_id="ITVBe.uk@HD">ITV Quiz HD</channel>
   <channel site="sky.com" site_id="3354" lang="en" xmltv_id="JewelleryMaker.uk@SD">JewelleryMaker</channel>
   <channel site="sky.com" site_id="3753" lang="en" xmltv_id="KanshiTV.uk@SD">Kanshi TV</channel>
-  <channel site="sky.com" site_id="3731" lang="en" xmltv_id="KWSMLD3.us@SD">NTD</channel>
   <channel site="sky.com" site_id="4610" lang="en" xmltv_id="Legend.uk@SD">LEGEND</channel>
   <channel site="sky.com" site_id="3845" lang="en" xmltv_id="LFCTV.uk@SD">LFCTV HD</channel>
   <channel site="sky.com" site_id="1228" lang="en" xmltv_id="LoveWorldUK.ng@SD">LoveWorld HD</channel>
@@ -354,7 +354,7 @@
   <channel site="sky.com" site_id="4016" lang="en" xmltv_id="SkyCinemaDrama.uk@HD">Sky Drama HD</channel>
   <channel site="sky.com" site_id="4018" lang="en" xmltv_id="SkyCinemaFamily.uk@HD">Sky Family HD</channel>
   <channel site="sky.com" site_id="4015" lang="en" xmltv_id="SkyCinemaGreats.uk@SD">Sky Greats HD</channel>
-  <channel site="sky.com" site_id="4033" lang="en" xmltv_id="SkyCinemaHits.uk@SD">Sky Mad Max HD</channel>
+  <channel site="sky.com" site_id="4033" lang="en" xmltv_id="SkyCinemaHits.uk@SD">TheMummyHD</channel>
   <channel site="sky.com" site_id="4021" lang="en" xmltv_id="SkyCinemaPremiere.uk@HD">SkyPremiereHD</channel>
   <channel site="sky.com" site_id="4017" lang="en" xmltv_id="SkyCinemaSciFiHorror.uk@HD">Sky ScFi/HorHD</channel>
   <channel site="sky.com" site_id="4020" lang="en" xmltv_id="SkyCinemaSelect.uk@SD">Sky Christmas HD</channel>
